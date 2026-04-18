@@ -32,6 +32,7 @@
 - [x] Entrée **Ratatoskr** — écureuil-messager parcourant l'arbre-monde, porteur de paroles envenimées entre l'aigle et le dragon
 - [x] Entrée **Hræsvelgr** — géant-aigle siégeant à l'extrémité nord du ciel, origine cosmique des vents par le battement de ses ailes
 - [x] Entrée **Geri et Freki** — couple de loups familiers du chef des dieux, recevant sa nourriture dans la grande salle, compagnons guerriers
+- [x] Entrée **Huginn et Muninn** — couple de corbeaux (Pensée et Mémoire) parcourant le monde entier chaque jour pour rapporter au chef des dieux ce qu'ils ont vu et entendu
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
