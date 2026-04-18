@@ -20,6 +20,14 @@
 - Si Fenrir validé : lancement du recensement exhaustif de la tradition nordique
 - Workflow prévu : subagents pour recherche parallèle + rédaction séquentielle
 
+### 2026-04-18 — Session 2 : Production autonome (loop dynamique)
+
+**Accompli :**
+- [x] Entrée **Jörmungandr** — serpent-monde cosmique, frère de Fenrir, adversaire destinal du dieu du tonnerre
+
+**En cours :**
+- Production autonome via /loop, créature par itération, ordre priorité nordique
+
 ## DÉCISIONS STRATÉGIQUES PRISES
 
 1. **Projet archivé** : les 149 créatures précédentes (Bestiaire Interdit Vol.1 + Vol.2) sont conservées comme *Volume Fantasy* séparé, non-intégrées au projet rigoureux.
