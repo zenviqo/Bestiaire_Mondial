@@ -30,6 +30,7 @@
 - [x] Entrée **Sköll** — loup céleste fils de Fenrir, poursuiveur du soleil, annonciateur de l'hiver terminal
 - [x] Entrée **Hati** — loup céleste fils de Fenrir, poursuiveur de la lune, possiblement identique à Mánagarmr, dévoreur des mourants
 - [x] Entrée **Ratatoskr** — écureuil-messager parcourant l'arbre-monde, porteur de paroles envenimées entre l'aigle et le dragon
+- [x] Entrée **Hræsvelgr** — géant-aigle siégeant à l'extrémité nord du ciel, origine cosmique des vents par le battement de ses ailes
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
