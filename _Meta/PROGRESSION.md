@@ -43,6 +43,7 @@
 - [x] Entrée **Andvari** — nain gardien d'un trésor sous sa cascade, métamorphe en brochet, dépouillé par Loki et lanceur de la malédiction qui frappera Fáfnir, Regin et Sigurðr
 - [x] Entrée **Fjalar et Galar** — deux nains meurtriers assassins de Kvasir, créateurs de l'hydromel de la poésie par mélange du sang et du miel dans les trois récipients Óðrœrir, Són, Boðn
 - [x] Entrée **Alvíss** — nain omniscient venu réclamer la fille du dieu du tonnerre, piégé par un interrogatoire lexical jusqu'à l'aube pétrifiante
+- [x] Entrée **Fáfnir** — nain parricide transformé en ver-dragon par avidité, gardien du trésor maudit d'Andvari, tué par Sigurðr caché dans une fosse
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
