@@ -31,6 +31,7 @@
 - [x] Entrée **Hati** — loup céleste fils de Fenrir, poursuiveur de la lune, possiblement identique à Mánagarmr, dévoreur des mourants
 - [x] Entrée **Ratatoskr** — écureuil-messager parcourant l'arbre-monde, porteur de paroles envenimées entre l'aigle et le dragon
 - [x] Entrée **Hræsvelgr** — géant-aigle siégeant à l'extrémité nord du ciel, origine cosmique des vents par le battement de ses ailes
+- [x] Entrée **Geri et Freki** — couple de loups familiers du chef des dieux, recevant sa nourriture dans la grande salle, compagnons guerriers
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
