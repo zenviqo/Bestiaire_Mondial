@@ -26,6 +26,7 @@
 - [x] Entrée **Jörmungandr** — serpent-monde cosmique, frère de Fenrir, adversaire destinal du dieu du tonnerre
 - [x] Entrée **Níðhöggr** — dragon rongeur à la racine de l'arbre-monde, dévoreur des parjures, survivant post-apocalyptique
 - [x] Entrée **Sleipnir** — cheval gris à huit jambes du chef des dieux, fils du dieu fourbe et de l'étalon Svaðilfari, monture passe-mondes
+- [x] Entrée **Garmr** — chien-molosse au poitrail sanglant gardant la porte du royaume des morts, adversaire destinal du dieu à la main unique
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
