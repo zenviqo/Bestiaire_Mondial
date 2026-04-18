@@ -42,6 +42,7 @@
 - [x] Entrée **Fils d'Ivaldi** — groupe anonyme de nains-forgerons créateurs des trois premiers trésors (chevelure d'or de Sif, navire Skíðblaðnir, lance Gungnir), vaincus au concours par Brokkr et Sindri
 - [x] Entrée **Andvari** — nain gardien d'un trésor sous sa cascade, métamorphe en brochet, dépouillé par Loki et lanceur de la malédiction qui frappera Fáfnir, Regin et Sigurðr
 - [x] Entrée **Fjalar et Galar** — deux nains meurtriers assassins de Kvasir, créateurs de l'hydromel de la poésie par mélange du sang et du miel dans les trois récipients Óðrœrir, Són, Boðn
+- [x] Entrée **Alvíss** — nain omniscient venu réclamer la fille du dieu du tonnerre, piégé par un interrogatoire lexical jusqu'à l'aube pétrifiante
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
