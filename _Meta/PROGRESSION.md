@@ -28,6 +28,7 @@
 - [x] Entrée **Sleipnir** — cheval gris à huit jambes du chef des dieux, fils du dieu fourbe et de l'étalon Svaðilfari, monture passe-mondes
 - [x] Entrée **Garmr** — chien-molosse au poitrail sanglant gardant la porte du royaume des morts, adversaire destinal du dieu à la main unique
 - [x] Entrée **Sköll** — loup céleste fils de Fenrir, poursuiveur du soleil, annonciateur de l'hiver terminal
+- [x] Entrée **Hati** — loup céleste fils de Fenrir, poursuiveur de la lune, possiblement identique à Mánagarmr, dévoreur des mourants
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
