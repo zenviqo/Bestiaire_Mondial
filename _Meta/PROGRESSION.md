@@ -38,6 +38,7 @@
 - [x] Entrée **Tanngrisnir et Tanngnjóstr** — les deux boucs cosmiques tirant le char du dieu du tonnerre, sacrifiés et ressuscités par le marteau divin, auteurs physiques du tonnerre
 - [x] Entrée **Svartálfar** — elfes noirs/sombres habitant Svartálfheim, artisans souterrains forgerons des trésors divins (identification contestée avec les nains)
 - [x] Entrée **Ljósálfar** — elfes de lumière plus beaux que le soleil, habitant Álfheim dans les hauteurs célestes, associés à la fertilité et à la guérison
+- [x] Entrée **Brokkr et Sindri** — les deux nains-forgerons créateurs des trois grands trésors divins : Gullinbursti, Draupnir et Mjölnir (avec son manche court)
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
