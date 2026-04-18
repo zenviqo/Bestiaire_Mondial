@@ -1,0 +1,34 @@
+# PROGRESSION DU PROJET
+
+## LOG DES SESSIONS
+
+### 2026-04-18 — Session 1 : Fondation
+
+**Accompli :**
+- [x] Création de la structure de dossiers
+- [x] Rédaction du README.md (vision, objectifs, modèle commercial)
+- [x] Rédaction de METHODOLOGIE.md (règles non-négociables, structure standard, hiérarchie des sources)
+- [x] Rédaction de INDEX_MONDIAL.md (suivi global)
+- [ ] Recherche rigoureuse sur Fenrir (en cours via agent)
+- [ ] Rédaction de l'entrée test Fenrir
+- [ ] Validation utilisateur du standard
+
+**En attente de validation utilisateur :**
+- Entrée Fenrir — définira le niveau de qualité pour toutes les entrées suivantes
+
+**Prochaines sessions prévues :**
+- Si Fenrir validé : lancement du recensement exhaustif de la tradition nordique
+- Workflow prévu : subagents pour recherche parallèle + rédaction séquentielle
+
+## DÉCISIONS STRATÉGIQUES PRISES
+
+1. **Projet archivé** : les 149 créatures précédentes (Bestiaire Interdit Vol.1 + Vol.2) sont conservées comme *Volume Fantasy* séparé, non-intégrées au projet rigoureux.
+2. **Ordre des traditions** : Nordique en premier (corpus fini, sources accessibles, point d'ancrage méthodologique).
+3. **Structure base de données** : chaque créature = un fichier .md avec frontmatter YAML pour métadonnées indexables.
+4. **Niveau de certitude** : système d'étiquetage (🟢🟡🟠🔴⚫) pour signaler la fiabilité de chaque affirmation.
+
+## QUESTIONS OUVERTES
+
+- Faut-il développer un outil de cross-reference automatique entre entrées ?
+- Faut-il créer dès maintenant une version base de données (SQLite/JSON) en parallèle des .md ?
+- À quel moment commencer à générer les illustrations (après validation textuelle d'une tradition complète ? ou en parallèle ?)
