@@ -39,6 +39,7 @@
 - [x] Entrée **Svartálfar** — elfes noirs/sombres habitant Svartálfheim, artisans souterrains forgerons des trésors divins (identification contestée avec les nains)
 - [x] Entrée **Ljósálfar** — elfes de lumière plus beaux que le soleil, habitant Álfheim dans les hauteurs célestes, associés à la fertilité et à la guérison
 - [x] Entrée **Brokkr et Sindri** — les deux nains-forgerons créateurs des trois grands trésors divins : Gullinbursti, Draupnir et Mjölnir (avec son manche court)
+- [x] Entrée **Fils d'Ivaldi** — groupe anonyme de nains-forgerons créateurs des trois premiers trésors (chevelure d'or de Sif, navire Skíðblaðnir, lance Gungnir), vaincus au concours par Brokkr et Sindri
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
