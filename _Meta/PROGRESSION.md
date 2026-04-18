@@ -35,6 +35,7 @@
 - [x] Entrée **Huginn et Muninn** — couple de corbeaux (Pensée et Mémoire) parcourant le monde entier chaque jour pour rapporter au chef des dieux ce qu'ils ont vu et entendu
 - [x] Entrée **Auðumbla** — vache primordiale née du vide originel, nourricière du premier géant par quatre rivières de lait, révélatrice du grand-père des dieux par son léchage patient
 - [x] Entrée **Veðrfölnir** — faucon pâli par les tempêtes, perché entre les yeux de l'aigle au sommet de l'arbre-monde, présence contemplative muette
+- [x] Entrée **Tanngrisnir et Tanngnjóstr** — les deux boucs cosmiques tirant le char du dieu du tonnerre, sacrifiés et ressuscités par le marteau divin, auteurs physiques du tonnerre
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
