@@ -44,6 +44,7 @@
 - [x] Entrée **Fjalar et Galar** — deux nains meurtriers assassins de Kvasir, créateurs de l'hydromel de la poésie par mélange du sang et du miel dans les trois récipients Óðrœrir, Són, Boðn
 - [x] Entrée **Alvíss** — nain omniscient venu réclamer la fille du dieu du tonnerre, piégé par un interrogatoire lexical jusqu'à l'aube pétrifiante
 - [x] Entrée **Fáfnir** — nain parricide transformé en ver-dragon par avidité, gardien du trésor maudit d'Andvari, tué par Sigurðr caché dans une fosse
+- [x] Entrée **Regin** — nain-forgeron frère de Fáfnir, précepteur de Sigurðr, forgeur de l'épée Gramr, décapité par son élève après trahison révélée par les oiseaux
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
