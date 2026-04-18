@@ -24,6 +24,7 @@
 
 **Accompli :**
 - [x] Entrée **Jörmungandr** — serpent-monde cosmique, frère de Fenrir, adversaire destinal du dieu du tonnerre
+- [x] Entrée **Níðhöggr** — dragon rongeur à la racine de l'arbre-monde, dévoreur des parjures, survivant post-apocalyptique
 
 **En cours :**
 - Production autonome via /loop, créature par itération, ordre priorité nordique
