@@ -61,3 +61,23 @@
 - Faut-il développer un outil de cross-reference automatique entre entrées ?
 - Faut-il créer dès maintenant une version base de données (SQLite/JSON) en parallèle des .md ?
 - À quel moment commencer à générer les illustrations (après validation textuelle d'une tradition complète ? ou en parallèle ?)
+
+### 2026-04-19 — Session 2 : Production massive parallèle (tradition nordique)
+
+**Accompli en vagues d'agents parallèles :**
+- Vague 1 (10 agents × 10) : 74 créatures ajoutées (géants, Nornes, valkyries, nains du Dvergatal, animaux, folklore)
+- Vague 2 (3 agents × 8-9) : 26 créatures complémentaires
+- Vague 3 (3 agents × 10) : 30 créatures supplémentaires (Dvergatal complet, faune marine, folklore islandais)
+
+**Total tradition nordique : 153 créatures validées** — corpus core essentiellement complet.
+
+### 2026-04-19 — Session 3 : Passage à la tradition celtique et britannique
+
+**Setup initial accompli :**
+- Création 02_Celtique/ structure
+- Rédaction 02_Celtique/README.md (présentation de la tradition, sous-traditions, spécificités méthodologiques)
+- Rédaction 02_Celtique/INDEX.md (liste priorisée de ~200 créatures, 4 phases de rédaction)
+
+**À venir :**
+- Rédaction entrée modèle de qualité : Morrígan (figure de référence pour cette tradition)
+- Lancement vagues d'agents parallèles pour production massive
