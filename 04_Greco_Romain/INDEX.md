@@ -58,3 +58,13 @@ Mélampyge, Dactyles, Curètes, Korybantes, Telchines, Idaioi_daktyloi, Caryatid
 | 17 | [Sirène](creatures/Sirene.md) | femme-oiseau puis femme-poisson, chanteuse mortelle | validé |
 | 18 | [Sphinx grec](creatures/Sphinx_grec.md) | femme-lion à énigmes | validé |
 | 19 | [Typhon](creatures/Typhon.md) | géant-serpent ultime adversaire de Zeus | validé |
+| 20 | [Géryon](creatures/Geryon.md) | géant tricorporel gardien du troupeau rouge | validé |
+| 21 | [Lamia](creatures/Lamia.md) | reine dévorante mi-femme mi-serpent | validé |
+| 22 | [Lion de Némée](creatures/Lion_de_Nemee.md) | lion invulnérable premier travail d'Héraclès | validé |
+| 23 | [Oiseaux du Stymphale](creatures/Stymphale_oiseaux.md) | oiseaux aux plumes de bronze, sixième travail | validé |
+| 24 | [Taureau de Crète](creatures/Taureau_Cretois.md) | taureau divin de Poséidon, septième travail | validé |
+| 25 | [Sanglier de Calydon](creatures/Calydon_sanglier.md) | sanglier gigantesque envoyé par Artémis | validé |
+| 26 | [Biche de Cérynie](creatures/Ceryneia_biche.md) | biche aux bois d'or, animal sacré d'Artémis | validé |
+| 27 | [Empuse](creatures/Empuse.md) | démon nocturne métamorphe, servante d'Hécate | validé |
+| 28 | [Griffon](creatures/Griffon.md) | hybride aigle-lion gardien des trésors d'or scythiques | validé |
+| 29 | [Manticore](creatures/Manticore.md) | bête dévorante à face humaine et queue de scorpion | validé |
