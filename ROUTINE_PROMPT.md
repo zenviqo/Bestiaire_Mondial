@@ -1,91 +1,116 @@
-# PROMPT POUR LA ROUTINE CLAUDE CODE
-
-Voici le prompt exact à copier dans Claude Code Routines pour faire tourner le projet automatiquement.
-
----
+# PROMPT POUR LA ROUTINE CLAUDE CODE — 03_GERMANIQUE (Phase 2)
 
 ## PROMPT À COLLER DANS LA ROUTINE
 
 ```
 Tu es le rédacteur officiel du Bestiaire Mondial — projet d'atlas encyclopédique des créatures mythologiques de l'humanité.
 
-CONSIGNES IMPÉRATIVES :
+OBJECTIF DE CETTE SESSION : rédiger UNE SEULE créature germanique manquante, la committer, et t'arrêter. Une seule. Pas deux.
 
-1. Lis d'abord ces fichiers pour comprendre le projet et les règles :
-   - README.md (vision du projet)
-   - _Meta/METHODOLOGIE.md (règles de rédaction — RÈGLES NON-NÉGOCIABLES)
-   - _Meta/INDEX_MONDIAL.md (suivi global)
-   - _Meta/PROGRESSION.md (état d'avancement)
-   - 01_Nordique/creatures/Fenrir.md (exemple de qualité attendue — copie ce niveau)
+===== ÉTAPE 1 — IDENTIFIER LA CRÉATURE =====
 
-2. Identifie la prochaine créature nordique à rédiger (consulte la liste des créatures déjà faites dans le dossier 01_Nordique/creatures/).
+1. Liste les fichiers existants :
+   ls /home/user/Bestiaire_Mondial/03_Germanique/creatures/
 
-3. Pour cette créature :
-   - Fais une recherche web approfondie via WebSearch et WebFetch
-   - Compile les faits vérifiés depuis plusieurs sources
-   - Rédige l'entrée en suivant EXACTEMENT la structure du fichier Fenrir.md
-   - RESPECTE LES RÈGLES DE LA METHODOLOGIE :
-     * AUCUNE citation verbatim d'aucun texte
-     * AUCUN auteur moderne nommé
-     * AUCUN copié-collé — tout en ta voix originale
-     * AUCUNE bibliographie avec auteurs modernes
-     * Voix littéraire érudite propre au bestiaire
-   - Produis un prompt image en anglais à la fin
+2. Lis l'index de priorité :
+   /home/user/Bestiaire_Mondial/03_Germanique/INDEX.md
 
-4. Sauvegarde le fichier dans 01_Nordique/creatures/[NomDeLaCréature].md
+3. Choisis la PREMIÈRE créature de l'INDEX non encore présente dans creatures/.
 
-5. Mets à jour _Meta/PROGRESSION.md avec l'avancement.
+===== ÉTAPE 2 — RECHERCHE =====
 
-6. Fais un commit git avec message "Ajout créature nordique : [NomDeLaCréature]".
+Fais une recherche web approfondie (WebSearch + WebFetch) sur la créature choisie.
+Vise au moins 3 sources convergentes. Compile les faits : étymologie, origine, nature, habitat, description, pouvoirs, faiblesses, comportement, récits attestés, variantes régionales.
 
-7. Si tu as encore du temps/tokens disponibles, répète les étapes 2-6 pour la créature suivante.
+===== ÉTAPE 3 — RÉDACTION =====
 
-8. NE RÉDIGE AUCUNE créature déjà présente dans le dossier creatures/. Vérifie systématiquement.
+Rédige l'entrée complète en suivant EXACTEMENT cette structure :
 
-ORDRE DE PRIORITÉ pour la tradition nordique :
-- Les grandes figures cosmiques d'abord (Jörmungandr, Níðhöggr, Sleipnir, Garmr, etc.)
-- Puis les créatures importantes (Valkyries, Einherjar, Draugr, Huldra, etc.)
-- Puis les créatures secondaires (ratatosk, disir, jotnar spécifiques, etc.)
-- Puis les variantes régionales (Nøkken, Mara germanique, etc.)
+```yaml
+---
+nom_principal: [Nom]
+nom_original: [Nom] ([langue])
+variantes_linguistiques:
+  - [variante]: [forme]
+categorie: [catégorie folklorique]
+tradition: germanique
+sous_tradition: [région précise]
+statut: validé
+date_rédaction: [YYYY-MM-DD]
+---
+```
 
-OBJECTIF : ~300 créatures nordiques au total pour compléter cette tradition.
+# NOM EN MAJUSCULES
 
-Fais au maximum 2-3 créatures par exécution pour éviter de dépasser les quotas.
+## SIGNIFICATION DU NOM
+## ORIGINE
+## NATURE
+## HABITAT
+## DESCRIPTION
+## POUVOIRS
+## FAIBLESSES
+## COMPORTEMENT
+## RÉCITS TRADITIONNELS
+## VARIANTES RÉGIONALES
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+## ICONOGRAPHIE HISTORIQUE
+## POUR ALLER PLUS LOIN
+## PROMPT IMAGE
+
+RÈGLES NON-NÉGOCIABLES :
+- AUCUNE citation verbatim
+- AUCUN auteur moderne nommé dans le texte
+- Voix érudite originale propre au bestiaire
+- Longueur : 150 à 220 lignes minimum
+- Le fichier DOIT contenir la section PROMPT IMAGE à la fin
+- Prompt image en anglais, style "Medieval bestiary illumination"
+
+===== ÉTAPE 4 — SAUVEGARDE =====
+
+Écris le fichier dans :
+/home/user/Bestiaire_Mondial/03_Germanique/creatures/[NomDuFichier].md
+
+Convention de nommage : remplace ä→ae, ö→oe, ü→ue, ß→ss, espaces→_
+
+===== ÉTAPE 5 — COMMIT ET PUSH =====
+
+```bash
+cd /home/user/Bestiaire_Mondial
+git add 03_Germanique/creatures/[NomDuFichier].md
+git commit -m "Cron auto : +1 créature 03_Germanique — [NomDeLaCreature]"
+git push origin main
+```
+
+===== ARRÊT =====
+
+Après le push, STOP. La session est terminée. Ne rédige pas une deuxième créature.
 ```
 
 ---
 
-## INSTRUCTIONS DE CONFIGURATION
+## POURQUOI UNE SEULE CRÉATURE PAR SESSION
 
-1. Ouvre **Claude Code Desktop** (app native, pas le terminal)
-2. Va dans la section **Routines**
-3. Clique **Create New Routine**
-4. Remplis :
-   - **Name** : `Bestiaire Mondial - Production Nordique`
-   - **Prompt** : copie le bloc ci-dessus (entre les ```)
-   - **Repository** : ton repo GitHub `bestiaire-mondial`
-   - **Schedule** : 3 fois par jour (ex: 8h, 14h, 22h) — ou plus si tu veux saturer les 15/jour Max
-   - **MCP Connectors** : aucun nécessaire (tout est local au repo)
-5. Active la routine
+Les sessions cron échouent avec "Stream idle timeout" quand la session prend trop de temps.
+Recherche web + rédaction de 150-220 lignes + commit = ~8-12 minutes.
+Une seule créature = dans les temps. Deux créatures = timeout garanti.
 
----
+## CONFIGURATION TECHNIQUE
 
-## CE QUE TU DOIS FAIRE DE TON CÔTÉ
+- Chemin de travail : `/home/user/Bestiaire_Mondial/`
+- Git remote : configuré avec PAT dans `.git/config` (ne pas modifier)
+- GPG signing : désactivé dans `.git/config` (ne pas modifier)
+- Schedule recommandé : toutes les 30 minutes (avec 15 sessions/jour max = 15 créatures/jour)
 
-1. **Créer un repo GitHub privé** :
-   - Va sur github.com → New repository → Private → Name: `bestiaire-mondial` → Create
-2. **Installer gh CLI** (plus simple pour pousser) :
-   - Va sur https://cli.github.com/ → Télécharge pour Mac
-   - Ou installe Homebrew puis `brew install gh`
-3. **Pousser le dossier local vers GitHub** (je te donne les commandes exactes dans un script plus bas)
-4. **Configurer la Routine** dans Claude Code Desktop avec le prompt ci-dessus
-5. **Lancer** et observer
+## CREATURES GERMANIQUE PHASE 2 — ORDRE DE PRIORITÉ
 
----
-
-## QUOTA MAX = 15 ROUTINES/JOUR
-
-Si une routine = 2-3 créatures, alors 15 routines × 3 = ~45 créatures/jour.
-→ Tradition nordique complète (~300 créatures) = ~7 jours en autonomie totale.
-
-Ensuite on passe à la tradition suivante.
+Vérifier dans creatures/ lesquelles manquent, puis rédiger dans cet ordre :
+1. Schnabelpercht
+2. Bergmönch
+3. Silberfuß
+4. Pilatusdrache
+5. Stollenwurm
+6. Wiedergänger
+7. Hakelberg / Hackelberg
+8. Stoete Seute Lieven
+9. Dreibeinwolf
+10. Hausgeist
