@@ -1,6 +1,6 @@
 # INDEX MONDIAL — BESTIAIRE
 
-Dernière mise à jour : 2026-04-18
+Dernière mise à jour : 2026-04-22
 
 ## STATISTIQUES GLOBALES
 
@@ -9,7 +9,7 @@ Dernière mise à jour : 2026-04-18
 | Nordique | 1 | 0 | ~300 | ~300 |
 | Celtique | 0 | 0 | ~200 | ~200 |
 | Germanique | 0 | 0 | ~150 | ~150 |
-| Gréco-romain | 0 | 0 | ~400 | ~400 |
+| Gréco-romain | 1 | 19 | ~381 | ~400 |
 | Slave | 0 | 0 | ~250 | ~250 |
 | Mésopotamien/Persan | 0 | 0 | ~150 | ~150 |
 | Sémitique | 0 | 0 | ~100 | ~100 |

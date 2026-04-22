@@ -81,3 +81,10 @@
 **À venir :**
 - Rédaction entrée modèle de qualité : Morrígan (figure de référence pour cette tradition)
 - Lancement vagues d'agents parallèles pour production massive
+
+### 2026-04-22 — Session de reprise : /loop autonome, tradition gréco-romaine
+
+**Accompli :**
+- [x] Entrée **Cyclope** — triple tradition (primordiaux hésiodiques Brontès/Stéropès/Argès forgerons de la foudre, pasteurs homériques Polyphème, bâtisseurs cyclopéens de Tirynthe/Mycènes), libération du Tartare, Galatée-Acis, aveuglement par Ulysse, mort par flèches d'Apollon
+
+**Total 04_Greco_Romain : 19 créatures validées**
