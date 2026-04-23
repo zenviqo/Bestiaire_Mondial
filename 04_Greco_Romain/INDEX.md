@@ -68,3 +68,7 @@ Mélampyge, Dactyles, Curètes, Korybantes, Telchines, Idaioi_daktyloi, Caryatid
 | 27 | [Empuse](creatures/Empuse.md) | démon nocturne métamorphe, servante d'Hécate | validé |
 | 28 | [Griffon](creatures/Griffon.md) | hybride aigle-lion gardien des trésors d'or scythiques | validé |
 | 29 | [Manticore](creatures/Manticore.md) | bête dévorante à face humaine et queue de scorpion | validé |
+| 30 | [Sanglier d'Érymanthe](creatures/Sanglier_Erymanthe.md) | sanglier colossal d'Arcadie, quatrième travail d'Héraclès | validé |
+| 31 | [Pan](creatures/Pan.md) | dieu hybride mi-homme mi-bouc des pâturages et des forêts | validé |
+| 32 | [Naïades](creatures/Naiades.md) | nymphes des eaux douces, gardiennes des sources et rivières | validé |
+| 33 | [Circé](creatures/Circe.md) | magicienne divine aux métamorphoses, fille d'Hélios | validé |
