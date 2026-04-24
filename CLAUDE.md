@@ -17,11 +17,13 @@ Rédige exactement **1 créature** par session, puis commite et pushe. Ensuite a
 
 Ne tente jamais d'en faire 2 ou 3. Une seule créature de qualité vaut mieux que deux timeouts.
 
+**Longueur cible : 100-130 lignes.** Sections concises mais complètes. Au-delà de 150 lignes le stream timeout survient systématiquement. Priorité à la densité d'information, pas à la longueur.
+
 ## RÈGLE N°3 — PROCÉDURE DE SESSION
 
 1. `ls /home/user/Bestiaire_Mondial/03_Germanique/creatures/` — voir ce qui existe
 2. `cat /home/user/Bestiaire_Mondial/03_Germanique/INDEX.md` — trouver la première manquante
-3. Rédiger le fichier de 150-220 lignes depuis ta connaissance (SANS WebSearch)
+3. Rédiger le fichier de 100-130 lignes depuis ta connaissance (SANS WebSearch)
 4. Sauvegarder dans `/home/user/Bestiaire_Mondial/03_Germanique/creatures/[Nom].md`
 5. `git add` + `git commit` + `git push origin main`
 6. Stop.
