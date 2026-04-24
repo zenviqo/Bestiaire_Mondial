@@ -234,8 +234,29 @@ function openM(tradDir, c) {
   curCreature = {tradDir: tradDir, slug: c.slug, nom: c.nom, categorie: c.categorie};
   document.getElementById('mdt').textContent = c.nom;
   document.getElementById('vr').style.display = 'none';
-  document.getElementById('mdtxt').textContent = 'Nom : ' + c.nom + '\nCatégorie : ' + (c.categorie || '—') + '\nStatut : ' + (c.statut || '—') + '\nDate : ' + (c.date || '—') + '\n\nFichier : ' + tradDir + '/creatures/' + c.slug + '.md';
+  document.getElementById('mdtxt').textContent = 'Chargement...';
   document.getElementById('mo').classList.add('on');
+  var url = tradDir + '/creatures/' + c.slug + '.md';
+  fetch(url)
+    .then(function(r) { return r.ok ? r.text() : Promise.reject(r.status); })
+    .then(function(txt) {
+      var lines = txt.split('\n');
+      var out = [];
+      var inFront = false, frontDone = false, count = 0;
+      for (var i = 0; i < lines.length; i++) {
+        var l = lines[i];
+        if (i === 0 && l.trim() === '---') { inFront = true; continue; }
+        if (inFront && l.trim() === '---') { inFront = false; frontDone = true; continue; }
+        if (inFront) continue;
+        out.push(l);
+        count++;
+        if (count > 300) { out.push('...'); break; }
+      }
+      document.getElementById('mdtxt').textContent = out.join('\n').trim();
+    })
+    .catch(function() {
+      document.getElementById('mdtxt').textContent = 'Nom : ' + c.nom + '\nCatégorie : ' + (c.categorie || '—') + '\nStatut : ' + (c.statut || '—') + '\nDate : ' + (c.date || '—');
+    });
 }
 
 function closeM() { document.getElementById('mo').classList.remove('on'); curCreature = null; }
