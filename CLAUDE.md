@@ -11,7 +11,20 @@ Les recherches web provoquent des pauses silencieuses de 60-90 secondes qui entr
 
 Rédige uniquement depuis ta connaissance du folklore et de la mythologie. Pour les créatures germaniques, nordiques, celtiques, slaves et gréco-romaines, ta connaissance intégrée est suffisante et fiable.
 
-## RÈGLE N°2 — UNE SEULE CRÉATURE PAR SESSION
+## RÈGLE N°2 — DROITS ET AUTHENTICITÉ FOLKLORIQUE
+
+**N'inclure que des créatures du folklore anonyme.**
+
+Une créature est valide si elle préexistait à tout auteur identifiable — elle circulait dans la tradition orale avant qu'on écrive dessus. Peu importe qu'un auteur ait écrit dessus ensuite (Grimm, Wagner, etc.) : si la créature existait avant, elle est OK.
+
+Une créature est invalide si elle a été **inventée de toutes pièces** par un auteur, un film ou un jeu vidéo identifiable — même si elle semble "folklorique". Inclure ce type de créature crée un risque de droits et trahit la mission du Bestiaire.
+
+**Exemples invalides :** Lorelei (inventée par Brentano 1801), Erlkönig (Goethe 1782 basé sur une erreur de traduction).
+**Exemples valides :** Drache, Nixe, Werwolf, Krampus, Perchta — folklore oral anonyme attesté depuis des siècles.
+
+En cas de doute, ne pas écrire la créature et passer à la suivante.
+
+## RÈGLE N°3 — UNE SEULE CRÉATURE PAR SESSION
 
 Rédige exactement **1 créature** par session, puis commite et pushe. Ensuite arrête-toi.
 
@@ -19,7 +32,7 @@ Ne tente jamais d'en faire 2 ou 3. Une seule créature de qualité vaut mieux qu
 
 **Longueur cible : 100-130 lignes.** Sections concises mais complètes. Au-delà de 150 lignes le stream timeout survient systématiquement. Priorité à la densité d'information, pas à la longueur.
 
-## RÈGLE N°3 — PROCÉDURE DE SESSION
+## RÈGLE N°4 — PROCÉDURE DE SESSION
 
 1. `ls /home/user/Bestiaire_Mondial/03_Germanique/creatures/` — voir ce qui existe
 2. `cat /home/user/Bestiaire_Mondial/03_Germanique/INDEX.md` — trouver la première manquante
@@ -28,7 +41,7 @@ Ne tente jamais d'en faire 2 ou 3. Une seule créature de qualité vaut mieux qu
 5. `git add` + `git commit` + `git push origin main`
 6. Stop.
 
-## RÈGLE N°4 — STRUCTURE OBLIGATOIRE
+## RÈGLE N°5 — STRUCTURE OBLIGATOIRE
 
 Chaque fichier doit contenir dans l'ordre :
 - Frontmatter YAML (nom_principal, nom_original, variantes_linguistiques, categorie, tradition, sous_tradition, statut, date_rédaction)
@@ -48,7 +61,7 @@ Chaque fichier doit contenir dans l'ordre :
 - `## POUR ALLER PLUS LOIN`
 - `## PROMPT IMAGE` ← obligatoire, en anglais, style "Medieval bestiary illumination"
 
-## RÈGLE N°5 — CONVENTION DE NOMMAGE DES FICHIERS
+## RÈGLE N°6 — CONVENTION DE NOMMAGE DES FICHIERS
 
 - ä → ae (Hämmerling → Haemmerling)
 - ö → oe (Mönch → Moench)
@@ -57,7 +70,7 @@ Chaque fichier doit contenir dans l'ordre :
 - espaces → _
 - accents et caractères spéciaux supprimés
 
-## RÈGLE N°6 — GIT
+## RÈGLE N°7 — GIT
 
 Le git est configuré avec PAT dans `.git/config`. GPG signing est désactivé. Ne touche pas à `.git/config`.
 
