@@ -135,7 +135,7 @@ function renderSB(){
   const q=document.getElementById('sq').value.toLowerCase();
   const tl=document.getElementById('tl'); tl.innerHTML='';
   const ov=document.createElement('div'); ov.className='ti'+(curTrad===null?' on':'');
-  ov.innerHTML='<span class="tn">🌍 Vue d'ensemble</span>'; ov.onclick=showOv; tl.appendChild(ov);
+  ov.innerHTML='<span class="tn">🌍 Vue d&apos;ensemble</span>'; ov.onclick=showOv; tl.appendChild(ov);
   DATA.filter(t=>{
     if(activeZone!=='all'&&t.zone!==activeZone)return false;
     if(q&&!t.label.toLowerCase().includes(q))return false; return true;
@@ -150,7 +150,7 @@ function showOv(){
   curTrad=null;
   document.getElementById('ov').style.display=''; document.getElementById('cv').style.display='none';
   document.getElementById('fb').style.display='none';
-  document.getElementById('mhT').textContent='Vue d'ensemble'; document.getElementById('mhM').textContent='';
+  document.getElementById('mhT').textContent="Vue d'ensemble"; document.getElementById('mhM').textContent='';
   renderSB();
 }
 
