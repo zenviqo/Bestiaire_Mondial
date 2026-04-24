@@ -165,9 +165,9 @@ function showOv() {
 function showT(t) {
   curTrad = t.dir;
   document.getElementById('ov').style.display = 'none';
-  document.getElementById('cv').style.display = '';
+  document.getElementById('cv').style.display = 'block';
   document.getElementById('fb').style.display = 'flex';
-  document.getElementById('backbtn').style.display = '';
+  document.getElementById('backbtn').style.display = 'inline-block';
   document.getElementById('mhT').textContent = t.label;
   document.getElementById('mhM').textContent = t.count + ' créature' + (t.count > 1 ? 's' : '') + ' · ' + t.zone;
   document.getElementById('fq').value = '';
