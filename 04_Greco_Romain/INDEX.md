@@ -72,3 +72,7 @@ Mélampyge, Dactyles, Curètes, Korybantes, Telchines, Idaioi_daktyloi, Caryatid
 | 31 | [Pan](creatures/Pan.md) | dieu hybride mi-homme mi-bouc des pâturages et des forêts | validé |
 | 32 | [Naïades](creatures/Naiades.md) | nymphes des eaux douces, gardiennes des sources et rivières | validé |
 | 33 | [Circé](creatures/Circe.md) | magicienne divine aux métamorphoses, fille d'Hélios | validé |
+| 34 | [Tirésias](creatures/Tiresias.md) | devin aveugle de Thèbes, prophète au double sexe | validé |
+| 35 | [Castor et Pollux](creatures/Castor_Pollux.md) | jumeaux divins, Dioscures, patrons des marins et athlètes | validé |
+| 36 | [Énée](creatures/Enee.md) | héros troyen fondateur de Lavinium, ancêtre mythique de Rome | validé |
+| 37 | [Méléagre](creatures/Meleagre.md) | prince de Calydon au destin lié à un brandon, héros de la grande chasse | validé |
