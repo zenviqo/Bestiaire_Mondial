@@ -45,11 +45,11 @@ _SPIRIT  = ['nymphe', 'esprit ', 'lutin', 'fée ', 'elfe', 'alfar', 'revenant', 
 
 def classify_type(categorie):
     c = categorie.lower()
-    if any(k in c for k in _DIVINE):  return 'divinité'
-    if any(k in c for k in _GIANT):   return 'géant'
-    if any(k in c for k in _HERO):    return 'héros'
+    if any(k in c for k in _DIVINE):  return 'divinite'
+    if any(k in c for k in _GIANT):   return 'geant'
+    if any(k in c for k in _HERO):    return 'heros'
     if any(k in c for k in _SPIRIT):  return 'esprit'
-    return 'créature'
+    return 'creature'
 
 def find_image(trad_dir, slug, page):
     img_dir = BASE / trad_dir / "creatures" / "images"
