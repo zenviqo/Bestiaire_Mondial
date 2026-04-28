@@ -9,87 +9,86 @@ Ces règles s'appliquent à toutes les sessions, automatiques ou manuelles.
 
 Les recherches web provoquent des pauses silencieuses de 60-90 secondes qui entraînent des "Stream idle timeout" et font échouer la session entière. Rien n'est sauvegardé, rien n'est commité.
 
-Rédige uniquement depuis ta connaissance du folklore et de la mythologie. Pour les créatures germaniques, nordiques, celtiques, slaves et gréco-romaines, ta connaissance intégrée est suffisante et fiable.
+Rédige uniquement depuis ta connaissance du folklore et de la mythologie.
 
-## RÈGLE N°2 — DROITS ET AUTHENTICITÉ FOLKLORIQUE
+## RÈGLE N°2 — CRÉATURES UNIQUEMENT. AUCUN DIEU, AUCUN HÉROS.
 
-**N'inclure que des créatures du folklore anonyme.**
+C'est la règle la plus importante. Le Bestiaire Mondial est un **bestiaire** : il recense des créatures, pas des panthéons.
 
-Une créature est valide si elle préexistait à tout auteur identifiable — elle circulait dans la tradition orale avant qu'on écrive dessus. Peu importe qu'un auteur ait écrit dessus ensuite (Grimm, Wagner, etc.) : si la créature existait avant, elle est OK.
+**VALIDE — écrire ces entrées :**
+- Monstres et bêtes fabuleuses : dragon, loup-garou, sirène, minotaure, chimère, basilic...
+- Esprits et entités surnaturelles : fantômes, lutins, fées, djinns, yokai, esprits de la nature...
+- Créatures hybrides : centaure, harpie, sphinx, griffon, manticore...
+- Êtres du folklore anonyme : tout ce que les gens racontent dans la tradition orale
 
-Une créature est invalide si elle a été **inventée de toutes pièces** par un auteur, un film ou un jeu vidéo identifiable — même si elle semble "folklorique". Inclure ce type de créature crée un risque de droits et trahit la mission du Bestiaire.
+**INVALIDE — ne jamais écrire ces entrées :**
+- Dieux et déesses : Zeus, Odin, Hecate, Ægir, Osiris, Shiva → **REFUSER**
+- Héros légendaires humains : Achille, Hercule, Siegfried, Persée, Ulysse → **REFUSER**
+- Titans et primordiaux divins : Cronos, Prométhée, les Titans grecs → **REFUSER**
+- Personnifications abstraites : Léthé, Thanatos, Hypnos (quand ce sont des concepts divins) → **REFUSER**
 
-**Exemples invalides :** Lorelei (inventée par Brentano 1801), Erlkönig (Goethe 1782 basé sur une erreur de traduction).
-**Exemples valides :** Drache, Nixe, Werwolf, Krampus, Perchta — folklore oral anonyme attesté depuis des siècles.
+**En cas de doute :** est-ce qu'un enfant de 10 ans appellerait ça "un monstre" ? Si oui → écrire. Si c'est un dieu ou un héros → passer à la suivante.
 
-En cas de doute, ne pas écrire la créature et passer à la suivante.
+## RÈGLE N°3 — DROITS ET AUTHENTICITÉ FOLKLORIQUE
 
-## RÈGLE N°3 — UNE SEULE CRÉATURE PAR SESSION
+N'inclure que des créatures du folklore anonyme préexistant à tout auteur identifiable.
 
-Rédige exactement **1 créature** par session, puis commite et pushe. Ensuite arrête-toi.
+**Invalides :** Lorelei (Brentano 1801), Erlkönig (Goethe 1782).
+**Valides :** Drache, Nixe, Werwolf, Krampus, Perchta.
 
-Ne tente jamais d'en faire 2 ou 3. Une seule créature de qualité vaut mieux que deux timeouts.
+En cas de doute, passer à la suivante.
 
-**Longueur cible : 100-130 lignes.** Sections concises mais complètes. Au-delà de 150 lignes le stream timeout survient systématiquement. Priorité à la densité d'information, pas à la longueur.
+## RÈGLE N°4 — UNE SEULE CRÉATURE PAR SESSION
 
-## RÈGLE N°4 — PROCÉDURE DE SESSION
+Rédige exactement **1 créature** par session, puis commite et pushe. Stop.
 
-1. `ls /home/user/Bestiaire_Mondial/03_Germanique/creatures/` — voir ce qui existe
-2. `cat /home/user/Bestiaire_Mondial/03_Germanique/INDEX.md` — trouver la première manquante
-3. Rédiger le fichier de 100-130 lignes depuis ta connaissance (SANS WebSearch)
-4. Sauvegarder dans `/home/user/Bestiaire_Mondial/03_Germanique/creatures/[Nom].md`
-5. `git add` + `git commit` + `git push origin main`
-6. Stop.
+**Longueur cible : 100-130 lignes.** Au-delà de 150 lignes → timeout garanti.
 
-## RÈGLE N°5 — STRUCTURE OBLIGATOIRE
+## RÈGLE N°5 — PROCÉDURE DE SESSION
 
-Chaque fichier doit contenir dans l'ordre :
-- Frontmatter YAML (nom_principal, nom_original, variantes_linguistiques, categorie, tradition, sous_tradition, statut, date_rédaction)
-- `# NOM EN MAJUSCULES`
-- `## SIGNIFICATION DU NOM`
-- `## ORIGINE`
-- `## NATURE`
-- `## HABITAT`
-- `## DESCRIPTION`
-- `## POUVOIRS`
-- `## FAIBLESSES`
-- `## COMPORTEMENT`
-- `## RÉCITS TRADITIONNELS`
-- `## VARIANTES RÉGIONALES`
-- `## DISTINCTION AVEC L'IMAGINAIRE MODERNE`
-- `## ICONOGRAPHIE HISTORIQUE`
-- `## POUR ALLER PLUS LOIN`
-- `## PROMPT IMAGE` ← obligatoire, en anglais, style "Medieval bestiary illumination"
+1. Identifier la tradition active dans "TRADITION ACTIVE" ci-dessous
+2. `ls <tradition>/creatures/` — voir ce qui existe déjà
+3. `cat <tradition>/INDEX.md` — trouver la première créature manquante (pas un dieu, pas un héros)
+4. Rédiger 100-130 lignes depuis ta connaissance (SANS WebSearch)
+5. Sauvegarder dans `<tradition>/creatures/<Nom>.md`
+6. `git add` + `git -c commit.gpgsign=false commit` + `git push origin main`
+7. Stop.
 
-## RÈGLE N°6 — CONVENTION DE NOMMAGE DES FICHIERS
+## RÈGLE N°6 — STRUCTURE OBLIGATOIRE
 
-- ä → ae (Hämmerling → Haemmerling)
-- ö → oe (Mönch → Moench)
-- ü → ue (Füchslein → Fuechslein)
-- ß → ss
-- espaces → _
-- accents et caractères spéciaux supprimés
+Frontmatter YAML : nom_principal, nom_original, variantes_linguistiques, categorie, tradition, sous_tradition, statut, date_rédaction.
 
-## RÈGLE N°7 — GIT
+Sections dans l'ordre : SIGNIFICATION DU NOM / ORIGINE / NATURE / HABITAT / DESCRIPTION / POUVOIRS / FAIBLESSES / COMPORTEMENT / RÉCITS TRADITIONNELS / VARIANTES RÉGIONALES / DISTINCTION AVEC L'IMAGINAIRE MODERNE / ICONOGRAPHIE HISTORIQUE / POUR ALLER PLUS LOIN / PROMPT IMAGE (en anglais, style medieval bestiary).
 
-Le git est configuré avec PAT dans `.git/config`. GPG signing est désactivé. Ne touche pas à `.git/config`.
+## RÈGLE N°7 — CONVENTION DE NOMMAGE
 
-Commande de commit :
+ä→ae, ö→oe, ü→ue, ß→ss, espaces→_, accents supprimés du nom de fichier.
+
+## RÈGLE N°8 — GIT
+
 ```bash
-cd /home/user/Bestiaire_Mondial
-git add 03_Germanique/creatures/[Fichier].md
-git commit -m "Cron auto : +1 créature 03_Germanique — [Nom]"
+git add <tradition>/creatures/<Fichier>.md
+git -c commit.gpgsign=false commit -m "Cron auto : +1 créature <tradition> — <Nom>"
 git push origin main
 ```
 
-## TRADITION ACTIVE : 03_Germanique Phase 2
+---
 
-Créatures prioritaires restantes (vérifier lesquelles manquent dans creatures/) :
-- Bergmönch → Bergmoench.md
-- Schnabelpercht → Schnabelpercht.md
-- Silberfuß → Silberfuss.md
-- Pilatusdrache → Pilatusdrache.md
-- Stollenwurm → Stollenwurm.md
-- Wiedergänger → Wiedergaenger.md
-- Hakelberg → Hakelberg.md
-- Stoete Seute Lieven → Stoete_Seute_Lieven.md
+## TRADITION ACTIVE ET ORDRE DE PROGRESSION
+
+Traiter les traditions dans cet ordre, une créature par session :
+
+### En cours : 03_Germanique (99 créatures)
+Passer en Phase 3 (créatures régionales mineures attestées). Exemples :
+Hüterich, Pestjungfrau, Schimmelreiter (légende firsonne), Nöck (variante allemande), Sträggele, Schrat variantes régionales, Erdmännlein variantes, Spuk, Irrsal, Mahr variantes régionales.
+
+### Suivante : 06_Mesopotamien (0 créatures)
+Créatures valides : Lamassu, Anzû, Humbaba, Kur, Asag, Mushussu, Pazuzu, Utukku, Gallu, Lamashtu, Lilitu, Apkallu, Sirrush...
+
+### Puis : 07_Egyptien (0 créatures)
+Créatures valides : Ammout, Apopis, Aker, Bennou, Griffon égyptien, Medjed, Seth (aspect animal), Sphinx égyptien, Serpopard...
+
+### Puis toutes les traditions à 0 créature, dans l'ordre numérique.
+
+### Objectif final
+~50-150 créatures par tradition × 40 traditions = 2000-6000 entrées total.
