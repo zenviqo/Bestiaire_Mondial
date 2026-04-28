@@ -72,12 +72,3 @@ Mélampyge, Dactyles, Curètes, Korybantes, Telchines, Idaioi_daktyloi, Caryatid
 | 31 | [Pan](creatures/Pan.md) | dieu hybride mi-homme mi-bouc des pâturages et des forêts | validé |
 | 32 | [Naïades](creatures/Naiades.md) | nymphes des eaux douces, gardiennes des sources et rivières | validé |
 | 33 | [Circé](creatures/Circe.md) | magicienne divine aux métamorphoses, fille d'Hélios | validé |
-| 34 | [Tirésias](creatures/Tiresias.md) | devin aveugle de Thèbes, prophète au double sexe | validé |
-| 35 | [Castor et Pollux](creatures/Castor_Pollux.md) | jumeaux divins, Dioscures, patrons des marins et athlètes | validé |
-| 36 | [Énée](creatures/Enee.md) | héros troyen fondateur de Lavinium, ancêtre mythique de Rome | validé |
-| 37 | [Méléagre](creatures/Meleagre.md) | prince de Calydon au destin lié à un brandon, héros de la grande chasse | validé |
-| 38 | [Ulysse](creatures/Ulysse.md) | roi d'Ithaque, héros de la ruse et de l'endurance, archétype de la mètis | validé |
-| 39 | [Diomède](creatures/Diomede.md) | roi d'Argos, seul mortel à blesser des dieux au combat, protégé d'Athéna | validé |
-| 40 | [Cadmos](creatures/Cadmos.md) | prince phénicien fondateur de Thèbes, tueur du dragon d'Arès, introducteur de l'alphabet | validé |
-| 41 | [Hercule romain](creatures/Hercule_romain.md) | dieu romain de la victoire et du commerce, distinct de l'Héraclès grec | validé |
-| 42 | [Euménides](creatures/Eumenides.md) | Érinyes réconciliées, Bienveillantes d'Athènes, gardiennes de la justice civique | validé |

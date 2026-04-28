@@ -34,6 +34,23 @@ TRADITIONS = [
 
 IMG_EXTS = ('.jpg', '.jpeg', '.png', '.webp')
 
+# Mots-clés pour classifier chaque entrée par type
+_DIVINE  = ['dieu ', 'déesse', 'divin', 'titan', 'olympien', 'primordial', 'personnification',
+            'god ', 'goddess', 'allégorie', 'souverain divin', 'divinité']
+_GIANT   = ['géant', 'géante', 'jötunn', 'jotun', 'jotnar', 'génie']
+_HERO    = ['héros', 'héroïne', 'mortel légendaire', 'personnage légendaire', 'roi légendaire',
+            'figure légendaire', 'guerrier légendaire', 'figure héroïque']
+_SPIRIT  = ['nymphe', 'esprit ', 'lutin', 'fée ', 'elfe', 'alfar', 'revenant', 'fantôme',
+            'djinn', 'ange', 'démon', 'spectre', 'golem', 'yokai', 'yōkai', 'oni']
+
+def classify_type(categorie):
+    c = categorie.lower()
+    if any(k in c for k in _DIVINE):  return 'divinité'
+    if any(k in c for k in _GIANT):   return 'géant'
+    if any(k in c for k in _HERO):    return 'héros'
+    if any(k in c for k in _SPIRIT):  return 'esprit'
+    return 'créature'
+
 def find_image(trad_dir, slug, page):
     img_dir = BASE / trad_dir / "creatures" / "images"
     for ext in IMG_EXTS:
@@ -64,10 +81,12 @@ def build_data():
                     text = md.read_text(encoding='utf-8')
                     meta = parse_meta(text)
                     slug = md.stem
+                    cat = meta.get("categorie", "")
                     creatures.append({
                         "slug": slug,
                         "nom": meta.get("nom_principal", slug),
-                        "categorie": meta.get("categorie", ""),
+                        "categorie": cat,
+                        "type": classify_type(cat),
                         "statut": meta.get("statut", ""),
                         "date": meta.get("date_rédaction", meta.get("date_redaction", "")),
                         "img1": find_image(dir_name, slug, 1),

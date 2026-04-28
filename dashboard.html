@@ -34,6 +34,19 @@ body{background:var(--bg);color:var(--t);font-family:Georgia,serif;display:flex;
 #mh{padding:10px 20px;border-bottom:1px solid var(--b);background:var(--s);display:flex;align-items:center;gap:10px;}
 #mh h2{font-size:.95rem;color:var(--a);flex:1;}
 #mh .sub{font-size:.72rem;color:var(--t2);}
+/* filtres par type */
+#typefilter{padding:7px 20px;border-bottom:1px solid var(--b);background:var(--s2);display:flex;gap:6px;flex-wrap:wrap;}
+.tfbtn{padding:3px 10px;font-size:.68rem;border:1px solid var(--b);background:transparent;color:var(--t2);cursor:pointer;border-radius:12px;font-family:inherit;transition:all .15s;}
+.tfbtn:hover{border-color:var(--a2);color:var(--a);}
+.tfbtn.on{border-color:var(--a);color:var(--a);background:rgba(200,169,110,.1);}
+.tfbtn .cnt{font-size:.6rem;opacity:.7;margin-left:2px;}
+/* type badge sur les cartes */
+.ctype{position:absolute;top:4px;left:4px;font-size:.55rem;padding:1px 5px;border-radius:3px;font-weight:bold;text-transform:uppercase;letter-spacing:.5px;}
+.type-créature{background:rgba(76,175,130,.8);color:#fff;}
+.type-esprit{background:rgba(100,130,200,.8);color:#fff;}
+.type-géant{background:rgba(180,80,60,.8);color:#fff;}
+.type-divinité{background:rgba(200,169,110,.8);color:#111;}
+.type-héros{background:rgba(130,100,180,.8);color:#fff;}
 #grid-wrap{flex:1;overflow-y:auto;padding:16px 20px;}
 #grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;}
 .ccard{background:var(--s);border:1px solid var(--b);border-radius:6px;overflow:hidden;cursor:pointer;transition:all .18s;position:relative;}
@@ -113,6 +126,14 @@ body{background:var(--bg);color:var(--t);font-family:Georgia,serif;display:flex;
       <div class="sub" id="msub"></div>
     </div>
   </div>
+  <div id="typefilter">
+    <button class="tfbtn" data-type="créature">🐉 Créatures</button>
+    <button class="tfbtn" data-type="esprit">👻 Esprits</button>
+    <button class="tfbtn" data-type="géant">🗿 Géants</button>
+    <button class="tfbtn" data-type="divinité">⚡ Divinités</button>
+    <button class="tfbtn" data-type="héros">⚔️ Héros</button>
+    <button class="tfbtn on" data-type="all">Tous</button>
+  </div>
   <div id="grid-wrap">
     <div id="grid"></div>
     <div id="empty">Sélectionne une tradition dans le menu de gauche</div>
@@ -150,6 +171,7 @@ body{background:var(--bg);color:var(--t);font-family:Georgia,serif;display:flex;
 <script>
 let DATA = [];
 let activeTrad = null;
+let activeType = 'all';
 let curCreature = null; // {dir, slug, nom, categorie, img1, img2}
 
 // ── LOAD DATA ──
@@ -202,14 +224,15 @@ function selectTrad(dir, filter='') {
   renderSidebar(filter);
   const trad = DATA.find(t => t.dir === dir);
   if (!trad) return;
-  const creatures = filter
-    ? trad.creatures.filter(c => matchSearch(c, filter))
-    : trad.creatures;
+  let creatures = trad.creatures;
+  if (filter) creatures = creatures.filter(c => matchSearch(c, filter));
+  creatures = creatures.filter(c => matchType(c));
   document.getElementById('mtitle').textContent = trad.label;
-  document.getElementById('msub').textContent = `${creatures.length} créature${creatures.length>1?'s':''} · ${trad.zone}`;
+  document.getElementById('msub').textContent = `${creatures.length} entrée${creatures.length>1?'s':''} · ${trad.zone}`;
   renderGrid(dir, creatures);
   document.getElementById('empty').style.display = creatures.length ? 'none' : 'block';
-  if (!creatures.length) document.getElementById('empty').textContent = 'Aucune créature pour cette tradition';
+  if (!creatures.length) document.getElementById('empty').textContent = 'Aucune entrée pour ce filtre';
+  updateTypeCounters();
 }
 
 // ── GRID ──
@@ -224,8 +247,9 @@ function renderGrid(dir, creatures) {
       ? `<img src="${c.img1}" loading="lazy" alt="">`
       : `<div class="noimg">☽</div>`;
     const badge = hasImg ? `<div class="imgbadge">📷 ${(c.img1?1:0)+(c.img2?1:0)}/2</div>` : '';
+    const typeBadge = `<div class="ctype type-${c.type||'créature'}">${c.type||'?'}</div>`;
     card.innerHTML = `
-      <div class="cimg">${imgHtml}${badge}</div>
+      <div class="cimg">${imgHtml}${badge}${typeBadge}</div>
       <div class="cbody">
         <div class="cnom">${c.nom}</div>
         <div class="ccat">${c.categorie}</div>
@@ -241,13 +265,39 @@ function matchSearch(c, q) {
   return c.nom.toLowerCase().includes(lq) || c.categorie.toLowerCase().includes(lq) || c.slug.toLowerCase().includes(lq);
 }
 
+function matchType(c) {
+  return activeType === 'all' || c.type === activeType;
+}
+
 function onSearch() {
   const q = document.getElementById('sq').value.trim();
-  if (activeTrad) {
-    selectTrad(activeTrad, q);
-  } else {
-    renderSidebar(q);
-  }
+  if (activeTrad) selectTrad(activeTrad, q);
+  else renderSidebar(q);
+}
+
+// Type filter buttons
+document.querySelectorAll('.tfbtn').forEach(btn => {
+  btn.onclick = () => {
+    activeType = btn.dataset.type;
+    document.querySelectorAll('.tfbtn').forEach(b => b.classList.remove('on'));
+    btn.classList.add('on');
+    if (activeTrad) selectTrad(activeTrad, document.getElementById('sq').value.trim());
+    updateTypeCounters();
+  };
+});
+
+function updateTypeCounters() {
+  if (!activeTrad) return;
+  const trad = DATA.find(t => t.dir === activeTrad);
+  if (!trad) return;
+  document.querySelectorAll('.tfbtn').forEach(btn => {
+    const t = btn.dataset.type;
+    const n = t === 'all' ? trad.creatures.length : trad.creatures.filter(c => c.type === t).length;
+    btn.querySelector('.cnt') && btn.querySelector('.cnt').remove();
+    const sp = document.createElement('span');
+    sp.className = 'cnt'; sp.textContent = n;
+    btn.appendChild(sp);
+  });
 }
 
 // ── MODAL ──
