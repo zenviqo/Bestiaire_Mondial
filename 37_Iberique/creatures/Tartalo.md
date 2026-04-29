@@ -1,0 +1,146 @@
+---
+nom_principal: Tartalo
+nom_original: Tartalo (euskara)
+variantes_linguistiques:
+  - basque_labourdin: Tartaro
+  - basque_biscaien: Torto, Tartalo
+  - basque_souletin: Tartaro
+  - basque_navarrais: Tartalo, Anxo
+  - espagnol: Torto, Tártalo
+  - gascon_pyreneen: Anxo
+categorie: cyclope-géant / monstre cavernicole / dévoreur d'hommes
+tradition: ibérique
+sous_tradition: basque (Pays Basque, Navarre, vallées pyrénéennes occidentales)
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# TARTALO
+
+## SIGNIFICATION DU NOM
+
+Le nom *Tartalo* — avec ses variantes *Tartaro*, *Torto*, *Anxo* — n'a pas reçu d'étymologie basque assurée. Plusieurs hypothèses circulent dans la tradition savante. La plus communément avancée rapproche le nom du latin *Tartarus*, le séjour souterrain des grands criminels dans la cosmographie antique, qui aurait pu se transmettre par voie ecclésiastique et fournir un nom étranger commode pour désigner un monstre déjà existant dans le folklore oral. Cette filiation toponymique ne signifie cependant pas filiation mythologique : la créature basque ne ressemble en rien aux ombres infernales du *Tartarus* romain.
+
+La variante *Torto*, employée surtout du côté biscaïen et castillanophone, signifie en espagnol *tordu, borgne, mal voyant* — désignation transparente d'un être à l'œil unique. Elle paraît être une glose populaire greffée sur le nom basque plutôt qu'un nom d'origine.
+
+La variante *Anxo*, attestée vers la frontière gasconne, désigne plus génériquement *l'ogre des montagnes* dans plusieurs vallées pyrénéennes.
+
+## ORIGINE
+
+Tartalo n'apparaît pas dans la mythologie cosmogonique basque ancienne, celle qui met en scène la déesse-mère *Mari*, son époux *Sugaar*, ni les grandes figures lumineuses *Eguzki* et *Ilargi*. Il appartient à un autre étage du folklore — celui des *monstres-types* qui peuplent les contes-merveilleux et que les bergers, aux longues veillées d'estive, racontaient aux enfants pour expliquer la peur des cavernes.
+
+Sa parenté avec d'autres figures de cyclope-mangeur attestées dans le bassin méditerranéen et indo-européen pose la question d'une origine archaïque commune. Le motif du géant à œil unique aveuglé par un héros et trompé par une peau d'animal se retrouve, sous des formes locales remarquablement stables, dans une vaste aire qui va des îles grecques à l'Irlande en passant par le Caucase, les Balkans, l'Italie, la France méridionale et l'Allemagne. Les comparatistes ont depuis longtemps relevé que le conte basque de Tartalo est l'un des témoins les plus complets et les plus archaïsants de cette série.
+
+## NATURE
+
+Tartalo est un *géant cyclope*. Il appartient à la catégorie des grands êtres anthropomorphes anciens du folklore basque — comme *Basajaun*, le seigneur sauvage des forêts — mais s'en distingue radicalement par sa fonction : Basajaun est un protecteur ambigu des troupeaux, parfois bienveillant, alors que Tartalo est *purement dévorateur*. Aucune tradition ne lui prête de fonction utile aux hommes.
+
+Il est *solitaire*. Les récits ne le mentionnent jamais en groupe, jamais en couple, jamais avec descendance — sauf une variante navarraise tardive qui lui donne un fils. Il vit seul dans sa caverne, gardant son troupeau volé.
+
+Il est *fixe à son lieu*. Contrairement aux esprits errants ou aux créatures de chasse qui sillonnent les hauteurs, Tartalo demeure dans une grotte précise, sort pour rabattre proies et bétail, et y revient toujours. Cette territorialité explique que la mémoire populaire ait associé son nom à des cavernes nommément désignées dans le paysage basque.
+
+## HABITAT
+
+Tartalo habite les *grottes-bergeries* des montagnes basques — ces *leze* (cavités, gouffres, abris-sous-roche) qui ponctuent les massifs calcaires du Pays Basque, de la Navarre et des Pyrénées-Atlantiques. La tradition orale a longtemps désigné, dans plusieurs régions, des grottes précises comme *demeure de Tartalo* : on en relève dans le Gipuzkoa, notamment dans la zone d'Ataun et d'Idiazabal, ainsi que dans la Navarre montagneuse.
+
+L'aménagement intérieur de la grotte, dans les contes, suit un schéma constant : un foyer central où le géant rôtit ses proies à la broche, un fond plus sombre où il dort, et une entrée fermable par une grande pierre roulée que seul Tartalo peut déplacer. Le bétail volé — moutons, chèvres, parfois bovins — est parqué dans un compartiment de la caverne ou dans une cour fermée à l'entrée.
+
+## DESCRIPTION
+
+Tartalo a forme humaine, mais d'une *taille colossale* : trois fois la stature d'un homme adulte selon les versions modérées, jusqu'à une mesure démesurée selon les versions exagérantes des conteurs. Son corps est puissant, taillé pour la marche en montagne et le port de fardeaux qu'aucun homme ne pourrait soulever.
+
+Son trait caractéristique est l'*œil unique* planté au milieu du front. Cet œil est large, rond, fixe, et constitue à la fois l'organe du regard total — il voit loin, il voit dans la pénombre des cavernes — et le point de vulnérabilité absolue : tout l'équilibre de la créature tient à ce seul organe.
+
+Il est généralement décrit comme couvert d'une *fourrure rude* sur le corps, ou vêtu de peaux de bêtes mal tannées. Sa chevelure est sombre, sa barbe touffue. Ses ongles sont longs comme des griffes.
+
+Il porte presque toujours, en attribut, une *grande broche de fer* — l'instrument même de sa cuisine cannibale, qui deviendra l'outil de sa perte.
+
+## POUVOIRS
+
+La *force démesurée* est son attribut premier. Tartalo soulève sans effort des roches qu'aucun homme ne pourrait remuer, arrache des arbres pour entretenir son feu, et porte sur l'épaule, sans ralentir, le berger capturé qu'il ramène à la caverne.
+
+La *vision exceptionnelle* de l'œil unique : malgré l'absence de relief stéréoscopique, son regard porte loin et perce l'obscurité des cavernes. Cette vision est cependant *fragile* — elle ne se redouble pas, et tout dommage à l'œil aveugle absolument la créature.
+
+L'*odorat fin* lui permet de repérer la chair humaine à distance, et de détecter, dans les contes, la présence d'un intrus caché parmi son troupeau — sauf si l'intrus se dissimule sous une peau de mouton qui masque son odeur.
+
+La *résistance physique* : aucune lame ordinaire ne le tue, aucune flèche ne traverse sa peau couverte de fourrure rude. Seule la ruse — et particulièrement l'attaque dirigée contre l'œil — vient à bout de lui.
+
+## FAIBLESSES
+
+L'*œil unique* est sa vulnérabilité fondamentale. Toute la stratégie du héros, dans les contes-types, vise cet organe. La méthode la plus constante est l'attaque par broche chauffée : pendant que Tartalo dort, le héros rougit au feu la broche même dont le géant se sert pour rôtir ses proies, puis l'enfonce d'un coup dans l'œil. Le cyclope, aveuglé, ne peut plus distinguer ses agresseurs.
+
+L'*incapacité à compter* : dans plusieurs versions, le géant aveuglé tâte chaque tête de son troupeau quand il fait sortir les bêtes au pâturage, espérant ainsi repérer le héros caché parmi elles. Mais sa main lourde palpe la laine sans déceler la peau humaine que le héros a passée sur son dos.
+
+La *parole imprudente* : Tartalo, dans certaines variantes, donne un objet magique au héros — un anneau notamment — qui se met aussitôt à crier *me voici, me voici* (en basque *hemen nago, hemen nago*) chaque fois que le géant aveuglé l'appelle. Le héros, pour échapper à cette traîtrise, doit couper son propre doigt et le jeter dans le précipice ou dans un étang : l'anneau, entraînant la voix, attire le géant aveuglé qui tombe et meurt.
+
+## COMPORTEMENT
+
+Tartalo agit comme un *prédateur de bergers*. Sa proie de prédilection n'est pas le voyageur de passage mais le pasteur de haute montagne — celui qui mène ses bêtes à l'estive et passe les mois d'été dans des cabanes isolées. Il rôde autour des bergeries pendant la nuit, repère les jeunes pâtres, les capture parfois en plein jour quand l'occasion se présente, les ramène à sa caverne et les enferme avant de les rôtir un par un.
+
+Il *rôtit* — il ne dévore pas cru. Cette particularité culinaire, partagée avec son cousin grec, le distingue des bêtes purement bestiales et lui prête une trace de civilisation déformée : il connaît le feu, la broche, la cuisson. Cette ressemblance trouble avec l'humain rend sa férocité plus glaçante.
+
+Il *parle*, mais son langage est rude. Il interroge ses captifs, leur impose des conditions, accepte parfois des paris, fait preuve d'une intelligence brute mais réelle. Cette parole l'expose à la ruse : un héros habile peut le tromper par les mots avant de le vaincre par l'acte.
+
+Au quotidien, lorsqu'il ne chasse pas, il dort lourdement près de son feu et garde son troupeau volé.
+
+## RÉCITS TRADITIONNELS
+
+Le grand conte-type de Tartalo, attesté avec une remarquable stabilité dans tout le Pays Basque, suit un schéma quasi-invariable.
+
+Deux frères pasteurs — parfois un seul jeune homme — s'égarent en montagne ou cherchent refuge dans une caverne pour la nuit. La caverne se révèle être l'antre de Tartalo. Le géant rentre, roule la pierre qui ferme l'entrée, et compte les présences supplémentaires. L'un des deux frères est immédiatement saisi, embroché et rôti devant l'autre. Le second frère, terrifié, est conservé pour le repas du lendemain.
+
+Pendant la nuit, alors que Tartalo dort lourdement, le jeune homme survivant pose la grande broche de fer dans les braises. Lorsque le métal rougit, il l'extrait du feu et l'enfonce d'un coup violent dans l'œil unique du géant endormi. Le hurlement de Tartalo ébranle la caverne. Aveuglé, fou de douleur, il se précipite vers l'entrée et roule la pierre, mais reste là, à tâter, sachant que son captif tentera de fuir.
+
+Au matin, lorsque le troupeau veut sortir, Tartalo s'assied à l'entrée et palpe chaque bête. Le héros, qui a tué un mouton et passé la peau encore chaude sur son dos, sort à quatre pattes parmi les bêtes. La main lourde du géant tâte la laine et laisse passer.
+
+Une fois dehors, le héros raille Tartalo en lui criant qu'il s'est échappé. Le géant, dans un dernier ressort, lui jette un anneau d'or — *garde ce souvenir de moi*, dit-il. Le jeune homme le passe à son doigt. Aussitôt l'anneau se met à crier *me voici, me voici*. Tartalo, suivant la voix, s'élance aveugle. Le héros, comprenant le piège, tranche son doigt avec son couteau et jette l'anneau dans un précipice ou dans un étang. Tartalo, attiré par la voix, plonge à sa suite et meurt — soit en se brisant au fond du gouffre, soit en se noyant.
+
+Une variante moins répandue achève le récit en faisant tuer Tartalo dans son sommeil par le héros lui-même, qui revient avec un grand pieu et l'enfonce dans le crâne déjà aveugle.
+
+## VARIANTES RÉGIONALES
+
+Du côté du **Gipuzkoa**, la créature porte généralement le nom de *Tartalo* et la grotte mentionnée dans les versions locales se situe dans les massifs autour d'Ataun. Le conte est associé à des reliefs précis que les anciens montraient encore aux enfants au début du XXᵉ siècle.
+
+Du côté du **Biscaye**, le nom *Torto* domine, sous l'influence de la glose castillane. Le conte y est plus court, parfois condensé en quelques épisodes essentiels — la capture, l'aveuglement, la fuite — sans l'épisode de l'anneau.
+
+Du côté de la **Navarre**, *Tartalo* coexiste avec *Anxo*, et les conteurs y ajoutent parfois un fils du géant qui poursuit le héros. La grotte est localisée dans les hautes vallées navarraises.
+
+Du côté du **Labourd** et de la **Soule** (Pays Basque français), la forme *Tartaro* est attestée. La trame du conte y est identique mais la fin se présente parfois sans l'épisode de la noyade : Tartaro, aveuglé, reste à errer dans la montagne.
+
+Du côté de la **Gascogne pyrénéenne**, *Anxo* — l'ogre cyclopéen des hautes vallées — partage avec Tartalo presque tous les motifs : grotte, broche, peau de mouton, fuite. L'identité de schéma narratif est telle que les folkloristes considèrent souvent les deux figures comme deux variantes locales du même type.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le rapprochement avec le *Polyphème* d'Homère, irrésistible pour le lecteur moderne, ne doit pas conduire à la confusion. Plusieurs distinctions importantes :
+
+- Tartalo n'est *pas un emprunt* du conte homérique. Le motif du géant cyclope aveuglé par un héros et trompé par une peau d'animal appartient à un fonds folklorique pan-européen et probablement indo-européen plus ancien. Le conte basque n'a pas été lu dans Homère, il a été vécu dans les estives. Sa stabilité, son ancrage dans des grottes nommées, ses détails propres (l'anneau parlant, la coupure du doigt) sont entièrement absents du récit grec et démontrent une tradition autonome.
+
+- Tartalo n'est *pas un Titan ni un fils de divinité*. Polyphème est fils de Poséidon et d'une nymphe, intégré à une cosmogonie hellénique. Tartalo n'a pas de généalogie, pas de père divin, pas d'inscription dans un panthéon. Il est un monstre-type du paysage, surgi des grottes, sans ascendance.
+
+- Tartalo n'est *pas un géant de chair noble*. Polyphème, malgré sa férocité, est gardé par Homère dans une dignité ambivalente — il chante, il a des troupeaux qu'il aime, il prie son père. Tartalo est entièrement *sauvage culinaire* — il rôtit, il dort, il tâte. Aucun trait pastoral idéalisé ne lui est reconnu.
+
+- Tartalo n'est *pas l'ogre des contes français modernes*. L'ogre des Perrault et des frères Grimm — barbu, riche, marié, propriétaire d'un château — relève d'une tradition différente et plus tardive, marquée par l'imaginaire féodal. Tartalo reste de structure plus archaïque : grotte, peau, broche, feu nu.
+
+- Les usages contemporains de *Tartalo* dans les jeux de rôle, romans de fantasy ou productions audiovisuelles modernes — où il devient un boss de donjon ou un monstre sans contexte — n'ont aucun rapport avec la profondeur narrative et géographique de la créature dans la tradition basque. Le Tartalo authentique est inséparable de ses *leze*.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie ancienne de Tartalo est rare — la tradition basque préchrétienne n'a presque rien laissé en images, et les conteurs des estives ne disposaient pas d'ateliers de scribes pour fixer leurs figures en parchemin. La représentation s'est donc faite, lorsqu'elle existe, dans le registre populaire :
+
+- *Sculptures sur poutres* (gabarrot, mainpoutre des fermes basques) où l'on voit parfois, parmi les motifs apotropaïques traditionnels, une figure à œil unique gravée en relief ou en creux, censée détourner le mauvais regard.
+
+- *Stèles discoïdales* — ces monuments funéraires basques en forme de disque sur pied — portent occasionnellement, parmi les motifs solaires et croisés, des figures à œil central qu'une lecture folklorique a parfois rapprochées de Tartalo, sans que l'identification soit certaine.
+
+- *Bois gravés* du XIXᵉ siècle, lorsque les premiers folkloristes ont commencé à recueillir les contes basques, ont produit des images de Tartalo dans le goût pittoresque de l'époque : un grand homme barbu, mi-nu, mi-vêtu de peaux, tenant la broche, l'œil unique au front, près de l'entrée d'une caverne.
+
+- *Carnaval* : dans certaines vallées pyrénéennes, des figures masquées du Carnaval portent encore des traits évoquant le géant cyclopéen — un œil démesuré peint sur le front du masque, des peaux brutes, une démarche pesante. Ces figures n'ont pas été expressément identifiées à Tartalo par les porteurs eux-mêmes, mais elles s'inscrivent dans le même imaginaire.
+
+## POUR ALLER PLUS LOIN
+
+Tartalo a été recueilli dès la fin du XIXᵉ siècle par les premiers folkloristes basques, qui ont noté sa présence dans la tradition orale de plusieurs vallées du Gipuzkoa, du Labourd, de la Soule, de la Biscaye et de la Navarre. Le conte-type — capture du berger, aveuglement à la broche, fuite sous la peau, anneau parlant et chute du géant — figure dans presque toutes les anthologies du folklore basque depuis lors. Les comparatistes l'ont étudié comme l'un des témoins majeurs du *Cycle du Cyclope* dans la tradition européenne, à mettre en parallèle avec les versions grecque, irlandaise, pyrénéenne, alpine, balkanique et caucasienne du même conte-type.
+
+Les *leze* attribuées à Tartalo dans le paysage basque continuent de porter, dans la mémoire locale, le nom du géant. Plusieurs sentiers de randonnée signalent encore aujourd'hui l'existence de ces lieux dans le folklore.
+
+## PROMPT IMAGE
+
+Ancient traditional Basque woodblock print illustration of Tartalo the one-eyed giant, carved beam folk-art aesthetic of the Pyrenean farmsteads, ink and earth-pigment style on rough handmade paper, a colossal man-shaped giant standing at the threshold of a stone mountain cave (a leze), single large round eye centered on the forehead, thick black hair and unkempt beard, body covered in coarse fur and rough untanned animal hides, holding a long iron roasting spit in one hand, a stone-built fire pit with embers visible at the cave entrance, sheep and goats huddled inside the cave behind a low stone wall, the rugged limestone cliffs of the Basque country rising above with green slopes and scattered beech trees, low clouds clinging to the peaks, a small shepherd figure in the foreground hidden under a sheepskin crawling out among the flock, the giant feeling the wool with one huge hand, the composition divided like a Basque mainpoutre carving with geometric border patterns of lauburu (square spiral) and discoidal sun motifs (decorative abstract patterns, no readable text), heavy chiselled outlines, restrained palette of black, ochre, ox-blood red and forest green, monumental folk-art quality reminiscent of stèles discoïdales and carved farmhouse beams, no modern rendering, no 3D, no cartoon, no gloss, vintage natural history scientific illustration quality on aged paper, no text, no letters, no inscriptions, no labels
