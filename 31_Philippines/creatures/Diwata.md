@@ -1,0 +1,133 @@
+---
+nom_principal: Diwata
+nom_original: Diwata (tagalog) / Diwata (bisaya) / Dewata (kapampangan ancien)
+variantes_linguistiques:
+  - tagalog: Diwata, Lambana
+  - bisaya_cebuano: Diwata, Engkanto
+  - kapampangan: Dewata
+  - ilokano: Anito-Diwata, Mangmangkik (variante forestière)
+  - hiligaynon: Diwata, Tamawo
+categorie: esprit gardien de la nature / créature féérique tellurique
+tradition: philippine
+sous_tradition: précoloniale (animisme austronésien) + syncrétique catholique post-XVIᵉ siècle
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# DIWATA
+
+## SIGNIFICATION DU NOM
+
+Le terme *diwata* est l'un des rares vocables des langues philippines dont l'étymologie remonte directement à un emprunt savant au sanskrit, par voie commerciale et culturelle javanaise. La racine source est *devata*, mot sanskrit signifiant *divinité mineure*, *esprit divin*, employé dans l'hindouisme pour désigner les entités tutélaires inférieures aux grands dieux. Ce mot se diffusa dans tout l'archipel malais au cours du premier millénaire, transporté par les marchands hindouisés et bouddhistes qui fréquentaient les ports de Java, de Sumatra et — par ricochet — des Visayas et de Luçon.
+
+Mais à mesure qu'il s'enracinait dans les langues philippines, *devata* fut *réapproprié* : il cessa de désigner une divinité au sens hindou pour s'appliquer aux esprits autochtones de la nature, ceux que les croyances austronésiennes locales reconnaissaient depuis bien plus longtemps que l'arrivée du sanskrit. Le mot étranger fut ainsi versé sur un contenu indigène. Les *diwata* des Philippines ne sont pas des dévatas hindous. Ils sont les esprits des arbres, des sources et des montagnes que les ancêtres austronésiens vénéraient — simplement nommés d'un mot devenu prestigieux.
+
+Dans certaines régions, *diwata* est concurrencé par *engkanto*, terme issu de l'espagnol *encantado* (*enchanté*), introduit après la conquête. Les deux termes finissent souvent par recouvrir la même réalité.
+
+## ORIGINE
+
+Les diwata appartiennent à la couche la plus ancienne des croyances philippines, antérieure à l'arrivée des Espagnols (1565) et même aux influences indiennes et chinoises. Dans le système animiste austronésien d'origine, le monde est peuplé d'esprits — les *anito* — qui habitent les éléments naturels, les ancêtres défunts, les objets sacrés. Les diwata constituent une sous-catégorie de cet imaginaire : les esprits attachés à un lieu naturel précis, généralement un arbre majestueux, une source, un sommet.
+
+L'évangélisation espagnole tenta de les éliminer, brûlant les arbres-sanctuaires et persécutant les *babaylan* (prêtresses indigènes) qui leur rendaient culte. Mais la croyance survécut sous forme syncrétique : les diwata ne furent pas détruits, ils furent intégrés au folklore catholique populaire comme créatures inférieures, esprits ambivalents qu'on respecte sans les adorer.
+
+## NATURE
+
+Le diwata n'est ni un dieu ni un démon. Il est un *esprit de lieu*, attaché à un point précis du paysage qu'il considère comme sa demeure. Il n'a pas la transcendance des grandes divinités du panthéon précolonial (Bathala chez les Tagalogs, Kaptan chez les Bisaya), mais il dispose d'une autonomie supérieure à celle d'un simple ancêtre défunt.
+
+Sa nature est *liminaire* : il appartient à la fois au monde naturel et au monde invisible, et n'est perceptible aux humains que dans certaines conditions — au crépuscule, à midi exactement, lors de la sieste tropicale dite *oras ng diwata* (l'heure des diwata), ou pour les regards des personnes douées d'une seconde vue.
+
+Sa nature est aussi *territoriale*. Un diwata défend son arbre, sa source ou sa montagne avec une vigilance jalouse. Il bénit les humains qui respectent son domaine et punit ceux qui le profanent.
+
+## HABITAT
+
+L'habitat par excellence du diwata est le **balete** — terme philippin désignant plusieurs espèces de figuiers étrangleurs (*Ficus indica*, *Ficus benjamina*, *Ficus stipulosa*) dont les racines aériennes forment des cathédrales végétales aux troncs creux, aux galeries naturelles et aux ombres profondes. Le balete est par excellence l'arbre-sanctuaire des Philippines : on ne le coupe jamais, on ne pisse pas à son pied, on ne s'y endort pas sans précaution. Les vieux balete situés aux carrefours, aux abords des cimetières ou dans les forêts profondes sont réputés abriter chacun son diwata.
+
+D'autres habitats sont reconnus : les sources d'eau pure jaillissant des flancs de montagne, les bassins isolés au cœur de la jungle, les sommets brumeux comme le mont Makiling à Luçon, le mont Kanlaon à Negros, le mont Apo à Mindanao. Là où la nature manifeste une présence saisissante, on suppose un diwata résident.
+
+## DESCRIPTION
+
+Le diwata revêt presque toujours une *forme humaine de grande beauté*, distincte cependant des humains ordinaires par plusieurs traits subtils. La peau est claire — souvent décrite comme d'un blanc lumineux, parfois doré — ce qui dans le contexte austronésien tropical signale immédiatement l'altérité. Les cheveux sont longs, noirs ou châtains, soyeux, descendant souvent jusqu'aux genoux. Les yeux sont grands, sombres, intensément vifs.
+
+Plusieurs détails physiques permettent de les reconnaître malgré le déguisement humain. Selon les variantes, ils n'ont pas de *philtrum* (ce sillon vertical sous le nez), leurs pieds ne touchent pas tout à fait le sol, leur ombre est absente ou inversée, ou leurs vêtements sont ceux d'une époque révolue. Les diwata mâles sont décrits comme des jeunes hommes d'une beauté presque féminine ; les diwata femelles, comme des jeunes femmes au charme irrésistible et parfois fatal.
+
+Certains diwata se manifestent au contraire sous forme animale ou hybride — papillon géant, oiseau au plumage chatoyant, voire silhouette humaine dotée d'ailes diaphanes (*lambana* en tagalog).
+
+## POUVOIRS
+
+Le pouvoir fondamental du diwata est l'**enchantement** : il peut faire perdre à un humain le sens du temps et de l'orientation. Ceux qui pénètrent un domaine de diwata sans formule de protection peuvent errer pendant des heures dans une forêt qu'ils croient connaître, ou réémerger croyant avoir passé un après-midi quand des semaines se sont écoulées. Cet enchantement temporel est l'un des thèmes les plus constants du folklore philippin.
+
+Le **don de fertilité ou de stérilité** lui appartient : il peut bénir une femme qui passe sous son arbre avec respect, ou la frapper d'infécondité si elle l'a offensé. Les chasseurs, les pêcheurs et les paysans dépendent également de sa bienveillance pour la prospérité de leurs activités.
+
+La **maladie d'origine surnaturelle** — la *pasma sa diwata*, atteinte par le diwata — survient lorsqu'on a piétiné son territoire sans respect. Elle se manifeste par fièvres, enflures, troubles mentaux, et ne se soigne pas par la médecine ordinaire mais par les rituels de l'*albularyo* (guérisseur traditionnel) qui négocie avec l'esprit offensé.
+
+L'**enlèvement** est un pouvoir redouté. Le diwata peut emporter l'humain qui lui plaît dans son monde invisible, où le temps ne s'écoule pas comme ici. Certains réapparaissent des années plus tard sans avoir vieilli ; d'autres ne reviennent jamais.
+
+## FAIBLESSES
+
+Les diwata respectent les humains qui prononcent la formule **"tabi-tabi po"** (*écartez-vous, s'il vous plaît*), avertissement traditionnel qu'on murmure avant de marcher en forêt, d'uriner près d'un arbre, ou de couper du bois. Cette formule, encore largement employée dans les Philippines contemporaines, suffit dans la plupart des cas à éviter l'offense.
+
+Le **sel**, le **gingembre** (*luya*) et certaines herbes aromatiques repoussent les diwata malveillants — éléments classiques de la pharmacopée magique austronésienne, dont la chaleur et la vivacité gustative tranchent avec la fraîcheur ombragée de leur monde.
+
+Les **objets bénits catholiques** — eau bénite, médailles, scapulaires, prières — sont considérés efficaces depuis l'ère coloniale, particulièrement contre les diwata réinterprétés comme démoniaques. Cette protection est cependant ambiguë dans le folklore : certains diwata, paisibles avant la conquête, ne deviennent hostiles qu'après avoir été chassés par les missionnaires de leurs sanctuaires.
+
+L'**offrande propitiatoire** — riz, vin de palme (*tuba*), poulet, fleurs, déposés au pied de l'arbre-sanctuaire — désamorce la colère du diwata offensé et restaure la relation rompue.
+
+## COMPORTEMENT
+
+Le diwata est par défaut *neutre*, voire bienveillant envers les humains qui respectent son domaine. Il n'attaque pas sans provocation. Mais sa réaction aux transgressions est immédiate et souvent disproportionnée selon les standards humains.
+
+Les transgressions principales sont : couper un arbre balete sans permission rituelle, uriner ou déféquer au pied de son arbre, faire du bruit dans son domaine au crépuscule, prendre de l'eau à sa source sans demander, abattre une portion de forêt qu'il considère sienne. Chacune de ces offenses peut entraîner maladie, accident, perte des récoltes, voire mort.
+
+Inversement, le diwata récompense le respect : protection contre les autres esprits malveillants, prospérité agricole, fertilité, retour sain et sauf des voyageurs en forêt. Une relation correcte avec le diwata local est, dans la conception traditionnelle, un facteur essentiel du bien-être communautaire.
+
+Les diwata féminins manifestent parfois un comportement amoureux envers des humains. La tradition rapporte de nombreux récits où un jeune homme, séduit par une diwata, vit une union secrète avec elle pendant un temps — union toujours fragile, qui se brise au moindre manquement de discrétion.
+
+## RÉCITS TRADITIONNELS
+
+Le récit emblématique est celui de **Maria Makiling**, diwata du mont Makiling à Luçon. Décrite comme une jeune femme d'une beauté éclatante, aux longs cheveux noirs, elle régnait sur la forêt et ses habitants. Elle aidait les chasseurs perdus, soignait les malades, prêtait de la vaisselle d'or aux paysans pour leurs fêtes — vaisselle qu'il fallait restituer scrupuleusement. Trahie par un amant humain qui révéla son existence, ou par les paysans qui omirent un jour de rendre ce qu'ils avaient emprunté, elle se retira définitivement dans l'invisible. Le mont Makiling, depuis, a la silhouette d'une femme couchée — c'est elle, dorment selon certains, partie selon d'autres.
+
+Un second récit fréquent rapporte l'histoire d'un voyageur perdu en forêt qui, ayant respectueusement prononcé *tabi-tabi po* avant chaque pas, fut conduit par un diwata jusqu'à un palais invisible niché dans un balete. Il y vécut un banquet d'une nuit, fut renvoyé chez lui le matin, et constata qu'un siècle s'était écoulé.
+
+Un troisième type de récit rapporte les châtiments. Un homme urine au pied d'un balete malgré l'avertissement de ses aînés. Le soir même, il est pris de fièvre, son corps enfle, il délire. L'*albularyo* convoqué identifie l'esprit offensé, prépare une offrande de riz et de poulet noir, et la dépose au pied de l'arbre. La fièvre cède dans les heures suivantes. Ces récits, omniprésents dans les zones rurales philippines, fonctionnent comme une véritable jurisprudence orale du respect dû à la nature.
+
+## VARIANTES RÉGIONALES
+
+Chez les **Tagalogs** de Luçon central, *diwata* désigne l'esprit anthropomorphe gardien des arbres et montagnes. Maria Makiling et Maria Sinukuan (du mont Arayat) en sont les figures les plus célèbres. Les *lambana*, sous-catégorie tagalog, sont des diwata ailés, plus proches du modèle féérique européen.
+
+Chez les **Bisaya** des îles centrales (Cebu, Bohol, Negros), le terme coexiste avec *engkanto*. Le *tamawo* hiligaynon des îles de Panay et Negros est un diwata particulièrement enclin à enlever les humains pour les emmener dans son monde — variante plus inquiétante que le diwata tagalog majoritairement bienveillant.
+
+Chez les **Kapampangan** de la plaine centrale de Luçon, la forme ancienne *dewata* se rapproche plus directement de l'étymon sanskrit. Les diwata kapampangan sont associés au mont Arayat et reçoivent des cultes saisonniers liés au cycle agricole du riz.
+
+Chez les **Ilokanos** du nord de Luçon, le diwata fusionne partiellement avec la catégorie plus large des *anito*, esprits de la nature et des ancêtres. Le *mangmangkik*, esprit forestier ilokano qu'il faut apaiser avant de couper un arbre, fonctionne sur le modèle du diwata même si le nom diffère.
+
+Dans les régions montagneuses de la Cordillère et chez les peuples de Mindanao non islamisés, des esprits gardiens analogues existent sous d'autres noms (*pinading* chez certains Igorots, *tagbanwa* chez les Visayas occidentaux), témoignant de l'universalité philippine du concept par-delà les variantes lexicales.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'imaginaire contemporain — globalisé, alimenté par les studios d'animation, les productions Disney et les jeux vidéo — a produit une image édulcorée du diwata qui s'écarte considérablement de la tradition.
+
+Le diwata commercial moderne est généralement représenté comme une **fée philippine**, sur le modèle des fées européennes : petite, ailée, scintillante, exclusivement bénéfique, dépourvue d'ambiguïté morale. Cette image, popularisée notamment par certaines productions télévisées philippines des années 2000-2020 et par l'iconographie des produits dérivés, gomme la dimension dangereuse, territoriale et taboutique de la créature originelle.
+
+Plusieurs traits authentiques disparaissent dans cette transposition. Le diwata folklorique n'est pas systématiquement de petite taille — il est le plus souvent humanoïde de stature normale, voire grand. Il n'est pas toujours ailé : seuls les *lambana* portent des ailes, et la plupart des diwata se déplacent sans elles. Il n'est pas exclusivement bienveillant : sa colère est redoutable et explique une part importante des malheurs ruraux dans la conception traditionnelle.
+
+La fée européenne — sylphide, ondine, fée Morgane, fée des contes de Perrault — appartient à un autre univers mythologique, indo-européen, où elle joue d'autres rôles narratifs. Le diwata philippin partage avec elle l'enveloppe de la beauté humaine, l'enchantement et le rapport à la nature, mais il s'en distingue par son ancrage *territorial strict* (un diwata = un lieu précis), par son lien aux *taboos animistes* austronésiens (formules d'évitement, offrandes propitiatoires), et par l'absence des hiérarchies féériques européennes (cour des fées, roi des elfes, etc.) — chaque diwata est souverain de son arbre, sans royaume centralisé.
+
+Confondre les deux figures, c'est faire perdre au diwata sa spécificité culturelle et le réduire à un substrat folklorique générique commercialisable.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations précoloniales du diwata sont rares en raison de la nature périssable des supports utilisés (bois, fibres végétales) et des destructions massives opérées par les missionnaires espagnols qui voyaient dans ces objets des idoles à brûler. Quelques **statuettes en bois sculpté** ont néanmoins survécu dans des collections privées et muséales : figures humanoïdes stylisées, parfois assises en posture de méditation, parfois debout, aux traits volontairement schématisés. Ces statuettes étaient placées dans les *lakaran* (sanctuaires forestiers) ou conservées par les *babaylan* dans leurs huttes rituelles.
+
+À l'époque coloniale, l'iconographie du diwata se réfracte dans les **retablos catholiques populaires** des XVIIᵉ-XIXᵉ siècles, où les saints introduits par l'Espagne reprennent souvent les traits et fonctions des diwata locaux. La Vierge Marie, en particulier, absorbe une part de la figure de Maria Makiling et autres diwata féminines des montagnes — la dévotion mariale philippine reste, dans certaines communautés rurales, traversée par cette superposition.
+
+Au XXᵉ siècle, le mouvement de **renaissance culturelle philippine** post-indépendance produit une iconographie diwata stylisée mêlant inspirations précoloniales et modernismes, visible dans les fresques publiques, les illustrations de livres scolaires et les œuvres d'artistes comme Carlos Francisco. Cette iconographie cherche à restituer une dignité indigène à la figure, en réaction tant à l'effacement colonial qu'à la commercialisation contemporaine.
+
+## POUR ALLER PLUS LOIN
+
+Le diwata constitue l'une des entrées les plus riches du folklore philippin précolonial. Sa survivance contemporaine, encore vive dans les régions rurales et dans les pratiques rituelles traditionnelles, en fait l'un des rares cas où un imaginaire animiste austronésien a pu traverser sans rupture quatre siècles de catholicisme et un demi-siècle de mondialisation.
+
+Les sources écrites disponibles incluent les chroniques espagnoles des XVIᵉ-XVIIᵉ siècles (qui mentionnent ces croyances pour les condamner), les compilations folkloriques philippines des XXᵉ-XXIᵉ siècles, et les traditions orales encore collectées dans les zones rurales. La figure de Maria Makiling, en particulier, fait l'objet d'une littérature abondante en tagalog et en anglais.
+
+## PROMPT IMAGE
+
+Precolonial Filipino mythological illustration of a Diwata, the guardian spirit of the forest, depicted as a beautiful luminous-skinned woman with extremely long flowing black hair reaching her knees, standing barefoot at the entrance of a hollow ancient balete tree (Filipino strangler fig) with massive aerial roots forming a natural archway, dappled tropical jungle sunlight filtering through dense canopy, the woman wearing draped indigenous Filipino textile garments with traditional pre-Hispanic gold ornaments (panika earrings, beaded necklaces, gold bracelets), her feet hovering subtly above the moss-covered ground, no shadow cast on the earth, surrounding her a cloud of fireflies and small luminous spirits (lambana) with diaphanous wings, the balete tree's bark textured with sacred age, offerings of rice, betel nut, native flowers and tuba palm wine in a coconut shell visible at the tree's base, distant mist-shrouded volcanic mountains visible through forest gaps, art style mixing precolonial Filipino sculptural aesthetics with Spanish colonial retablo painting tradition, warm golden tropical light, rich greens and earthen browns dominant palette, painted-on-aged-canvas texture, sacred and slightly otherworldly atmosphere, no Western fairy aesthetics, no Disney style, no cartoon, no 3D rendering, no text, no letters, no inscriptions, no labels, vintage natural history illustration quality with ethnographic accuracy, dignified and reverent composition emphasizing the spirit's territorial authority over her sacred tree
