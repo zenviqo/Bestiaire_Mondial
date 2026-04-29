@@ -1,0 +1,153 @@
+---
+nom_principal: Mangus
+nom_original: Мангус (mongol cyrillique) / ᠮᠠᠩᠭᠤᠰ (mongol bitchig, script ouïgour vertical)
+variantes_linguistiques:
+  - mongol_khalkha: Мангус (Mangus)
+  - mongol_classique: mangγus, mangγuus
+  - bouriate: Мангадхай (Mangadhai), parfois Мангатхай
+  - kalmouk_oïrate: Маңһс (Mangkhs), Mangus
+  - touva: Mangys
+  - khakasse: Mangys, Moos
+categorie: monstre cannibale / géant multi-tête / antagoniste épique
+tradition: mongole, sibérienne
+sous_tradition: épopée Geser et cycle des héros mongols-bouriates
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# MANGUS
+
+## SIGNIFICATION DU NOM
+
+Le terme *mangγus*, transcrit communément *Mangus* en mongol moderne, désigne dans les langues mongoles un monstre démesuré et dévorateur. Sa racine paraît ancienne et n'a pas reçu d'étymologie pleinement assurée par la philologie altaïque ; certains spécialistes la rapprochent de termes désignant la voracité, l'engloutissement ou le mal incarné, d'autres y voient un emprunt très ancien à des couches linguistiques pré-mongoles de la steppe.
+
+Le nom se décline selon les aires :
+
+- En mongol khalkha, *Мангус* désigne le monstre par excellence des contes et des épopées.
+- En bouriate, la forme *Мангадхай* (Mangadhai) ajoute un suffixe nominalisateur particulier au radical commun ; elle nomme le même type de créature mais l'ancre plus spécifiquement dans le cycle épique trans-baïkalien.
+- En kalmouk-oïrate, on parle de *Mangkhs* ou *Mangus*, sous une forme contractée propre aux dialectes occidentaux.
+- Chez les peuples turcophones de Sibérie méridionale (Touvas, Khakasses), la forme *Mangys* a été empruntée et désigne une figure analogue.
+
+Le mot est devenu, dans les langues mongoles, un nom commun désignant tout monstre épique gigantesque — au point que dans la langue moderne il sert d'équivalent générique à *ogre* ou *démon dévoreur*.
+
+## ORIGINE
+
+Le Mangus n'a ni naissance fixe ni généalogie unifiée. Les épopées le présentent comme une créature *déjà là*, surgie d'âges anciens où le monde n'était pas encore stabilisé par les héros civilisateurs. Certains chants en font un descendant des forces noires opposées au ciel lumineux, dans un dualisme cosmologique imprégné de couches chamaniques et bouddhiques. D'autres traditions, plus brèves, en font un être issu des entrailles de la terre ou des montagnes elles-mêmes, comme si la roche, en se fissurant, avait pu enfanter cette monstruosité qui en garde la couleur, la pesanteur et la dureté.
+
+Dans le grand cycle épique du héros Geser — *Geser Khaan* en mongol, *Abai Geser* en bouriate — le Mangus apparaît comme l'antagoniste fondamental. Le monde a été confié au héros descendu du ciel précisément parce que la terre était infestée de Mangus de plusieurs têtes, qui dévoraient les troupeaux, les hommes et parfois des cités entières. La fonction héroïque centrale, dans cette tradition, est de *purger* la steppe et la taïga de ces créatures.
+
+## NATURE
+
+Le Mangus est un *monstre cannibale géant* — non un dieu, non un esprit, non un démon désincarné. C'est une chair énorme et hostile, dotée d'une volonté nuisible et d'une intelligence rusée. Il appartient à la catégorie des êtres qui *dévorent* le monde, et la tradition mongole insiste sur cette fonction : le Mangus avale, ingère, fait disparaître. Il est la gueule ouverte de la steppe.
+
+Il est par ailleurs *multiple*. Sa caractéristique la plus universellement reconnue est la *pluralité de ses têtes*. Selon les versions, il en porte trois, sept, douze, quinze, vingt-cinq, parfois davantage. Ce trait n'est pas décoratif : chaque tête possède sa propre vie, sa propre voracité, parfois sa propre voix, et lorsque l'une est tranchée, une autre repousse à sa place — sauf si l'on applique au moignon le remède adéquat.
+
+Sa nature est enfin *immémoriale*. Le Mangus n'est pas un mortel grandi à des dimensions monstrueuses ; il représente un fond ancien, une couche du monde qui précède l'ordre humain et qu'il faut écarter pour que l'ordre puisse s'établir.
+
+## HABITAT
+
+Le Mangus habite les marges. Il est associé aux *forteresses naturelles dans les rochers* — palais creusés dans les flancs de montagnes, citadelles enfouies au cœur de massifs inaccessibles, grottes immenses dont l'entrée s'ouvre comme une gueule. Plusieurs épopées décrivent sa demeure comme un palais entièrement de fer ou de cuivre, dressé au sommet d'une montagne, gardé par des bêtes monstrueuses et entouré de troupeaux de bétail volé.
+
+Il fréquente aussi les *steppes désertes* du nord, les zones où le pâturage cède la place à la pierre, les régions liminaires entre la prairie habitable et les terres incultes. Dans la tradition bouriate, le Mangadhai règne souvent sur des contrées orientales situées au-delà des frontières du monde humain, terres de glaces et de forêts denses où nul troupeau ne paît.
+
+Sa présence se signale par la dévastation : pâturages vidés, rivières asséchées par sa soif, fumées noires montant de ses feux gigantesques où il fait rôtir ses captures.
+
+## DESCRIPTION
+
+Le Mangus est d'abord et avant tout *gigantesque*. Sa taille excède celle du plus grand des hommes au point que les héros eux-mêmes, lorsqu'ils le combattent, paraissent comme des enfants à ses pieds. Les épopées emploient des hyperboles caractéristiques : son corps fait de l'ombre à toute une vallée, sa main couvre une yourte entière, son pas équivaut à la distance d'un jour de marche.
+
+Il porte plusieurs têtes — trait définitoire. La tradition fixe rarement le nombre exact, mais privilégie *trois*, *douze* ou *vingt-cinq*. Chaque tête est munie d'une bouche pleine de crocs, d'yeux qui louchent ou flamboient, parfois de cornes. Les têtes peuvent se quereller entre elles, se dévorer mutuellement, ou répondre à l'unisson lorsque le monstre parle.
+
+Sa peau est dure comme le fer ou le cuir tanné. Sa couleur tire vers le noir d'encre, le brun roussi par le feu, ou parfois — dans les variantes bouriates — vers un rouge sang. Son corps est massif, souvent ventru, doté de bras énormes et de jambes capables de fouler une armée d'un seul mouvement.
+
+Il porte parfois des armes démesurées : massues taillées dans des troncs entiers, sabres qu'aucun mortel ne pourrait soulever, arcs si grands que la flèche atteint la taille d'un sapin. Mais sa principale arme reste son *corps* lui-même : ses gueules, ses griffes, son poids.
+
+## POUVOIRS
+
+Le Mangus possède la *force colossale* — il déracine des arbres, brise des troupeaux d'un coup, écrase des forteresses humaines.
+
+Il possède la *régénération céphalique* : chaque tête tranchée repousse, à condition que le moignon ne soit pas immédiatement traité. Ce trait fait du combat contre lui une épreuve d'endurance désespérée pour quiconque ignore la technique adéquate.
+
+Il possède la *métamorphose*. Plusieurs épopées le montrent prenant des formes humaines pour s'introduire dans les campements et y séduire les femmes du héros pendant son absence. Il sait apparaître en beau cavalier, en vieillard inoffensif, en moine errant. Cette capacité fait de lui un ennemi doublement dangereux : non seulement par la force, mais par la ruse.
+
+Il possède la *connaissance des sortilèges*. Certains Mangus disposent de pouvoirs proches du chamanisme noir : ils envoient des maladies sur les troupeaux, paralysent les guerriers par leur regard, appellent les vents et les tempêtes pour favoriser leurs attaques.
+
+Sa *voracité* enfin est un pouvoir en soi. Le Mangus peut avaler des armées, des villes, des troupeaux entiers ; il avale à proprement parler le monde, et seul le héros qui parvient à lui ouvrir le ventre récupère parfois les vivants encore intacts dans ses entrailles.
+
+## FAIBLESSES
+
+Le Mangus a des points faibles précis, dont la connaissance constitue le savoir héroïque transmis par les chants.
+
+La *régénération de ses têtes* peut être vaincue. La technique fixée par la tradition consiste à *brûler immédiatement le moignon* avec une torche, du fer chauffé au rouge, ou des herbes sacrées allumées — souvent l'armoise, plante chamanique par excellence. La cicatrisation par le feu empêche la repousse. Cette technique, essentielle dans les chants de Geser, est répétée chaque fois qu'une tête tombe : le héros tranche, son compagnon ou son cheval-spirituel cautérise, et la tête ne revient pas.
+
+La *vie séparée* constitue une autre faiblesse classique. Plusieurs Mangus, dans la veine des contes mongols, dissimulent leur âme hors de leur corps — dans un œuf caché au sommet d'un arbre, dans le ventre d'un poisson au fond d'un lac, dans une boîte gardée par un oiseau au bout du monde. Le héros qui découvre et détruit ce réceptacle abat le Mangus à distance.
+
+L'*alcool* et le *sommeil*. Les Mangus sont décrits comme insatiables buveurs ; un Mangus ivre est un Mangus vulnérable, et plusieurs récits voient le héros profiter d'une beuverie pour porter le coup décisif.
+
+La *protection bouddhique*. Avec l'islamisation par le bouddhisme tibétain de la Mongolie à partir du XVIᵉ-XVIIᵉ siècle, les Mangus deviennent dans certaines couches du folklore vulnérables aux mantras, aux dorjés et aux exorcismes des lamas. Cette strate est tardive mais réelle dans les versions postérieures.
+
+## COMPORTEMENT
+
+Le Mangus est *brutal mais rusé*. Les épopées soulignent que son intelligence n'est pas nulle ; au contraire, certains Mangus tendent des pièges élaborés, négocient, mentent, manipulent. Le héros ne peut pas se contenter de la force pour le vaincre — il doit déjouer ses ruses.
+
+Il est *territorial*. Chaque Mangus règne sur un domaine particulier — une vallée, une montagne, une région entière — et y prélève son tribut de bétail et de chair humaine. Lorsque ce tribut tarit, il étend sa razzia aux territoires voisins.
+
+Il est *sociable entre semblables*. Plusieurs récits montrent des Mangus en assemblée, banquetant ensemble, conspirant, partageant le butin. Certains se reconnaissent comme parents — frères, oncles — formant une lignée de monstres qui doivent être abattus successivement par le héros.
+
+Il est enfin *prédictif*. Le Mangus pressent souvent l'arrivée de son tueur ; il consulte ses devins, examine les présages, dépêche des espions. Mais cette prescience ne le sauve pas : la tradition épique veut qu'il soit toujours, finalement, défait.
+
+## RÉCITS TRADITIONNELS
+
+Le récit central qui a fixé la figure du Mangus dans la mémoire eurasiatique est l'*épopée de Geser*. Ce vaste cycle, partagé entre Tibet, Mongolie et régions bouriates, fait du héros descendu du ciel le tueur de Mangus par excellence. Geser parcourt la steppe, traverse les montagnes, et affronte successivement plusieurs Mangus — chacun avec son nombre de têtes propre, son palais, ses ruses.
+
+Dans une scène emblématique, Geser combat un Mangus à *douze têtes* qui a dévoré des cités entières et ravi sa propre épouse pendant son absence. Le héros, monté sur son cheval-spirituel, tranche les têtes une à une ; à chaque tête tombée, son fidèle écuyer cautérise la plaie au fer rouge. Le combat dure des jours. À la dernière tête, le Mangus s'effondre, et Geser ouvre son ventre pour libérer les captifs encore vivants qui y avaient été engloutis.
+
+Une autre scène, fréquente dans les variantes bouriates du cycle, voit le Mangadhai prendre la forme d'un beau cavalier pour entrer dans le campement du héros pendant son absence et séduire son épouse. Le héros, averti par un présage, revient à temps. Un combat singulier s'engage où la métamorphose joue un rôle aussi grand que la force.
+
+Hors du cycle de Geser, les contes traditionnels mongols et bouriates conservent de nombreux récits indépendants où un héros plus modeste — fils cadet d'une famille pauvre, orphelin, jeune chasseur — affronte un Mangus pour libérer une captive, récupérer un troupeau volé, ou venger un parent dévoré. Ces contes, recueillis par les ethnographes russes et mongols aux XIXᵉ et XXᵉ siècles, témoignent de la vitalité de la figure dans la culture orale jusqu'à l'époque récente.
+
+## VARIANTES RÉGIONALES
+
+Le **Mangus mongol** de la steppe khalkha (Mongolie centrale et orientale) est la forme la plus stéréotypée : géant à plusieurs têtes, cannibale, antagoniste de Geser et des héros de contes. La tradition orale mongole en a fait le monstre épique générique.
+
+Le **Mangadhai bouriate**, attesté dans le cycle d'Abai Geser et les nombreux contes bouriates, possède des traits plus nettement chamaniques. Il pratique la métamorphose, dialogue avec les esprits noirs, dispose souvent d'une *âme externe* cachée dans un objet à découvrir. Sa figure est imprégnée de la cosmologie chamanique trans-baïkalienne. Les versions bouriates de l'épopée sont parmi les plus longues et les plus développées du cycle gesarique.
+
+Le **Mangus kalmouk-oïrate**, transmis par les Oïrates de l'ouest mongol et leurs descendants kalmouks de la basse Volga, partage l'essentiel des traits mais s'inscrit dans le grand cycle épique du *Djangar*, où il joue le rôle d'antagoniste face au héros Djangar et à ses preux. Les Mangus du *Djangar* sont souvent des chefs de hordes ennemies, mi-monstres mi-souverains de royaumes hostiles.
+
+Les peuples turcophones de Sibérie méridionale — Touvas, Khakasses, Altaïens — ont emprunté la figure sous le nom de *Mangys* ou *Moos*, où elle s'hybride avec leurs propres traditions de monstres dévoreurs. Ces variantes turques témoignent de la circulation ancienne du motif à travers l'Asie intérieure.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs traits répandus dans la culture populaire ne correspondent pas à la tradition mongole authentique :
+
+- L'assimilation du Mangus aux *dragons* d'Extrême-Orient ou européens est fautive. Le Mangus n'est pas un reptile ailé crachant le feu ; il est un géant cannibale à plusieurs têtes, anthropomorphe pour l'essentiel. La confusion provient de traductions hâtives en langues européennes qui rendaient *mangγus* par *dragon*.
+
+- L'idée d'une figure unique nommée « le Mangus » est inexacte. Les épopées mongoles parlent toujours *des* Mangus, au pluriel — toute une race, toute une lignée de monstres analogues que le héros doit affronter successivement.
+
+- La représentation du Mangus comme simple brute stupide est tronquée. Les chants épiques lui prêtent une intelligence rusée, une capacité de métamorphose, des sortilèges. Le réduire à la force aveugle revient à perdre la moitié de la figure.
+
+- L'association du Mangus aux *zombies* ou aux morts-vivants, parfois rencontrée dans la fantasy d'inspiration eurasiatique, est sans fondement. Le Mangus est un vivant — un vivant monstrueux et hostile, mais un vivant.
+
+- Enfin, l'usage moderne en mongol contemporain, où *mangus* sert parfois d'équivalent générique à *ogre* ou *monstre* dans les traductions de littérature étrangère, ne doit pas faire oublier la spécificité épique de la figure : le Mangus authentique appartient au cycle de Geser et à la culture orale qui l'a porté.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie mongole et bouriate du Mangus se trouve principalement dans trois supports :
+
+Les **thangkas mongols** d'inspiration tibéto-bouddhique représentent parfois Geser à cheval, transperçant ou décapitant un Mangus à plusieurs têtes. Ces peintures, exécutées sur toile selon les conventions tibétaines, datent surtout du XVIIIᵉ-XIXᵉ siècle et furent produites dans les monastères de Mongolie-Extérieure et de Bouriatie. Le Mangus y apparaît comme une figure démoniaque sombre, corps musclé, têtes multiples, gueules ouvertes, parfois avec l'auréole de flammes propre à l'iconographie courroucée du bouddhisme tantrique.
+
+Les **masques Tsam** de la danse rituelle mongole — pratique chamanico-bouddhique introduite à partir du XVIIᵉ siècle dans les monastères de Mongolie — incluent parfois des figurations de monstres protecteurs ou ennemis dont la facture rappelle les Mangus : têtes immenses, dents proéminentes, yeux exorbités. Bien que la danse Tsam relève principalement du panthéon courroucé tibétain (*dharmapalas*), elle a intégré localement des éléments puisés au folklore mongol.
+
+Les **manuscrits bouriates** illustrés du cycle d'Abai Geser, copiés et transmis dans les monastères et les familles lettrées du Trans-Baïkal, comportent occasionnellement des illustrations à l'encre figurant les combats du héros contre les Mangadhai. Le style en est plus simple, proche de l'illustration narrative populaire, et plus directement folklorique que les thangkas monastiques.
+
+## POUR ALLER PLUS LOIN
+
+Le Mangus appartient au plus vaste cycle épique mongol, celui de *Geser Khaan*, transmis oralement depuis des siècles avant d'être consigné par écrit dans plusieurs versions à partir du XVIIIᵉ siècle. Les éditions imprimées de Pékin (1716), les versions bouriates recueillies au XIXᵉ et XXᵉ siècle par les ethnographes russes, et les versions kalmoukes du *Djangar* constituent le corpus principal qui a fixé la figure.
+
+L'ethnographie russe et soviétique a beaucoup contribué à la collecte des contes où apparaît le Mangus, notamment chez les Bouriates du Trans-Baïkal et chez les Mongols de Khalkha. Les recueils publiés depuis la fin du XIXᵉ siècle conservent des centaines de récits oraux mettant en scène la figure.
+
+La popularité du cycle gesarique en Asie centrale et orientale — du Tibet au Trans-Baïkal — fait du Mangus l'un des monstres folkloriques les plus largement attestés à travers une vaste aire culturelle, avec une remarquable stabilité de ses traits définitoires : taille gigantesque, têtes multiples, fonction d'adversaire absolu du héros civilisateur.
+
+## PROMPT IMAGE
+
+Mongolian thangka and Buryat manuscript illustration style depicting a Mangus, the multi-headed cannibal giant of Mongolian and Buryat epic tradition, painted on aged parchment-like surface in mineral pigments and ink, the monster shown as a colossal anthropomorphic figure with twelve distinct heads sprouting from massive shoulders, each head bearing a fanged maw and burning eyes, dark reddish-brown skin rendered in flat opaque pigment with fine ink linework defining muscle and sinew, the giant standing before a fortress carved into living rock high in the steppe mountains, herds of stolen cattle and horses visible at his feet, behind him a black palace of iron with smoke rising from sacrificial fires, the heroic figure of Geser Khaan visible in the distance mounted on a golden-maned spirit horse drawing a bow, decorative cloud bands and stylized flames swirling around the composition in tibeto-mongolian thangka convention, the Mangus armed with an enormous club fashioned from a tree trunk and a curved iron sabre at his belt, severed heads of previous victims dangling from his sash, the steppe landscape extending to a horizon of snow-capped mountains under a sky of layered greys and ochres, ornamental border in mongolian and buryat manuscript style with stylized lotus and cloud motifs, palette dominated by deep reds, ochres, blacks, ivories and faint golds, no text, no letters, no inscriptions, no cyrillic, no script of any kind, traditional sacred-art aesthetic, hand-painted appearance, no modern rendering, no 3D, no photorealism, no cartoon, aged surface texture, ceremonial atmosphere of an epic combat between civilizing hero and primordial monster
