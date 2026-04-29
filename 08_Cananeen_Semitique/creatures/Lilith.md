@@ -1,0 +1,150 @@
+---
+nom_principal: Lilith
+nom_original: לִילִית (lîlîṯ, hébreu) / lilītu (akkadien apparenté)
+variantes_linguistiques:
+  - hebreu_biblique: לִילִית (Lîlîṯ)
+  - arameen_babylonien: לילית, לילתא (Lilita, Liltha)
+  - akkadien_apparente: lilītu, lilû, ardat lilî
+  - judeo_arabe: لِيلِيث (Lîlîth)
+  - yiddish: לילית (Lilis, Lilit)
+  - syriaque: ܠܠܝܬܐ (Lilitha)
+categorie: démone nocturne / ravisseuse de nourrissons / classe des Lilin
+tradition: juive (avec substrat cananéen et proto-sémitique)
+sous_tradition: juive babylonienne, talmudique, médiévale
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# LILITH
+
+## SIGNIFICATION DU NOM
+
+L'étymologie du nom *Lîlîṯ* a fait l'objet de discussions anciennes que les traditions n'ont jamais entièrement tranchées. Trois pistes principales se croisent.
+
+La première rattache le nom à la racine sémitique *lyl* qui désigne la *nuit*. Lilith serait alors *la nocturne*, *celle de la nuit*, démone du temps obscur où les frontières entre les mondes s'amincissent. Cette lecture est la plus répandue dans la tradition juive postérieure, qui associe systématiquement la créature aux heures où dort l'humanité.
+
+La seconde rattache le mot au terme désignant un *oiseau nocturne* — le hibou ou la chouette — animal des ruines et du désert. Les traductions anciennes des prophètes hébreux ont parfois rendu ainsi le nom, transformant la démone en simple rapace. Cette ambivalence entre *créature démoniaque* et *oiseau de nuit* a marqué profondément la figure dans son iconographie.
+
+La troisième, plus ancienne encore, rapproche le nom de la racine akkadienne *lilû* qui désigne un *vent* ou un *souffle nocif*, esprit aérien sans forme stable. Cette parenté révèle que Lilith n'est pas une invention juive isolée mais un héritage d'un substrat sémitique plus vaste.
+
+## ORIGINE
+
+La figure de Lilith provient d'une nappe ancienne de croyances mésopotamiennes peuplée par une classe d'esprits aériens nocifs — les *lilû* masculins, les *lilītu* féminines, et la *ardat lilî*, jeune fille démone non mariée. Ces entités, attestées dès la haute Antiquité dans les textes cunéiformes, hantent les ruines, les marges du désert et les chambres des dormeurs solitaires.
+
+Lorsque la tradition juive s'établit dans le bassin mésopotamien, en particulier durant la période d'exil et de présence babylonienne, elle hérita de cette classe démoniaque et la concentra autour d'une figure singulière : *Lîlîṯ*. La trace écrite la plus ancienne dans le corpus hébraïque la mentionne brièvement comme habitante des terres dévastées, parmi les hiboux et les bêtes hurlantes. Les traditions postérieures l'ont enrichie progressivement.
+
+Il faut distinguer soigneusement deux strates : la classe mésopotamienne *lilîtu* — esprit nocturne sans biographie — et la *Lilith juive* qui acquiert peu à peu un nom propre, une histoire, une généalogie démoniaque. La seconde émerge de la première, mais s'en sépare en devenant une figure individuelle dotée de récits.
+
+## NATURE
+
+Lilith est une *démone* au sens propre : entité spirituelle nocive, ni morte humaine ni divinité, appartenant à la classe des *Lilin* — esprits nocturnes proliférants dont elle serait la matrice ou la souveraine selon les récits.
+
+Elle est *nocturne* exclusivement. Aucune tradition ne la situe en plein jour ; sa puissance s'exerce durant les heures de sommeil, particulièrement à l'approche de minuit et avant l'aube.
+
+Elle est *prédatrice de la naissance et du désir*. Sa fonction démoniaque s'exerce sur deux territoires précis : les nourrissons fragiles dans leurs premiers jours, et les hommes endormis seuls dont elle exploite les rêves pour engendrer une descendance démoniaque. Cette double prédation — sur l'enfance vulnérable et sur la sexualité non encadrée — la définit entièrement. Elle est enfin *liminaire* : elle habite les seuils, les ruines, les marges, jamais le centre des cités ni les foyers gardés.
+
+## HABITAT
+
+Trois lieux principaux lui sont assignés par la tradition.
+
+Les *ruines* en premier lieu — vestiges des cités abandonnées, palais effondrés, maisons sans toit. Là où la présence humaine s'est retirée et où ne subsiste plus que la pierre nue, Lilith prend ses quartiers parmi les hiboux, les hyènes et les autres bêtes du désert hébreu.
+
+Le *désert* lui-même, en particulier ses étendues sauvages éloignées des routes et des points d'eau. La tradition la fait errer dans ces espaces vides comme un vent chaud, hurlant aux côtés des chacals.
+
+La *mer Rouge* enfin, selon une tradition médiévale développée tardivement : c'est là qu'elle se serait retirée après son refus initial, là qu'elle continuerait à résider, environnée d'une multitude d'enfants démoniaques qu'elle enfante chaque jour et qui meurent en grand nombre.
+
+Au-delà de ces espaces géographiques, elle hante les *chambres mal protégées* — celles où dort un homme seul, celles où se trouve un nouveau-né dont la mère ne porte pas d'amulette appropriée.
+
+## DESCRIPTION
+
+Lilith est traditionnellement décrite comme une *femme aux longs cheveux dénoués*. Cette chevelure libre, jamais tressée ni couverte, constitue son trait le plus reconnaissable et son arme principale : c'est par elle qu'elle séduit, qu'elle saisit, qu'elle étrangle parfois.
+
+Les traditions plus tardives lui ajoutent des *ailes* — non des ailes d'oiseau mais des ailes membraneuses de chauve-souris, ou des ailes de hibou nocturne, témoignant de sa parenté avec les rapaces de la nuit. Certains récits la dotent également de *serres* à la place des pieds, ou de *jambes* d'âne, traces persistantes de son origine non humaine.
+
+Sa beauté est mentionnée comme une beauté *trouble* — séduisante au premier regard, révélant un défaut au second : un pied animal, un œil reflétant une lumière étrangère, une peau trop pâle. Cette beauté défectueuse permet aux dormeurs avertis de la reconnaître à temps.
+
+Dans les bols incantatoires babyloniens, elle apparaît parfois sous une forme entièrement humaine, *liée par les pieds et les cheveux*, représentation magique destinée à neutraliser sa puissance. Ailleurs elle prend une apparence animale partielle — corps humain et tête de hibou, ou corps de femme se terminant en queue serpentine.
+
+## POUVOIRS
+
+Le *rapt et l'étouffement des nourrissons* constitue sa fonction démoniaque la plus redoutée. Elle s'introduit dans les chambres où dort un nouveau-né et l'emporte, ou l'étouffe sur place. Les morts subites du jeune enfant — celles qui restaient inexpliquées dans les sociétés anciennes — étaient attribuées à son action. Elle viserait particulièrement les garçons durant leurs huit premiers jours et les filles durant leurs vingt premiers.
+
+L'*induction de la pollution nocturne* désigne son pouvoir sur le sommeil masculin. Elle visite l'homme qui dort seul, le fait rêver d'union, et recueille ce qui en résulte pour engendrer la multitude des Lilin — esprits intermédiaires qui s'ajoutent chaque nuit à sa progéniture. La *capacité succube* en est la forme manifeste : elle se présente dans le rêve comme une femme désirable, pousse l'homme à céder, puis disparaît au matin en emportant ce qu'elle est venue chercher.
+
+L'*étranglement par les cheveux* est une forme particulière d'attaque mentionnée dans les bols incantatoires : elle saisirait sa victime de ses propres cheveux et serrerait jusqu'à l'asphyxie. La *possession des femmes en couches* — pouvoir de troubler les naissances, de faire mourir la mère ou l'enfant durant l'accouchement — l'associe étroitement à la démone mésopotamienne *Lamashtu* dont elle hérite partiellement la fonction.
+
+## FAIBLESSES
+
+La tradition juive a développé un arsenal défensif précis contre Lilith.
+
+Les *trois anges Senoï, Sansenoï et Sammangelof* constituent le rempart principal. Selon le récit médiéval qui fonde leur fonction, ces trois anges furent envoyés par le Très-Haut pour rappeler Lilith après sa fuite. Elle refusa de revenir mais conclut un pacte : elle s'engagea à ne pas attaquer les nouveau-nés sur lesquels seraient inscrits ces trois noms. Depuis lors, l'écriture des trois noms angéliques sur une amulette accrochée au berceau ou cousue dans les langes constitue la protection canonique du nourrisson juif.
+
+Les *amulettes Shir hama'aloth* — feuilles de parchemin portant les psaumes des montées et les noms des trois anges, parfois agrémentées de cercles, d'étoiles à six branches et de figures schématiques de Lilith liée — étaient placées dans la chambre de la parturiente et autour du berceau pendant les premiers jours suivant la naissance. Elles formaient un périmètre protecteur que la démone ne pouvait franchir.
+
+Les *cercles tracés à la craie* autour du lit du dormeur ou du berceau, parfois doublés d'inscriptions, l'empêchent d'entrer.
+
+Le *fer*, comme dans de nombreuses traditions démonologiques, lui est insupportable. Un objet de fer placé sous l'oreiller, un couteau posé près du berceau, une clé suspendue au-dessus du lit suffisent à la tenir à distance.
+
+Les *bols incantatoires retournés*, enterrés sous le seuil ou dans les coins de la chambre, fonctionnent comme des pièges magiques : la formule inscrite en spirale à l'intérieur capture la démone qui s'y aventurerait.
+
+L'*invocation de ses noms secrets* — la tradition lui en attribue dix-sept — permet enfin de la contraindre à se nommer puis à se retirer.
+
+## COMPORTEMENT
+
+Lilith n'agit pas par hasard. Sa démarche est *ciblée et ritualisée* : elle choisit la chambre, elle attend l'instant, elle frappe avec précision. Elle évite la confrontation directe avec les puissances établies — temple, prière collective, présence rabbinique — et exerce sa puissance dans la *solitude et l'inattention* : l'homme qui dort seul, la femme qui accouche sans entourage, le nourrisson laissé sans amulette.
+
+Elle est *négociatrice*. Le pacte conclu avec les trois anges montre qu'elle peut être contrainte à des engagements qu'elle respecte. Cette capacité contractuelle la distingue des démons purement aveugles : elle a une parole, qu'elle ne donne qu'à contrecœur mais qu'elle tient.
+
+Elle est *prolifique* : la tradition lui attribue la naissance quotidienne de centaines de Lilin, dont la majorité périt aussitôt. Cette fécondité démoniaque inversée — produire pour perdre — fait partie de ses traits les plus inquiétants. Elle est enfin *rancunière* : son refus initial et sa fuite l'ont placée à jamais dans la position de l'exilée volontaire, ne pardonnant ni au foyer humain qu'elle n'a pas habité, ni à l'ordre divin qu'elle n'a pas accepté.
+
+## RÉCITS TRADITIONNELS
+
+Quatre strates de récits ont façonné la figure.
+
+La première est la mention prophétique brève dans le livre d'Isaïe, où elle apparaît parmi les bêtes des ruines d'Édom — démons hurlants, hiboux et créatures du désert se partageant les palais effondrés. Cette mention incidente témoigne de la vivacité de la croyance au moment de la rédaction.
+
+La deuxième est le développement *talmudique babylonien*. Dans plusieurs traités, elle apparaît comme démone aux longs cheveux et aux ailes, dont il est interdit aux hommes de dormir seuls dans une maison sous peine d'être saisis par elle. Mère de démons, capable de prendre forme féminine, redoutable pour les rêveurs solitaires : le Talmud ne raconte pas sa biographie, il enregistre sa présence comme un fait du monde nocturne.
+
+La troisième strate est l'œuvre médiévale anonyme connue comme *Alphabet de Ben Sira*, recueil rédigé en terre d'Islam au tournant du premier millénaire. C'est là que se trouve formulé le récit de la *première femme d'Adam*. Selon ce récit, Lilith fut créée comme Adam à partir de la même terre et lui fut donnée comme épouse. Mais elle refusa la position de soumission qu'il lui imposa, prononça un nom divin secret, s'éleva dans les airs et s'enfuit vers la mer Rouge. Les trois anges envoyés à sa poursuite tentèrent de la ramener ; elle refusa, mais conclut le pacte qui fonde l'usage des amulettes. Depuis, elle enfante chaque jour des centaines de démons et en perd autant.
+
+La quatrième strate est la systématisation kabbalistique tardive, qui fit d'elle l'épouse du grand démon *Samaël* et la souveraine d'un anti-monde reflétant inversement l'ordre divin. Cette élaboration ésotérique ne supplanta jamais la Lilith populaire des amulettes et des bols.
+
+## VARIANTES RÉGIONALES
+
+Les *communautés juives babyloniennes* développèrent la pratique des bols incantatoires araméens, où Lilith apparaît sous des dizaines de variantes nominales — Liltha, Lilita, Bizath Lilita, Hablas Lilita — chacune désignant une instance particulière de la démone.
+
+Les *communautés juives d'Afrique du Nord et du Yémen* conservèrent jusqu'à l'époque récente les amulettes manuscrites *Shir hama'aloth* avec une iconographie particulièrement développée — figures de Lilith liée, étoiles, formules angéliques calligraphiées en cercles concentriques.
+
+Les *communautés ashkénazes d'Europe centrale et orientale* la nommèrent *Lilis* en yiddish et lui associèrent des superstitions précises autour de la chambre de la parturiente — fenêtres calfeutrées, lumière maintenue, veilleur permanent, inscriptions à la craie sur les murs. Les *traditions populaires syro-libanaises* la confondirent partiellement avec d'autres figures démoniaques féminines de la nuit, produisant des hybrides régionaux.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture contemporaine a profondément reconfiguré Lilith. Plusieurs traits modernes ne correspondent à aucune tradition juive authentique.
+
+La *Lilith féministe* présentée comme symbole positif d'émancipation, première femme rebelle révoltée contre la domination masculine, est une relecture moderne du récit de l'Alphabet de Ben Sira. Le récit médiéval lui-même la décrit comme une démone fugitive, non comme une héroïne — la réappropriation positive est un mouvement culturel récent, étranger au folklore.
+
+La *Lilith vampirique* — buveuse de sang, ancêtre des vampires, séductrice immortelle — est une construction du courant gothique tardif et de la fantasy contemporaine. Le folklore juif ne lui attribue ni la consommation de sang humain, ni le statut de morte-vivante, ni de lien avec la lignée vampirique.
+
+La *Lilith déesse de la lune noire*, telle qu'elle apparaît dans certains courants ésotériques contemporains, hybride la figure démoniaque avec des éléments astrologiques modernes (point fictif de l'orbite lunaire) et avec des reconstructions néo-païennes. Le folklore traditionnel ne la place pas dans une cosmologie planétaire.
+
+L'*assimilation à des déesses mésopotamiennes majeures* — Inanna, Ishtar — repose sur des lectures iconographiques contestées d'objets antiques qui ne représentent vraisemblablement pas Lilith. La démone juive n'a jamais été une déesse de fertilité ; elle est et reste une entité nocive. L'*image romantique de Lilith mère ancestrale* effaçant la démone ravisseuse de nourrissons opère une inversion totale : dans le folklore traditionnel, Lilith *prend* les enfants, elle ne les protège pas.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les supports iconographiques de Lilith dans le monde juif traditionnel sont essentiellement *magiques et protecteurs*, non décoratifs.
+
+Les *bols incantatoires babyloniens*, datés des premiers siècles de notre ère et retrouvés en grand nombre dans les sites mésopotamiens, présentent souvent une figure féminine schématique au centre — bras et jambes liés, cheveux dressés — entourée par une formule araméenne en spirale qui part du bord et converge vers le centre. La spirale piège la démone, la figure liée la rend impuissante. Ces bols étaient retournés et enterrés sous les seuils et dans les coins des chambres.
+
+Les *amulettes manuscrites Shir hama'aloth* des communautés d'Afrique du Nord, du Yémen et de Mésopotamie présentent un schéma typique : titre calligraphié, psaumes des montées en colonnes, noms des trois anges Senoï, Sansenoï et Sammangelof inscrits en grandes lettres, et au centre une figure schématique d'une femme aux longs cheveux entourée d'un cercle ou liée par des chaînes graphiques. Encadrés de motifs géométriques et d'étoiles à six branches, ces parchemins étaient accrochés dans la chambre de la mère et au-dessus du berceau.
+
+Les *figurines protectrices* — petites tablettes de plomb ou d'argile gravées — étaient placées dans les fondations des maisons. L'*iconographie médiévale juive* tardive offre des représentations plus narratives : Lilith fuyant Adam, Lilith sur la mer Rouge entourée de ses enfants démoniaques, Lilith liée par les trois anges. Ces images restent rares et toujours inscrites dans un cadre ouvertement démonologique.
+
+## POUR ALLER PLUS LOIN
+
+La figure de Lilith offre un cas particulièrement riche de continuité entre folklore proto-sémitique mésopotamien, démonologie biblique discrète, élaboration talmudique, fixation médiévale et persistance jusqu'à l'époque récente dans les pratiques amulétiques des communautés juives orientales et ashkénazes.
+
+Elle se distingue nettement de la classe mésopotamienne plus ancienne des *lilîtu* — esprits anonymes et non individualisés — dont elle est issue, et de la démone *Lamashtu*, ravisseuse mésopotamienne de nourrissons avec laquelle elle partage certaines fonctions sans s'y confondre. La Lilith juive est *un personnage* — avec un nom, une biographie, un pacte, un territoire — quand les autres figures restent des classes ou des types. Les sources principales sont la mention prophétique d'Isaïe, plusieurs passages du Talmud babylonien, l'Alphabet de Ben Sira, les bols incantatoires araméens, les amulettes manuscrites traditionnelles, et la littérature kabbalistique médiévale.
+
+## PROMPT IMAGE
+
+Ancient Babylonian incantation bowl illustration of Lilith the night demon, ink drawing on aged ceramic surface, detailed Aramaic-script-style engraving aesthetic, central female figure with extremely long flowing dark hair cascading downward in heavy waves, the figure shown frontally with wide open eyes, arms and ankles bound by visible spiritual cords, schematic membrane wings folded behind her shoulders, lower body partially serpentine fading into shadow, surrounded by a thick spiral of decorative abstract script-like patterns radiating outward from the center to the rim (decorative marks only, no readable text, no actual letters), small owl figures perched in the corners watching, ruined desert architecture suggested in faint background traces with broken columns and crumbling walls, three small angelic guardian silhouettes in the upper border standing with raised hands, six-pointed protective stars at the cardinal points of the rim, tiny figures of demonic infants scattered in the lower margin like falling shadows, the whole image rendered in deep sepia and burnt umber tones on cracked ochre clay texture, ancient Hebrew amulet manuscript aesthetic crossed with Mesopotamian incantation bowl tradition, heavy cross-hatching and stippling for shadow weight, atmosphere of contained nocturnal threat, magical containment imagery emphasizing the binding of the demon, no modern rendering, no 3D, no cartoon, no glamorous depiction, vintage archaeological illustration quality, aged parchment and ceramic texture, no text, no letters, no inscriptions, no labels, no readable script
