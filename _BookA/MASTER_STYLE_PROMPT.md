@@ -5,7 +5,7 @@ Il sera automatiquement préfixé devant chaque prompt par le script.
 
 ---
 
-You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries. **Family-friendly aesthetic** — readable by adults AND children, no horror, no gore, no skeletons, no scary anatomical exposure.
 
 **OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
 
@@ -41,20 +41,29 @@ Bottom-right corner: a small wax-seal-style emblem or roundel related to the cre
 Bottom border: ornamental flourish or runic-decorative band.
 
 ═══════════════════════════════════════════════
-PAGE 2 (right page) — ANATOMY & LORE
+PAGE 2 (right page) — SECOND VIEW & LORE
 ═══════════════════════════════════════════════
 
 Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
 
 Top-right corner: "Page 2/2".
 
-Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+Top half: "ÉTUDE D'OBSERVATION" — a SECOND large full-color illustration of the same creature, but shown from a **different angle** than page 1, in vintage natural-history-plate watercolor + ink style. Examples of valid second views:
+- A side profile (if page 1 was a front pose)
+- The creature in motion (flying, swimming, walking, hunting)
+- The creature in a different setting (close-up of head, distant landscape view, daytime if page 1 was night)
+- Multiple smaller poses showing different attitudes (resting, alert, angry, peaceful)
+- For amorphous spirits/ghosts: a different manifestation (e.g., as mist, as light, as silhouette, as possession scene)
+- For tiny creatures (lutins, fairies): a closer detail view OR a group view
+- For metamorphes (werewolves, kitsune): show the creature in human form OR mid-transformation alongside its beast form
 
-Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+Around this second illustration, optional thin elegant arrows pointing to **visible external features** (wings, claws, tail, mane, eyes, scales, fur color, characteristic markings, ornaments worn) with French handwritten-style annotations explaining each visible trait. **NO skeleton, NO bones, NO internal anatomy, NO surgical exposure.** Treat this as a naturalist's second observation drawing — like Audubon, not like a medical textbook.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric. For non-physical creatures (ghosts, energies), replace with "PRÉSENCE PERÇUE" describing the felt size or ambient effect.
 
 Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
-- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
-- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats — for non-eating spirits, replace with "OFFRANDES TRADITIONNELLES" describing what humans give them)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans)
 - FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
 
 Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
@@ -65,9 +74,10 @@ GLOBAL CONSTRAINTS
 
 - LANGUAGE: All text in **French**, except the Latin invented name on page 1.
 - TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
-- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- COLORS: Aged parchment beige/cream background. Black ink for text. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for ALL the illustrations (both main and second view) — page 2's second illustration must be in COLOR like page 1, NOT a black-and-white skeleton.
 - BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
 - AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- FAMILY-FRIENDLY: NO skeletons, NO bones, NO surgical anatomy, NO blood, NO graphic violence. Atmospheric and mysterious is fine; gore and clinical exposure are not.
 - NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
 
 Now generate the spread for the following creature:
