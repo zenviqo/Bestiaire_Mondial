@@ -1,0 +1,141 @@
+---
+nom_principal: Yag-mort
+nom_original: Яг-морт (komi-zyriane) / Yag-mort (romanisation)
+variantes_linguistiques:
+  - komi_zyriane: Яг-морт (Yag-mort, "homme de la forêt")
+  - komi_permyak: Яг-морт (Yag-mort), parfois Вöр-морт (Vör-mort, "homme du bois")
+  - oudmourte_voisin: Нюлэсмурт (Nyulesmurt, "homme de la forêt", figure cousine de tradition voisine)
+categorie: géant velu de la forêt / ogre forestier / antagoniste héroïque
+tradition: sibérienne, finno-ougrienne
+sous_tradition: komi-zyriane et komi-permyak (bassins de la Pechora et de la Vychegda)
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# YAG-MORT
+
+## SIGNIFICATION DU NOM
+
+Le nom *Yag-mort* est un composé komi à deux éléments. *Yag* désigne en komi-zyriane la forêt de pins, la pinède sèche caractéristique de la taïga uralienne septentrionale — non la forêt en général, qui se dirait *vör*, mais spécifiquement la pineraie de terre haute, sablonneuse, où le sol est tapissé de lichens blancs. Le second terme, *mort*, signifie *homme, être humain*. L'expression entière donne donc *l'homme de la pinède*, et plus largement *l'homme de la forêt* — l'habitant non humain qui hante l'espace que les Komis considèrent à la fois comme indispensable (chasse, cueillette, bois de construction) et comme dangereux dès lors qu'on s'y enfonce trop loin.
+
+La construction est typiquement finno-ougrienne : elle nomme la créature non par une qualité visible (sa pilosité, sa taille, sa férocité) mais par son territoire. Yag-mort est défini par le lieu où il est, et le lieu où il est définit ce qu'il est.
+
+## ORIGINE
+
+Yag-mort n'apparaît dans aucun récit cosmogonique komi connu. Il n'est pas un être primordial, ni un démiurge déchu, ni une créature née d'une union mythique entre forces premières. Il *habite* la taïga depuis toujours, sans qu'aucun récit ne raconte sa création — silence qui le rapproche d'une figure de l'altérité pure, antérieure à l'humanité komie elle-même, présence qui était là *avant que les hommes n'arrivent*.
+
+Certaines traditions du bassin de la Pechora le donnent comme un *ancien*, un survivant d'une race précédant les Komis dans l'occupation du territoire — race vaincue, refoulée vers les profondeurs sylvestres, et dont Yag-mort serait le dernier représentant rancunier. Cette lecture, qui assimile le géant velu à un peuple antérieur historiquement réel ou imaginaire, donne au personnage une coloration ethnographique : il devient le revers sauvage de l'installation humaine, ce que la civilisation komie a chassé sans pouvoir effacer.
+
+D'autres versions, davantage présentes chez les Komis-Permyaks, le rapprochent d'un brigand humain démesurément fort et long-vivant, devenu peu à peu monstrueux à force d'isolement forestier. Cette variante prépare le récit héroïque où il sera vaincu par Pera-bagatyr.
+
+## NATURE
+
+Yag-mort est un *géant velu* — créature humanoïde dépassant la stature humaine ordinaire, dont le corps entier est couvert d'une fourrure brune ou rousse. Il n'est pas un esprit incorporel mais un être de chair, mortel à condition d'être affronté correctement, qui mange, dort, saigne et peut être tué. Cette corporéité distingue d'emblée Yag-mort des esprits de la forêt incorporels du panthéon komi — il n'appartient pas à la classe des *vörsa* (esprits sylvestres) mais à celle, plus rare, des *créatures matérielles surhumaines*.
+
+Sa nature est profondément *antagoniste*. Il ne partage rien avec les humains, ne cherche pas leur compagnie, ne réclame pas d'offrandes comme le ferait un esprit propriétaire de la forêt. Il enlève, dévore, écrase. Sa présence dans le récit est invariablement celle d'une force à abattre, jamais d'une puissance à apaiser par le rite.
+
+Il est également *solitaire*. Aucune tradition komie ne lui prête de compagne, de descendance, ou de société semblable à la sienne. Yag-mort est unique dans le territoire qu'il hante, et cette unicité renforce son caractère de figure-frontière : il est le dernier, l'irréductible, celui qui reste.
+
+## HABITAT
+
+Le territoire de Yag-mort est la *taïga komie*, immense ceinture de conifères qui recouvre les bassins versants des grandes rivières du nord-est européen de la Russie : la Vychegda, qui descend vers le sud-ouest se jeter dans la Dvina septentrionale, et surtout la Pechora, qui coule vers le nord pour atteindre l'océan Arctique. Entre ces deux bassins s'étend l'arrière-pays komi, mosaïque de pinèdes sèches sur sols sablonneux, d'épicéas sur sols humides, de bouleaux pionniers et de tourbières.
+
+Yag-mort se tient préférentiellement dans la *yag* — la pinède sèche élevée — où il a construit, selon plusieurs récits, une demeure souterraine creusée à flanc de butte, dont l'entrée est dissimulée par les racines des grands pins. D'autres versions le placent dans les contreforts de l'Oural septentrional, dans des grottes situées à mi-pente des montagnes Pierres-de-la-Ceinture, où il se retire après ses raids contre les villages komis de la vallée.
+
+Son territoire de chasse est vaste. Il franchit en une nuit des distances qui prendraient plusieurs jours à un chasseur humain. Aucune frontière naturelle — rivière, marécage, crête — ne paraît l'arrêter.
+
+## DESCRIPTION
+
+Les récits décrivent Yag-mort comme un *humanoïde colossal*, dépassant deux fois la taille d'un homme adulte. Sa carrure est massive, ses épaules larges comme un seuil de porte, ses bras d'une longueur qui dépasse celle des bras humains proportionnellement à son corps. Le pelage qui le couvre est dense, semblable à celui d'un ours, allant du brun-roux au noir selon les variantes. Seuls le visage, les paumes des mains et la plante des pieds restent partiellement nus — détail qui souligne son intermédiarité entre la bête et l'homme.
+
+Son visage est décrit comme *humain mais hostile* : traits reconnaissables, yeux placés à l'avant, bouche capable de parole — mais déformés par une expression de férocité permanente, mâchoire massive, dents apparentes. Les yeux, dans plusieurs récits, brillent d'une lueur sombre dans l'obscurité, ce qui permet aux chasseurs avertis de le repérer dans la pénombre des sous-bois.
+
+Sa force est *surhumaine*. Il déracine de jeunes pins comme un homme arrache une herbe. Il jette des troncs entiers comme projectiles. Il brise les portes des isbas d'un coup d'épaule.
+
+Il est armé, dans la plupart des versions, d'un *gourdin de bois durci au feu*, parfois d'un arc dont les flèches sont des troncs de jeunes arbres. Il ne porte pas de vêtements, mais on lui prête parfois une ceinture faite de la peau d'un ours qu'il aurait étranglé à mains nues.
+
+## POUVOIRS
+
+La *force physique surhumaine* est son attribut central. Aucun homme seul ne peut le terrasser au corps à corps. Les chasseurs komis savent cela — affronter Yag-mort isolément équivaut à mourir.
+
+La *connaissance intime de la forêt* lui donne un avantage tactique permanent. Il connaît chaque sentier, chaque bauge, chaque buisson de baies. Il devine où se cachent ceux qui le poursuivent et où surprendre ceux qu'il chasse.
+
+La *résistance aux blessures* est marquée. Une flèche ordinaire le blesse mais ne le tue pas. Un coup de couteau le fait saigner sans l'abattre. Il faut une arme particulière, ou une ruse particulière, pour venir à bout de lui.
+
+La *capacité de parole humaine* lui est attribuée dans certaines versions. Il peut tromper un voyageur en l'appelant d'une voix qu'il imite — voix d'un parent, d'un ami, d'un enfant perdu — et l'attirer ainsi hors du sentier sûr.
+
+La *longévité* enfin : Yag-mort vit depuis des générations, peut-être des siècles. Les anciens des villages komis se rappellent qu'on parlait déjà de lui du temps de leurs propres grands-parents.
+
+## FAIBLESSES
+
+Yag-mort est *mortel*. Il ne s'agit pas d'un esprit incoercible mais d'une créature de chair, et la tradition komie a transmis les conditions de sa défaite.
+
+Il craint la *coopération humaine organisée*. Seul, aucun chasseur ne peut le vaincre. Mais une bande d'hommes coordonnés, agissant ensemble, peut l'encercler et l'abattre.
+
+Il peut être tué par des *armes préparées rituellement* — flèches dont la pointe a été trempée dans certaines décoctions, lances bénies par un chamane, ou armes du héros Pera-bagatyr, dont la force surhumaine compense la sienne.
+
+Il est *vulnérable au feu*. Sa fourrure brûle, et il fuit les torches enflammées. Plusieurs récits décrivent comment les villageois enfument son repaire pour le forcer à sortir à découvert, où il devient une cible exposée.
+
+Il peut enfin être *piégé par sa propre force*. Une variante populaire raconte comment Yag-mort, voulant arracher un grand pin pour s'en faire une massue, se retrouve coincé dans une fente du tronc qu'il avait commencé à fendre — image folklorique d'origine ancienne, attestée sous des formes voisines dans plusieurs traditions du nord eurasien.
+
+## COMPORTEMENT
+
+Yag-mort *enlève*. Il pénètre dans les villages komis isolés à la nuit tombée, défonce les portes, et s'empare des femmes, des enfants, parfois du bétail. Il ramène ses prises dans son repaire forestier où il les dévore — ou, selon les versions les plus dures, où il les garde captives un temps avant de les tuer.
+
+Il *dévaste les troupeaux* lorsque les humains lui sont inaccessibles. Les rennes domestiqués des éleveurs komis et nenets de la haute Pechora sont décimés par ses raids saisonniers.
+
+Il *attaque les chasseurs solitaires* qui s'aventurent trop loin dans la taïga. Plusieurs récits associent les disparitions de chasseurs sans cadavre retrouvé à l'œuvre de Yag-mort.
+
+Son comportement n'est jamais celui d'un négociateur. Il ne réclame rien, ne propose rien, n'écoute pas les supplications. Cette absence totale de réciprocité le distingue radicalement des esprits forestiers komis ordinaires, qui acceptent généralement des offrandes en échange du gibier ou de la sécurité.
+
+Il manifeste cependant une certaine *intelligence rusée* : il choisit ses cibles, évite les groupes armés, attaque préférentiellement les hameaux isolés, et sait reconnaître la présence d'un chamane ou d'un héros — auquel cas il se retire en attendant un moment plus propice.
+
+## RÉCITS TRADITIONNELS
+
+Le récit le plus diffusé concernant Yag-mort est son *combat avec Pera-bagatyr*, héros culturel central des Komis. Pera est un homme d'une force surhumaine, géant lui-même par certaines versions, fils ou protégé de la forêt selon d'autres, dont le rôle dans le corpus komi est de protéger les humains contre les puissances hostiles de la taïga.
+
+Le récit raconte qu'un village komi du bassin de la Pechora est ravagé par les raids répétés de Yag-mort, qui enlève les jeunes filles, dévore les enfants, et terrorise les habitants jusqu'à ce qu'ils envisagent d'abandonner leurs maisons. Pera-bagatyr, alerté, se rend dans le village et écoute les plaintes. Il déclare qu'il affrontera le géant velu seul.
+
+Pera traque Yag-mort dans la pinède pendant plusieurs jours. Il identifie la butte sous laquelle se trouve le repaire souterrain. Il appelle Yag-mort à sortir. Le combat s'engage à découvert, dans une clairière de la *yag*. Il dure, selon les versions, une journée entière, ou trois jours et trois nuits. Pera, blessé mais résolu, finit par terrasser le géant — soit en l'étouffant à mains nues, soit en lui plantant une lance dans la gorge, soit en le piégeant dans une fente de tronc qu'il referme sur lui d'un coup de hache.
+
+Une fois Yag-mort mort, Pera retourne au village. Les habitants célèbrent sa victoire. Pera repart vers la forêt — héros komi, il appartient autant à la taïga qu'aux humains, et son rôle accompli, il disparaît dans les profondeurs sylvestres jusqu'à la prochaine menace.
+
+D'autres récits, plus brefs, racontent des rencontres entre Yag-mort et des chasseurs ordinaires. Dans presque tous, le chasseur ne survit que par ruse — feindre la mort, se cacher dans une bauge d'ours, traverser une rivière que Yag-mort hésite à franchir.
+
+## VARIANTES RÉGIONALES
+
+Chez les *Komis-Zyrianes* (bassin de la Vychegda et haute Pechora), Yag-mort est avant tout l'antagoniste de Pera-bagatyr. Le récit héroïque domine, et la créature reçoit ses traits les plus monstrueux : taille démesurée, pelage noir, voix tonnante.
+
+Chez les *Komis-Permyaks* (sud-ouest, bassin de la Kama supérieure), Yag-mort prend des nuances de *brigand légendaire*. Il est parfois décrit comme un homme historique d'autrefois, démesurément fort, qui se serait retiré dans la forêt pour piller les voyageurs, et dont la silhouette se serait peu à peu confondue avec celle du géant velu de la tradition orale.
+
+Chez les *Oudmourtes voisins*, finno-ougriens cousins des Komis qui habitent au sud de leur territoire, une figure parente existe sous le nom de *Nyulesmurt* — également un *homme de la forêt*, mais plus ambigu : tantôt hostile, tantôt simple maître des bois auquel on offre des dons. La proximité linguistique et morphologique des deux figures suggère un fonds finno-ougrien commun, dont Yag-mort komi représente la version la plus radicalement antagoniste.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire contemporaine, en se saisissant du thème des *hommes velus de la forêt nord-eurasienne*, a tendance à amalgamer plusieurs créatures distinctes en une catégorie unique de *cryptide humanoïde* — ce qui efface les spécificités traditionnelles de Yag-mort et conduit à des contresens.
+
+Yag-mort n'est *pas le Yéti tibétain*. Le Yéti, ou *meh-teh*, appartient aux traditions himalayennes des hauts plateaux, hante les neiges éternelles au-dessus de la limite des arbres, et présente un profil mythologique entièrement différent — il est davantage figure de l'altitude inhumaine que de la forêt hostile. Yag-mort, au contraire, est strictement forestier, lié à la taïga de plaine et de moyenne altitude.
+
+Yag-mort n'est *pas l'Almas centre-asiatique*. L'Almas est la créature humanoïde velue du folklore mongol, kazakh et altaïque — figure plus ambivalente, parfois proche des humains au point de pouvoir s'unir à eux dans certaines variantes. Yag-mort ne partage ni cette ambivalence ni ce territoire steppique-montagnard.
+
+Yag-mort n'est *pas le Chuchunaa iakoute*. Le Chuchunaa du folklore iakoute (sakha) hante la taïga sibérienne orientale, au-delà de la Léna, et présente certes des affinités avec Yag-mort dans son rôle d'humanoïde forestier hostile — mais il appartient à un substrat culturel turcique-tongouse différent du substrat finno-ougrien komi, et ses récits ne mentionnent aucun équivalent de Pera-bagatyr.
+
+L'idée enfin que Yag-mort serait l'ancêtre folklorique d'un *cryptide réel* à découvrir scientifiquement relève de la lecture cryptozoologique moderne — étrangère à la tradition komie elle-même, qui ne pose pas la question de l'existence empirique du géant velu mais transmet un récit sur la frontière entre humanité et altérité forestière.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie de Yag-mort est principalement *textile et brodée*. Les Komis ont conservé jusqu'au XXᵉ siècle une tradition de broderies géométriques sur lin et chanvre, ornant chemises, ceintures, serviettes rituelles, dans laquelle apparaissent des figures humanoïdes stylisées dont certaines ont été identifiées par les ethnographes soviétiques comme des représentations ritualisées des puissances forestières — Yag-mort y apparaît parfois sous la forme d'une figure humaine massive, bras écartés, entourée de motifs sylvestres en zigzag.
+
+Les *illustrations folkloriques soviétiques* du XXᵉ siècle, produites pour les recueils de contes populaires édités à Syktyvkar (capitale de la république komie) et à Moscou, ont fixé une iconographie plus narrative : Yag-mort y est représenté en géant velu brun, gourdin à la main, surgissant d'une pinède, face à Pera-bagatyr en costume traditionnel komi tenant une hache ou une lance. Ces images, gravures sur bois ou aquarelles, ont contribué à standardiser l'image visuelle du personnage pour les générations suivantes.
+
+Aucune représentation pré-moderne *peinte ou sculptée* de Yag-mort n'est attestée — les Komis n'ayant pas développé de tradition iconographique religieuse figurative, leur représentation des puissances forestières est restée principalement orale, gestuelle et brodée.
+
+## POUR ALLER PLUS LOIN
+
+La figure de Yag-mort a été collectée par les ethnographes russes et soviétiques à partir du XIXᵉ siècle, notamment dans les recueils consacrés à la tradition komie de la Vychegda et de la Pechora. Le cycle héroïque de Pera-bagatyr, dont Yag-mort est l'antagoniste principal, a fait l'objet de plusieurs publications philologiques en russe et en komi-zyriane au XXᵉ siècle.
+
+La créature s'inscrit dans un *type pan-finno-ougrien* du géant velu forestier, dont on retrouve des cousins dans les traditions oudmourte (Nyulesmurt), mari (figures forestières analogues), et plus lointainement dans les traditions baltes-finnoises. L'étude comparative de ces figures éclaire la profondeur historique du motif et son enracinement dans un fonds eurasien septentrional plus ancien que les divisions linguistiques actuelles.
+
+## PROMPT IMAGE
+
+Folk-art illustration of Yag-mort, the hairy forest giant of the Komi-Zyrian people, rendered in the visual idiom of traditional Komi embroidery combined with early-twentieth-century Ural taiga woodblock illustration, immense humanoid figure twice the height of a man, entire body covered in dense brown-russet fur except face palms and soles, broad massive shoulders, long arms, fierce human face with prominent jaw and visible teeth, dark eyes glinting with hostile light, holding a thick fire-hardened wooden club, standing in a pine-forest clearing of the northern Ural taiga (yag) with tall slender pines and white lichen ground cover, entrance to an underground den visible at the base of a sandy mound behind him, distant low silhouette of the Ural mountains on the horizon, geometric Komi embroidery border framing the entire image with red-and-black zigzag and diamond motifs typical of Komi-Zyrian textile tradition (decorative abstract patterns, no readable text), the figure rendered with bold black ink outlines and limited earth-tone palette of deep red ochre cream and forest green echoing folk woodblock prints, slight visible woodgrain texture across the image, small inset vignette in upper corner showing the silhouette of the Komi hero Pera-bagatyr approaching with a lance, atmosphere of ancient forest threat and impending heroic confrontation, no modern rendering, no 3D, no photographic realism, no cartoon, vintage ethnographic illustration quality reminiscent of Soviet-era folklore book engravings printed in Syktyvkar, aged paper texture, no text, no letters, no inscriptions, no labels
