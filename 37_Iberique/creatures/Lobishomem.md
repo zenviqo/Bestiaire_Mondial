@@ -1,0 +1,143 @@
+---
+nom_principal: Lobishomem
+nom_original: Lobishomem (portugais)
+variantes_linguistiques:
+  - portugais: Lobishomem, Lobisomem
+  - galicien: Lobishome, Lobishom
+  - espagnol_castillan: Lobishome, Hombre lobo iberico
+  - asturien_occidental: Llobu home
+  - dialectal_minho: Lubishome
+categorie: loup-garou / metamorphe maledictionnel / homme-loup transgenerationnel
+tradition: iberique
+sous_tradition: portugaise et galicienne (Portugal entier, Galice, frontiere asturienne)
+statut: valide
+date_rédaction: 2026-04-30
+---
+
+# LOBISHOMEM
+
+## SIGNIFICATION DU NOM
+
+Le terme *Lobishomem* est un compose portugais transparent forme de deux elements : *lobis*, derivé d'une racine latine *lupus* (le loup) avec preservation de la terminaison anciennement marquee, et *homem* (l'homme). Le sens litteral est donc *homme-loup* ou *homme transformé en loup*.
+
+Une variante orthographique plus repandue dans le Portugal moderne est *Lobisomem*, sans la lettre intermediaire. Les deux formes coexistent dans la litterature ethnographique. La forme galicienne *Lobishome* repose sur la meme construction avec le terme galicien *home* (homme) au lieu du portugais *homem*.
+
+Cette etymologie inscrit immediatement la creature dans la grande famille europeenne des *loups-garous* (du francais *garoul* / *werewolf* en anglais, *Werwolf* en allemand). Le terme portugais conserve toutefois une transparence que les langues nordiques ont perdue — *Lobishomem* designe explicitement un *homme transformé en loup*, alors que *werwolf* exige l'analyse etymologique pour reveler la meme structure.
+
+## ORIGINE
+
+Le Lobishomem appartient au folklore lusitanien et galicien. Sa figure est attestee depuis le XVIe siecle au moins dans les traditions orales, et probablement bien plus anciennement, mais la documentation ecrite ne remonte pas au-dela. Il occupe la place du *grand metamorphe* du folklore portugais, equivalent fonctionnel des loups-garous des autres traditions europeennes mais avec des particularités lusitaniennes propres.
+
+Sa specificite portugaise est l'aspect *transgenerationnel* de la malediction. Selon la tradition la plus repandue dans le nord du Portugal, le Lobishomem n'est pas une creature qu'on devient par sortilege ou par morsure (modeles dominants dans les folklores nordique et germanique), mais une malediction qui frappe le *septieme fils consecutif* d'une famille — c'est-a-dire le huitieme enfant si l'on compte une fille en premier, ou le septieme garcon pur. Cette regle numerique est typiquement portugaise.
+
+Plusieurs commentateurs y voient une persistance de croyances anciennes liées au chiffre sept, sacré dans la tradition mediterraneene depuis l'antiquité. Le septieme fils de septieme fils est, dans plusieurs folklores europeens, doué de pouvoirs particuliers (don de guerison, vision a distance) ; le folklore portugais a conservé une forme negative de cette croyance, ou le septieme fils porte non pas un don mais une malediction.
+
+## NATURE
+
+Le Lobishomem est un *etre humain victime d'une malediction de transformation*. Sa nature est duale : pleinement humain durant le jour et la majorite des nuits, il devient loup ou loup-monstrueux durant des nuits specifiques de l'année — generalement les nuits de pleine lune, ou les nuits de pleine lune coincidant avec le mardi ou le vendredi selon les vallées.
+
+La transformation n'est *pas volontaire*. Le Lobishomem ne choisit pas de se transformer ; il subit la metamorphose comme une crise inevitable. Avant la nuit fatidique, il sent monter en lui une fureur, un desordre physique, une nausee. Au moment de la transformation, il quitte la maison precipitamment pour eviter d'etre vu de sa famille.
+
+Il est *malheureux*. Cette dimension morale est typiquement portugaise. Contrairement aux loups-garous nordiques (qui peuvent etre des sorciers volontaires) ou germaniques (qui peuvent etre des betes feroces consentantes), le Lobishomem portugais est presque toujours decrit comme une victime — un homme bon malgré lui condamné a une bestialité qu'il deteste. Cette dimension de tragedie morale donne a la figure portugaise une coloration particulière.
+
+## HABITAT
+
+Le Lobishomem habite avec sa famille dans une *maison rurale ordinaire*. Pendant le jour et la plupart des nuits, il est un paysan ou un artisan comme un autre. Sa maison ne se distingue d'aucune autre dans le hameau.
+
+Lors de ses transformations nocturnes, il quitte le foyer et erre dans les *zones rurales et forestieres* environnantes. Il ne s'eloigne pas a grande distance — quelques kilometres autour de sa maison. Cette territorialite restreinte est typique : le Lobishomem n'est pas un nomade, il reste dans son secteur d'origine.
+
+Plusieurs lieux sont identifies traditionnellement comme *terrain de chasse* des Lobishomens dans les vallees portugaises et galiciennes : sept croisees de chemins (dont la rencontre, lors d'une nuit de pleine lune, est reputee particulierement dangereuse), bocages denses, anciens cimetieres abandonnés, ruines isolées.
+
+## DESCRIPTION
+
+Sous sa forme humaine, le Lobishomem est *indistinguable d'un homme ordinaire*. Cette absence de signe visible constitue le coeur du drame : sa famille ne sait pas qu'il est Lobishomem, ses voisins l'ignorent, lui-meme ne s'en doute parfois qu'a la premiere transformation. Quelques traditions lui pretent toutefois des *signes discrets* : une legere paleur, des yeux cernes, une certaine tristesse melancolique, des paumes velues — mais ces signes restent imperceptibles a l'observateur ordinaire.
+
+Sous sa forme transformee, il prend l'apparence d'un *grand loup* — beaucoup plus grand qu'un loup ordinaire iberien, decrit comme depassant la taille d'un veau adulte. Son pelage est generalement noir, parfois gris fonce, parfois roux dans certaines vallees. Ses yeux brillent rouges ou jaunes dans la nuit. Sa demarche est partiellement bipede : il peut marcher sur deux pattes ou sur quatre, selon les besoins, mais court generalement a quatre pattes.
+
+Quelques variantes le decrivent comme *anthropomorphe* — homme couvert de poils, tete de loup mais corps debout — alors que d'autres le decrivent comme un *loup pur* simplement gigantesque. Ces deux variantes coexistent dans le folklore, et leur repartition ne suit pas une logique geographique stricte.
+
+## POUVOIRS
+
+Le Lobishomem possede une *force physique extraordinaire* sous sa forme transformee. Il peut tuer un boeuf d'un coup de patte, traverser une cloture sans la toucher, deraciner un jeune arbre en s'y agrippant. Cette force le rend dangereux pour l'homme isolé qui le rencontre la nuit.
+
+Il maitrise une *vitesse de course* superieure a celle de tout cheval. Le voyageur a cheval qui croise un Lobishomem ne peut compter sur sa monture pour echapper — la creature rattrape la cavalcade en quelques secondes. Seul l'arrivée a une zone protegée (chapelle, croix, eau courante) peut sauver le fuyard.
+
+Il dispose d'une *resistance aux armes ordinaires*. Les balles de plomb, les couteaux courants, les pierres ne l'atteignent que superficiellement. Pour le blesser efficacement, il faut des armes specialement preparees — le plus celebre étant la *balle d'argent benite*, importation tardive du folklore germanique, ou plus traditionnellement le *fer rougi au feu* qui marque sa peau pour toujours.
+
+Il possede la capacite de *reprendre forme humaine au lever du jour*. Cette retransformation est aussi inevitable que la precedente. Au premier rayon de soleil, il redevient homme — mais le retour s'accompagne souvent de souvenirs fragmentaires de la nuit ecoulée, de marques sur sa peau, de saletes sur ses vetements quand il se retrouve nu dans un lieu inconnu.
+
+## FAIBLESSES
+
+La faiblesse premiere du Lobishomem est son *cycle inevitable*. Il ne peut empecher la transformation. Cette inevitabilite, qui est sa souffrance, est aussi sa principale vulnerabilite : ses victimes savent quand attendre sa visite et peuvent se preparer.
+
+Il craint les *armes consacrées*. Une croix, un cierge benit brandi devant lui, une priere prononcée a haute voix le font reculer. Cette vulnerabilite chretienne reflète l'integration du folklore lupique dans la cosmologie catholique iberique.
+
+Il peut etre *liberé de la malediction* par des moyens precis, qui constituent l'enjeu narratif de plusieurs recits :
+
+- *Etre blessé jusqu'au sang* sous sa forme de loup. Si une victime parvient a faire couler son sang sans le tuer, et qu'il reprend forme humaine ensuite, la malediction est rompue. Ce remede est la voie principale de delivrance dans le folklore portugais.
+
+- *Etre reconnu et nommé* par un humain de bonne volonté. Si quelqu'un, sous la forme du loup, l'appelle par son nom humain en pleine connaissance de cause, le sortilege se rompt — mais le risque pour le humain qui l'identifie est immense, car le loup peut l'attaquer avant que la parole soit completement prononcée.
+
+- *Etre baptisé pendant le neuvieme jour de sa transformation*. Cette voie est plus rituelle et exige la complicite d'un pretre.
+
+Il est enfin *vulnerable a la pleine lune*. La lumiere pleine de l'astre force la transformation et l'oblige a chasser, mais en meme temps le rend visible aux humains — alors qu'il pourrait passer plus inapercu lors d'une nuit ordinaire de transformation.
+
+## COMPORTEMENT
+
+Le Lobishomem chasse *par necessite plutot que par plaisir* sous sa forme transformée. Il tue par instinct lupique — beuvail, parfois humains imprudents — mais ne semble pas eprouver de jouissance. Cette dimension est typiquement portugaise et la distingue de certains loups-garous d'autres traditions.
+
+Il *evite si possible sa propre famille*. Plusieurs recits decrivent un Lobishomem qui, malgre la faim, ne s'attaque jamais aux betes de sa propre ferme, ni a ses voisins immediats. Une zone de protection inconsciente entoure son foyer.
+
+Il *erre durant toute la nuit*. La transformation dure du coucher du soleil au lever, soit entre dix et quatorze heures selon la saison. Pendant cette duree, le Lobishomem ne dort pas, ne s'arrête pas longtemps, ne cesse pas de chasser ou de courir.
+
+Il manifeste sous forme humaine une *honte profonde* le matin suivant la transformation. La famille du Lobishomem peut reconnaitre l'evenement aux signes physiques : paleur extreme du visage, vetements dechires, blessures inexpliquées, retrait social pendant plusieurs jours.
+
+## RECITS TRADITIONNELS
+
+Le recit le plus repandu dans le folklore portugais concerne *la femme courageuse*. Une jeune mariee, ne comprenant pas pourquoi son mari sort chaque nuit de pleine lune et revient chaque matin epuisé, decide de le suivre. Elle se cache dans un buisson au bord du chemin. A minuit, son mari, transformé en loup, surgit de la maison, l'air furieux. Elle reste cachée. Le loup passe pres d'elle, s'eloigne. Au matin, elle voit son mari retourner a la maison sous forme humaine, en larmes. Elle l'interroge avec douceur. Il lui avoue son secret. La nuit suivante, durant la transformation, elle prend une fourche et le blesse legerement a l'epaule. Le loup hurle, s'enfuit. Au matin, son mari rentre, blessé a l'epaule, mais delivre de la malediction. La cicatrice restera visible pour le reste de sa vie.
+
+Un autre cycle decrit *le voyageur attaqué*. Un voyageur traverse de nuit une foret du Minho. Il est attaqué par un grand loup noir. Il se defend avec son couteau, parvient a blesser la creature au flanc. Le loup s'enfuit. Le voyageur, terrifié, se refugie dans la maison la plus proche. Le matin venu, il s'apercoit que le maitre de la maison est blessé au flanc et alité. Il comprend immediatement que c'etait son hote, mais ne dit rien — selon la tradition, denoncer un Lobishomem est dangereux, car la malediction peut se transferer au denonciateur.
+
+Un troisieme recit raconte *les sept fils*. Une famille pauvre du nord du Portugal a sept fils consecutifs. Le septieme, lorsqu'il atteint l'âge adulte, commence a souffrir des transformations. Sa mere, qui l'aime, cherche partout un remede. Une vieille femme du village lui revele le secret : faire baptiser le jeune homme une seconde fois, par un prêtre qui ignore l'avoir deja baptisé enfant. La mere parcourt plusieurs vallées avant de trouver un prêtre disposé a executer ce baptême. Le rituel est accompli. La nuit suivante, le jeune homme reste humain. La malediction est rompue.
+
+Un quatrieme recit concerne *la chasse au Lobishomem*. Un village du Minho est terrorisé par un Lobishomem qui tue le bétail nuit après nuit. Les hommes se reunissent. Ils preparent une balle d'argent benit (image post-tridentine, possiblement importée). Ils embusquent le loup au bord d'un chemin connu de ses passages. Au moment ou il surgit, le meilleur tireur lui envoie la balle dans le coeur. Le loup s'effondre. Au lever du jour, c'est le corps d'un jeune homme du village voisin qu'on retrouve — un septieme fils dont nul ne se doutait.
+
+## VARIANTES REGIONALES
+
+Dans le Minho (nord du Portugal), le Lobishomem est essentiellement le septieme fils consecutif. La regle numerique est strictement appliquee. Cette variante est probablement la plus authentiquement traditionnelle.
+
+Dans le Tras-os-Montes, la malediction peut frapper non seulement le septieme fils mais aussi *l'enfant conçu pendant un jour saint* — vendredi saint, jour de Toussaint. Cette extension reflete une influence chretienne plus marquee.
+
+Dans l'Alentejo (sud du Portugal), le Lobishomem est plus rare et la figure est concurrencée par d'autres metamorphes (Bruxa transformée en chien, par exemple). La regle du septieme fils est moins centrale.
+
+En Galice, le *Lobishome* obeit a une logique similaire au Lobishomem portugais. La regle du septieme fils est attestée mais coexiste avec une regle alternative — le *fils issu d'un inceste* serait egalement condamné a la transformation. Cette variante incestuelle est plus presente en Galice qu'au Portugal.
+
+Dans certaines vallées asturiennes occidentales (zone de transition gallicophone), la figure du Llobu home prend des traits plus collectifs : plusieurs Lobishomens d'un meme village se reuniraient certaines nuits pour chasser ensemble.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Lobishomem n'est pas un *werewolf* hollywoodien. Le werewolf moderne, popularisé par le cinema et la fantasy, est generalement *transmis par morsure* — celui qui survit a une attaque devient loup-garou a son tour. Cette regle n'existe pas dans le folklore portugais authentique. Le Lobishomem est determiné par sa naissance (septieme fils) ou par un sortilege, jamais par contagion mordante.
+
+Il n'est pas *volontaire* en general. Les loups-garous de la litterature germanique medievale (homme qui, par sortilege ou par pacte, devient loup volontairement) ne correspondent pas au modele lusitanien. Le Lobishomem est *toujours victime*, jamais auteur conscient de sa transformation.
+
+Il ne change pas *uniquement a la pleine lune* dans toutes les versions. Plusieurs traditions associent la transformation au *vendredi saint*, au *mardi soir*, ou a *toute nuit de pleine lune coincidant avec un mardi*. La regle exclusivement lunaire est une simplification moderne.
+
+L'imagerie populaire qui le represente parfois comme un *homme musclé a tete de loup* (modele cinematographique de Hollywood) sous-estime la diversité des representations folkloriques portugaises — le Lobishomem peut etre purement quadrupede ou anthropomorphe selon les vallees.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie ancienne du Lobishomem est rare. La culture artistique portugaise medievale, dominée par l'art religieux roman et les peintures de saints, n'a pas produit de representations clairement identifiables.
+
+Quelques *azulejos* (carreaux de ceramique decoree) du XVIIIe siecle, dans certaines maisons de campagne du nord du Portugal, representent des scenes de chasse au loup ou des silhouettes hybrides homme-loup. L'identification au Lobishomem reste hypothetique mais plausible dans certains cas.
+
+A partir du XIXe siecle, les recueils ethnographiques portugais et galiciens produisent des representations modernes du Lobishomem. Generalement, ces images montrent soit un grand loup noir aux yeux rouges, soit un homme courbé en plein processus de transformation, dans un decor de foret ou de croisée de chemins. Ces representations sont de tradition recente.
+
+## POUR ALLER PLUS LOIN
+
+Le Lobishomem est l'une des figures les plus celebres du folklore portugais. Son etude appartient a l'ethnographie regionale qui s'est developpee depuis le XIXe siecle, particulierement attentive aux traditions du nord du pays (Minho, Tras-os-Montes).
+
+Sa parente avec les loups-garous des autres folklores europeens (français, germanique, slave) offre un terrain d'etude comparative important. La specificite portugaise reside dans la *regle du septieme fils*, dans la *dimension tragique* de la malediction (le Lobishomem comme victime morale plutot que comme bete consentante), et dans les *modes de delivrance* propres au folklore lusitanien (blessure rituelle, double bapteme).
+
+## PROMPT IMAGE
+
+Ancient illustration in the style of a Portuguese azulejo and an Iberian Romanesque church carving, a man caught at the moment of transformation under a full moon at a crossroads of seven paths in northern Portuguese countryside, his body partially hunched on hands and knees, his face elongated with the snout of a wolf already emerging while his human eyes still show pain and shame, dark fur sprouting on his arms and back, his torn shirt falling away, the silhouettes of stone walls of vineyards and oak hedges visible in the moonlit landscape, an old stone cross at the crossroads in the foreground, the bell tower of a small white village chapel visible in the distance, the full moon centered behind him casting his elongating shadow, the scene rendered in carved low-relief stone aesthetic combined with the cobalt blue and white tones of Portuguese azulejo tiles, decorative scrollwork and stylized vine motifs in the borders (decorative abstract patterns, no readable text), deep cobalt blue and stark white with faint silver moonlight, atmosphere of tragic transformation under a fated moon, no modern elements, no Hollywood werewolf cliches, no horror cinema features, vintage ethnographic illustration quality, aged tile and stone surface texture, no text, no letters, no inscriptions, no labels
