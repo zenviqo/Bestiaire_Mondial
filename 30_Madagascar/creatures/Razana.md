@@ -1,0 +1,142 @@
+---
+nom_principal: Razana
+nom_original: Razana (malgache)
+variantes_linguistiques:
+  - merina: Razana (forme principale)
+  - betsileo: Razana
+  - sakalava: Razaña (variante phonétique)
+  - antaisaka: Razana
+categorie: classe d'esprits ancestraux / collectif des défunts puissants
+tradition: malgache
+sous_tradition: pan-malgache, prééminente chez Merina et Betsileo (hauts plateaux)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# RAZANA
+
+## SIGNIFICATION DU NOM
+
+Le mot *razana* est l'un des plus chargés de la langue malgache. Sa racine *raza-* désigne la *lignée*, la *parenté ascendante*, le *sang qui remonte*. Au sens étymologique, *razana* signifie *les ancêtres*, ceux qui ont précédé et dont le présent descend.
+
+Mais le mot a glissé, dans l'usage traditionnel, d'une simple désignation généalogique vers une catégorie cosmologique précise : les razana ne sont pas seulement les morts dont on se souvient, ce sont les *défunts qui restent influents*, qui continuent d'agir sur les vivants depuis le monde où ils sont passés. Ce glissement de sens fait du mot, à la fois, un terme de parenté ordinaire (*mes razana* = mes aïeux) et un terme religieux désignant la classe entière des esprits ancestraux puissants.
+
+## ORIGINE
+
+Tout vivant a vocation à devenir razana. C'est l'horizon normal de l'existence dans la conception malgache traditionnelle : on vit, on procrée, on meurt, on est inhumé selon les rites — et alors on entre dans la classe des razana, où l'on continue d'exister sous une autre modalité.
+
+Tous ne deviennent pas razana avec la même puissance. Plusieurs facteurs déterminent la *vivacité* d'un razana :
+
+- la *postérité* : un défunt qui laisse de nombreux descendants reste un razana fort, parce que sa mémoire est régulièrement convoquée. Un défunt sans postérité s'efface plus vite.
+- la *qualité du tombeau* : les Malgaches construisent des tombeaux familiaux monumentaux, et la solidité, la propreté, la fréquentation régulière du tombeau nourrissent la présence du razana.
+- la *qualité de la mort* : une bonne mort (vieillesse paisible, derniers mots transmis, rites funéraires accomplis) produit un razana fort et bienveillant. Une mauvaise mort (jeune, violente, sans rites) peut produire un razana mécontent — parfois confondu avec un *kinoly* ou un *angatra*.
+
+Les razana ne sont donc pas une classe d'origine mythologique mais une classe d'*aboutissement* — celle où aboutissent les vivants, et qui se peuple continuellement de chaque génération qui passe.
+
+## NATURE
+
+Le razana est un *esprit ancestral collectif*. À la différence du tromba qui est un esprit ancestral *individualisé* — un roi nommé, daté, doté d'une personnalité reconnaissable — le razana fonctionne souvent en collectif : on s'adresse aux *razana* (au pluriel implicite) d'une famille, d'une lignée, d'un terroir, sans nécessairement nommer chacun.
+
+Cette nature collective ne signifie pas indistinction. Au sein du collectif, certains razana se détachent — l'aïeul fondateur du tombeau, l'ancêtre dont on connaît les paroles transmises, la grand-mère qui apparaît en songe. Mais la prière et l'offrande ordinaires s'adressent au collectif : *razana o, mihainoa* (ô razana, écoutez).
+
+Sa nature est *active*. Le razana n'est pas un défunt passif qui dort dans son tombeau. Il observe, il évalue, il intervient. Il bénit ou il sévit. Il est partie prenante de la vie de ses descendants, à la manière d'un conseil permanent dont la voix se fait entendre dans les rêves, les présages, les coïncidences signifiantes.
+
+## HABITAT
+
+Le razana est attaché en premier lieu au *tombeau familial* (*fasana*), construction monumentale qui domine souvent le paysage rural malgache. Le tombeau est sa demeure proprement dite, le lieu où ses ossements reposent — sachant que la pensée traditionnelle distingue le *corps* (qui se décompose) et la *présence* (qui demeure aux abords).
+
+Il fréquente également les *terres ancestrales* (*tanindrazana*) — la région où la lignée a ses racines, où sont les rizières, les forêts familiales, les collines connues. Cette attache au *tanindrazana* est si forte qu'elle structure encore aujourd'hui l'identité personnelle malgache : on est *tel*, fils ou fille *de telle terre*, parce qu'on y a ses razana.
+
+Il peut apparaître dans les *songes* de ses descendants, particulièrement aux moments importants — naissance d'un enfant, mariage, maladie, voyage projeté. Il y délivre des messages, des avertissements, des bénédictions.
+
+Certains razana, quand on les néglige, se manifestent au tombeau lui-même — bruits dans la pierre, ombres sur les marches, animaux qui se comportent étrangement à l'approche du sanctuaire familial.
+
+## DESCRIPTION
+
+Le razana n'a pas de corps. Il n'a même pas, à la différence du tromba, de médium régulier qui lui prête le sien. Sa présence est *atmosphérique* — elle se sent plus qu'elle ne se voit.
+
+Cependant, lorsqu'un razana se manifeste en songe, il reprend les traits qu'il avait de son vivant, à un âge précis (souvent celui de la pleine maturité, pas celui de la mort). Il porte les vêtements qu'il portait, parle la langue qu'il parlait, conserve les manies que ses descendants lui connaissaient. Cette continuité signe l'identification : c'est *bien lui*, et non un esprit quelconque.
+
+Les razana fondateurs — ceux des plus anciennes générations — sont parfois figurés sur les *aloalo* sakalava ou les stèles betsileo sous des formes humaines stylisées, parfois augmentées (un personnage debout, bras levés, surmonté d'oiseaux ou de zébus qui sont ses biens passés au monde des morts).
+
+## POUVOIRS
+
+Le razana *bénit*. Sa bénédiction (*tso-drano*) descend sur les descendants qui le respectent et accomplit la prospérité — fertilité, récoltes, paix domestique.
+
+Le razana *punit*. Sa punition prend la forme du *tsiny* (le blâme) — culpabilité morale qui ronge le fautif, ou malheur concret qui le frappe, ou maladie qui s'installe sans cause médicale apparente.
+
+Le razana *parle en songe*. Cette capacité onirique est l'un de ses canaux principaux d'intervention : il révèle ce qui doit être fait, met en garde contre ce qui ne doit pas être tenté, désigne le coupable d'un mal, autorise un mariage, indique le lieu où enterrer un nouveau venu.
+
+Le razana *participe aux fady*. Les interdits familiaux ou claniques (*fady*) sont posés par les razana et maintenus par eux. Les transgresser, c'est offenser non une règle abstraite mais un ancêtre vivant qui sévira.
+
+Le razana *préside au famadihana* — la cérémonie de retournement des morts (typique des hauts plateaux merina et betsileo), où l'on extrait les corps des tombeaux, on les enveloppe de *lamba* neufs et on les replace dans la sépulture. Cette cérémonie nourrit le razana et le maintient présent aux vivants ; sans elle, il faiblit et se détourne.
+
+## FAIBLESSES
+
+Le razana s'affaiblit lorsqu'il est *oublié*. Une lignée qui ne pratique plus le *famadihana*, qui ne nettoie plus le tombeau, qui n'invoque plus les noms des aïeux, voit ses razana s'effacer. C'est, dans la conception traditionnelle, l'un des plus grands malheurs possibles — laisser ses ancêtres s'éteindre une seconde fois, faute de mémoire.
+
+Le razana est limité par les *fady* qui lui étaient propres. Un razana qui détestait certains aliments ou couleurs ne peut être convoqué près d'eux ; un razana qui avait promis quelque chose à un autre razana doit voir cette promesse honorée par les descendants.
+
+Le razana peut être *concurrencé* par des esprits hostiles. Un *mpamosavy* qui jette un sortilège sur une famille cherche précisément à interrompre la connexion entre les descendants et leurs razana ; tant que le sortilège tient, les bénédictions ancestrales ne passent plus.
+
+Enfin, le razana ne peut pas tout. Il intervient *à l'intérieur de sa lignée*, sur ses descendants, sur ses terres. Il n'a pas autorité sur les étrangers, ni pouvoir sur les défunts d'autres familles. Sa puissance est généalogiquement bornée.
+
+## COMPORTEMENT
+
+Le razana est *attentif*. La pensée malgache traditionnelle suppose que rien de ce qui arrive aux descendants n'échappe au regard de l'aïeul — mariages, naissances, querelles, succès commerciaux, fautes secrètes : tout est vu.
+
+Il est *patient* dans la bénédiction et *lent* dans la punition. Le razana laisse souvent passer plusieurs offenses avant de réagir ; mais quand sa colère se déclare, elle se manifeste par une accumulation de malheurs qui obligent à reconnaître la cause.
+
+Il est *réceptif aux discours* (*kabary*) qui lui sont adressés. Le malgache traditionnel s'adresse aux razana avec une rhétorique élaborée — proverbes, formules anciennes, salutations généalogiques. Cette qualité de parole est ce qui touche les ancêtres et les dispose favorablement.
+
+Il *partage* les biens offerts. Lors des cérémonies, on dépose au tombeau ou sur l'autel ancestral des aliments, du rhum, des morceaux de zébu sacrifié. Le razana en absorbe l'essence ; les descendants consomment le reste, et ce partage scelle la communion entre les deux mondes.
+
+## RÉCITS TRADITIONNELS
+
+Les récits sur les razana ne prennent généralement pas la forme de mythes individualisés mais d'*histoires familiales* — un type de récit propre à chaque lignée, transmis par les anciens.
+
+Un schéma fréquent met en scène une famille frappée d'infortune. Les anciens consultent un *ombiasy* (devin-guérisseur), qui révèle qu'un razana a été offensé : on n'a pas pratiqué le *famadihana* depuis trop longtemps, on a vendu une parcelle de *tanindrazana* sans rituel préalable, on a marié un descendant à quelqu'un dont la lignée est en conflit ancien avec les razana de la famille. La réparation est prescrite ; la famille s'exécute ; les razana sont apaisés ; le malheur cesse.
+
+Un autre type de récit concerne les apparitions oniriques. Une grand-mère apparaît à sa petite-fille en songe, lui révèle l'emplacement d'un objet perdu, ou la met en garde contre un mariage. La petite-fille suit l'avertissement ; l'événement prouve la justesse du conseil ; la lignée renforce sa confiance dans les razana.
+
+Une catégorie particulière concerne les *nouveaux razana* — défunts récents qui n'ont pas encore trouvé leur place dans le collectif ancestral, et qui réclament l'accomplissement complet des rites funéraires. Ces récits soulignent l'importance de ne pas négliger les premières années suivant un décès.
+
+## VARIANTES RÉGIONALES
+
+Sur les *hauts plateaux merina*, la tradition razana est centrée sur le tombeau familial monumental et le *famadihana*. Les noms des aïeux sont conservés dans la mémoire généalogique, parfois sur plusieurs siècles, et l'identité personnelle se définit par appartenance à un groupe de razana.
+
+Chez les *Betsileo*, voisins méridionaux des Merina, le système est analogue avec des nuances : le *famadihana* existe sous formes locales, les tombeaux peuvent être des grottes funéraires aménagées (*lakaroa*), et certains razana fondateurs ont des sanctuaires propres au-delà du tombeau familial.
+
+Chez les *Sakalava* et les *Antankarana*, la classe des razana se confond partiellement avec celle des tromba — les razana royaux sont des tromba, les autres restent des razana ordinaires. La distinction passe par le degré de royauté.
+
+Chez les *Antaisaka*, *Antandroy* et autres peuples méridionaux, les tombeaux prennent souvent la forme de pierres dressées ou de stèles funéraires gravées, et les razana y sont attachés par les *aloalo* qui marquent la sépulture.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs représentations modernes ont déformé la notion de razana :
+
+- L'identification des razana avec des *fantômes* au sens occidental — figures errantes, malheureuses, condamnées à hanter — est inexacte. Les razana ne hantent pas : ils habitent, structurent, président. Leur présence est un bienfait pour les descendants respectueux, non une menace.
+
+- L'idée que la tradition razana relèverait d'un « culte des morts » sombre ou morbide est également une projection. Les cérémonies razana, et particulièrement le *famadihana*, sont des fêtes — chants, musiques, rhum, sacrifice de zébu, danses. Le ton est joyeux, parce qu'il s'agit de *retrouver* les aïeux, non de pleurer leur perte.
+
+- Les supposées « malédictions ancestrales » présentées dans certains romans ou documentaires exotisants caricaturent la fonction de la punition razana, qui n'a rien d'arbitraire : elle est toujours réponse à une offense identifiable, et toujours réparable par le rituel approprié.
+
+- Le razana n'est pas un *dieu*. Cette distinction est centrale dans la pensée malgache : *Zanahary* est le créateur, principe distinct ; les razana sont des humains passés, intermédiaires entre les vivants et le créateur, mais en aucun cas confondus avec lui.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les razana sont représentés indirectement à travers les *tombeaux* et les *aloalo*. Sur les hauts plateaux, les tombeaux merina sont des structures de pierre rectangulaires, à plusieurs niveaux, surmontés parfois d'un toit en pierre. Les tombeaux betsileo peuvent être creusés dans la falaise. Les tombeaux sakalava sont des enclos de bois ou de pierre flanqués d'aloalo gravés.
+
+Les *aloalo* sakalava sont des poteaux funéraires sculptés portant à leur sommet des scènes qui résument la vie du défunt — un homme assis en position royale, un couple, un zébu, un oiseau, un fusil, une charrette. Ces sculptures sont la *visualisation* du razana à travers ses signes terrestres.
+
+Les *lamba* qui enveloppent les corps lors du *famadihana* sont eux-mêmes des objets ritualisés ; les motifs traditionnels portent une mémoire des razana.
+
+## POUR ALLER PLUS LOIN
+
+La tradition des razana constitue le socle structurel de la religion malgache traditionnelle. Sans elle, ni le système des *fady*, ni les pratiques du *famadihana*, ni la relation au *tanindrazana* ne se comprennent. Elle s'inscrit dans la grande famille des cultes ancestraux est-africains et austronésiens, dont elle représente une élaboration insulaire originale, marquée par la monumentalité funéraire des hauts plateaux et par la précision rhétorique des *kabary* qui s'adressent aux aïeux.
+
+Le christianisme introduit aux XIXᵉ et XXᵉ siècles, et l'islam plus ancien sur certaines côtes, ont coexisté avec le système razana plutôt qu'ils ne l'ont remplacé : la majorité des Malgaches contemporains, qu'ils soient chrétiens ou musulmans, continuent de pratiquer les rites ancestraux et de consulter leurs razana.
+
+## PROMPT IMAGE
+
+Ancient ethnographic illustration of Malagasy razana ancestral spirits scene, Imerina silk lamba pattern aesthetic combined with nineteenth-century natural history engraving, a monumental highland Merina family tomb of dressed stone rising on a green hillside, its multiple terraced levels carefully rendered, a famadihana ceremony in progress on a stone platform with relatives gently rewrapping bundled ancestral remains in fresh red and white striped lamba cloths, an elder reciting kabary with arms extended, around the tomb the gathered family in traditional attire, sacrificed zebu offered nearby with respectful posture, faint translucent ancestral figures suggested in the air above the tomb as gentle outlines watching benevolently over their descendants, distant rice terraces and red-earth hills extending into the valley, traveler palms and a single ancient tree marking the family land, decorative border made of geometric motifs from highland silk lamba textiles in red white and black, ink and sepia wash on aged parchment paper, dense cross-hatching describing fabric textures and stone courses, careful attention to the ceremonial cloth patterns and the family bearing, atmosphere of joyful solemn communion between living and dead, no modern rendering, no 3D, no cartoon, vintage natural history scientific illustration quality, aged parchment texture, no text, no letters, no inscriptions, no labels

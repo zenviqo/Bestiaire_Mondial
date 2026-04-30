@@ -1,0 +1,128 @@
+---
+nom_principal: Songomby
+nom_original: Songomby (malgache standard)
+variantes_linguistiques:
+  - merina: Songomby
+  - bara: Songomby, Tokandia (variante régionale)
+  - antemoro: Songomby
+  - tanala: Songomby
+categorie: bête monstrueuse hybride / dévoreur d'hommes
+tradition: malgache
+sous_tradition: bara, antemoro, tanala (sud et sud-est de l'île)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# SONGOMBY
+
+## SIGNIFICATION DU NOM
+
+Le nom *Songomby* est composé sur des éléments dialectaux qui n'ont pas tous été élucidés par les collectes ethnographiques. Le second élément, *omby*, désigne sans ambiguïté le bovin — c'est le mot ordinaire pour le zébu domestique qui constitue la richesse principale des éleveurs de l'intérieur. Le premier élément, *songo*, est plus obscur ; certains informateurs le rattachent à une racine évoquant la *cavalcade* ou la *course bondissante*, d'autres à une notion de *nuit* ou de *chose qui surgit*. La traduction approximative la plus prudente serait *bovin galopeur* ou *bête bondissante à corps de bœuf*.
+
+Une variante méridionale recensée chez les Bara nomme l'animal *Tokandia*, expression qui peut se rendre par *celui qui marche seul* ou *à pas unique* — peut-être en référence à sa démarche caractéristique, peut-être à sa solitude radicale.
+
+## ORIGINE
+
+Le Songomby n'a pas d'origine cosmogonique précise dans les traditions qui le connaissent. Il n'est pas l'enfant d'un être primordial, ni la transformation punitive d'un ancêtre fautif. Les conteurs des hauts plateaux et des forêts du sud-est le présentent simplement comme une bête qui *est là*, qui hante certaines régions depuis un passé indéterminé, et qu'il faut éviter.
+
+Quelques traditions plus élaborées rattachent toutefois sa présence à des zones autrefois habitées par les Vazimba — les premiers occupants supposés de l'île — comme si le Songomby appartenait à un fonds animal antérieur à l'arrivée des hommes actuels, témoin survivant d'une ancienne sauvagerie que la sédentarisation n'a pas entièrement chassée.
+
+## NATURE
+
+Le Songomby est une *créature hybride*, qui combine en un seul corps des traits incompatibles. C'est cette incompatibilité même qui le marque comme non-naturel : il n'appartient à aucune espèce que les éleveurs reconnaissent, et il déjoue les catégories ordinaires du vivant.
+
+Il est par ailleurs *anthropophage*. À la différence du zébu paisible dont il porte le corps, le Songomby ne broute pas. Il chasse — et il chasse les humains. Cette inversion de la docilité bovine constitue son trait définitionnel : un grand herbivore au gabarit familier, mais à la voracité de fauve.
+
+Sa nature est enfin *nocturne*. Il évolue principalement après la tombée du jour, dans les forêts et les zones de brousse où les villageois redoutent de s'attarder. Le rencontrer en plein jour est rare et tenu pour particulièrement néfaste.
+
+## HABITAT
+
+Le Songomby fréquente les forêts denses et les ravins des régions méridionales et orientales. Les Bara, peuple d'éleveurs du sud, le situent dans les massifs boisés qui bordent leurs pâturages. Les Antemoro et les Tanala, plus à l'est, le placent dans les forêts humides où la végétation referme rapidement les sentiers. Dans toutes ces régions, certaines vallées ou certains défilés portent une réputation de territoire à Songomby et sont évités après le coucher du soleil.
+
+On dit qu'il aime particulièrement les abords des sources isolées, où les voyageurs altérés viennent boire. Il s'embusque à proximité, attendant que sa proie se penche pour saisir l'eau, moment où elle est désarmée.
+
+## DESCRIPTION
+
+Le Songomby possède un corps massif de bovin ou de cheval — les deux comparaisons coexistent, certains conteurs insistant sur les flancs et l'encolure du zébu, d'autres sur la silhouette élancée et les sabots non fendus du cheval introduit par les colonisations successives. Sa robe est sombre, souvent décrite comme noire ou d'un brun très foncé, avec parfois des reflets métalliques au clair de lune.
+
+Sa tête, en revanche, n'est pas celle d'un bovin ni d'un cheval. Les traditions s'accordent sur une *tête de mouton* ou de bélier — petite, étroite, au museau effilé, avec parfois la mention de cornes recourbées. Cette discordance entre le corps puissant et la tête plus modeste est ce qui frappe immédiatement le témoin : le Songomby ne ressemble à rien que l'on connaisse, et son apparence reste imprimée dans la mémoire de ceux qui ont survécu à l'apercevoir.
+
+Ses yeux luisent dans l'obscurité — détail systématiquement signalé. Certaines variantes lui prêtent des dents acérées dans une gueule qui devrait normalement contenir des molaires d'herbivore. D'autres mentionnent un pelage qui ne se mouille pas sous la pluie, l'eau roulant sur lui comme sur un corps huilé.
+
+## POUVOIRS
+
+Le Songomby possède une *vitesse de course* extraordinaire. Plus rapide qu'un cheval ordinaire, il rattrape les fugitifs sur de longues distances et les renverse par le seul élan de sa charge.
+
+Il dispose d'une *force massive* qui lui permet de terrasser un homme adulte d'un coup d'épaule. Les récits le décrivent capable de briser des troncs jeunes pour passer, et de défoncer les enclos de bois où l'on tente de protéger le bétail.
+
+Il pratique une forme de *fascination par le regard*. Le voyageur qui croise ses yeux luisants se fige, incapable de fuir ou même de crier, jusqu'à ce que la bête arrive sur lui. Ce pouvoir explique, selon les conteurs, pourquoi tant de victimes sont retrouvées sans traces de fuite — comme si elles avaient attendu leur sort.
+
+Son *flair de chasseur* le guide vers les humains à grande distance. Les voyageurs solitaires qui s'aventurent dans les forêts qu'il hante sont repérés bien avant d'avoir conscience d'une présence.
+
+## FAIBLESSES
+
+Le Songomby ne supporte pas la lumière vive du jour pleinement levé. Les voyageurs surpris à la nuit qui parviennent à tenir jusqu'à l'aube sont sauvés ; la bête se retire dans les profondeurs des bois avant que le soleil ne soit haut.
+
+Il évite les villages clos où brûlent des feux nourris. Le feu domestique, ravivé toute la nuit, constitue la protection principale invoquée par les traditions. C'est pour cette raison que les bergers bara qui dorment au pâturage entretiennent des foyers même en saison sèche.
+
+Certaines régions attribuent au Songomby une répugnance pour le sel répandu sur le seuil ou pour les amulettes (*ody*) confectionnées par les *ombiasy*, les hommes de savoir traditionnels. Ces protections relèvent de la magie de bonne composition opposée à la nature ténébreuse de la bête.
+
+## COMPORTEMENT
+
+Le Songomby chasse seul. Aucune tradition ne mentionne de groupe ni de couple — c'est une créature radicalement solitaire, et sa rareté tient peut-être à cette solitude.
+
+Il préfère les proies isolées : le voyageur qui marche après le coucher du soleil, le berger qui s'est éloigné de son troupeau, l'enfant qui s'aventure trop loin du village. Il ne s'attaque jamais à un groupe armé qui marche en cohésion ; sa stratégie est l'embuscade contre le solitaire.
+
+Son comportement comporte une part de *jeu cruel*. Plusieurs récits rapportent qu'il ne se précipite pas immédiatement sur sa victime, mais tourne autour d'elle, l'oblige à courir, la fait chuter avant de la saisir. Cette lenteur sadique distingue le Songomby des prédateurs ordinaires et le range parmi les créatures à intention mauvaise plutôt que parmi les bêtes simplement affamées.
+
+Certaines traditions lui prêtent même la capacité de répondre — par grognements articulés, ou même par mots — aux paroles que sa victime lui adresse. Il *écoute* avant de tuer, comme s'il prenait plaisir à mesurer la peur.
+
+## RÉCITS TRADITIONNELS
+
+Les récits sur le Songomby sont nombreux dans les traditions bara, antemoro et tanala, mais ils tendent à suivre un schéma narratif récurrent.
+
+Un homme — souvent un voyageur ou un jeune berger imprudent — quitte son village après l'avertissement des anciens et s'engage dans une forêt réputée à Songomby. Les vieux lui ont rappelé qu'il ne faut pas marcher après le coucher du soleil dans cette région ; il a passé outre, soit par fanfaronnade, soit par nécessité pressante (un troupeau égaré, une nouvelle urgente à porter, une fiancée à rejoindre).
+
+Au crépuscule, l'homme entend un bruit derrière lui — un sabot qui frappe, ou un souffle qui se rapproche. Il presse le pas. Le bruit le suit. Il court ; le bruit court aussi, plus vite. À un détour de chemin, l'homme aperçoit la bête — corps de zébu, tête de mouton, yeux de feu. Il se fige.
+
+À ce point, deux variantes existent. Dans la version pessimiste, l'homme disparaît, et l'on retrouve seulement quelques os ou des lambeaux de pagne près d'une source. Dans la version d'enseignement, l'homme se rappelle un conseil ancien — invoquer un ancêtre, jeter du sel, allumer un brandon — et la bête s'éloigne en grognant, laissant le voyageur transi mais vivant. Au matin, il rentre au village et raconte, et son récit nourrit la prudence des suivants.
+
+Une autre série de récits concerne les troupeaux décimés. Un éleveur bara constate qu'une bête manque chaque nuit. Il monte la garde. La nuit où il veille, il voit le Songomby surgir de la lisière, saisir un veau et l'emporter dans la forêt à une vitesse que nul cheval ne pourrait suivre. L'éleveur, terrifié, n'ose tirer ; il rentre, déménage son enclos, et propose des sacrifices aux ancêtres pour que la bête s'éloigne.
+
+## VARIANTES RÉGIONALES
+
+Chez les Bara du sud, le Songomby est plutôt à corps de cheval, conformément à une introduction tardive du cheval dans la région. Sa tête de bélier porte parfois deux cornes recourbées en arrière. C'est dans cette tradition que l'appellation *Tokandia* coexiste avec *Songomby*.
+
+Chez les Antemoro de la côte sud-est, le Songomby est davantage à corps de zébu, conforme à l'élevage local dominant. Ses cornes peuvent être absentes, sa tête simplement décrite comme « de mouton sans cornes ».
+
+Chez les Tanala (peuple des forêts humides de l'est), il prend une forme plus furtive et purement forestière. Il y est parfois confondu, ou rapproché, du *gidro*, le singe-démon qui hante les mêmes ravins ; mais les conteurs prudents distinguent les deux : le Songomby est de grande taille, quadrupède, à corps de bovin ou cheval, alors que le Gidro est plus proche du primate.
+
+Une variante minoritaire des hauts plateaux merina réduit le Songomby à un simple zébu nocturne aux mauvaises intentions, sans tête discordante, et l'apparente alors plutôt au *Biby_omby*, le vieux zébu mystique. Cette assimilation est généralement considérée comme une dégradation tardive du motif originel des régions méridionales.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs représentations modernes — bandes dessinées malgaches contemporaines, illustrations touristiques, recompositions urbaines — ont eu tendance à transformer le Songomby :
+
+- L'image du *Songomby cheval ailé* qui apparaît parfois dans des produits dérivés modernes ne correspond à aucune tradition ancienne. Aucun récit traditionnel ne lui prête d'ailes. Sa rapidité tient à la course terrestre, non au vol.
+
+- L'identification du Songomby avec un cryptozoologique « cheval sauvage de Madagascar » (parfois rapprochée de l'hipparion fossile) est une lecture rationaliste tardive. La tradition n'en fait pas un animal résiduel d'une faune disparue mais une créature surnaturelle à part entière, dont l'hybridité corps-tête signale précisément qu'elle n'est pas un animal naturel mal connu.
+
+- La figure parfois véhiculée d'un Songomby « gardien protecteur des forêts » est une réinterprétation écologique récente, étrangère aux récits anciens où la bête est sans ambiguïté hostile aux humains.
+
+- L'orthographe *Sangoamby* parfois rencontrée dans des sources non malgachisantes constitue une simple altération de transcription ; la forme attestée dans les collectes anciennes et chez les locuteurs natifs est *Songomby*.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie traditionnelle du Songomby est rare. Les Malgaches anciens représentaient peu leurs créatures de la nuit, par crainte précisément de les *appeler* en les figurant. Néanmoins, certaines stèles funéraires bara (*aloalo*) du sud comportent à leur sommet des silhouettes animales schématiques où certains observateurs ont reconnu un quadrupède à tête disproportionnée — peut-être un Songomby sculpté pour rappeler aux vivants la frontière entre les mondes.
+
+Quelques cahiers de collecte de la fin du XIXᵉ siècle et du début du XXᵉ contiennent des croquis sommaires d'informateurs locaux représentant la bête : corps trapu de zébu, tête étroite de bélier, yeux exagérément grands et noirs.
+
+## POUR ALLER PLUS LOIN
+
+Le Songomby figure parmi les créatures les plus solidement attestées du folklore malgache des régions méridionales et orientales. Il est mentionné dans les traditions bara, antemoro et tanala recueillies de manière convergente, ce qui permet d'écarter l'hypothèse d'une figure isolée ou tardive. Sa fonction principale, dans le système folklorique, est d'enseigner la prudence : ne pas marcher seul la nuit, ne pas s'écarter du village, ne pas mépriser les avertissements des anciens.
+
+Sa parenté typologique avec d'autres dévoreurs nocturnes du folklore mondial — chimères mangeuses d'hommes, *manticores* du Proche-Orient, créatures composites des bestiaires médiévaux — invite à le situer dans la grande famille universelle des hybrides anthropophages, tout en lui reconnaissant une couleur proprement malgache faite d'élevage zébu, de forêts denses et de nuit tropicale.
+
+## PROMPT IMAGE
+
+Ancient ethnographic illustration of Songomby Malagasy folk creature, Sakalava aloalo wood carving aesthetic combined with nineteenth-century natural history engraving, an unsettling hybrid quadruped with the massive humped body of a Madagascar zebu and the narrow head of a horned ram, dark almost black coat with subtle metallic sheen under moonlight, glowing eyes rendered as small bright crescents, the creature emerging from dense Malagasy forest with traveler palms and ravenala silhouettes in the background, a small isolated spring visible in the foreground where the beast lies in ambush, distant view of a Bara cattle pen with a dying fire and a watchful herder, southern Madagascar dry forest and ravine landscape, megalithic Vazimba tomb stone visible in the middle distance, decorative border carved in the geometric style of Sakalava aloalo funerary posts with abstract motifs of horns and birds, ink and sepia wash on aged parchment paper, dense cross-hatching describing the muscled neck and shoulder hump, careful anatomical contrast between bovine body and ovine head signaling the creature's unnatural composite nature, atmosphere of nocturnal dread and predatory stillness, no modern rendering, no 3D, no cartoon, vintage natural history scientific illustration quality, aged parchment texture, no text, no letters, no inscriptions, no labels
