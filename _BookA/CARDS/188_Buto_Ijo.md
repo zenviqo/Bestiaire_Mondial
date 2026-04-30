@@ -1,0 +1,146 @@
+# 188 — Buto_Ijo
+
+**Tradition :** Indonesie
+
+**Image à insérer :** `_BookA/images/32_Indonesie/188_Buto_Ijo.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Traditional Javanese wayang kulit shadow puppet style illustration of Buto Ijo, the green giant of Javanese folklore, intricate perforated leather puppet aesthetic with delicate floral and geometric cut-out patterns, frontal-profile composition typical of wayang figures, the giant rendered with massive muscular body in deep emerald and moss green pigments, prominent round protruding red eyes, two large upward-pointing fangs (taring) emerging from the lower jaw, wild flame-like black hair stylized in traditional curling motifs, broad shoulders and proportions exaggerated to monumental scale, rough loincloth of ancient cloth at the waist, hands ending in long curved claws, standing among dense Javanese rainforest with banyan trees, banana leaves, and abandoned terraced rice paddies returning to wilderness in the background, faint silhouette of a small fleeing girl (Timun Mas) in the distance with scattered grains of salt becoming a salt-sea behind her, intricate Balinese temple-carving border patterns framing the composition, traditional natural pigments evoking lontar manuscript painting and topeng mask aesthetic, mountain volcano shape rising on the horizon under a stylized sun, decorative ornamental motifs of the wayang tradition, deep saturated colors with red, gold, black, and dominant cosmological green, atmosphere of ancient Indonesian myth, dramatic monumental composition emphasizing the giant's cosmic threat, no modern rendering, no 3D, no cartoon, no fantasy-game aesthetic, vintage ethnographic illustration quality, aged palm-leaf manuscript texture, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# BUTO IJO
+
+## SIGNIFICATION DU NOM
+
+Le nom *Buto Ijo* se compose de deux termes javanais d'usage courant. *Buto* — graphié *Buta* dans les transcriptions plus formelles — désigne le géant cannibale, l'ogre démesuré qui dévore les humains. Le mot dérive directement du sanskrit *bhūta*, qui signifiait à l'origine *être, créature, esprit existant*, et qui fut adopté très tôt dans les langues austronésiennes de l'archipel pour nommer les entités malfaisantes de grande taille héritées du substrat indo-bouddhique. *Ijo* — *hijau* en indonésien standard — signifie simplement *vert*. La traduction littérale est donc *le géant vert*, désignation purement descriptive qui prend valeur de nom propre dans la tradition orale.
+
+Cette couleur verte n'est pas neutre dans l'imaginaire javanais. Elle évoque la végétation luxuriante des forêts denses, la moisissure des lieux abandonnés, et la peau patinée des entités forestières que les conteurs opposent à la blancheur civilisée des rizières cultivées. *Buto Ijo* est ainsi le géant *de la verdure ensauvagée*, celui qui appartient au monde non humain par sa couleur même.
+
+## ORIGINE
+
+Buto Ijo n'est pas une invention récente du folklore villageois. Sa figure plonge ses racines dans le substrat indo-bouddhique introduit dans l'archipel à partir du premier millénaire de notre ère, lorsque les royaumes javanais successifs adoptèrent la cosmologie hindoue et bouddhique sans en effacer leurs propres traditions animistes antérieures. Le *raksasa* — démon cannibale géant des épopées indiennes, ennemi des héros divins, dévoreur de chair humaine — fut intégré au panthéon indonésien et progressivement transformé.
+
+Dans les sculptures monumentales des temples javanais et balinais, les raksasa apparaissent comme des gardiens monstrueux placés à l'entrée des sanctuaires : yeux exorbités, défenses saillantes, ventre proéminent, posture menaçante. Cette figure savante, transmise par les arts de cour et les épopées sanskrites locales, descendit progressivement vers les couches populaires où elle se mêla aux croyances indigènes concernant les esprits forestiers malfaisants. Le Buto Ijo des contes villageois est l'aboutissement de cette descente : un raksasa simplifié, démythologisé, retiré du contexte cosmologique pour devenir une menace concrète des forêts et des rizières en friche.
+
+Ses occurrences les plus anciennes attestables se trouvent dans les répertoires du *wayang kulit* et dans les contes oraux transmis aux enfants pour les avertir des dangers de l'errance hors des limites du village. Il appartient au fonds folklorique commun de Java, Bali et certaines régions de Sumatra, avec des variantes locales mais une cohérence de fond remarquable.
+
+## NATURE
+
+Buto Ijo est un *géant cannibale*. Cette qualification est essentielle : il n'est ni dieu, ni esprit incorporel, ni démon abstrait. Il possède un corps physique, gigantesque mais terrestre, soumis aux contraintes de la matière — il mange, il dort, il peut être trompé, il peut mourir. Cette corporéité le distingue radicalement des *hantu* immatériels qui peuplent par ailleurs l'imaginaire indonésien.
+
+Sa nature est *prédatrice*. Il chasse l'humain comme l'humain chasse le gibier. Il préfère la chair tendre — celle des enfants, des jeunes femmes, des voyageurs égarés — mais il ne dédaigne pas une proie adulte robuste s'il en saisit l'occasion. Cette prédation n'est pas accidentelle ni circonstancielle : elle constitue son mode d'alimentation normal.
+
+Sa nature est enfin *liminaire*. Buto Ijo habite les zones de bordure entre l'espace civilisé et l'espace sauvage : la lisière de la forêt, la rizière abandonnée, la clairière oubliée, la grotte cachée sous la canopée. Il ne pénètre pas volontiers dans le village proprement dit, retenu par les seuils domestiques et les pratiques rituelles ; mais il rôde aux limites, attendant que la victime franchisse seule la frontière protectrice.
+
+## HABITAT
+
+Les forêts denses de l'intérieur javanais constituent son domaine principal. Les conteurs les situent particulièrement dans les massifs montagneux centraux de l'île, autour des volcans dormants, dans les vallées encaissées que la végétation tropicale rend impénétrables. Les arbres géants — *beringin*, *waringin*, certains figuiers étrangleurs — sont volontiers désignés comme demeures possibles, leur tronc creux pouvant abriter une créature de taille démesurée.
+
+Les *rizières en friche* — celles qu'un village a abandonnées suite à un malheur, à une migration, à un déséquilibre rituel — constituent son second habitat préférentiel. Une rizière retournée à la sauvagerie, envahie par les hautes herbes et les jeunes arbres, n'appartient plus au monde humain mais pas encore pleinement au monde forestier : c'est exactement le type de zone liminaire où Buto Ijo s'installe volontiers, profitant du retrait humain pour étendre son territoire.
+
+Certaines variantes locales lui prêtent également des grottes, des ravins inaccessibles, ou des huttes de taille colossale dissimulées au cœur de la jungle, où il garderait parfois ses victimes vivantes en captivité avant de les dévorer.
+
+## DESCRIPTION
+
+Buto Ijo est immense. Les conteurs lui prêtent une taille qui dépasse le double ou le triple d'un humain adulte, parfois davantage selon les versions. Son corps est massif, musculeux, disproportionné — ventre proéminent, épaules larges, bras épais terminés par des mains aux doigts crochus.
+
+Sa peau est verte. Cette couleur, qui lui donne son nom, varie selon les conteurs : vert sombre comme la mousse profonde, vert mat comme la feuille de bananier vieillie, vert tirant sur le noir dans certaines descriptions plus inquiétantes. Cette pigmentation le rend partiellement invisible dans le sous-bois, le confondant avec la végétation environnante — ce qui explique, selon les récits, comment il peut surprendre des proies sans être aperçu.
+
+Ses yeux sont rouges et exorbités, suivant la convention iconographique des raksasa hérités de la statuaire des temples. Sa bouche est large, fendue jusqu'aux oreilles, garnie de dents irrégulières parmi lesquelles deux *défenses* — *taring* en indonésien — saillent vers le haut depuis la mâchoire inférieure, dépassant la lèvre supérieure. Ces défenses, attribut canonique de la figure, signalent immédiatement à l'œil de l'auditeur ou du spectateur qu'il s'agit d'un être cannibale et non d'un humain ordinaire de grande taille.
+
+Sa chevelure est noire, abondante, hirsute. Sa barbe est souvent décrite comme broussailleuse. Il porte parfois un pagne grossier ou une simple peau d'animal nouée à la taille, parfois rien du tout selon les versions les plus rustiques.
+
+## POUVOIRS
+
+La *force physique colossale* est son attribut majeur. Il déracine les arbres d'un seul mouvement, soulève des rochers que dix hommes ne pourraient déplacer, abat les murs d'enclos en s'y appuyant simplement. Aucune lutte directe ne peut être gagnée contre lui par un humain ordinaire.
+
+L'*odorat aiguisé* lui permet de repérer une proie à distance considérable. Plusieurs récits insistent sur sa capacité à *flairer la chair humaine* — *bau manusia* — depuis le fond de sa grotte ou de sa hutte forestière, et à se mettre en chasse dès qu'il en perçoit l'effluve.
+
+La *rapidité de course* surprenante pour sa taille fait partie du répertoire. Il avance par grandes enjambées qui couvrent le terrain plus vite qu'un cheval. Fuir Buto Ijo en ligne droite est inutile : il rattrape toujours.
+
+Une certaine *ruse* lui est parfois prêtée. Il peut tendre des pièges, simuler la bienveillance, prendre l'apparence d'un ermite ou d'un voyageur pour attirer sa proie hors des chemins protégés. Cette dimension calculatrice n'est cependant pas universelle dans le folklore — certaines versions le présentent comme une force brute simple, d'autres lui prêtent une intelligence retorse.
+
+## FAIBLESSES
+
+Buto Ijo, malgré sa puissance, possède des faiblesses précises et reproductibles que les contes mettent en scène pour permettre à la victime humaine de s'en sortir. Ces faiblesses constituent l'armature pédagogique du récit traditionnel.
+
+Le *sel* — *garam* — le repousse violemment. Une poignée de sel jetée derrière soi se transforme, dans le conte de Timun Mas, en une mer infranchissable qui force le géant à un long détour. Cet usage rituel du sel comme barrière protectrice est attesté plus largement dans les pratiques magiques javanaises, où le sel marque la limite entre l'espace humain ordonné et le monde sauvage.
+
+La *pâte de crevettes fermentée* — *terasi* — constitue une seconde arme. Jetée derrière la victime en fuite, elle se transforme en mer ou en marécage de boue puante qui paralyse la course du poursuivant. Ce détail, profondément ancré dans la culture culinaire indonésienne, donne au conte sa saveur locale irréductible.
+
+Les *aiguilles* — *jarum* — éparpillées sur le chemin se transforment en une forêt de bambous serrés et acérés que le géant ne peut traverser sans se déchirer. Ces trois objets, apparemment dérisoires, constituent l'arsenal classique de la fillette poursuivie dans le récit canonique.
+
+Plus largement, Buto Ijo peut être *trompé par la ruse*. Sa force ne s'accompagne pas toujours d'une intelligence stratégique : il croit aux promesses, il accepte les délais, il se laisse abuser par des stratagèmes simples. Cette faille morale, autant que physique, fait partie de son archétype.
+
+## COMPORTEMENT
+
+Buto Ijo agit selon un schéma comportemental constant que les contes restituent avec précision. Il rôde dans son territoire forestier, alerté par l'odeur ou le bruit. Lorsqu'il repère une proie, il s'approche en exploitant son camouflage vert. Si la proie est seule et faible, il l'attrape directement. Si elle est en groupe ou en position défendue, il attend ou tend un piège.
+
+Une dimension particulière de son comportement est l'*élevage de proies*. Plusieurs récits, dont celui de Timun Mas, le montrent acceptant un délai — souvent plusieurs années — pour laisser une enfant grandir avant de la dévorer, jugeant la chair plus savoureuse à un âge précis. Cette patience prédatrice donne au conte sa structure temporelle dramatique : la victime sait à l'avance la date approximative où le géant viendra la chercher.
+
+Son comportement dans la confrontation finale est obstiné mais limité. Il poursuit sans relâche, mais il peut être détourné par les obstacles magiques ; il peut être épuisé par la durée de la course ; il peut être vaincu par l'arrivée du moment où sa nature même est dépassée — souvent, dans les contes, par la mer salée née du sel jeté qui le noie ou le dissout.
+
+## RÉCITS TRADITIONNELS
+
+Le récit canonique attaché à Buto Ijo est celui de *Timun Mas*, *la concombre dorée*. Une vieille femme sans enfants, vivant seule à la lisière de la forêt, supplie les puissances pour obtenir une descendance. Buto Ijo apparaît et lui offre une graine miraculeuse, à condition qu'elle lui livre l'enfant qui en naîtra une fois l'enfant arrivée à un certain âge — souvent fixé à six ou sept ans selon les versions. La femme, désespérée, accepte.
+
+Elle plante la graine. Une plante de concombre prodigieuse pousse, donnant un fruit unique, énorme et doré. À l'intérieur du fruit, lorsqu'elle l'ouvre, se trouve une petite fille déjà formée. Elle l'appelle Timun Mas — la *concombre dorée*. L'enfant grandit, aimée et chérie, mais la mère sait que l'échéance approche.
+
+Quand Buto Ijo revient pour réclamer son dû, la mère, terrifiée, refuse de lui livrer sa fille. Elle remet à Timun Mas un baluchon contenant quatre objets — selon les versions : sel, pâte de crevettes, aiguilles et graines de concombre, parfois en ordre différent — et lui dit de fuir vers la forêt en jetant un objet à chaque fois que le géant la rattrape.
+
+Timun Mas court. Buto Ijo la poursuit. Elle jette les graines de concombre, qui se transforment en un champ touffu ralentissant le géant. Elle jette les aiguilles, qui deviennent une forêt de bambous acérés. Elle jette la pâte de crevettes, qui se change en marécage puant. Elle jette enfin le sel, qui se transforme en une mer immense et salée. Buto Ijo s'y précipite, s'y noie, s'y dissout — selon les versions, son corps fond comme du sel lui-même au contact de l'eau salée, ironie cosmique du conte.
+
+Timun Mas rentre chez sa mère adoptive, libérée à jamais de la menace. Le conte enseigne à la fois la prudence (ne pas conclure de marché avec les puissances de la forêt), la ruse (le faible peut vaincre le fort par la stratégie) et l'attachement aux objets domestiques humbles (sel et terasi de la cuisine quotidienne deviennent armes salvatrices).
+
+D'autres récits mineurs mettent Buto Ijo en scène comme antagoniste de héros princiers, gardien d'un trésor ou d'une princesse captive, ou simple menace anonyme rôdant à la lisière des villages.
+
+## VARIANTES RÉGIONALES
+
+À *Java centrale et orientale*, le Buto Ijo des contes ruraux conserve sa forme la plus pure : géant vert solitaire, antagoniste du conte de Timun Mas, présence menaçante des forêts intérieures. La plupart des versions imprimées et des adaptations modernes pour enfants suivent cette ligne javanaise.
+
+À *Bali*, sous le nom de *Buta Hijau* ou *Buta Ijo*, la figure conserve son apparence générale mais se trouve davantage intégrée à l'imaginaire rituel hindouiste local. Les *buta* balinais — pluriel d'entités démoniaques — font l'objet de cérémonies spécifiques, notamment lors du *Bhuta Yajña*, rituel d'apaisement des forces démoniaques. Le Buta Hijau y figure parmi d'autres entités colorées (rouge, blanche, noire, jaune) associées aux directions cardinales selon des correspondances cosmologiques précises. Ce Buta balinais est ainsi à la fois figure narrative et entité rituelle reconnue.
+
+En *pays sundanais* (Java occidental), sous la forme *Buta Hejo*, la créature partage les traits javanais avec quelques inflexions locales : association plus marquée à certains massifs forestiers spécifiques, intégration occasionnelle dans le répertoire du *wayang golek* (théâtre de marionnettes en bois sundanais).
+
+À *Sumatra*, les variantes connues mêlent le Buto Ijo à d'autres figures cannibales locales sans toujours conserver le nom — la couleur verte y est moins systématique, et le personnage tend à fusionner avec d'autres types d'ogres ou de géants forestiers du folklore batak ou minangkabau.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'imaginaire moderne, notamment à travers les adaptations animées du conte de Timun Mas, les illustrations de livres pour enfants et certaines productions médiatiques indonésiennes, a transformé Buto Ijo selon plusieurs axes qu'il importe de distinguer du fond traditionnel.
+
+- La *réduction caricaturale* — Buto Ijo comme simple ogre stupide et grotesque, à mi-chemin entre le monstre comique et l'épouvantail enfantin — n'épuise pas la figure traditionnelle, qui conserve une dimension véritablement effrayante et liminaire dans les versions orales rurales.
+
+- L'*assimilation aux figures de la fantasy occidentale* (orc, troll, ogre générique) est une tendance contemporaine qui efface la spécificité javanaise du personnage. Le Buto Ijo authentique n'est pas un orc tropical : il appartient à la lignée raksasa, avec ses défenses caractéristiques, ses yeux exorbités, sa pigmentation cosmologiquement codée.
+
+- La *suppression du substrat indo-bouddhique* dans les versions enfantines modernes prive Buto Ijo de son arrière-plan culturel. Sa parenté avec les raksasa des épopées sanskrites, sa présence dans la statuaire des temples en tant que gardien démoniaque, son intégration aux rituels balinais d'apaisement — tous ces éléments font partie de son identité véritable et ne peuvent être ignorés sans dénaturer la figure.
+
+- La *romantisation* de Buto Ijo en figure tragique ou ambivalente, parfois tentée dans certaines productions contemporaines, contredit la tradition orale qui le présente comme antagoniste pur, sans nuance morale destinée à susciter la sympathie. Le Buto Ijo des contes villageois est dévorant, et c'est exactement cette dévoration qu'il faut craindre.
+
+- Certains *jeux vidéo* et *films d'horreur* indonésiens récents l'ont mobilisé comme antagoniste fantastique, parfois en l'éloignant fortement de sa fonction folklorique originelle. Ces œuvres possèdent leur valeur propre mais ne doivent pas être confondues avec la tradition orale dont la figure est issue.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Plusieurs supports traditionnels indonésiens ont représenté Buto Ijo ou les raksasa qui en sont la matrice.
+
+Le *wayang kulit* — théâtre d'ombres javanais, inscrit au patrimoine immatériel mondial — possède un répertoire complet de figurines de raksasa, dont certaines correspondent typologiquement au Buto Ijo : silhouettes massives, profil au nez retroussé, défenses saillantes vers le haut, yeux ronds exorbités, chevelure abondante stylisée en flammes. Ces figurines de cuir découpé et perforé, projetées en ombre sur l'écran de coton tendu, donnent au géant sa forme canonique pour des générations de spectateurs javanais.
+
+Les *masques topeng* — masques de bois sculptés et peints utilisés dans les danses dramatiques javanaises et balinaises — incluent également des types démoniaques verts, rouges ou noirs correspondant aux raksasa des récits. Le masque de buta vert balinais, peint d'une couleur olive intense rehaussée de rouge et d'or, constitue l'une des représentations les plus saisissantes du type.
+
+Les *gravures rupestres et bas-reliefs* des temples javanais classiques — Borobudur, Prambanan, et de nombreux temples mineurs — montrent des raksasa sculptés dans la pierre volcanique, gardiens monumentaux placés aux entrées et aux escaliers. Ces figures, héritées de la statuaire indo-bouddhique mais retravaillées selon le style javanais, constituent l'arrière-plan iconographique direct du Buto Ijo populaire.
+
+Les *peintures de manuscrit* sur feuille de palmier (*lontar*) à Bali et certains fragments javanais conservent également des illustrations de raksasa avec leurs attributs canoniques : défenses, yeux ronds, peau colorée selon les conventions cosmologiques.
+
+## POUR ALLER PLUS LOIN
+
+Buto Ijo appartient au fonds commun du folklore indonésien, transmis principalement par tradition orale et par les arts du spectacle traditionnel. Le conte de Timun Mas, son support narratif principal, est aujourd'hui collecté dans de multiples recueils de contes javanais et indonésiens, et fait partie du patrimoine éducatif standard transmis aux enfants de l'archipel.
+
+L'arrière-plan indo-bouddhique de la figure peut être éclairé par l'étude des raksasa dans la statuaire et la littérature classique javanaise, ainsi que par les rituels balinais d'apaisement des forces démoniaques pratiqués jusqu'à aujourd'hui.

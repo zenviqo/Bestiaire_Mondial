@@ -1,0 +1,132 @@
+# 114 — Khyung
+
+**Tradition :** Tibetain Himalayen
+
+**Image à insérer :** `_BookA/images/10_Tibetain_Himalayen/114_Khyung.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Tibetan Bon thangka style painting of the Khyung, the cosmic horned bird of the high plateau, traditional thangka aesthetic with hand-ground mineral pigments on prepared cotton canvas, the great bird shown in frontal majestic pose with wings fully spread filling the upper half of the composition, plumage rendered as actual living flames in five distinct colors (white, yellow, red, green, and central black) emanating from the body in stylized tongues of fire with curling outlines characteristic of Tibetan flame iconography, two prominent curved horns rising from the crown of the head in the manner of yak horns, a luminous flaming Norbu wish-fulfilling jewel set on the forehead radiating concentric haloes of light, sharp curved beak holding a writhing nāga (Lu) by the nape, iron talons gripping a second serpent-like Lu, the body proportions distinctly avian and not anthropomorphic, background showing the snowcapped peak of Mount Tise (Kailash) rising into a sky of swirling cosmic clouds with auspicious Tibetan motifs, smaller Lu serpents fleeing into deep blue waters at the base of the mountain, primitive rock art petroglyphs of earlier khyung figures faintly visible on the cliffs as a nod to the Bon prehistoric origin, traditional Tibetan thangka border with stylized lotus and jewel patterns (decorative only, no readable text), color palette dominated by deep mineral blue, vermilion red, ochre yellow, malachite green and gold leaf accents, hieratic frontal composition typical of cham mask painting and protective deity thangkas, fine outlining in black ink characteristic of master thangka painters, atmosphere of cosmic majesty and primordial authority, no modern rendering, no 3D, no cartoon, no anime, no Western fantasy aesthetic, no Indian Garuda iconography (the bird must have horns and frontal jewel, distinguishing it from Garuda), authentic Himalayan sacred art quality, aged silk-mounted thangka texture, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# KHYUNG
+
+## SIGNIFICATION DU NOM
+
+Le nom *khyung* est un mot tibétain ancien dont l'étymologie est antérieure à la pénétration du sanskrit sur le plateau. Il ne dérive pas du nom indien *garuḍa*, comme on le supposa longtemps, mais relève du fonds lexical autochtone tibéto-birman, attesté dans les couches les plus anciennes de la langue rituelle Bön. Les commentateurs traditionnels le glosent par *celui-qui-domine-l'espace* ou *seigneur des hauteurs*, en jouant sur la racine évoquant l'élévation et l'aigu. Lorsque le bouddhisme indien fut importé au VIIIᵉ siècle, les traducteurs tibétains choisirent *khyung* pour rendre *garuḍa* — non par identification stricte, mais parce que la créature locale occupait une fonction structurellement comparable. Le calque devint d'usage, mais les Tibétains conservèrent toujours conscience que leur khyung n'était pas exactement le garuda des plaines.
+
+Le terme savant *mkha' lding*, plus tardif, signifie littéralement *celui qui plane dans l'espace céleste*. Il est employé dans les liturgies bouddhiques pour désigner le khyung dans son aspect le plus universel.
+
+## ORIGINE
+
+Le khyung appartient au substrat préBouddhique du plateau tibétain. Avant l'arrivée du Dharma indien, la religion Bön ancien — dont le foyer est traditionnellement situé dans le royaume de Zhang Zhung, à l'ouest du Tibet, autour du mont Tise (Kailash) et du lac Manasarovar — connaissait déjà cet oiseau cosmique comme l'un des animaux fondateurs de l'ordre du monde. Les textes Bön rapportent qu'au commencement, alors que le ciel et la terre étaient encore proches, le khyung naquit *adulte* d'un œuf cosmique pondu sur la cime du monde, sans phase intermédiaire de nidification ni de croissance. Cette naissance instantanée à l'âge mûr est l'un des traits qui le distinguent de tout oiseau ordinaire et le rapproche des entités primordiales.
+
+Lorsque le bouddhisme tantrique fut introduit, le khyung ne fut pas évincé. Les maîtres Nyingma et plus tard Kagyu l'intégrèrent comme monture et émanation des yidams courroucés, particulièrement dans les pratiques liées à la transmutation des poisons et à la subjugation des entités chthoniennes. Le khyung devint ainsi une figure de pont entre Bön et bouddhisme tibétain, l'une des rares créatures dont les deux traditions se disputent moins l'origine qu'elles ne se la partagent.
+
+## NATURE
+
+Le khyung est un *oiseau cosmique*, et non une simple bête à plumes. Sa nature engage trois registres simultanés.
+
+Il est d'abord *créature primordiale* : il appartient à la couche du monde antérieure aux divisions actuelles entre dieux, hommes et démons. Il occupe le ciel non comme on occupe un domaine, mais comme un principe occupe son ordre.
+
+Il est ensuite *adversaire structurel des nāgas*. Dans la cosmologie tibétaine, les Lu (*klu*, équivalent autochtone des nāgas indiens) habitent les eaux, les sources, les profondeurs minérales. Le khyung, oiseau du ciel et du feu, leur est opposé par nature même. Cette opposition n'est pas un conflit d'humeur mais une polarité cosmologique : l'un est l'autre par négation. Là où le Lu rampe, le khyung plane ; là où le Lu humidifie, le khyung embrase.
+
+Il est enfin *monture rituelle*. De nombreux yidams courroucés du panthéon tibétain — particulièrement dans les cycles Nyingma — apparaissent chevauchant un khyung ou se manifestant à travers lui. Dans cet aspect, la créature n'est pas seulement représentée : elle devient véhicule de réalisation, support de méditation, et présence active dans le rituel.
+
+## HABITAT
+
+Le khyung habite les hauteurs. Les textes Bön le placent au sommet du mont Tise — le Kailash —, montagne sacrée que Bönpo et bouddhistes tibétains reconnaissent comme l'axe du monde. Il y nicherait sur les cimes les plus inaccessibles, là où la roche rejoint le ciel sans transition. D'autres traditions étendent son domaine à l'ensemble des sommets sacrés du plateau : les neuf montagnes des dieux Bön, les pics qui jalonnent la chaîne himalayenne, les cols où passent les vents primordiaux.
+
+Plus largement, son habitat est *l'espace céleste lui-même* (*nam mkha'*) — non pas un lieu mais une dimension. Il s'y meut sans appui, comme dans son élément propre, et n'a besoin de descendre que pour combattre les Lu ou pour porter sa monture divine.
+
+## DESCRIPTION
+
+Le khyung tibétain se distingue physiquement du garuda indien par plusieurs traits qui n'appartiennent qu'à lui.
+
+Il porte sur la tête deux *cornes* — détail capital, jamais présent chez le garuda des plaines — qui rappellent les cornes du yak, animal totémique du plateau, et marquent son enracinement himalayen. Ces cornes sont parfois décrites comme courbes, parfois comme droites, parfois comme ramifiées à la manière des bois du cerf musqué ; elles signalent dans tous les cas une royauté animale qui dépasse la simple condition d'oiseau.
+
+Il porte sur le front un *joyau Norbu* (*nor bu*) — pierre précieuse cosmique, équivalent tibétain du *cintāmaṇi* indien, mais dont la place frontale chez le khyung est spécifique. Ce joyau émet une lumière qui éclaire son vol et qui terrifie les nāgas.
+
+Son plumage est *flamboyant*, c'est-à-dire qu'il brûle réellement : ce ne sont pas des plumes colorées mais des plumes de feu, et l'oiseau laisse derrière lui un sillage incandescent. Selon la famille à laquelle il appartient, ces flammes sont blanches, jaunes, rouges, vertes ou noires.
+
+Son bec est crochu et puissant, capable de saisir un nāga par la nuque. Ses serres sont de métal — souvent de fer, parfois décrites comme de météorite. Ses ailes déployées couvrent, selon les hagiographies, l'horizon entier vu depuis un col de montagne.
+
+## POUVOIRS
+
+Le khyung dispose du *vol cosmique* : il traverse les sphères célestes sans effort, peut franchir en un battement d'ailes la distance qui sépare le sommet du Kailash de la limite occidentale de Zhang Zhung, et plane à des altitudes où nul autre être ailé ne s'aventure.
+
+Il dispose du *pouvoir de victoire sur les Lu*. Dans tous les récits, l'affrontement entre khyung et nāga se solde par la défaite du serpent : le khyung les saisit, les soulève, les dévore. Cette fonction est rituellement réinvestie : invoquer le khyung est, dans la médecine tibétaine traditionnelle, l'une des stratégies reconnues contre les maladies dites *de Lu* — affections de la peau, lèpre, troubles hydropiques, attribués à l'agression des entités chthoniennes blessées.
+
+Il dispose du *pouvoir d'incinération* : ses flammes consument les obstacles ordinaires comme les obstacles subtils, et son seul passage purifie l'atmosphère qu'il traverse.
+
+Il dispose enfin, dans son aspect rituel, du pouvoir de *porter le yidam*. Cette fonction de monture n'est pas mineure : elle suppose que le khyung soit assez puissant pour soutenir la présence d'une déité courroucée pleinement déployée, ce qu'aucun autre animal du panthéon ne peut faire seul.
+
+## FAIBLESSES
+
+Les faiblesses du khyung sont rares et toutes liées à sa polarité cosmique. Il ne peut s'enfoncer dans les eaux profondes — son élément est l'air et le feu, jamais l'humide. Les profondeurs lacustres et les sources les plus reculées des Lu lui demeurent inaccessibles, et certaines hagiographies rapportent qu'un Lu acculé peut sauver sa vie en plongeant au cœur de son lac d'origine, où le khyung ne saurait le suivre.
+
+Sa naissance adulte le prive également d'une jeunesse formatrice : il ne grandit pas, n'apprend pas, ne se transforme pas. Ce qu'il est au moment où il sort de l'œuf, il l'est pour toute son existence. Cette absence de mutabilité est, dans la pensée tibétaine, une limitation : elle l'enferme dans son propre rôle.
+
+## COMPORTEMENT
+
+Le khyung est solitaire. Il ne forme ni couple ni volée. Chaque khyung est complet en lui-même, plénitude isolée parcourant le ciel pour son propre compte. Il n'attaque pas par faim — il n'a pas faim au sens ordinaire — mais par fonction : la chasse aux Lu fait partie de son être, comme respirer pour un humain.
+
+Vis-à-vis des hommes, son comportement est neutre tant qu'on ne perturbe pas ses domaines d'altitude. Les bergers et nomades du plateau qui aperçoivent un khyung réel — phénomène extrêmement rare, généralement assimilé à une vision — ne sont pas censés en être effrayés mais reconnaissants : sa simple présence éloigne les entités malfaisantes des troupeaux et des sources.
+
+Vis-à-vis des yogis, il peut se manifester comme protecteur ou comme monture rituelle, selon la pratique engagée. Les hagiographies des grands maîtres rapportent plusieurs apparitions de khyung dans des moments de réalisation décisifs : le maître voit l'oiseau cosmique sortir de son propre cœur ou descendre du sommet de la montagne pour le porter.
+
+## RÉCITS TRADITIONNELS
+
+Les textes Bön anciens — particulièrement ceux du cycle de Zhang Zhung Nyengyu et les commentaires liés au culte du mont Tise — rapportent comment le premier khyung naquit d'un œuf cosmique pondu au sommet du monde, et comment il établit l'ordre du ciel en repoussant les Lu hors des hauteurs vers les eaux d'en bas. Ce récit fondateur explique la séparation actuelle entre cieux et abîmes : avant le khyung, les Lu rampaient jusque dans les nuages ; depuis le khyung, ils sont confinés aux eaux et aux profondeurs.
+
+Les hagiographies des Mahasiddhas tibétains et des grands maîtres Nyingma — notamment celles entourant Padmasambhava et ses disciples immédiats — mentionnent à plusieurs reprises l'intervention du khyung. Lorsqu'un maître devait soumettre un Lu particulièrement virulent, on le voit invoquer la forme khyung ou la prendre lui-même par méditation. Padmasambhava lui-même est associé à plusieurs cycles où il manifeste un aspect khyung pour convertir les divinités locales du plateau.
+
+Les traditions Kagyu rapportent que certains yogis, parvenus à la maîtrise du *thugs rje chen po* (la grande compassion) couplée à l'énergie courroucée, peuvent transformer leur esprit-vent en khyung intérieur le temps d'une pratique, expérimentant directement la vision cosmique de l'oiseau.
+
+## VARIANTES RÉGIONALES
+
+La tradition tibétaine reconnaît cinq familles de khyung, organisées selon le système des cinq couleurs primordiales — le même schéma qui structure les cinq familles de Bouddhas, les cinq éléments et les cinq directions :
+
+- Le *khyung blanc* (*khyung dkar po*) règne sur l'ouest et correspond à l'élément métal ou à l'eau-élevée, selon les sources Bön ou bouddhiques. Il pacifie. Il est associé aux pratiques de purification.
+- Le *khyung jaune* (*khyung ser po*) règne sur le sud et correspond à la terre. Il enrichit. Il est associé aux pratiques d'accroissement, de fertilité, de prospérité.
+- Le *khyung rouge* (*khyung dmar po*) règne sur l'ouest dans certaines variantes, sur le sud-ouest dans d'autres, et correspond au feu. Il magnétise. Il est associé aux pratiques de subjugation amoureuse et de pouvoir.
+- Le *khyung vert* (*khyung ljang khu*) règne sur le nord et correspond à l'air ou au bois. Il accomplit l'action. Il est associé aux pratiques d'activité rapide.
+- Le *khyung noir* (*khyung nag po*) règne sur le centre ou sur l'est selon les écoles, et correspond à l'espace ou à la nuit cosmique. Il est l'aspect le plus courroucé, le destructeur d'obstacles ; il est aussi le khyung le plus invoqué dans les rituels Bön de longue tradition, où sa noirceur n'est pas mauvais augure mais figure de la matrice originelle.
+
+Chaque famille possède ses mantras propres, ses textes liturgiques, ses positions iconographiques distinctes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs confusions courantes méritent d'être levées.
+
+Le khyung n'est *pas* le garuda indien. Le garuda *Garuḍa* du panthéon hindou est la monture de Viṣṇu, sans cornes, sans joyau frontal, avec une iconographie de plumage classiquement aviaire et un corps souvent semi-humain. Le khyung tibétain a des cornes, un Norbu sur le front, un plumage de flammes et un corps généralement entièrement aviaire. La traduction médiévale de *garuḍa* par *khyung* a brouillé cette distinction dans les manuels populaires, mais la tradition tibétaine vivante a toujours su que les deux créatures, bien qu'analogues fonctionnellement, ne sont pas identiques.
+
+Le khyung n'est *pas* un dieu. Aucune liturgie ne lui adresse directement une prière comme à une divinité. Il est créature — primordiale certes, cosmique certes, mais créature : il a été pondu, il habite un lieu, il accomplit une fonction. Les divinités qui le chevauchent sont ses cavaliers, non ses doublets.
+
+Le khyung n'est *pas* un dragon, malgré les traductions occidentales fautives qui parlent parfois de *dragon-aigle* ou de *phénix tibétain*. Le dragon (*'brug*) et le khyung sont deux créatures distinctes du bestiaire tibétain, le premier maître du tonnerre et des nuages, le second maître du vol cosmique et de la chasse aux nāgas.
+
+Le khyung de la culture populaire occidentale contemporaine — quand il apparaît, dans certains jeux vidéo ou romans de fantasy — emprunte fréquemment au garuda indien plutôt qu'au khyung tibétain authentique, et omet systématiquement les cornes, le Norbu et l'organisation en cinq familles.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie du khyung est l'une des plus anciennes attestées dans l'aire culturelle tibétaine.
+
+Les *pétroglyphes* du plateau tibétain, gravés sur les roches du Ladakh, du Spiti, du nord-ouest de l'Amdo et de la région du Kailash, comportent de nombreuses représentations d'oiseaux à grandes ailes déployées, parfois cornus, qui sont identifiés par les spécialistes du Bön ancien comme des khyung archaïques. Certains de ces pétroglyphes sont datés des millénaires antérieurs à l'introduction du bouddhisme et témoignent d'un culte pré-bouddhique de la créature aviaire cosmique. Ils constituent l'une des preuves matérielles les plus solides de l'antériorité du khyung sur le garuda importé.
+
+Les *thangkas* — peintures sur étoffe servant de support à la pratique méditative — représentent abondamment le khyung à partir de la diffusion des cycles Nyingma et Kagyu. On le voit comme monture sous certains yidams courroucés, comme entité indépendante au sommet de compositions cosmiques, ou comme protecteur dans la marge des compositions consacrées à d'autres figures. Le plumage flamboyant y est rendu par des langues de feu colorées selon la famille représentée, et le Norbu frontal est presque toujours visible.
+
+Les *masques de cham* — danses rituelles masquées des monastères tibétains et himalayens — comportent dans plusieurs traditions un masque de khyung utilisé lors des séquences consacrées à la subjugation des entités hostiles. Ces masques sont sculptés en bois peint, dotés de cornes physiques, d'un Norbu de pierre semi-précieuse au front, et d'un bec crochu. Le danseur qui porte le masque incarne rituellement l'oiseau cosmique le temps de la danse.
+
+Enfin, les amulettes protectrices contre les maladies de Lu portent fréquemment l'image stylisée d'un khyung aux ailes déployées, gravée sur métal ou peinte sur tissu plié.
+
+## POUR ALLER PLUS LOIN
+
+Le khyung est documenté dans le corpus textuel Bön classique, particulièrement dans les cycles attachés au royaume de Zhang Zhung et au culte du mont Tise. Il apparaît également dans les traités tantriques Nyingma, les hagiographies des Mahasiddhas tibétains et de Padmasambhava, et dans les manuels rituels Kagyu portant sur la subjugation des entités chthoniennes. Les études contemporaines de l'art rupestre tibétain — notamment celles consacrées aux pétroglyphes du Ladakh occidental et de l'Amdo — fournissent les attestations matérielles les plus anciennes et permettent de séparer la couche autochtone du khyung de l'apport indien tardif. L'étude comparée du khyung et du garuḍa indien constitue par ailleurs l'un des chapitres récurrents des travaux portant sur la formation du tantrisme tibétain au croisement du Bön et du bouddhisme.

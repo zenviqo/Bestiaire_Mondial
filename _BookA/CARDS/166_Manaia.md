@@ -1,0 +1,156 @@
+# 166 — Manaia
+
+**Tradition :** Polynesien
+
+**Image à insérer :** `_BookA/images/15_Polynesien/166_Manaia.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Traditional Maori whakairo wood carving of a Manaia, side profile view, intricate hand-carved totara wood with deep relief, the figure shows the classical tripartite hybrid form: bird head with long curved beak at the top, human body with strong arms holding a ceremonial taiaha staff in the middle, coiled fish tail spiraling at the bottom, large round eye inlaid with iridescent paua shell catching blue-green light, tongue extended in ritual wero gesture, surface entirely covered with traditional Maori spiral and koru patterns, deep grooves and ridges showing master carver craftsmanship, weathered dark brown wood with faint red ochre traces in carved channels, second composition element on the right showing a hei-manaia pendant carved from polished green pounamu jade with cord, the pendant displays the same tripartite form in compact stylized version, green stone polished to soft luminous finish revealing internal jade veining, textile cord of woven harakeke flax, both objects displayed against a dark neutral background suggesting a marae interior or museum vitrine, dramatic side lighting emphasizing the carved depth and spiritual presence, ethnographic photographic quality, dignified and reverent atmosphere, traditional Maori artistic conventions strictly respected, side profile orientation as canonical for manaia depictions, no modern stylization, no cartoon, no fantasy art interpretation, no text, no letters, no inscriptions, no labels, museum-quality presentation
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# MANAIA
+
+## SIGNIFICATION DU NOM
+
+Le terme *manaia* en te reo Māori désigne à la fois la créature elle-même et le motif sculpté qui la représente. Son étymologie possible relie le mot à la racine *mana*, force spirituelle fondamentale qui imprègne êtres, objets et lieux dans la cosmologie polynésienne. *Manaia* serait alors *celui qui porte le mana*, *celui qui en assure la circulation*. D'autres analyses linguistiques rapprochent le terme du verbe *manaaki*, qui signifie *protéger, prendre soin de, honorer un hôte* — le manaia serait alors *le gardien protecteur*, celui qui veille sur les vivants depuis l'autre versant du monde.
+
+Une troisième lecture, attestée chez certains anciens orateurs des marae du nord, fait du manaia *celui dont le visage est tourné de côté*, en référence à sa représentation systématiquement de profil dans les sculptures. Ces trois sens — porteur de mana, gardien tutélaire, figure de profil — ne s'excluent pas mais se superposent dans l'usage traditionnel.
+
+## ORIGINE
+
+Le manaia n'appartient pas à la généalogie cosmogonique des grandes divinités maories. Il n'est ni Rangi le ciel-père, ni Papa la terre-mère, ni l'un de leurs enfants — Tāne, Tangaroa, Tūmatauenga, Rongo, Tāwhirimātea. Il occupe une position différente, plus intermédiaire : créature *liminale* par essence, née de la nécessité d'un passage entre les domaines.
+
+Les traditions orales ne lui donnent pas de récit de naissance unique. Il est plutôt présenté comme une *forme* que peuvent emprunter certains ancêtres devenus esprits, ou comme une catégorie d'êtres tutélaires associés aux lignages. Chaque whānau (famille étendue), chaque hapū (sous-tribu), chaque iwi (tribu) reconnaît ses propres manaia comme expressions visibles de la protection ancestrale.
+
+L'apparition du motif manaia est attestée archéologiquement dès les premières phases de la sculpture maorie classique, avec des continuités vers les iconographies polynésiennes plus anciennes — Polynésie centrale, îles Marquises, îles de la Société — d'où viennent les ancêtres des Māori il y a environ huit siècles.
+
+## NATURE
+
+Le manaia est une créature *hybride par nécessité*. Sa forme tripartite — tête d'oiseau, corps humain, queue de poisson — n'est pas un caprice esthétique mais une nécessité fonctionnelle : pour circuler entre les trois domaines du monde, il faut posséder un attribut de chacun.
+
+L'oiseau (manu) appartient au ciel, royaume de Rangi et des esprits supérieurs. Sa tête lui donne accès aux hauteurs, à la parole prophétique, au regard d'en haut.
+
+L'humain (tangata) appartient à la terre, royaume médian où vivent les vivants. Son corps lui donne la station debout, les bras qui agissent, la capacité de tenir, de saisir, de combattre.
+
+Le poisson (ika) appartient à la mer, royaume de Tangaroa et des profondeurs. Sa queue lui donne la nage, la connaissance des eaux, l'accès aux mondes immergés où résident certains esprits.
+
+Le manaia est donc *créature complète* — non pas monstre par excès de formes, mais médiateur par possession des trois éléments. C'est cette complétude qui fait de lui un messager légitime entre les mondes.
+
+## HABITAT
+
+Le manaia n'a pas d'habitat unique au sens où une créature naturelle aurait un territoire. Il habite les *interfaces*. On le rencontre :
+
+- aux frontières du marae (l'espace cérémoniel communautaire), particulièrement aux poteaux d'entrée et aux faîtages de la wharenui (maison de réunion sculptée), où il garde le seuil entre le profane et le sacré ;
+- sur les *taonga* (objets précieux transmis par les ancêtres) — pendentifs, boîtes sculptées, peignes, manches d'outils cérémoniels — qu'il protège et auxquels il prête sa surveillance ;
+- aux *pataka* (greniers surélevés sculptés), structures dont il garde les faîtes pour protéger les réserves de nourriture des intentions malveillantes ;
+- sur la peau même des hommes et femmes maoris à travers le tā moko (tatouage rituel), où ses motifs accompagnent et protègent celui qui les porte ;
+- en des lieux liminaux du paysage — caps battus par la mer, falaises où nichent les oiseaux, embouchures de rivière — qui sont autant de manifestations naturelles du croisement des trois domaines.
+
+Le manaia n'est pas une créature qu'on "rencontre" en marchant. Il est *présent par sa représentation*. Là où son motif est sculpté, il agit.
+
+## DESCRIPTION
+
+La forme classique du manaia, telle que codifiée dans la grande tradition de sculpture sur bois (whakairo), associe trois éléments :
+
+Une *tête d'oiseau*, le plus souvent allongée en bec puissant, parfois ouverte sur une langue tirée — geste rituel du wero, défi qui marque la fonction protectrice. L'œil est large, en spirale ou en cercle incrusté de paua (coquillage à reflets bleu-vert), garantissant un regard qui ne dort jamais.
+
+Un *corps humain* aux bras puissants, souvent saisissant un attribut — bâton de parole, lance, hache cérémonielle — ou ramenés contre le torse en posture de garde. Les cuisses sont massives, indiquant l'enracinement.
+
+Une *queue de poisson* enroulée, parfois sous forme de spirale terminale qui rappelle les motifs de koru (jeune fougère qui se déroule), parfois sous forme de nageoire stylisée. Cette queue prolonge le bas du corps et signe l'appartenance aquatique.
+
+Selon les variantes régionales et les fonctions, le manaia peut présenter des combinaisons modifiées : tête d'oiseau et corps reptilien (rappelant le lézard sacré) ; tête humaine et corps d'oiseau ; trois têtes empilées symbolisant les trois mondes. Mais la formule classique demeure tripartite — *manu* en haut, *tangata* au milieu, *ika* en bas.
+
+Trait fondamental : *le manaia est presque toujours représenté de profil*. Son visage tourné de côté n'expose qu'un œil au regardant. Cette orientation latérale le distingue radicalement du tiki, autre figure majeure de la sculpture maorie, qui présente lui un visage frontal et symétrique. La face de profil signale la nature *passante* du manaia : il regarde de côté parce qu'il marche entre les mondes, parce qu'il est en mouvement, parce qu'il n'est jamais entièrement dans le monde de celui qui le contemple.
+
+## POUVOIRS
+
+Le pouvoir premier du manaia est la *médiation spirituelle*. Il transporte des messages, des prières, des avertissements entre le monde des vivants (te ao mārama, *le monde de lumière*) et celui des esprits (te ao wairua, *le monde des âmes*). Cette fonction de courrier sacré n'est pas mécanique : le manaia choisit ce qu'il transmet, ce qu'il retient, ce qu'il avertit.
+
+Il est *gardien du mana*. Le mana — force spirituelle qui qualifie un être, un objet, un lieu, un acte — peut s'accroître, diminuer, se transmettre, se perdre. Le manaia veille à ce qu'il ne s'écoule pas inutilement, à ce qu'il ne soit pas souillé par contact impur (noa), à ce qu'il revienne à ses détenteurs légitimes.
+
+Il *protège les seuils*. Toute frontière — entrée d'une maison, embouchure de rivière, ligne de côte, passage entre tribus, transition entre âges de la vie — est un point de vulnérabilité spirituelle. Le manaia y monte la garde.
+
+Il *avertit*. Lorsqu'un danger spirituel approche — malédiction lancée, intention de mort par sorcellerie (mākutu), rupture imminente de tapu — le manaia présent sur un taonga peut, dit-on, faire ressentir au porteur une inquiétude soudaine, un frisson, un rêve d'avertissement.
+
+## FAIBLESSES
+
+Le manaia, étant créature de circulation et non d'affrontement, possède peu de pouvoir face aux *ruptures explicites de tapu*. Si les protocoles sacrés sont délibérément brisés, si la nourriture cuite est mêlée aux objets de tête, si le sang est répandu sur le marae sans réparation rituelle, le manaia se retire. La pollution spirituelle (noa) le repousse.
+
+Il dépend également de la *vivacité de la tradition orale*. Un manaia sculpté sur un taonga dont plus personne ne connaît l'histoire, dont le whakapapa (généalogie) est oublié, perd progressivement sa puissance active. L'objet demeure beau mais devient muet. C'est pourquoi les anciens insistent : raconter l'histoire d'un taonga est aussi important que le taonga lui-même.
+
+Enfin, le manaia n'agit pas contre la volonté des ancêtres dont il est l'émanation. Si un descendant trahit sa lignée, abandonne sa terre, renie ses morts, le manaia ne le défendra pas — non par méchanceté mais par fidélité à la chaîne ancestrale qui le porte.
+
+## COMPORTEMENT
+
+Le manaia se comporte comme un *gardien attentif et discret*. Il ne se manifeste pas ostensiblement. Il ne se montre pas aux yeux non préparés. Sa présence se signale par des indices : oiseau qui crie au moment décisif, vague qui claque sur la coque au passage d'un cap dangereux, ombre brève sur une sculpture quand un visiteur traverse le seuil.
+
+Aux abords du marae, il accueille — ou refuse. Le visiteur reçu avec dignité, dont les protocoles sont respectés, sent souvent une présence rassurante. Le visiteur mal intentionné, celui qui vient avec des paroles trompeuses ou des desseins de domination, ressent quelque chose d'autre : malaise diffus, désir soudain de partir.
+
+Sur le corps, sous forme de tā moko, le manaia accompagne le porteur dans ses transitions de vie majeures — passage à l'âge adulte, prise de fonction, deuil, mariage. Il participe, par sa simple présence inscrite dans la peau, aux ritualités qu'il observe.
+
+Dans le silence des nuits où plus personne n'occupe le marae, les anciens disent que les manaia *parlent entre eux*, d'un poteau à l'autre, dans une langue que les humains n'entendent plus mais que les enfants endormis perçoivent parfois en rêve.
+
+## RÉCITS TRADITIONNELS
+
+Les récits attachés au manaia ne sont pas de l'ordre des grands cycles cosmogoniques mais de l'ordre des traditions familiales et tribales — chaque iwi, chaque hapū conserve ses propres histoires de manaia liés à des taonga particuliers.
+
+Un type récurrent de récit raconte comment un pendentif hei-manaia transmis depuis plusieurs générations a sauvé son porteur d'un péril spirituel. Une variante répandue : un pêcheur en danger sur sa pirogue (waka), le ciel chargé, les vagues hautes ; il porte sur la poitrine le hei-manaia de son grand-père. Au moment où la coque allait se briser, l'homme sent une chaleur sur sa peau à l'endroit du pendentif. Une vague soudain le ramène vers la côte. Plus tard, examinant le pendentif, il découvre que la pierre s'est légèrement assombrie — le manaia a *pris sur lui* une part du danger.
+
+Un autre cycle de récits concerne les manaia sculptés aux poteaux d'entrée des wharenui. Lorsqu'un orateur visiteur entre dans la maison de réunion d'un autre iwi pour discourir, sa parole est jugée non seulement par l'auditoire vivant mais par les manaia qui l'écoutent depuis les sculptures. Si l'orateur ment, déforme un whakapapa, prétend à un mana qui n'est pas le sien, les manaia *retiennent* sa parole — elle ne porte pas, elle tombe à terre. Si l'orateur dit vrai, sa parole est *portée* — elle s'élève, traverse le toit, atteint les ancêtres.
+
+Une tradition du nord, chez les Ngāpuhi, raconte la fabrication du premier hei-manaia par un sculpteur dont la fille était mourante. Pendant trois nuits, il taille dans une pierre de pounamu rapportée du sud le motif gardien. Au matin du quatrième jour, l'enfant ouvre les yeux — non parce que la pierre l'a guérie directement, mais parce que le manaia a tenu son esprit attaché à son corps assez longtemps pour que la fièvre cède.
+
+## VARIANTES RÉGIONALES
+
+Les traditions de sculpture maorie ne sont pas uniformes. Trois grandes écoles régionales ont développé des variantes du motif manaia :
+
+**Ngāpuhi (Île du Nord, Northland).** L'école du nord privilégie un manaia aux lignes serrées, à la tête d'oiseau marquée par un bec long et courbé, souvent en posture verticale sur les poteaux. Les hei-manaia ngāpuhi sont parmi les plus anciens conservés et présentent une stylisation où le corps humain est très réduit, l'oiseau et le poisson dominant.
+
+**Te Arawa (centre de l'Île du Nord, région de Rotorua).** L'école te arawa, célèbre pour la richesse de ses sculptures de wharenui, développe un manaia plus narratif. Le motif s'intègre dans des compositions complexes où plusieurs manaia se font face, dialoguent, encadrent une figure centrale d'ancêtre. Les yeux en paua sont particulièrement prononcés. La queue de poisson s'étire en spirales multiples qui rappellent les terrasses thermales de la région.
+
+**Ngāi Tahu (Île du Sud).** L'école du sud, héritière des accès privilégiés au pounamu (jade vert) extrait des rivières de la côte ouest, a produit un nombre considérable de hei-manaia en pierre. Le style ngāi tahu tend à une plus grande sobriété, à des lignes épurées, à une silhouette plus compacte. Le manaia ngāi tahu est souvent porté en pendentif personnel transmis de mère à fille ou de père à fils.
+
+Au-delà de ces trois grandes écoles, chaque iwi possède ses propres maîtres sculpteurs et ses propres conventions, faisant du motif manaia non pas une forme unique mais une famille de formes apparentées.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La diffusion mondiale des motifs maoris, particulièrement à travers le tourisme néo-zélandais, les films à grand spectacle et la mode des bijoux dits "tribaux", a généré plusieurs malentendus qu'il importe de corriger :
+
+- Le manaia *n'est pas un dieu*. Sa fonction tutélaire ne le place pas au rang des grandes divinités du panthéon maori. Le confondre avec un dieu trahit la subtilité de la cosmologie polynésienne, qui distingue clairement les niveaux d'êtres spirituels.
+
+- Le manaia *n'est pas le tiki*. Les deux figures sont souvent vendues côte à côte dans les boutiques touristiques, et certains acheteurs les confondent. Le tiki présente un visage humain frontal et symétrique, représente généralement un ancêtre humain ou la figure du premier homme. Le manaia est tripartite, hybride, et orienté de profil. Confondre les deux revient à confondre deux catégories iconographiques distinctes.
+
+- Le pendentif *hei-manaia* n'est pas un porte-bonheur générique. Sa signification est liée à un whakapapa particulier, à une histoire familiale ou tribale, et idéalement à un protocole de remise. Le porter sans connaître son origine, sans l'avoir reçu dans un cadre approprié, est considéré par de nombreux Māori comme une appropriation problématique.
+
+- Les "manaia" reproduits massivement en plastique, métaux bon marché ou tatouages superficiels par des praticiens non maoris sont des images du motif, non des manaia actifs au sens traditionnel. La forme sans le whakapapa demeure inerte.
+
+- Le manaia *n'est pas une créature de combat*. Les œuvres modernes qui le représentent en pose guerrière agressive, comme adversaire à vaincre ou monstre menaçant, contredisent sa nature de gardien-messager. Sa puissance est *protectrice et médiatrice*, non offensive.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le manaia est l'un des motifs les plus omniprésents de l'art maori traditionnel. On le trouve dans plusieurs supports majeurs :
+
+**Whakairo (sculpture sur bois).** Les poteaux des wharenui (maisons de réunion), particulièrement les *poupou* qui en composent les murs et les *pou tāhuhu* qui soutiennent le faîtage, accueillent fréquemment des manaia, soit comme figures principales, soit comme motifs latéraux encadrant un ancêtre représenté en tiki frontal.
+
+**Hei-manaia (pendentif manaia).** Sculpté en pounamu (jade vert de l'Île du Sud), en os de baleine ou de moa, plus rarement en dent de cachalot, le hei-manaia se porte au cou par un cordon tressé. Il représente le motif manaia en miniature, condensé, et constitue l'un des taonga personnels les plus précieux que peut posséder un Māori. Sa transmission s'accompagne de récit : qui l'a fait, à qui il a appartenu, dans quelles circonstances il a été remis.
+
+**Tā moko (tatouage rituel).** Les motifs manaia s'intègrent aux compositions complexes du tā moko, particulièrement sur les bras, les épaules et les cuisses. Ils accompagnent et qualifient les autres motifs présents — koru, spirales, lignes ancestrales. Le tā moko n'est pas décoration mais inscription : porter un manaia dans la peau, c'est l'incorporer à sa propre personne.
+
+**Pataka (greniers surélevés sculptés).** Ces structures, qui conservent les vivres communautaires les plus précieux, sont gardées par des manaia sculptés à leur faîte et à leurs poteaux. Les pataka les plus richement ornés étaient marques de prestige tribal et leurs manaia particulièrement élaborés.
+
+**Waka taua (pirogues de guerre).** Les pirogues cérémonielles portent à leur proue (*tauihu*) et à leur poupe (*taurapa*) des sculptures complexes où les motifs manaia s'entrelacent, garantissant la protection spirituelle de l'embarcation et de ses occupants en mer.
+
+## POUR ALLER PLUS LOIN
+
+Le manaia est documenté à la fois par la tradition orale maorie continue — toujours vivante dans les marae d'Aotearoa — et par les corpus ethnographiques constitués depuis le dix-neuvième siècle, où s'illustrèrent des collecteurs comme Elsdon Best et plus tard les chercheurs maoris eux-mêmes qui reprirent la main sur la transmission de leur propre savoir. Les musées de Nouvelle-Zélande, particulièrement le Te Papa Tongarewa de Wellington et l'Auckland Museum, conservent des collections importantes de taonga sculptés où le motif manaia se déploie dans toute sa richesse stylistique.
+
+La compréhension contemporaine du manaia bénéficie également du renouveau (renaissance maorie) initié dans les années 1970, qui a ramené au centre de la culture nationale néo-zélandaise la pratique vivante du whakairo, du tā moko et de la transmission orale dans les wānanga (écoles d'enseignement traditionnel).

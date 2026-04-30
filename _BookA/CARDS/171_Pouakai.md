@@ -1,0 +1,128 @@
+# 171 — Pouakai
+
+**Tradition :** Polynesien
+
+**Image à insérer :** `_BookA/images/15_Polynesien/171_Pouakai.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Maori South Island rock painting style, ancient pictograph executed in red ochre and black charcoal pigment on weathered limestone rock face, the giant Pouakai depicted as an enormous predatory bird with vast outstretched wings spanning the entire composition, oversized curved talons gripping a small human silhouette being lifted from the ground, hooked raptor beak prominent and exaggerated, eye marked as a single dot of pigment, body simplified into geometric flowing lines characteristic of pre-European Maori rock art, a few small human stick-figures below shown raising spears in defense, terrain suggested by simple horizontal lines indicating the high alpine country of Te Wai Pounamu, mountain peaks indicated by triangular angular shapes in the background, weathered and partially eroded surface texture showing centuries of natural aging on the rock, pigment naturally faded and irregular, no perspective, no shading, flat outline silhouette aesthetic, mineral pigments only, alternative composition shows the same scene rendered in pre-European Maori whakairo wood carving style with deeply incised spirals and koru curves framing the bird figure carved into aged totara timber, rich brown patinated wood, traditional surface relief carving, paua-shell inlays in the eyes catching faint light, no text, no letters, no inscriptions, no labels, authentic indigenous Pacific aesthetic, no modern rendering, no 3D, no cartoon, ethnographic museum quality
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# POUAKAI
+
+## SIGNIFICATION DU NOM
+
+Le nom *Pouākai* se décompose, dans les analyses linguistiques traditionnelles, en deux éléments. *Pou* désigne le pilier, le poteau, l'élément vertical qui s'élève — image que les conteurs maoris associent à la silhouette de l'oiseau lorsqu'il se dresse sur ses serres avant de prendre l'essor. *Ākai*, ou plus précisément la racine *kai*, signifie *manger, dévorer, consommer*. Le composé suggère ainsi *le pilier qui dévore* ou *le mangeur dressé*, désignation qui résume en deux syllabes l'essence du monstre : une masse verticale, formidable, dont la fonction principale est l'ingestion de proies vivantes.
+
+Le nom *Hokioi* relève d'un registre différent. Il imite, selon les explications transmises par les anciens, le cri même de l'oiseau, qu'on disait pousser un appel répété évoquant les syllabes *ho-ki-oi, ho-ki-oi* descendant des hauteurs invisibles du ciel. *Hakawai*, variante du Sud, désigne ce même cri perçu au cœur de la nuit, lorsque l'oiseau, demeuré invisible, se manifeste seulement par son appel.
+
+## ORIGINE
+
+Les traditions de l'Île du Sud, conservées principalement par les iwi Ngāi Tahu et Ngāti Mamoe, situent l'apparition du Pouākai dans les premiers âges, lorsque la grande terre fut peuplée par les ancêtres venus d'au-delà des mers. L'oiseau n'est pas un descendant des dieux ni une créature engendrée par accouplement divin : il appartient à la catégorie des *manu whakamataku*, les oiseaux de terreur, animaux véritables que la terre porte mais dont la taille et la férocité dépassent toute proportion ordinaire.
+
+Certains récits affirment que le Pouākai descendit jadis des cieux supérieurs et qu'il s'établit dans les sommets reculés de l'Île du Sud, choisissant pour aire les pics les plus inaccessibles. D'autres, plus terriens, le présentent simplement comme un habitant primordial des montagnes, un animal de la grande terre, contemporain des moa géants dont il se nourrissait avant que les humains n'arrivent et ne deviennent à leur tour gibier.
+
+## NATURE
+
+Le Pouākai est un *manu* — un oiseau — et non un esprit ni une figure tutélaire. Cette catégorisation est essentielle. Les Maoris distinguent rigoureusement les esprits, les ancêtres, les divinités, les créatures-frontières et les animaux. Le Pouākai relève sans ambiguïté du dernier groupe, tout en y occupant un rang exceptionnel par sa taille et sa dangerosité.
+
+Il est carnivore intégral. À la différence d'autres grands oiseaux dont la légende mentionne une alimentation partielle ou symbolique, le Pouākai vit par et pour la prédation. Il ne se contente pas de charognes : il chasse activement, fond sur sa proie, l'enlève, la déchire de ses serres et la consomme dans son aire.
+
+Il est enfin solitaire. Aucun récit ne mentionne de couple, de famille, de compagnie. Le Pouākai est un, ou bien plusieurs Pouākai existent mais chacun règne seul sur son territoire montagneux, sans interaction avec ses pareils. Cette solitude renforce son aura de menace absolue : on ne pouvait espérer ni alliance entre congénères ni distraction par un compétiteur.
+
+## HABITAT
+
+Le Pouākai habite les montagnes hautes de Te Wai Pounamu, l'Île du Sud — terre des eaux de greenstone. Les sommets de l'Aoraki et des grandes chaînes alpines centrales sont identifiés comme ses domaines privilégiés. Les hautes vallées suspendues, les cirques rocheux, les corniches inaccessibles aux humains constituent ses lieux de repos et de nidification.
+
+Son aire, lorsqu'elle est mentionnée, est décrite comme une vaste construction de branches et d'os, perchée à flanc de falaise ou au sommet d'un éperon rocheux. Les ossements des proies passées, accumulés au fil des années, forment un tapis macabre que rien n'altère puisque aucun homme ne peut s'y aventurer.
+
+Il chasse en revanche dans les vallées et les plaines basses, descendant des hauteurs lorsque la faim le presse, fondant sur les rassemblements humains ou sur les groupes d'oiseaux terrestres qui peuplaient autrefois les plaines de l'île.
+
+## DESCRIPTION
+
+Le Pouākai est un rapace, un *manu kāhu* surdimensionné. Sa silhouette générale rappelle celle du faucon ou de l'aigle, mais portée à une échelle qui défie l'entendement. Les conteurs anciens affirment qu'une seule de ses ailes, déployée, projetait une ombre couvrant un village entier.
+
+Son plumage est sombre — noir profond sur le dos et les rémiges, brun-rouge sur le poitrail, parfois marqué de bandes claires sur la queue. La tête est massive, surmontée d'un bec recourbé d'une longueur disproportionnée, capable, dit-on, de transpercer un guerrier d'un seul coup. Les yeux sont jaunes et perçants, repérant une silhouette humaine à des distances que nul œil mortel ne saurait franchir.
+
+Les serres constituent l'arme caractéristique : énormes, recourbées, capables d'enserrer un homme adulte et de l'enlever du sol comme un faucon enlève un lapin. C'est par les serres que le Pouākai tue, non par le bec — il saisit, soulève, emporte, puis relâche éventuellement sa proie depuis les hauteurs pour qu'elle s'écrase sur les rochers, avant de redescendre la dévorer.
+
+## POUVOIRS
+
+Le *vol prédateur* constitue son pouvoir fondamental. Le Pouākai fond depuis les hauteurs avec une vitesse stupéfiante, son ombre annonçant à peine sa venue avant que les serres ne se referment.
+
+Le *rapt humain* est son acte le plus redouté. Contrairement aux rapaces ordinaires qui se contentent de proies à leur mesure, le Pouākai enlève hommes, femmes et surtout enfants. Les récits insistent sur sa préférence pour les enfants — proies plus légères, plus faciles à transporter jusqu'à l'aire. De nombreux villages des hautes vallées vivaient sous la menace permanente de voir disparaître un petit, soulevé en silence depuis le sentier ou depuis les abords du kāinga.
+
+La *vue surnaturelle* lui permet de repérer ses proies depuis les sommets les plus reculés. Aucun abri végétal ne le trompe ; aucune dissimulation dans les fougères ne suffit. Seules les cavernes et les grottes profondes offrent une protection véritable.
+
+La *résistance aux flèches* est attestée. Les guerriers qui tentèrent de l'abattre à l'arc ou à la sagaie virent leurs traits ricocher sur le plumage dense ou se perdre sans atteindre le corps massif. Aucune arme de jet ordinaire ne suffisait.
+
+## FAIBLESSES
+
+Le Pouākai n'est pas invulnérable, mais sa défaite exige des moyens extraordinaires. Le combat frontal échoue toujours. Seules deux méthodes sont attestées dans les récits comme ayant abouti à sa mort.
+
+La première est la *capture par filet*. Un grand filet, tressé en lin néo-zélandais, le *harakeke*, et pourvu de mailles serrées, peut le retenir lorsqu'il fond sur un appât. Cette méthode exige le sacrifice apparent d'un guerrier ou d'un appât humain, exposé à découvert, pendant que les autres tendent et déclenchent le filet au moment précis où l'oiseau replie ses ailes pour saisir sa proie.
+
+La seconde est l'*embuscade dans une faille*. Lorsqu'on parvenait à attirer le Pouākai dans un défilé étroit, où la pleine envergure de ses ailes ne pouvait se déployer, il devenait soudain vulnérable. Privé de sa supériorité aérienne, ramené à un combat au corps à corps dans un espace restreint, il pouvait être abattu à coups de taiaha et de patu — la massue de jade caractéristique des Maoris.
+
+## COMPORTEMENT
+
+Le Pouākai chasse principalement aux heures où le soleil bas projette son ombre sur les vallées : aube tardive, fin d'après-midi. À midi, lorsque la chaleur monte des plaines, il regagne les hauteurs et se repose sur quelque corniche surplombante.
+
+Il privilégie les proies isolées. Un groupe nombreux, bruyant, armé, le tient à distance ; mais qu'un chasseur s'écarte, qu'un enfant s'éloigne du village pour cueillir des baies, qu'une femme descende seule au ruisseau, et le Pouākai fond.
+
+Il est silencieux à la chasse. Son cri — celui qui lui valut le nom de *Hokioi* — ne se fait entendre qu'à deux moments : lorsqu'il vole à très haute altitude, par bravade ou pour marquer son territoire ; et la nuit, lorsque sa silhouette demeure invisible et que seule la voix descend des hauteurs noires. Ce cri nocturne fut tenu, dans les traditions du Sud, comme un présage de mort imminente — entendre le Hakawai à la nuit signifiait qu'un membre du village ne reverrait pas le matin.
+
+## RÉCITS TRADITIONNELS
+
+Le récit le plus complet conservé par la tradition Ngāi Tahu concerne le héros nommé **Hau-o-Matuku**, dont le village fut affligé pendant des saisons par les enlèvements répétés perpétrés par un Pouākai habitant les pics au-dessus de la vallée. Les enfants disparaissaient un par un. Les guerriers qui tentèrent de pister l'oiseau jusqu'à son aire ne revinrent pas. Les rangatira, désespérés, convoquèrent un conseil.
+
+Hau-o-Matuku, jeune homme reconnu pour son intelligence rusée plutôt que pour sa force pure, proposa un plan. Il fit tresser par les femmes du village un filet immense de harakeke, aux mailles serrées et aux cordes triplées. Il le fit dissimuler dans une clairière proche du village, soutenu par des perches courbées qu'on lâcherait au signal. Puis il offrit son propre corps comme appât, marchant seul dans la clairière à l'heure où le Pouākai descendait habituellement.
+
+L'oiseau parut. Son ombre couvrit la clairière. Il fondit, serres ouvertes, vers Hau-o-Matuku. Au moment précis où les serres allaient se refermer, Hau-o-Matuku se jeta de côté ; les guerriers cachés tirèrent les liens ; le filet jaillit et enveloppa le Pouākai dans une étreinte de cordes serrées.
+
+Le combat dura. L'oiseau frappa du bec, déchira de ses serres, brisa des mailles ; mais d'autres mailles tenaient. Les guerriers, sortant des fourrés, l'abattirent à coups de taiaha. Hau-o-Matuku porta lui-même le coup final avec son patu pounamu — sa massue de greenstone — au sommet du crâne. Le Pouākai mourut. Ses ossements furent rassemblés et conservés dans la maison de la communauté, témoignage durable de la victoire. Hau-o-Matuku devint dès lors le héros de sa lignée.
+
+D'autres récits, moins développés, mentionnent des Pouākai abattus dans des défilés étroits, ou empoisonnés par des appâts contenant la sève de plantes vénéneuses des hauteurs. Tous insistent sur la difficulté extrême de la victoire et sur le caractère exceptionnel des héros qui en triomphèrent.
+
+## VARIANTES RÉGIONALES
+
+Le nom *Pouākai* est attesté principalement dans les traditions de l'Île du Sud, terres des Ngāi Tahu. C'est sous cette désignation que la créature apparaît dans les récits les plus circonstanciés, ceux qui mentionnent les enlèvements, les aires montagneuses, les héros vainqueurs.
+
+*Hokioi*, ou *Te Hokioi*, désigne dans les traditions du Nord et du centre une créature ailée géante dont la voix descend des hauteurs invisibles. Sir George Grey, dans le siècle dernier, recueillit auprès des chefs maoris des évocations de cet oiseau présenté comme grand, sombre, doté d'un cri caractéristique. La continuité avec le Pouākai du Sud est admise par la plupart des traditions, le Hokioi représentant une variante dialectale plutôt qu'une créature distincte.
+
+*Hakawai* est la forme méridionale extrême, attestée notamment dans les îles subantarctiques et dans certaines régions reculées du Sud. Le Hakawai y est un oiseau exclusivement nocturne, ou plutôt invisible : on ne l'entendait que crier dans la nuit, sans jamais le voir. Cette forme est plus mystérieuse et plus inquiétante, presque détachée de la corporéité du Pouākai.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs représentations contemporaines du Pouākai s'écartent significativement des traditions originales et méritent d'être distinguées :
+
+- L'identification du Pouākai à un oiseau préhistorique réel — un grand rapace insulaire éteint au cours du quinzième siècle, dont les ossements furent retrouvés dans plusieurs sites archéologiques de l'Île du Sud — est une **superposition scientifique moderne**, non une donnée traditionnelle. La coïncidence est troublante : la taille décrite par les récits oraux correspond remarquablement aux dimensions reconstituées par la paléontologie ; l'aire de répartition également ; et la disparition de l'animal réel coïncide avec les premiers siècles de la présence humaine sur l'île. Il est probable que les Maoris aient effectivement chassé et exterminé ce rapace géant, et que la mémoire orale en ait conservé le souvenir transformé. Mais la tradition maorie ne « connaît » pas le rapace fossile en tant que tel : elle connaît un Pouākai mythique dont la description recoupe celle d'un animal disparu. Distinction essentielle.
+
+- L'image du Pouākai comme oiseau exclusivement maléfique, démoniaque, est partiellement infidèle aux traditions. Le Pouākai est un *prédateur* : terrible, redouté, dangereux, mais animal. Les récits ne lui prêtent aucune intention surnaturelle hostile, aucun pacte avec des entités obscures. Il chasse parce qu'il a faim. Cette dimension simplement animale est souvent perdue dans les adaptations contemporaines qui le démonisent.
+
+- Les représentations modernes le confondent parfois avec d'autres créatures volantes du folklore polynésien plus large. Le Pouākai n'est ni un dragon, ni un esprit-oiseau messager des dieux, ni une figure totémique : il est un rapace géant, hautement spécifique aux hautes terres de Te Wai Pounamu.
+
+- L'idée que le Pouākai serait toujours vivant, dissimulé dans les vallées les plus reculées, relève du cryptozoologisme contemporain et n'a pas de fondement traditionnel. Les anciens savaient que les Pouākai avaient été tués, un par un, par les héros des générations passées.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les peintures rupestres maories de l'Île du Sud, particulièrement abondantes dans les abris sous roche du Canterbury et du nord de l'Otago, présentent plusieurs figures d'oiseaux géants exécutées en charbon de bois, en ocre rouge ou en oxyde noir. Certaines de ces figures, par leurs proportions disproportionnées par rapport aux silhouettes humaines représentées à proximité, sont identifiées par les chercheurs et par les anciens des iwi locaux comme des représentations possibles du Pouākai. Les ailes y sont déployées en arc large, les serres exagérément grandes, le bec recourbé.
+
+L'art du *whakairo* — la sculpture sur bois traditionnelle — comporte également des motifs ornithomorphes que certaines lectures rapprochent du Pouākai, bien que la sculpture maorie traditionnelle privilégie d'autres figures (taniwha, manaia, ancêtres anthropomorphes). Les linteaux et les poteaux sculptés représentant un grand oiseau aux serres saisissant un humain, lorsqu'ils existent, sont souvent interprétés comme évoquant la menace du Pouākai sur les communautés humaines.
+
+Aucun objet portatif — pendentif, parure, instrument cérémoniel — ne représente directement le Pouākai dans le corpus traditionnel connu : la créature, par sa dangerosité, n'était pas portée près du corps. On la fixait dans la pierre des abris ou dans le bois des structures collectives, à distance respectueuse.
+
+## POUR ALLER PLUS LOIN
+
+Les traditions concernant le Pouākai sont conservées principalement dans le corpus oral des iwi Ngāi Tahu et Ngāti Mamoe, recueillies à partir du dix-neuvième siècle par divers ethnographes coloniaux et néo-zélandais, puis réintégrées dans les transmissions communautaires contemporaines. Sir George Grey, dans ses recueils du milieu du dix-neuvième siècle, en mentionne plusieurs occurrences. Les traditions orales maintenues au sein des marae de l'Île du Sud demeurent la source vivante la plus fiable.
+
+La paléontologie aviaire néo-zélandaise a, par ailleurs, identifié au cours du vingtième siècle un grand rapace éteint dont les caractéristiques recoupent étrangement la description traditionnelle, suggérant que la mémoire orale maorie aurait préservé sur plusieurs générations le souvenir d'un animal réel disparu peu avant l'ère du contact européen.

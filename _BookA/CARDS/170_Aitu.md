@@ -1,0 +1,153 @@
+# 170 — Aitu
+
+**Tradition :** Polynesien
+
+**Image à insérer :** `_BookA/images/15_Polynesien/170_Aitu.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Ancient Polynesian-inspired bestiary illustration of an aitu, the wandering spirit of Samoa, Tonga, Niue and the Cook Islands, depicted in the style of traditional tapa cloth bark painting, deep ochre and black natural pigments on textured beaten bark surface, a translucent humanoid silhouette barely visible emerging from the aerial roots of a massive banyan tree at twilight, the figure shown only as an outline of negative space with darker tapa motifs filling its interior, long indistinct hair flowing without face features, no defined feet, hovering just above the coral path, surrounded by ancestral patterns of triangles, zigzag bands, frangipani petals and stylised crab claws drawn in the angular geometry of Samoan siapo and Tongan ngatu cloth, a small offering bowl of kava placed on a flat stone in the foreground, a faint torch flame at the edge of the composition repelling the spirit with its glow, a stylised banyan canopy framing the upper border with woven bark texture, the sea barely visible behind in horizontal bands of black and ochre suggesting reef and lagoon, decorative geometric border made of repeating Polynesian motifs and abstract spirit-marks (no readable script, no rongorongo, no faux text), composition emphasizing the invisibility and territorial nature of the spirit, atmosphere of liminal twilight, no modern rendering, no photorealism, no 3D, no cartoon, vintage natural-pigment ethnographic plate quality, aged tapa texture with natural fibres visible, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# AITU
+
+## SIGNIFICATION DU NOM
+
+Le terme *aitu* est l'un des mots les plus anciens et les plus largement répandus du vocabulaire polynésien. On le retrouve, sous des formes presque inchangées, à Samoa, à Tonga, à Niue, dans l'archipel des Cook et, en variantes plus réduites, jusqu'à Tahiti et aux Marquises. Sa racine est commune au proto-polynésien et désigne globalement *l'esprit* — non comme principe vital interne, mais comme entité distincte de toute personne vivante, agissant dans le monde sans être visible.
+
+Selon les îles, le mot a glissé de sens. À Samoa, *aitu* désigne par défaut une *présence surnaturelle*, souvent malveillante, parfois neutre. À Tonga, *ʻaitu* peut désigner aussi bien un esprit hostile qu'un ancêtre tutélaire à condition d'avoir été nommé. Aux Cook, le terme se distingue d'*atua* (divinité supérieure) en désignant les puissances inférieures. À Niue, *aitu* est presque toujours un fantôme dangereux.
+
+Cette plasticité sémantique fait de l'aitu une *catégorie ouverte* plutôt qu'une espèce fermée. Le mot couvre une multitude d'entités spirituelles dont le point commun est de n'appartenir ni au monde des dieux, ni au monde des humains vivants.
+
+## ORIGINE
+
+Les aitu ne possèdent pas d'origine unique. Les traditions distinguent plusieurs filières.
+
+La première filière est *funéraire*. Toute personne morte dans des circonstances irrégulières — sans rite, par violence, en mer, sans descendance, en couches — peut devenir aitu. Le défunt n'a pas accompli les passages qui auraient stabilisé son esprit dans l'au-delà ; il erre, attaché aux lieux qui l'ont vu mourir.
+
+La deuxième filière est *ancestrale*. Certains aitu sont des morts anciens dont la mémoire familiale s'est diluée. Ils ne sont plus les ancêtres nommés et honorés ; ils ne sont pas non plus des esprits étrangers. Ils flottent dans un statut intermédiaire, présents dans un endroit précis du domaine familial, parfois rappelés par les conteurs.
+
+La troisième filière est *territoriale*. Certains aitu n'ont jamais été humains. Ils habitent un rocher, un arbre, une grotte, un point de vue sur la mer, depuis aussi loin que la mémoire remonte. Les généalogies les nomment parmi les puissances liées au lieu et non à un lignage.
+
+## NATURE
+
+L'aitu est *invisible mais matériellement actif*. Il n'a pas de corps stable que les vivants puissent toucher en temps ordinaire. Il agit pourtant sur la matière : il déplace des objets, fait tomber les marcheurs nocturnes, retourne les pirogues, étrangle dans le sommeil, glace soudainement la peau de qui passe trop près de son territoire.
+
+Il est *territorialisé*. Chaque aitu est lié à un point précis. On peut nommer le rocher de tel aitu, le banian de tel autre, la passe maritime d'un troisième. Sortir de ce point lui est en général interdit, ce qui rend la cartographie des aitu indispensable à toute personne se déplaçant la nuit dans une île traditionnelle.
+
+Il est *capable d'apparition occasionnelle*. Lorsqu'il se manifeste visuellement, l'aitu prend toujours une forme reconnaissable — celle du défunt qu'il fut, celle d'un animal, celle d'une silhouette humanoïde indistincte. Il ne demeure jamais longtemps visible.
+
+## HABITAT
+
+Les habitats privilégiés des aitu sont, dans tout l'espace polynésien occidental :
+
+- Les *banians* anciens, dont les racines aériennes forment des galeries où l'on dit que les esprits dorment.
+- Les *grottes côtières* et *cavités de falaise*, particulièrement celles que la marée remplit et vide.
+- Les *passes* dans le lagon, les zones où le récif s'ouvre sur l'océan.
+- Les *anciens lieux de bataille*, les sites où sont morts plusieurs hommes en même temps.
+- Les *cimetières familiaux* et certaines *plates-formes funéraires* tombées en désuétude.
+- Les *ruines* de villages abandonnés à la suite d'un cyclone, d'une épidémie, ou d'une dispute généalogique.
+
+Aucun habitat ne contient *tous* les aitu. Chaque lieu a son ou ses aitu propres, dont la cartographie locale doit être connue par tradition orale.
+
+## DESCRIPTION
+
+L'aitu, lorsqu'il se manifeste, prend des formes hautement variables selon le récit, l'île, et le moment de la journée.
+
+Sous forme *anthropomorphe*, il apparaît souvent comme une silhouette humaine sans pieds clairs, flottant à hauteur d'homme, le visage parfois trop blanc, parfois absent. Une variante samoane fréquente le montre comme une femme aux longs cheveux qui dissimulent toute la face.
+
+Sous forme *animale*, l'aitu peut emprunter le corps d'une chouette, d'un héron, d'un crabe gigantesque, d'une raie au-delà de toute taille naturelle, d'un chien dont les yeux brillent dans la nuit.
+
+Sous forme *partielle*, il peut n'apparaître que comme un *bras qui sort d'une fissure de rocher*, une *main qui saisit le pied du marcheur*, ou un *visage qui se reflète dans l'eau* derrière celui du baigneur.
+
+Plus souvent encore, l'aitu n'apparaît sous *aucune forme visible* mais se signale par des indices : un froid soudain dans l'air calme, l'odeur d'un mort, un bruit de pas qui suit le marcheur nocturne et qui s'arrête quand il s'arrête.
+
+## POUVOIRS
+
+L'aitu *fait tomber malade*. Une rencontre avec un aitu — même non perçue consciemment — produit des symptômes : fièvres, paralysies partielles, troubles du sommeil, comportements aberrants. La médecine traditionnelle polynésienne consacre une part importante de ses procédures à diagnostiquer si une maladie est *aitu* ou *naturelle*, car les traitements diffèrent.
+
+L'aitu *possède* parfois un vivant. La possession se manifeste par un changement brutal de voix, de comportement, de force physique. Le possédé peut prophétiser, accuser, exiger des réparations rituelles, parler dans un langage que le médium reconnaît comme appartenant à un défunt particulier.
+
+L'aitu *attire vers la mort*. Il peut tirer un nageur sous l'eau, faire perdre le sentier au marcheur de nuit, faire chavirer une pirogue de pêcheur isolé. Cette fonction d'attraction mortelle est ce qui rend les aitu redoutés et non simplement vénérés.
+
+L'aitu peut *transmettre des pouvoirs*. Certains lignages claniques tirent leur autorité d'une alliance ancienne avec un aitu particulier, dont ils conservent le nom et auquel ils offrent des prémices. Le lignage est alors *aitu-porteur*, ce qui constitue à la fois un honneur et une charge.
+
+## FAIBLESSES
+
+Les protections traditionnelles contre les aitu sont nombreuses.
+
+La *parole* : nommer l'aitu, c'est le contraindre. Connaître son nom propre, son lieu, son histoire, donne au vivant un certain pouvoir sur lui. Le silence absolu, à l'inverse, livre le marcheur sans défense.
+
+Le *kava* (boisson cérémonielle préparée à partir de la racine du *Piper methysticum*) sert dans plusieurs îles à pacifier les aitu. La libation, faite dans les règles, signe une transaction respectueuse.
+
+Le *feu* est répulsif. Un marcheur de nuit qui transporte une torche est moins susceptible d'être atteint qu'un marcheur sans lumière. Les aitu craignent la lumière vive, qu'elle soit naturelle (le lever du jour les contraint à se retirer) ou allumée par main humaine.
+
+Les *plantes spécifiques* — feuillages de certaines variétés de *ti* (*Cordyline fruticosa*), feuilles de *moso'oi* à Samoa, autres feuilles selon les îles — protègent celui qui en porte sur lui ou qui en passe sur le seuil de sa maison. Ces végétaux sont considérés comme ayant une *mana* défensive.
+
+Les *gestes rituels* du chef de famille ou du *taula aitu* (médium spécialisé), par lesquels l'aitu est sommé de se retirer dans son lieu propre, sont en général efficaces lorsqu'ils sont conduits selon la procédure exacte transmise oralement.
+
+## COMPORTEMENT
+
+Le comportement des aitu varie. Tous ne sont pas hostiles. Certains, attachés à un lieu familial ancien, agissent comme *gardiens* d'une plantation, d'une pêche réservée, d'une route. D'autres, surtout ceux issus de morts violentes ou non honorées, sont *vindicatifs* sans cause apparente — leur agressivité dérive de leur statut funéraire irrégulier et frappe sans discriminer.
+
+Le comportement le plus répandu est *l'attente territoriale*. L'aitu reste sur son lieu. Il observe ceux qui passent. Il intervient seulement si certaines conditions sont remplies : passage à mauvaise heure (entre le crépuscule et l'aube principalement), conduite incorrecte (parler trop fort, uriner près du lieu, casser une branche, marcher sans annoncer son passage), proximité d'une personne déjà affaiblie (enfant non sevré, malade, femme enceinte, vieillard).
+
+L'aitu agit alors par toucher, regard, suivi insistant, ou possession. Lorsque la victime atteint un endroit éclairé ou une habitation, l'aitu en général se retire — mais le mal commencé peut continuer plusieurs jours, voire entraîner la mort si aucun remède rituel n'est appliqué.
+
+## RÉCITS TRADITIONNELS
+
+Les récits d'aitu, dans toutes les îles concernées, sont *de proximité*. On ne raconte pas la grande mythologie des aitu ; on raconte ce qui est arrivé au cousin du voisin, en revenant de la pêche, l'année où le cyclone avait tout cassé.
+
+Un type de récit récurrent à Samoa raconte un homme passant seul de nuit près d'un grand banian. Il entend pleurer un enfant. Il s'arrête, croit reconnaître la voix, s'approche. L'enfant n'est pas là — mais il y a quelqu'un, plus loin, qu'il croit voir disparaître entre deux racines. L'homme rentre. Le lendemain, il est fiévreux. Le médium consulté nomme l'aitu du banian, identifie une parole irrespectueuse prononcée par l'homme la veille, prescrit le rituel de réparation.
+
+Un type de récit récurrent à Tonga raconte une femme qui pêche seule sur le récif au crépuscule. Une voix, depuis l'eau, lui demande de s'avancer encore. Elle reconnaît la voix d'un proche mort récemment. Elle s'avance. Une autre voix, plus lointaine, l'appelle depuis la côte — celle d'une parente vivante. La femme hésite, puis revient. Elle a échappé à un aitu qui prenait la voix d'un mort pour l'attirer.
+
+Un type de récit récurrent aux Cook raconte un homme dont la maison est troublée chaque nuit : objets qui tombent, bruits de pas, sa femme qui pleure dans son sommeil. Le *ta'unga* (officiant rituel) identifie un aitu mécontent du fait qu'une nouvelle construction empiète sur un ancien site funéraire. Une réparation est faite, des feuilles de *ti* sont enterrées aux quatre coins, l'aitu cesse.
+
+## VARIANTES RÉGIONALES
+
+À *Samoa*, les aitu sont organisés en hiérarchie informelle. Certains aitu de village, nommés et identifiés à un ancêtre ou à un site, sont reconnus par tout le monde. D'autres aitu sont familiaux, attachés à un lignage. La fonction de *taulaaitu* (porte-parole d'aitu) est centrale : elle permet à l'aitu de s'exprimer publiquement par possession contrôlée.
+
+À *Tonga*, le terme *ʻaitu* recouvre aussi les esprits gardiens des chefferies. Certains aitu tongiens sont historiquement intégrés au culte des chefs, formant la limite floue entre aitu et entité divine reconnue.
+
+À *Niue*, les aitu sont presque exclusivement hostiles. La tradition niuéenne distingue peu les fantômes ordinaires des aitu : tout esprit qui revient ennuyer les vivants est aitu, et il convient de l'éloigner.
+
+Dans les *îles Cook*, on distingue *aitu* (esprit subordonné) d'*atua* (divinité). Les aitu cookiens sont fréquemment associés à des sites pétrifiés du paysage : pierres dressées, ouvertures dans les falaises, certaines anses de plage.
+
+À *Tahiti*, le terme local privilégié pour cette catégorie est *varua* ; le mot *ʻaitu* y survit comme cognat de registre élevé. Les fonctions sont équivalentes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire occidentale a dilué la spécificité des aitu en les présentant comme de simples « esprits polynésiens » génériques, peuplant indistinctement des films d'aventure ou des récits exotiques.
+
+- Le film d'animation *Moana* (2016) ne représente pas d'aitu identifiables : ses créatures (Tamatoa le crabe géant, le démon de lave) sont des recompositions libres inspirées de figures mythologiques précises (Te Kā, créatures kakamora) et non de la classe ouverte des aitu.
+
+- Les jeux vidéo et romans qui mentionnent un « Aitu » comme personnage unique nommé commettent une erreur catégorielle : *aitu* est un nom commun désignant une *classe*, non un personnage individuel. C'est l'équivalent grec du mot « démon » ou japonais du mot « yôkai » — il faut un nom propre supplémentaire pour identifier un aitu particulier.
+
+- L'idée d'aitu comme entités systématiquement maléfiques, popularisée par certaines représentations missionnaires du XIX^e siècle, simplifie une réalité plus nuancée : les aitu peuvent être protecteurs, médiateurs, ancestraux, autant qu'hostiles.
+
+- Les cartes de tatouage commerciales modernes proposant des « motifs aitu » prêtent à confusion : il n'existe pas dans la tradition polynésienne occidentale de motif spécifique unique pour représenter les aitu en général. Les représentations visuelles des aitu sont quasi inexistantes — ces esprits étant définis par leur invisibilité.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Précisément parce que les aitu sont, par nature, *invisibles*, il n'existe pas de tradition figurée de leur représentation directe. Les arts polynésiens (sculpture sur bois, *tapa* battu, pétroglyphes) représentent rarement les aitu en eux-mêmes. Ce qui est représenté, c'est :
+
+- Le *lieu* habité par un aitu : pierres dressées dans les Cook, plates-formes (*marae*) à Tahiti et aux Australes, stations rituelles à Samoa.
+- Les *gardiens humains* du lieu : sculptures représentant un ancêtre tenant rôle d'intermédiaire avec l'aitu.
+- Les *objets de transaction rituelle* : coupes de kava, écuelles à libation, paquets de feuilles tressés selon des techniques spécifiques.
+
+Les explorateurs européens du XVIII^e siècle qui décrivirent les pratiques rituelles polynésiennes (récits des expéditions de Cook, de Bougainville, des missions ultérieures) firent état des cérémonies destinées aux aitu sans représenter graphiquement les esprits eux-mêmes — non par dédain, mais parce que les informateurs ne les leur décrivaient pas selon une iconographie partageable.
+
+## POUR ALLER PLUS LOIN
+
+L'étude des aitu est centrale pour comprendre la cosmologie polynésienne occidentale. Elle a été abordée principalement par les ethnographes du XIX^e et du début du XX^e siècle qui décrirent les pratiques rituelles dans les villages avant la consolidation chrétienne. Les sources les plus précieuses restent les récits oraux recueillis sur place, transmis par les *taula aitu* et les chefs traditionnels qui en avaient la garde.
+
+La catégorie déborde largement le cas tongien-samoan-niuéen-cookien : ses cognats existent à Tahiti, aux Marquises, à Hawaii (sous des formes adaptées comme *ʻaumakua* ou *lapu*), et en Polynésie périphérique (Tuvalu, Wallis, Futuna). Cela en fait l'une des catégories spirituelles les plus largement distribuées de toute l'Océanie.

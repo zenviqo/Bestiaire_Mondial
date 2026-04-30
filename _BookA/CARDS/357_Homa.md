@@ -1,0 +1,160 @@
+# 357 — Homa
+
+**Tradition :** Iranien Perse
+
+**Image à insérer :** `_BookA/images/21_Iranien_Perse/357_Homa.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Persian Safavid miniature illustration of Homa the bird of paradise, sixteenth century manuscript style, lapis blue background filling the upper portion with scattered gold cloud-scrolls, the central figure of an elegant large bird in flight with brilliant plumage of emerald green, gold, and lapis, long flowing tail feathers like a paradisiacal pheasant or peacock, neck gracefully extended, never touching ground, his shadow falling diagonally across a barren plain below where a humble shepherd with simple shawl and walking staff has just received the shadow on his shoulders and looks up startled in dawning recognition of his unknown election, in the upper margin a stylized celestial vault with stars in gold leaf, the lower portion showing distant Persian palace silhouettes hinting at the future kingdom, decorative borders of arabesques and rosettes in gold and crimson, fine cross-hatching and intricate detail in the bird's feathers with exquisite color gradation from lapis at the wingtips through emerald to gold at the breast, palace-school painterly precision, no modern rendering, no 3D, no cartoon, vintage Safavid manuscript aesthetic, aged paper texture, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# HOMA
+
+## SIGNIFICATION DU NOM
+
+Le nom *Homā* est associé étymologiquement à la racine indo-iranienne du *bonheur*, de la *grâce*, de la *félicité*. Dans la langue moyenne-perse, *Hūmāy* signifie *à la bonne pensée*, *au bel esprit* — formule à valeur de bénédiction. Le persan classique a conservé cette charge sémantique : Homa est l'oiseau dont le seul nom évoque la chance, la grâce, la fortune.
+
+Le mot a été parfois rapproché de *Haoma* (la plante sacrée du sacrifice zoroastrien et son équivalent indien le Soma), mais cette parenté est contestée par les philologues. La forme zoroastrienne du nom de la plante (*Haoma*) et celle de l'oiseau (*Hūmāy*) ne se rencontrent pas dans la même branche dérivationnelle malgré leur proximité phonétique.
+
+Une variante particulière dérive le nom du composé *hu* (bon) + *māh* (lune) ou *hu* (bon) + *māy* (oiseau primordial), donnant *bel oiseau*, *belle lune*. Cette étymologie populaire est probablement secondaire mais témoigne de la qualité de bénédiction attachée au nom.
+
+## ORIGINE
+
+Homa appartient à un substrat ancien de la mythologie iranienne où les oiseaux occupent une place centrale comme intermédiaires entre le ciel et la terre. La figure spécifique de Homa émerge plus clairement dans la tradition persane islamique tardive — la grande poésie classique, notamment soufie, des XIIIe-XVe siècles —, mais s'enracine dans des conceptions zoroastriennes antérieures sur les oiseaux paradisiaques.
+
+Dans la tradition zoroastrienne, plusieurs oiseaux sont sacrés : le coq qui annonce l'aube et combat les démons de la nuit, le Simurgh sage des montagnes, et d'autres figures aviaires bénéfiques. Homa s'inscrit dans cette série, tout en s'en distinguant par sa fonction propre : *attribuer la royauté*.
+
+Selon la tradition reçue, l'ombre de Homa qui passe sur un homme indique que cet homme est appelé à régner. C'est ainsi un *oiseau de désignation royale* — fonction politique et théologique combinée, profondément attachée à l'imaginaire monarchique iranien.
+
+## NATURE
+
+Homa est un *oiseau bénéfique paradisiaque*. Sa nature ne se réduit à aucune fonction unique, mais combine plusieurs dimensions :
+
+- *bénéfice porte-fortune* : tout ce qui touche son ombre, sa plume, sa présence est béni,
+- *désignation royale* : son ombre élit le futur souverain,
+- *immortalité paradoxale* : il vivrait éternellement en l'air, ne descendant jamais sur terre,
+- *autoconsumption miraculeuse* : selon une variante célèbre, Homa se nourrirait des os de ses propres petits, ou ne se nourrirait pas du tout, ne touchant jamais une proie vivante.
+
+Cette nature contradictoire — oiseau qui ne tue pas pour vivre, oiseau qui ne se pose jamais — fait de Homa une figure essentiellement *paradoxale*, plus emblème spirituel qu'animal observable.
+
+Sa parenté avec le Simurgh est étroite mais nette : le Simurgh est sage, conseiller, soigneur, protecteur des héros élus, vivant en montagne ; Homa est porte-fortune, distributeur de royauté, vivant dans les airs supérieurs sans jamais se poser. Les deux figures dialoguent dans la poésie persane classique sans se confondre.
+
+## HABITAT
+
+Homa habite l'*air supérieur* — les couches élevées de l'atmosphère, voire le seuil entre le ciel terrestre et le ciel paradisiaque. Il *ne se pose jamais sur terre* — c'est l'un de ses traits distinctifs constants dans la tradition.
+
+Sa résidence permanente, lorsqu'elle est précisée, est située aux marches du *paradis* (la *Jannat* islamique persanisée, ou plus anciennement la *Garōdmān* zoroastrienne, demeure des âmes bénies). De ce poste élevé, il survole occasionnellement le monde des hommes pour y déposer son ombre bénéfique.
+
+Une variante poétique le situe au sommet du mont Qaf — montagne cosmique mythique entourant le monde habitable, lieu également associé au Simurgh. Cette colocalisation mythique des deux grands oiseaux iraniens dans l'imaginaire poétique tardif renforce leur dialogue symbolique.
+
+## DESCRIPTION
+
+Homa est décrit dans les poèmes classiques persans comme un oiseau de plumage *éclatant* et de forme *gracieuse*. Les éléments précis varient :
+
+- *plumage* : généralement brillant, parfois multicolore (lapis, or, vert), parfois plus sobre (vert sombre, parfois gris),
+- *taille* : grand, comparable à un aigle ou à un faucon mais souvent décrit comme plus majestueux,
+- *bec et serres* : peu emphatisés (puisque l'oiseau ne chasse pas),
+- *ailes* : amples, conçues pour le vol prolongé sans repos,
+- *queue* : longue et fournie selon certaines variantes.
+
+L'iconographie persane islamique tardive a produit de nombreuses représentations de Homa, généralement sous une forme proche du paon ou du phénix oriental, perché symboliquement (malgré l'interdit narratif de poser) sur des branches dorées dans des paysages paradisiaques.
+
+À l'époque moderne, Homa est devenu emblème national iranien (notamment logo de la compagnie aérienne nationale), sous une forme stylisée inspirée des chapiteaux animaliers des palais achéménides de Persépolis.
+
+## POUVOIRS
+
+L'*ombre désignatrice* est son pouvoir signature. L'homme sur lequel l'ombre de Homa passe est élu à la royauté. Cette tradition est si profondément ancrée dans l'imaginaire iranien que de nombreux récits de désignation royale historique (notamment lors de l'élévation de fondateurs de dynasties) impliquent une rencontre avec Homa.
+
+La *bénédiction par contact* étend ce pouvoir : porter une plume de Homa, avoir vu Homa, être touché par sa course aérienne, tout cela porte chance.
+
+L'*autoconsumption miraculeuse* (variante particulière) lui permet de subsister sans tuer. Cette caractéristique en fait un emblème de *non-violence cosmique*, de pureté de subsistance, à l'opposé des oiseaux prédateurs ordinaires.
+
+L'*immortalité ou longévité extrême* dans l'air sans descendre. Certaines variantes lui prêtent une vie de plusieurs millénaires.
+
+## FAIBLESSES
+
+À strictement parler, Homa n'a *pas de faiblesses* dans la tradition. Il n'est pas un être à combattre ; il est un être à attendre, à observer, à recevoir comme grâce. La question de ses faiblesses ne se pose donc pas dans le registre du combat héroïque.
+
+La seule limite consignée concerne *l'orgueil de celui qui le revendique*. Selon la tradition soufie, l'homme qui *prétend* avoir été choisi par Homa, qui s'enorgueillit de cette élection au lieu de l'accepter avec humilité, perd la grâce reçue. L'ombre du Homa se retire de l'orgueilleux. Cette dimension morale fait que la grâce de Homa est *conditionnelle à l'humilité*.
+
+Une variante populaire ajoute que celui qui *tente de chasser* Homa, de le capturer, de le tuer pour s'en approprier les pouvoirs, est non seulement voué à l'échec (Homa ne peut être atteint en l'air) mais frappé d'un malheur durable.
+
+## COMPORTEMENT
+
+Le comportement de Homa est *aérien et discret*. Il vole haut, rarement vu directement. Sa présence se devine plus qu'elle ne se contemple. Pour les hommes ordinaires, il est presque toujours invisible.
+
+Il *ne pose pas* sa course en certaines régions plutôt que d'autres : sa désignation est libre, imprévisible. Aucune offrande, aucun sacrifice ne peut le forcer à passer sur tel ou tel homme. La désignation royale qu'il opère est *grâce gratuite*, non récompense méritée.
+
+Quand un homme reçoit son ombre, l'événement est généralement *bref* — l'oiseau passe, l'ombre traverse, et il poursuit son vol sans se poser. Aucun dialogue n'est attesté entre Homa et les hommes (contrairement au Simurgh qui parle, conseille, recueille parfois des héros). Homa est silencieux.
+
+Dans la tradition soufie tardive, Homa devient symbole de l'*élection mystique* — passage de l'ombre divine sur l'âme du saint —, et le silence de l'oiseau est interprété comme le silence de la grâce qui ne se justifie pas.
+
+## RÉCITS TRADITIONNELS
+
+Les récits concernant Homa ne suivent généralement pas la forme du mythe narratif structuré (origine, exploits, mort), mais celle de *l'épisode poétique bref* ou de l'*illustration emblématique*.
+
+Le récit-type met en scène un *homme inconnu* (paysan, pèlerin, prince déchu, mendiant) qui se trouve par hasard à l'air libre, lorsque l'ombre de Homa passe sur lui. Cet homme, dont l'élection était cachée, sera élevé peu après à la royauté. Le récit illustre le caractère imprévisible de la grâce et la possible existence de rois cachés parmi les humbles.
+
+Les *poètes persans classiques* — particulièrement Hafez, Saadi, Khaqani, Nezami — ont innombrablement évoqué Homa dans leurs vers. Ils en ont fait :
+
+- *symbole de la grâce divine* qui élit selon des critères inaccessibles,
+- *symbole de l'amant désiré* dont l'ombre, posée brièvement sur le poète, transforme sa vie,
+- *symbole du roi idéal*, élu par les puissances supérieures et non par la simple force humaine,
+- *symbole du mystique* qui s'élève vers le ciel et ne redescend plus.
+
+La *tradition royale iranienne* a fait de Homa un emblème dynastique. Les couronnes royales, les bannières, les architectures palatiales intègrent l'oiseau comme signe de légitimité.
+
+## VARIANTES RÉGIONALES
+
+La figure de Homa s'est diffusée largement dans le monde turco-persan et islamique :
+
+Dans la *tradition turque ottomane*, Hüma conserve toutes les caractéristiques persanes (oiseau de royauté, ombre désignatrice, vol perpétuel) et figure dans la poésie de cour comme dans la symbolique impériale.
+
+Dans la *tradition mogole indienne*, Huma est emblème de royauté. Le grand emblème impérial mogol intégrait des références à l'oiseau. La poésie ourdou-persane classique a perpétué la figure.
+
+Dans la *tradition d'Asie centrale* (tadjike, ouzbèke, kazakh), Homa apparaît dans les contes et la poésie, parfois assimilé à d'autres oiseaux mythiques locaux.
+
+Dans la *tradition kurde*, des récits évoquent un oiseau analogue dont l'ombre apporte la fortune.
+
+L'*emblème national iranien moderne* est le Homa stylisé d'inspiration achéménide. La compagnie aérienne nationale Iran Air porte le nom *Homa*, et son logo représente l'oiseau dans la forme stylisée des chapiteaux de Persépolis.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Homa est globalement bien préservé dans l'imaginaire iranien contemporain, mais quelques précisions s'imposent face à la culture mondiale :
+
+- L'identification *Homa = phénix* est *partielle*. Phénix et Homa partagent certains traits (oiseau bénéfique, longévité extraordinaire), mais le phénix méditerranéen renaît de ses cendres après combustion — concept absent de Homa. Homa ne meurt pas et ne renaît pas ; il vit dans l'air sans interruption.
+
+- L'identification *Homa = Simurgh* est *erronée*. Simurgh est sage de montagne, conseiller des héros, soigneur, protecteur ; Homa est désignateur de royauté, vol perpétuel, jamais posé. Ces deux oiseaux mythiques iraniens occupent des places distinctes dans l'imaginaire.
+
+- Les œuvres de fantasy moderne incluant Homa le présentent souvent comme un *animal de monture* ou comme un *combattant volant*. Aucune tradition ancienne ne soutient ces caractérisations. Homa ne peut être monté ; il n'est pas combattant.
+
+- L'idée d'un Homa *prédateur* contredit sa nature traditionnelle. Il ne tue pas ; il subsiste paradoxalement.
+
+- La représentation de Homa avec un *aspect agressif* dans certaines œuvres contemporaines déforme l'iconographie traditionnelle, qui le montre toujours dans des postures gracieuses et bénéfiques.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie de Homa est riche et continue depuis l'antiquité jusqu'à l'époque contemporaine.
+
+Les *chapiteaux animaliers de Persépolis* — palais achéménide construit aux VIe-IVe siècles avant l'ère commune — montrent des oiseaux gigantesques en bichromie de pierre formant les supports de plafond. Bien que ces chapiteaux ne soient pas formellement étiquetés *Homa*, l'identification est devenue traditionnelle dans l'iconographie iranienne moderne, et la silhouette stylisée de l'emblème national en dérive directement.
+
+Les *manuscrits illustrés islamo-persans* (XIIIe-XVIIe siècles) représentent fréquemment Homa dans des paysages paradisiaques, sur des arbres dorés, dans des compositions de jardin. La palette emploie les ors, lapis, verts émeraude.
+
+Les *miniatures mogoles* (XVIe-XVIIIe siècles) ont produit de nombreuses images de Homa sous des formes proches du paon ou du faisan brillant.
+
+Les *céramiques persanes médiévales* (notamment de l'école de Kashan) montrent Homa stylisé sur des plats et bols.
+
+L'*emblème de la République islamique d'Iran*, ainsi que le logo de la compagnie aérienne nationale, perpétuent la silhouette achéménide.
+
+## POUR ALLER PLUS LOIN
+
+Homa apparaît dans la littérature persane classique de manière étendue, notamment dans les divans de Hafez (XIVe siècle), dans les poèmes de Saadi (XIIIe siècle), dans les œuvres de Nezami Ganjavi (XIIe siècle) et dans la poésie soufie tardive. Les sources zoroastriennes pehlevies mentionnent un oiseau Hūmāy aux fonctions partiellement parallèles. L'iconographie achéménide-sassanide-islamique constitue un corpus archéologique riche.

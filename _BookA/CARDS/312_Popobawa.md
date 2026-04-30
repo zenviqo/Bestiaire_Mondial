@@ -1,0 +1,150 @@
+# 312 — Popobawa
+
+**Tradition :** Africain
+
+**Image à insérer :** `_BookA/images/18_Africain/312_Popobawa.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Traditional Swahili coastal ethnographic illustration of the Popobawa, the bat-winged shetani, hand-drawn ink wash on aged parchment in nineteenth-century colonial documentary style, a moonless tropical night above a Zanzibari coral-stone village, narrow alleys with carved wooden doors, palm trees swaying in offshore breeze, the central figure a colossal dark anthropomorphic bat hovering over the rooftop of a single dwelling with fully spread membranous wings ribbed and translucent, its short black fur dense across a humanoid torso, a long muzzle with bared sharp teeth, large pointed ears, a single luminous reddish eye glowing in the centre of its face (iconographic variant), its body slightly stooped as if descending toward an open window where a small lamp burns, faint smoky odor lines suggested rising from its form, sleeping figures faintly visible inside the dwelling through the latticed window, a small mosque silhouette in the background with a single oil lamp burning at its threshold, decorative border showing repeating Swahili coastal pattern with stylized waves, dhow sails, and Quranic geometric motifs (purely decorative, no readable text), heavy ink shading appropriate to nocturnal scene, aged paper foxing, atmosphere of nocturnal menace and communal vulnerability, no modern rendering, no 3D, no cartoon, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# POPOBAWA
+
+## SIGNIFICATION DU NOM
+
+Le nom *Popobawa* est composé de deux mots de la langue swahilie : *popo*, qui désigne la chauve-souris, et *bawa*, qui désigne l'aile. Il signifie littéralement *aile-de-chauve-souris* ou, dans un sens plus ramassé, *chauve-souris ailée*. Cette redondance apparente — toutes les chauves-souris étant ailées — sert à insister sur le caractère vol-nocturne et la silhouette membraneuse qui définissent la créature dans l'imagination traditionnelle.
+
+Le nom appartient pleinement à l'usage swahili courant des îles de Zanzibar et Pemba ainsi que de la côte continentale tanzanienne adjacente. Il est utilisé en référence directe — sans précaution rituelle particulière — par les habitants de la région, ce qui le distingue de certaines entités folkloriques dont le nom véritable doit être évité.
+
+## ORIGINE
+
+Le popobawa appartient au folklore swahili contemporain de la côte est-africaine, particulièrement vivace à Zanzibar et dans l'île voisine de Pemba. Sa figure se rattache à la catégorie plus large des *shetani* — entités malfaisantes nocturnes attestées de longue date dans le syncrétisme religieux swahili, où se mêlent influences bantou pré-islamiques, contributions arabes et persanes apportées par les commerçants de l'océan Indien, et islam populaire local.
+
+La forme spécifique du popobawa, telle qu'elle est connue actuellement, paraît s'être stabilisée dans le courant du vingtième siècle, à partir d'éléments folkloriques plus anciens concernant les esprits agresseurs nocturnes. Plusieurs vagues de panique collective documentées sur les îles ont contribué à fixer ses traits dans une forme reconnaissable. Cependant, le substrat dont il dérive est ancien — la croyance en des esprits-chauve-souris attaquant les dormeurs est attestée dans toute la région bantou orientale, sous des noms variés, depuis bien avant la fixation du nom swahili actuel.
+
+Aucun auteur n'est à l'origine de la figure ; elle appartient au folklore vivant, transmis par la rumeur, le récit familial, les récits que les voisins se font les uns aux autres après une nuit troublée.
+
+## NATURE
+
+Le popobawa est un *shetani*. Cette catégorie swahili désigne des entités spirituelles à la fois reconnues par la tradition pré-islamique et intégrées au champ démoniaque par l'islam populaire qui s'est superposé à elle. Le shetani n'est ni un mort errant, ni un ancêtre, ni un djinn classique : il est une catégorie autonome, à la frontière entre folklore bantou et démonologie islamique.
+
+Il est aussi *zoomorphe*. Sa forme privilégiée est celle d'une chauve-souris géante anthropomorphe, ailée, capable de voler comme cet animal mais doué d'intelligence, d'intention et de volonté humaines.
+
+Sa nature est enfin *agresseur nocturne*. Sa fonction principale dans le folklore est d'attaquer les dormeurs dans leur sommeil, de provoquer chez eux des phénomènes d'oppression, de paralysie, parfois d'agression physique caractérisée. Cette dimension le rapproche d'autres figures mondiales de cauchemar incarné — le mahr germanique, l'incube médiéval européen, le kanashibari japonais — sans s'identifier à aucun d'entre eux.
+
+## HABITAT
+
+Le popobawa hante les zones habitées plutôt que la brousse. Il choisit pour son action les villages et quartiers résidentiels des îles de Zanzibar et Pemba, ainsi que les localités côtières de la Tanzanie continentale. À l'intérieur des terres, sa présence est moindre.
+
+Il se déplace de nuit, et particulièrement par les nuits sans lune ou peu éclairées. Il pénètre dans les habitations par les ouvertures — fenêtres mal fermées, toits perméables, portes laissées entrebâillées. Une fois entré, il choisit sa victime parmi les dormeurs.
+
+Il ne paraît pas posséder de résidence fixe identifiable. Il rôde, il visite, il repart. Certaines maisons sont touchées plusieurs nuits de suite ; d'autres ne le sont jamais. Les facteurs qui orientent son choix restent en partie mystérieux pour ceux qui en sont victimes.
+
+## DESCRIPTION
+
+Le popobawa se présente sous une forme principale : une chauve-souris géante anthropomorphe. Sa taille dépasse celle d'un homme adulte. Ses ailes membraneuses sont déployées au-dessus de lui ou repliées le long de son corps selon les circonstances. Son corps est sombre — noir d'encre dans la plupart des descriptions —, son pelage court et épais.
+
+Sa tête est celle d'une chauve-souris : museau allongé, oreilles grandes et pointues, yeux proéminents. Mais ses yeux sont décrits comme uniques en leur genre : un seul œil central selon certaines versions, ou deux yeux luminescents qui jettent une lueur rougeâtre dans l'obscurité. Ce détail des yeux uniques ou luminescents constitue un marqueur distinctif des descriptions canoniques.
+
+Il dégage une *odeur âcre* caractéristique — fumée, soufre, ou simplement une puanteur indéfinissable que les victimes rapportent unanimement. Cette odeur précède son apparition et persiste après son départ.
+
+Il peut adopter d'autres formes secondaires dans certaines variantes — celle d'un homme étrange, celle d'une silhouette mal définie. Mais sa forme première, celle qui lui donne son nom, reste la chauve-souris géante.
+
+## POUVOIRS
+
+Le popobawa possède le *vol* à la manière de la chauve-souris dont il porte la forme. Il se déplace silencieusement dans la nuit, franchissant les distances rapidement, capable de pénétrer dans les habitations par les ouvertures les plus exiguës.
+
+Il dispose du pouvoir de *paralysie*. Une fois posé sur la poitrine d'un dormeur, il provoque chez celui-ci une immobilisation totale. La victime est consciente. Elle voit ou sent la présence. Mais elle ne peut ni bouger ni crier. Cette paralysie dure tant que le popobawa la maintient et cesse à son départ.
+
+Il agresse sexuellement ses victimes — caractéristique attestée par de nombreux témoignages —, hommes et femmes indifféremment. Cette dimension sexuelle de l'agression constitue l'une des particularités les plus marquantes du popobawa par rapport aux autres entités-cauchemar du folklore mondial : il ne se contente pas d'oppresser ; il viole.
+
+Il peut imposer le *silence*. Les victimes rapportent souvent que, malgré leur paralysie, il leur a explicitement enjoint — par parole ou par communication directe — de raconter ce qu'elles ont vécu, sous peine de revenir et de redoubler l'agression. Cette injonction au récit est paradoxalement source de propagation : la victime parle pour ne pas être à nouveau attaquée, et la rumeur se diffuse.
+
+Il peut attaquer une *même victime plusieurs nuits de suite*. Cette persistance est caractéristique des récits documentés.
+
+## FAIBLESSES
+
+Le popobawa peut être *écarté* par plusieurs moyens attestés.
+
+Le premier est la *lumière*. Une lampe maintenue allumée toute la nuit dissuade en général sa visite. Lors des vagues d'attaques, les habitants prennent l'habitude de dormir collectivement à l'extérieur des maisons, autour de feux maintenus jusqu'au matin. Le rassemblement et la lumière conjugués paraissent suffire à le tenir à distance.
+
+Le deuxième est la *récitation coranique*. Les communautés musulmanes des îles concernées font appel à des marabouts ou cheikhs qui récitent des sourates protectrices au seuil des habitations attaquées. Cette protection est généralement jugée efficace.
+
+Le troisième est l'*odeur d'oignon*. Certaines traditions populaires recommandent de placer des oignons coupés ou de l'ail aux ouvertures de la maison ; l'odeur qui s'en dégage écarterait le popobawa.
+
+Le quatrième est la *présence collective*. Une victime qui dort seule est plus vulnérable qu'une victime qui dort entourée de membres de sa famille. Les périodes de panique entraînent en général un regroupement nocturne défensif.
+
+Enfin, certains récits évoquent la possibilité d'une *confession publique* qui reconnaît l'attaque ; cette reconnaissance, en rompant la dynamique de honte sur laquelle joue le popobawa, peut affaiblir son emprise sur la victime concernée.
+
+## COMPORTEMENT
+
+Le popobawa adopte un comportement régulier reconnaissable.
+
+Il choisit sa victime sans qu'on sache toujours pourquoi. Il s'introduit la nuit dans la maison du dormeur. Il se pose ou se penche sur lui. Il provoque la paralysie. Il commet l'agression. Il enjoint au silence ou au contraire à la parole. Il repart.
+
+Il peut revenir la nuit suivante, et la suivante encore, jusqu'à ce que la victime quitte la maison, se réfugie dans une autre habitation, ou bénéficie d'une protection rituelle.
+
+Sur le plan collectif, son comportement se manifeste par *vagues*. Plusieurs périodes documentées au cours du vingtième siècle et du début du vingt-et-unième siècle ont vu une concentration d'attaques se produire sur quelques semaines ou quelques mois dans une localité donnée, créant un climat de panique générale, un regroupement défensif nocturne, des cérémonies de purification collective. Puis la vague retombe, les attaques cessent ou s'espacent, et la vie reprend son cours jusqu'à la vague suivante.
+
+Avec les hommes adultes, il agit de la même façon qu'avec les femmes. La symétrie sexuelle de ses agressions est l'un de ses traits les plus remarqués.
+
+## RÉCITS TRADITIONNELS
+
+Les récits concernant le popobawa, qu'ils soient anciens ou contemporains, suivent un schéma reconnaissable.
+
+Le schéma de la *nuit unique* concerne une victime attaquée une seule fois. Elle s'endort. Au milieu de la nuit, elle est réveillée par une pression sur la poitrine. Elle perçoit l'odeur âcre. Elle voit une silhouette ailée, ou ressent simplement une présence sombre. Elle ne peut bouger. L'agression se produit. Au matin, elle se relève, traumatisée, et raconte à ses proches ce qui s'est passé.
+
+Le schéma de la *série* concerne une victime attaquée plusieurs nuits consécutives. Les premières nuits, elle ne parle pas — par honte, par confusion, par peur. Les attaques se répètent. Elle finit par appeler à l'aide. La famille s'organise — feu nocturne, prière, récitation —, et la série prend fin.
+
+Le schéma de la *panique villageoise* concerne une vague d'attaques touchant plusieurs habitations d'une même localité simultanément ou en succession rapide. Le village entier se mobilise. Les habitants dorment ensemble dehors. Les marabouts interviennent. Des cérémonies collectives sont organisées. La vague retombe au bout d'un temps variable.
+
+Le schéma du *messager* concerne une victime à qui le popobawa enjoint explicitement de transmettre l'avertissement de sa visite à toute la communauté. La victime obéit, par crainte de retour. La rumeur se diffuse. Le récit lui-même devient un véhicule de propagation de la panique.
+
+## VARIANTES RÉGIONALES
+
+Le popobawa est principalement attaché à Zanzibar et Pemba, où il a sa forme la plus développée. Sur la côte continentale tanzanienne, il est connu mais souvent confondu avec d'autres shetani locaux dont les traits varient.
+
+Au Kenya côtier, des figures parentes existent dans le folklore mijikenda et swahili local, parfois sous d'autres noms, partageant l'attaque nocturne et la dimension sexuelle. Ces variantes sont moins explicitement identifiées à la chauve-souris.
+
+Aux Comores, des entités de cauchemar parentes existent, intégrées au folklore islamique local, mais distinctes du popobawa proprement dit.
+
+Au Mozambique septentrional, des figures de shetani agresseurs nocturnes apparaissent dans le folklore makua et yao, sans porter le nom swahili.
+
+Le caractère pan-bantou de la croyance en des esprits agresseurs nocturnes ailés rend la délimitation stricte du popobawa difficile à l'extérieur de l'aire swahilie centrale.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs idées circulent à propos du popobawa qui méritent d'être nuancées :
+
+- L'identification du popobawa à un *vampire* au sens européen est inexacte. Il ne boit pas le sang de ses victimes ; il ne crée pas d'autres popobawa par contagion ; il n'est pas un mort revenu. C'est un shetani, catégorie autonome dont le mode d'action est l'agression nocturne paralysante et sexuelle.
+
+- L'idée qu'il s'agirait d'une simple invention médiatique récente trahit la tradition. Si les vagues d'attaques médiatisées ont fixé certains traits dans le grand public, le substrat folklorique sur lequel le popobawa repose — esprits ailés agresseurs nocturnes — est attesté de longue date dans la région.
+
+- L'idée qu'il s'attaquerait exclusivement aux femmes est fausse. Les hommes adultes figurent en bonne place parmi les victimes attestées. Cette symétrie sexuelle est l'un de ses traits définitoires.
+
+- L'identification de toutes les expériences de paralysie du sommeil à des attaques de popobawa est une lecture culturelle locale qui n'épuise pas le phénomène. Le folklore swahili fournit un cadre interprétatif à des expériences que d'autres traditions interprètent différemment.
+
+- La fictionnalisation moderne sous forme de simple monstre volant en quête de chair humaine prive la figure de ses dimensions essentielles : la paralysie, la dimension sexuelle, la propagation par injonction au récit. Sans ces traits, ce n'est plus un popobawa, c'est un croque-mitaine générique.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie traditionnelle du popobawa est limitée. Le folklore swahili ne produit pas habituellement de représentations figuratives canoniques de ses shetani ; la transmission est essentiellement orale et l'image mentale précède toute image matérielle.
+
+Certaines amulettes et talismans protecteurs fabriqués par les marabouts incluent des motifs censés repousser les shetani en général, sans représenter spécifiquement le popobawa. Ces motifs combinent calligraphie coranique et signes géométriques traditionnels.
+
+L'iconographie médiatique contemporaine — bandes dessinées populaires, illustrations de presse, productions audiovisuelles — a fixé quelques images relativement standardisées du popobawa au cours des dernières décennies, mais ces images sont des reconstitutions imaginatives plutôt que des sources traditionnelles.
+
+## POUR ALLER PLUS LOIN
+
+Le popobawa appartient au folklore vivant des îles swahilies de Zanzibar et Pemba ainsi que de la côte adjacente. Les vagues d'attaques périodiques continuent de se produire et constituent un phénomène social documenté autant que folklorique. Les enquêtes anthropologiques menées sur place ont rassemblé un corpus important de témoignages, qui permettent de cerner les traits stables de la figure et ses variations contextuelles.
+
+Le popobawa figure parmi les rares créatures folkloriques contemporaines pour lesquelles existent à la fois un substrat traditionnel ancien et une dynamique de manifestation collective récente, ce qui en fait un cas particulièrement riche pour l'étude des liens entre folklore, panique collective et expérience nocturne.

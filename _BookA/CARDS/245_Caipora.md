@@ -1,0 +1,144 @@
+# 245 — Caipora
+
+**Tradition :** Amazonien
+
+**Image à insérer :** `_BookA/images/24_Amazonien/245_Caipora.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Brazilian folk woodblock cordel art illustration of the Caipora, traditional xylogravura style on aged paper, bold black ink lines with raw woodcut texture, a small humanoid forest spirit entirely covered in dark shaggy fur, child-sized body with broad indigenous features, large bright eyes catching a faint glint of red, long flowing dark hair falling over the shoulders and back, riding bareback on a fierce-looking peccary (caititu) with thick bristled hide and curved tusks, the spirit holds a rough hand-rolled cigar in one hand with a thin curl of smoke rising, the feet visibly turned backwards (heels forward, toes pointing behind), surroundings of dense Brazilian Atlantic forest stylized in cordel woodblock fashion with tall jaguatirica vines, fan-shaped palm fronds, gnarled jatobá trees with deeply incised bark, and twisting lianas, a small offering of tobacco leaves and a clay cup of cachaça placed at the foot of a great tree in the foreground, hidden frightened eyes of woodland animals (paca, agouti, tapir) peering from behind the foliage as the Caipora protects them, the moon a crescent in the upper corner among stylized stars, decorative repeating geometric borders of diamonds and crosses framing the composition typical of Northeast Brazilian cordel pamphlet engravings, strong contrast between heavy black ink areas and pure paper white, no grey tones, raw unpolished woodcut energy, hand-carved primitive lines, slight ink blotting and irregularities consistent with a hand-printed sertanejo woodblock, atmosphere of folk popular print sold at country fairs of Bahia and Pernambuco, no modern rendering, no 3D, no cartoon, no photorealism, no digital smoothness, vintage handmade craft aesthetic, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# CAIPORA
+
+## SIGNIFICATION DU NOM
+
+Le nom *Caipora* dérive directement du tupi ancien *caá-pora*, formé de deux éléments transparents : *caá*, qui signifie *forêt* ou *broussaille végétale*, et *pora*, suffixe locatif-existentiel signifiant *habitant de*. Le terme se traduit donc littéralement par *l'habitant de la forêt* — désignation extensive plutôt qu'attribut spécifique, qui place la créature en pure coïncidence avec son territoire. La Caipora n'est pas dans la forêt : elle *est* la forêt sous forme animée.
+
+La forme *Caapora*, plus archaïque, demeure attestée dans les textes ethnographiques anciens. La forme *Caipora* s'est imposée par usure phonétique du portugais brésilien rural. Le diminutif affectueux *Caiporinha* apparaît parfois dans les récits où la créature est évoquée comme petit garçon farceur, tandis que *Caboclinho do Mato* — *le petit caboclo des bois* — désigne la même entité dans certaines régions du Sertão, en lui prêtant une apparence d'indien métissé miniature.
+
+Le tupi-guarani du Paraguay reconnaît la même figure sous le nom *Kaaguy-pora*, où *kaaguy* désigne plus spécifiquement la grande forêt épaisse.
+
+## ORIGINE
+
+La Caipora appartient au plus ancien fonds religieux des peuples tupi-guarani de la côte atlantique du Brésil et de l'intérieur paraguayen, fonds que les missionnaires portugais et jésuites consignèrent à partir du XVIe siècle sans pouvoir l'éradiquer. Elle relève du système des *gardiens forestiers*, vaste catégorie d'esprits chargés de surveiller le partage entre l'homme et la nature dans une cosmologie où aucune ressource n'est libre d'accès — chaque animal, chaque arbre, chaque source possède un maître invisible auquel il convient de demander permission.
+
+Avec la colonisation, la figure migra des seules populations indigènes vers le folklore *caboclo* — celui des paysans métis du Brésil intérieur — qui lui ajouta des traits issus du fonds européen et africain. La petite taille moqueuse, l'amour du tabac, le rire moqueur dans les broussailles : ces éléments composites firent de la Caipora une créature pleinement créole, sans plus appartenir à un seul des héritages d'origine.
+
+## NATURE
+
+La Caipora est un *esprit gardien*. Cette qualité la distingue à la fois des dieux primordiaux (qu'elle n'est pas) et des animaux ordinaires (qu'elle dépasse). Elle constitue une force consciente et autonome, dotée d'intentions, d'humeurs et de jugement moral, mais limitée à un territoire défini : la forêt et ses lisières.
+
+Sa fonction première est la *protection des animaux sauvages*. Elle ne défend pas la forêt en tant qu'écosystème abstrait, mais les bêtes individuelles que les chasseurs traquent — singes, pacas, tatous, cervidés, et surtout les pécaris (*caititus*) qui sont sa monture habituelle. La Caipora n'interdit pas la chasse en soi : elle l'encadre. Le chasseur respectueux qui prélève selon le besoin reçoit son indulgence ; le chasseur cupide qui tue par plaisir ou par excès rencontre sa colère.
+
+Sa nature inclut une part *farceuse*. Au-delà de la fonction punitive, la Caipora s'amuse à dérouter les voyageurs, à imiter les voix, à faire tourner en rond ceux qui pénètrent ses domaines. Cette dimension burlesque l'éloigne de la divinité solennelle et la rapproche du *trickster* tropical.
+
+## HABITAT
+
+La Caipora habite la *forêt atlantique* (Mata Atlântica) — l'immense bande de forêt tropicale humide qui couvrait autrefois toute la côte orientale du Brésil et dont il subsiste aujourd'hui des fragments dispersés. Elle hante également le *cerrado*, savane arborée du plateau central, ainsi que les forêts galeries qui longent les cours d'eau.
+
+Elle ne vit ni dans les villages, ni sur les sentiers tracés, ni dans les clairières cultivées : son domaine commence là où s'efface l'empreinte humaine. Les *capoeiras*, ces zones de forêt secondaire qui ont repoussé sur d'anciennes cultures abandonnées, lui sont particulièrement chères — leur nom même partage la racine *caá*, la forêt. Les chasseurs disent qu'elle se manifeste surtout aux heures crépusculaires, quand la lumière hésite et que les contours des arbres deviennent ambigus.
+
+Aucun récit ne lui attribue une demeure fixe — pas de grotte, pas d'arbre creux, pas de nid. La Caipora se déplace constamment à travers son territoire, montée sur son pécari, surgissant ici et disparaissant là sans laisser de trace.
+
+## DESCRIPTION
+
+La Caipora apparaît sous la forme d'un *petit être humanoïde* de taille enfantine — entre quatre-vingts centimètres et un mètre vingt selon les récits. Son corps entier est couvert de poils sombres, généralement noirs ou châtain foncé, qui dissimulent presque totalement la peau. La chevelure abondante retombe sur les épaules et le dos.
+
+Le visage est celui d'un petit indien — front bas, pommettes saillantes, yeux noirs et brillants, parfois décrits comme luisant d'une lueur rougeâtre dans l'obscurité. La bouche est large, prête à éclater de rire ou à siffler. Selon les régions, la créature est masculine ou féminine — la Caipora masculine étant souvent associée au cigare ou à la pipe, la Caipora féminine portant un long cheveu défait sur tout le corps.
+
+Sa monture est invariable : un *caititu*, le pécari à collier, sanglier sauvage des forêts brésiliennes. La Caipora chevauche cette bête à cru, la dirigeant sans bride à travers les broussailles les plus denses. Le pécari de la Caipora est plus grand et plus farouche que ses congénères ordinaires.
+
+Une particularité physique notable : selon plusieurs traditions du Nordeste, les pieds de la Caipora seraient *retournés à l'envers* — talons devant, orteils derrière. Cette anomalie, qu'elle partage avec d'autres esprits forestiers du continent, sert à brouiller les pistes : celui qui suit ses traces marche dans la direction opposée à celle qu'elle a réellement empruntée.
+
+## POUVOIRS
+
+La *commande sur le gibier* constitue son attribut majeur. La Caipora peut éloigner instantanément tous les animaux d'une zone, assécher la chasse pendant des semaines pour le coupable, ou inversement faire surgir une proie illusoire qui mène le chasseur loin de son chemin avant de s'évanouir.
+
+La *désorientation des voyageurs* est son outil de prédilection. Elle imite la voix d'un compagnon, le bruit d'une rivière, le cri d'un animal blessé — guidant celui qui la suit dans les profondeurs où il se perdra. Beaucoup de récits campagnards attribuent à la Caipora les disparitions de chasseurs et de bûcherons isolés.
+
+L'*invisibilité partielle* lui permet d'être entendue sans être vue. Les rires aigus, les sifflements, les coups frappés sur les troncs : autant de manifestations sonores sans corps visible.
+
+La *vitesse surnaturelle* de sa monture lui permet de traverser la forêt plus vite qu'aucun animal terrestre. Aucun chien, aucun cheval, aucune flèche ne rattrape la Caipora lancée à travers les broussailles.
+
+La *malédiction du chasseur cupide* enfin : celui qui a tué pour le plaisir peut se retrouver frappé d'une infortune durable — fusil qui ne tire plus juste, gibier qui se dérobe à perpétuité, plaies qui ne guérissent pas.
+
+## FAIBLESSES
+
+Le pouvoir de la Caipora se négocie. La tradition rurale brésilienne a codifié plusieurs *offrandes* propitiatoires qui apaisent la créature et obtiennent sa neutralité, voire sa faveur.
+
+L'offrande première est le *tabac*, de préférence sous forme de cigare grossier ou de feuille roulée. On le dépose au pied d'un grand arbre avant la chasse, en formulant à voix basse une demande de permission. Le jeudi et le vendredi sont les jours considérés comme particulièrement favorables à ces offrandes.
+
+Vient ensuite l'*eau-de-vie*, la *cachaça* tirée de la canne à sucre. Quelques gouttes versées sur la terre, ou un petit verre laissé sur une souche, suffisent à signaler le respect du chasseur.
+
+Le *miel sauvage* et le *manioc cuit* complètent dans certaines régions la liste des offrandes acceptées.
+
+La Caipora est également sensible au *respect des règles cynégétiques traditionnelles* : ne pas chasser le jeudi ni le vendredi saint, ne jamais tuer une femelle gravide, ne pas prélever plus que le besoin, ne pas mutiler inutilement la dépouille. Le chasseur qui observe ces règles n'a en principe rien à craindre.
+
+Une dernière faiblesse enfin : la Caipora *fuit le bruit du fer frappé en croix*. Deux machettes entrechoquées en signe de croix, ou une lame heurtant un fer à cheval, suffisent à la faire reculer. Cet élément, manifestement issu du syncrétisme afro-luso-chrétien, témoigne du métissage tardif de la figure.
+
+## COMPORTEMENT
+
+Le comportement de la Caipora est dual. Envers les animaux dont elle a la garde, elle se montre tendre et attentive — les récits la décrivent caressant les pécaris, les soignant lorsqu'ils sont blessés, leur indiquant les zones d'eau et les fruits mûrs. Envers les chasseurs respectueux, elle est neutre voire bienveillante : on raconte des histoires où elle conduit le chasseur honnête vers une proie facile, en remerciement d'une offrande de tabac.
+
+Envers les chasseurs cupides, elle déploie une malice méthodique. Elle commence par les avertir — un rire soudain dans le fourré, un sifflement qui semble venir de partout, un caititu qui croise le sentier sans peur. Si l'avertissement est ignoré, la sanction tombe : disparition du gibier, désorientation, chute, plaie infectée, ou pire encore.
+
+La dimension farceuse traverse toutes les versions. La Caipora siffle pour qu'on lui réponde, et celui qui répond est attiré toujours plus loin. Elle imite la voix de la mère, de l'épouse, de l'enfant. Elle frappe les arbres comme un bûcheron invisible. Ces farces ne sont pas innocentes : elles testent la prudence du voyageur et marquent son territoire.
+
+## RÉCITS TRADITIONNELS
+
+Un récit courant dans le Sertão de Bahia raconte l'histoire d'un chasseur réputé pour sa cupidité, qui tuait toujours plus que nécessaire et abandonnait les dépouilles. Un soir, il entendit un rire d'enfant dans les broussailles. Il suivit le rire, persuadé qu'un petit garçon s'était perdu. Il marcha des heures, puis des jours. Lorsqu'on le retrouva, sept jours plus tard, à quelques mètres seulement de son village mais incapable de le voir, il avait perdu la raison et ne reconnaissait plus personne. Il mourut peu après en murmurant qu'une petite femme poilue lui avait parlé sur un sanglier.
+
+Un autre récit, du Minas Gerais, met en scène un chasseur respectueux qui déposait toujours du tabac avant de partir. Une fois, perdu par une tempête soudaine, il appela la Caipora à voix basse. Un caititu surgit du fourré, immobile. Le chasseur le suivit. La bête le ramena exactement à son hameau, puis disparut dans la nuit.
+
+Un troisième récit, plus court, décrit un duel sonore : un voyageur entend la Caipora siffler dans la nuit. Il sait qu'il ne faut pas répondre. Il continue son chemin en silence, le cœur serré. Le sifflement le suit pendant des kilomètres, parfois devant, parfois derrière, parfois au-dessus dans les branches. Au matin, il atteint la lisière. Le sifflement s'arrête net.
+
+## VARIANTES RÉGIONALES
+
+La Caipora ne doit pas être confondue avec les autres esprits forestiers de la même tradition, dont elle se distingue par des traits précis :
+
+Le *Curupira* est une figure parallèle, également gardienne de la forêt et également d'origine tupi-guarani, mais distincte. Le Curupira a des cheveux roux flamboyants, marche sur des pieds inversés, et sa fonction principale est la protection des arbres autant que des animaux. Il est généralement décrit comme un être nu, sans poils, et ne chevauche pas de monture. Le Curupira domine surtout les régions amazoniennes proprement dites, tandis que la Caipora s'est diffusée plus largement dans le Brésil intérieur. Dans certaines régions, les deux figures se confondent ou se complètent ; dans d'autres, elles sont rivales.
+
+L'*Anhangá* est un esprit plus ancien et plus dangereux, souvent décrit comme un cerf blanc aux yeux de feu. Il appartient à un registre plus sombre : Anhangá tue, là où la Caipora avertit et punit. Anhangá fait peur aux indigènes eux-mêmes ; la Caipora se laisse négocier.
+
+Le *Saci-Pererê* enfin partage avec la Caipora le goût du tabac et la dimension farceuse, mais Saci est un petit homme noir à une seule jambe, coiffé d'un bonnet rouge magique, qui hante autant les fermes que les forêts. Saci joue des tours aux humains de toute condition, sans fonction de gardiennage spécifique. Il est plus folklore créole et moins esprit forestier.
+
+Selon les régions, la Caipora elle-même varie : féminine dans le Nordeste (Bahia, Pernambuco), souvent masculine dans le Sudeste (São Paulo, Minas Gerais), associée aux nuits de pleine lune dans certaines traditions, aux nuits sans lune dans d'autres.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire brésilienne contemporaine — bandes dessinées, dessins animés, manuels scolaires illustrés — a considérablement infantilisé la Caipora et le Curupira en les fusionnant souvent en une figure unique. Plusieurs erreurs courantes méritent d'être signalées :
+
+La confusion *Caipora = Curupira* est l'une des plus répandues. Beaucoup de représentations modernes attribuent à la Caipora les pieds inversés caractéristiques du Curupira tout en lui prêtant la chevelure rouge flamboyante du Curupira. Dans les traditions orales authentiques, ces deux figures, bien que cousines, ne sont pas interchangeables.
+
+L'idée d'une Caipora *exclusivement amazonienne* est inexacte. La figure est avant tout celle du Brésil intérieur — Bahia, Goiás, Minas Gerais — et de la forêt atlantique, non de l'Amazonie au sens strict. L'Amazonie est plus le domaine du Curupira et d'autres entités.
+
+La Caipora représentée comme une *enfant joyeuse et inoffensive*, image diffusée par certaines œuvres pour la jeunesse, gomme la dimension dangereuse et punitive qui est centrale dans le folklore traditionnel. La Caipora authentique fait peur ; elle tue à l'occasion. L'édulcoration moderne en fait une mascotte, ce qu'elle n'a jamais été.
+
+L'association de la Caipora à un quelconque *écologisme moderne* (gardienne de la biodiversité, militante anti-déforestation) constitue une projection contemporaine. La Caipora traditionnelle ne défend pas une « nature » abstraite ; elle exige le respect d'un protocole de chasse précis, dans une logique de réciprocité animiste — registre tout autre.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les premières représentations visuelles de la Caipora se trouvent dans les *gravures ethnographiques européennes* du XIXe siècle, notamment celles qui illustrèrent les voyages de naturalistes au Brésil. Ces gravures, souvent inspirées par les descriptions orales recueillies auprès de paysans, montrent la créature comme un petit indigène poilu monté sur un pécari, dans des décors de forêt tropicale stylisée.
+
+La *littérature de cordel*, ce genre populaire du Nordeste brésilien fait de petits livrets illustrés de gravures sur bois et vendus sur les marchés, a abondamment représenté la Caipora à partir de la fin du XIXe siècle. Ces gravures rustiques, en noir et blanc, en font une figure à la fois inquiétante et comique, souvent en train de désorienter un chasseur perdu ou de chevaucher son pécari à travers les broussailles.
+
+L'*art populaire des ex-votos* du Nordeste — petites peintures naïves laissées dans les sanctuaires en remerciement d'une grâce reçue — comporte parfois des scènes où un chasseur égaré rend grâce d'avoir échappé à la Caipora, l'image de la créature figurant alors dans un coin du tableau.
+
+Les *xylogravures* (gravures sur bois) du Nordeste contemporain, prolongement direct du cordel, continuent d'utiliser la Caipora comme thème majeur — figure stylisée, géométrique, souvent placée sur fond d'arbres schématisés et reconnaissable à sa monture pécari.
+
+Dans la peinture moderne brésilienne, plusieurs artistes du modernisme — sans qu'on les nomme ici — ont intégré la Caipora à des compositions cherchant à faire dialoguer fonds indigène et culture nationale.
+
+## POUR ALLER PLUS LOIN
+
+La Caipora est attestée dans l'ethnographie brésilienne depuis les premières chroniques jésuites du XVIe siècle, où les missionnaires portugais notaient les figures du panthéon tupi en les rangeant sous la catégorie générale des « démons » qu'ils combattaient. Les compilations folkloriques systématiques du XIXe et XXe siècle, conduites par les grands ethnographes brésiliens, ont permis d'en cartographier les variantes régionales sans toujours respecter les distinctions internes.
+
+La figure appartient pleinement à la culture vivante du Brésil rural contemporain. Les chasseurs et bûcherons des régions de Bahia, Goiás, Minas Gerais et São Paulo intérieur continuent, à des degrés divers, d'observer les protocoles d'offrande et de respect que la tradition prescrit — non par adhésion religieuse explicite, mais par prudence héritée. Le tabac déposé au pied d'un grand arbre avant une battue n'a pas disparu.

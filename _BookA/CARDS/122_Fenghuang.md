@@ -1,0 +1,154 @@
+# 122 — Fenghuang
+
+**Tradition :** Chinois
+
+**Image à insérer :** `_BookA/images/11_Chinois/122_Fenghuang.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Ming dynasty imperial silk embroidery aesthetic combined with Qing porcelain underglaze blue style, depiction of the Fenghuang, the Chinese imperial mythical bird, perched gracefully on the branch of a wutong (sterculia) tree in full bloom, its hybrid body composed of pheasant head with elaborate plumed crest, rooster beak, serpent neck, swallow chest, deer hindquarters, and long flowing fish-like tail trailing in elegant arabesques, plumage rendered in the five cosmological colors red green yellow white black harmonized in flowing patterns, traditional Chinese auspicious cloud motifs swirling around the bird, a second Fenghuang flying in mirror position above suggesting the male Feng and female Huang pair, in the background a stylized mountain peak suggesting Mount Kunlun rising through mist, a clear stream below with bamboo fruit visible on the banks, all rendered in the refined manner of Ming dynasty court silk embroidery with metallic gold thread highlights on a deep imperial purple ground, alternative composition variant in Yongle blue and white porcelain underglaze style with the Fenghuang spiraling on the curved surface of an imaginary celestial vessel, the long tail unfolding in continuous calligraphic spirals, no text, no letters, no inscriptions, no labels, no modern rendering, no 3D, no cartoon, museum-quality East Asian fine art reproduction, antique silk texture, atmosphere of imperial harmony and cosmic equilibrium, dignified and serene composition emphasizing the bird's role as herald of virtuous rule
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# FENGHUANG
+
+## SIGNIFICATION DU NOM
+
+Le nom *Fenghuang* est composé de deux caractères qui désignaient à l'origine deux créatures distinctes : *Feng* (鳳), l'oiseau mâle, et *Huang* (凰), l'oiseau femelle. Le caractère *Feng*, dans ses formes archaïques gravées sur les os oraculaires de la dynastie Shang, représente un grand oiseau au panache élaboré, et fut longtemps homophone et apparenté graphiquement au caractère *Feng* (風) signifiant *vent* — laissant entendre que l'oiseau primordial fut conçu comme une figure du souffle cosmique, du vent qui se lève et qui s'apaise selon la vertu du souverain.
+
+Le caractère *Huang*, plus tardif dans le corpus écrit, vient compléter le couple en introduisant le pôle féminin. Il porte en lui une valeur de *clarté* et d'*éclat solaire*, distincte de la dynamique aérienne du *Feng*. La paire *fènghuáng* fonctionne ainsi comme une formule binaire : le souffle et la lumière, le mâle et la femelle, l'élan et l'équilibre.
+
+Au fil des siècles, l'usage a progressivement effacé la distinction entre les deux pôles. À partir des dynasties Han et plus encore sous les Tang et les Ming, *Fenghuang* est devenu un nom unifié désignant une figure unique, et c'est par déplacement symbolique que cet oiseau autrefois mâle-et-femelle s'est trouvé associé exclusivement au principe féminin et impérial — l'impératrice — par opposition au dragon *Long*, devenu signe exclusif de l'empereur.
+
+## ORIGINE
+
+Les attestations les plus anciennes de l'oiseau *Feng* remontent aux inscriptions divinatoires gravées sur les omoplates de bovins et les plastrons de tortue de la dynastie Shang, vers le second millénaire avant notre ère. Les bronzes rituels de cette même période portent des motifs aviaires stylisés que les archéologues identifient comme des prototypes du Fenghuang : oiseau au long bec, à la huppe développée, à la queue traînante.
+
+Le *Shanhaijing*, ou *Classique des montagnes et des mers*, compilé entre les Royaumes combattants et la dynastie Han, mentionne explicitement le *Feng* comme oiseau merveilleux portant sur son corps les graphies des cinq vertus cardinales. Ce texte fonde la lecture morale et confucéenne de la créature qui prévaudra par la suite.
+
+Plusieurs autres sources antiques contribuent à constituer la figure : les chapitres rituels du *Liji*, les annotations du *Shijing* (*Classique des poèmes*), et les commentaires des Han qui font de l'apparition du Fenghuang le signe certain qu'un sage gouverne le monde. Sous les Han occidentaux, l'oiseau est déjà conçu comme une créature impériale codifiée — figure parmi les *Si Ling*, les Quatre Êtres Spirituels, aux côtés du Dragon, de la Tortue Noire et du Tigre Blanc.
+
+## NATURE
+
+Le Fenghuang n'est ni dieu ni esprit ancestral. C'est une *créature* — vivante, mortelle au sens cosmique du terme, soumise aux cycles longs du monde — mais d'une espèce dont chaque manifestation est un événement historique. La tradition n'envisage pas que le Fenghuang vive en troupeaux, qu'il se reproduise comme les oiseaux ordinaires, ou qu'il fréquente les hommes en temps banal. Il *apparaît*, et ces apparitions, espacées de siècles, scandent l'histoire des dynasties.
+
+Sa nature est *éthique* avant d'être physique. Le Fenghuang n'apparaît que lorsque le souverain humain incarne véritablement la vertu, lorsque la cour observe les rites avec exactitude, lorsque le peuple est en paix. Sa visibilité est l'indice direct de la rectitude du monde. Inversement, son retrait — quand on ne le voit plus depuis longtemps — est diagnostiqué par les lettrés comme symptôme d'une décadence morale du pouvoir.
+
+Sa nature est aussi *harmonisante*. Là où le Dragon impérial concentre la puissance verticale, l'élan ascendant, la fertilisation des nuages, le Fenghuang incarne l'équilibre horizontal, la mesure musicale, la consonance des cinq notes et des cinq couleurs. Cette dualité complémentaire fait de la paire dragon-phénix l'expression visuelle la plus universelle, dans la culture chinoise, du couple impérial et plus largement du couple conjugal.
+
+## HABITAT
+
+Le Fenghuang n'a pas de territoire au sens où les bêtes ordinaires ont des terriers ou des nids. Il habite les *lieux cosmologiques* du monde chinois.
+
+Sa demeure principale est le mont *Kunlun*, montagne mythique de l'extrême Ouest, axe vertical du monde, palais de la Reine-Mère d'Occident. Le Fenghuang y descend et y remonte selon les cycles, posé sur les pics inaccessibles aux mortels.
+
+Il se pose également, lorsqu'il visite le monde habité, sur les arbres *Wutong* (梧桐, le sterculier ou *Firmiana simplex*), seules essences que la tradition lui reconnaît dignes de le porter. Tout autre arbre, et particulièrement les arbres tordus ou souillés, lui est interdit. Sa nourriture, pour autant qu'on lui en prête une, consiste en fruits du bambou, et il ne boit que l'eau des sources pures.
+
+Cette habitation très restreinte — un seul arbre, une seule eau, un seul mont — souligne la rareté de ses apparitions. Le monde tout entier ne lui offre que quelques perchoirs.
+
+## DESCRIPTION
+
+Le Fenghuang est un oiseau hybride dont les traités anciens composent l'image par accumulation d'éléments empruntés à diverses créatures aviaires et terrestres. La formule canonique transmise par le *Erya* et reprise par les commentateurs Han décrit un oiseau ayant la *tête d'un faisan doré*, le *bec d'un coq*, le *cou d'un serpent*, la *poitrine d'une hirondelle*, le *dos d'une tortue*, l'*arrière-train d'un cerf*, et la *queue d'un poisson* — bien que les variantes soient nombreuses et que d'autres traditions remplacent l'un ou l'autre élément par des emprunts au paon, à la grue, au phoenix occidental tardivement importé.
+
+Son plumage exhibe les *cinq couleurs* fondamentales de la cosmologie chinoise : le rouge (sud, feu), le vert ou bleu-vert (est, bois), le jaune (centre, terre), le blanc (ouest, métal) et le noir (nord, eau). Cette pentachromie n'est pas décorative : elle signifie que le Fenghuang porte sur son corps l'ensemble harmonisé des Cinq Phases, qu'il est cosmologiquement complet.
+
+Ses plumes portent inscrites, selon le *Shanhaijing*, les graphies des *cinq vertus confucéennes* : *ren* (humanité) sur la tête, *yi* (justice) sur les ailes, *li* (rite) sur le dos, *zhi* (sagesse) sur la poitrine, *xin* (sincérité) sur le ventre. L'oiseau est ainsi un *texte vivant*, une calligraphie cosmique qui se déplace.
+
+Sa taille dépasse celle des oiseaux ordinaires sans atteindre le gigantisme de certaines créatures cosmiques. La queue, longue et flottante, traîne derrière lui en arabesques que les peintres déclineront à l'infini.
+
+## POUVOIRS
+
+L'*annonce du règne vertueux* constitue son pouvoir cardinal. La simple apparition du Fenghuang vaut sceau cosmique d'authentification d'un souverain. Les chroniques dynastiques signalent ses passages comme événements politiques majeurs.
+
+L'*harmonie cosmique* est l'effet diffus que produit sa présence. Là où il se pose, le bambou fleurit, les eaux s'éclaircissent, les sources fonctionnent en mesure musicale. Le chant du Fenghuang lui-même est décrit comme contenant les *cinq notes* fondamentales du système musical chinois — gong, shang, jue, zhi, yu — chant qui accorde le cosmos à la manière dont un musicien accorde un instrument.
+
+La *longévité conférée* fait de lui, dans certaines lectures tardives, un emblème de vie longue. Voir le Fenghuang prolonge l'existence ; le représenter brodé sur les vêtements protège de la mort prématurée.
+
+L'*incombustibilité* — fréquemment associée à l'oiseau dans les amalgames modernes avec le phoenix occidental — n'est *pas* une caractéristique originale du Fenghuang. Cette confusion, traitée plus loin, mérite d'être notée d'emblée.
+
+## FAIBLESSES
+
+Le Fenghuang n'a pas d'ennemis au sens habituel, ni d'adversaires mythologiques qu'il devrait combattre. Sa vulnérabilité est d'un autre ordre : elle est *éthique et politique*. Lorsque le règne se corrompt, lorsque la cour s'écarte des rites, lorsque les paysans souffrent, le Fenghuang *ne vient plus*. Sa disparition n'est pas une défaite mais un retrait. Il s'éloigne sur le Kunlun et n'en redescend qu'aux périodes vertueuses.
+
+Certaines traditions évoquent un Fenghuang qui, ayant entrevu la chute imminente d'une dynastie, s'envole vers l'ouest et n'est plus revu durant plusieurs siècles. Cette absence est elle-même un signe : les lettrés du temps des troubles cherchent dans les chroniques la dernière apparition attestée pour mesurer la profondeur de la décadence.
+
+Aucune arme, aucun piège, aucun chasseur n'a jamais été représenté en train de menacer le Fenghuang dans la tradition canonique. Le concevoir comme proie serait un contresens. Sa vulnérabilité est strictement morale.
+
+## COMPORTEMENT
+
+Le Fenghuang voyage seul, ou en couple. Lorsque la tradition le présente comme paire — *Feng* mâle et *Huang* femelle — les deux oiseaux volent en miroir, se font face perchés sur les branches du sterculier, et leur danse aérienne constitue le motif cardinal de ce que la peinture chinoise nomme *fenghuang lai yi* — *le Fenghuang vient et danse*.
+
+Son chant est rare et toujours significatif. Lorsqu'il chante, le monde s'arrête pour écouter ; les oiseaux de moindre rang se taisent ; les autres animaux s'approchent. Cette scène — *bai niao chao feng*, *les cent oiseaux saluent le Fenghuang* — est un thème récurrent de l'iconographie picturale.
+
+Sa démarche, quand il marche au sol, est mesurée, presque rituelle. Il ne se précipite jamais. Les traités ornithologiques classiques décrivent sa progression comme un défilé de cour transposé dans le règne aviaire.
+
+Il évite la souillure. Aucun récit ne le montre se posant sur un cadavre, fréquentant un lieu d'exécution, traversant un champ de bataille. Sa pureté comportementale fait partie de sa nature.
+
+## RÉCITS TRADITIONNELS
+
+Plusieurs épisodes anciens jalonnent la mémoire du Fenghuang dans la culture chinoise.
+
+L'épisode le plus célèbre concerne le règne légendaire de l'empereur *Huangdi*, l'Empereur Jaune des temps reculés. Selon les traditions confucéennes, un couple de Fenghuang vint se poser dans la cour impériale durant son règne, manifestant que la sagesse du souverain avait atteint le ciel. L'oiseau y séjourna trois ans, durant lesquels les Cinq Phases s'accordèrent et les neuf provinces du monde furent en paix.
+
+Un second épisode rapproche le Fenghuang du sage Confucius lui-même. Le Maître, voyageant et ne voyant nulle part le Fenghuang descendre, soupire dans les *Entretiens* : *« Le Fenghuang ne vient plus, le Fleuve ne porte plus le diagramme, c'en est fini de moi. »* Ce verset célèbre fait de la non-apparition de l'oiseau le signe que l'époque a perdu sa rectitude, et exprime la mélancolie du sage face à l'effondrement moral de son temps.
+
+Un troisième cycle de récits, lié au mythe fondateur du couple impérial, raconte comment le Fenghuang fut offert comme cadeau de noces par le ciel à un empereur vertueux et à son épouse, scellant l'union de leurs maisons. Depuis lors, la paire dragon-phénix est figurée sur les robes de mariage, sur les coffres nuptiaux, sur les broderies offertes aux jeunes mariés. Cette fonction conjugale du couple *Long-Feng* est l'un des héritages les plus durables de la tradition.
+
+Un dernier ensemble de récits, lié aux annales dynastiques, recense les apparitions historiques attestées : sous les Zhou, lors du couronnement du roi Wen ; sous les Han, à plusieurs reprises rapportées par les chroniqueurs officiels ; sous les Tang, lors du règne fondateur de l'empereur Taizong. Ces apparitions sont chaque fois consignées avec le lieu, la date, la couleur dominante du plumage et la durée du séjour.
+
+## VARIANTES RÉGIONALES
+
+À l'intérieur du monde sinisé, le Fenghuang a connu plusieurs déclinaisons.
+
+Le *Fenghuang han* tel que décrit ci-dessus constitue la version canonique, fixée durant les Han et codifiée par les commentateurs confucéens. Il prévaut dans la peinture, la broderie et les arts officiels chinois.
+
+Le *Bonghwang coréen* (鳳凰), introduit en Corée à travers les échanges culturels avec la Chine des Han et des Tang, se distingue par une coloration accentuée des plumes — souvent dominée par le rouge et le bleu — et par un rôle particulier comme emblème présidentiel et royal péninsulaire. Le Bonghwang coréen, traité dans une fiche distincte, présente un développement iconographique propre, où le couple s'unifie plus tôt et plus fermement en figure unique. Son apparition est associée à l'arbre *odong* (équivalent coréen du sterculier).
+
+Le *Hōō japonais* (鳳凰), transmis au Japon dès l'époque de Nara via le bouddhisme et les arts continentaux, prend une place particulière dans les ornements des temples. Le célèbre *Hōōdō*, ou Pavillon du Phénix, du temple de Byōdō-in, dont le toit est sommé de deux Hōō en bronze, témoigne de l'enracinement japonais de la figure. Le Hōō y est moins lié à la fonction impériale qu'à la sacralisation paradisiaque.
+
+Le *Phụng Hoàng vietnamien*, intégré au syncrétisme courtisan vietnamien, joue un rôle similaire à celui du Fenghuang chinois mais s'inscrit plus systématiquement dans des paires *Long-Phụng* utilisées pour les autels familiaux et les ornements funéraires.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire occidentale traduit usuellement *Fenghuang* par *phénix chinois*, ce qui produit une série de confusions qu'il convient de défaire.
+
+- Le *phénix arabo-grec* (le *phoinix* d'Hérodote, le *phoenix* romain, le *anqa* arabe) est un oiseau solaire qui *meurt et renaît de ses cendres* après une vie de plusieurs siècles, brûlant sur un bûcher de cannelle ou d'épices puis ressuscitant. Le Fenghuang chinois ne meurt pas, ne brûle pas, ne renaît pas. La cyclicité ignée n'est *pas* sa caractéristique. Cette confusion, généralisée dans les traductions et les jeux vidéo, est un *contre-sens* sur la nature même de la créature chinoise. Le Fenghuang est un *annonciateur* permanent, non un mortel cyclique.
+
+- Le *Bonghwang coréen*, bien que dérivé du Fenghuang, possède sa propre tradition iconographique, son association nationale au pouvoir présidentiel, et un rôle symbolique distinct. Il a été traité dans une fiche séparée du présent bestiaire et ne doit pas être amalgamé au Fenghuang chinois.
+
+- L'idée moderne d'un Fenghuang *exclusivement femelle* est une simplification tardive. À l'origine, *Feng* (鳳) désigne le mâle et *Huang* (凰) la femelle. C'est seulement par évolution iconographique, à partir des Tang et des Ming, que la figure unifiée s'est trouvée polarisée comme féminine pour servir d'antithèse au Dragon mâle dans l'iconographie impériale. Lire le Fenghuang ancien comme « phénix femelle » est rétroactif.
+
+- L'apparence à *plumage flamboyant rouge unique* popularisée par les jeux vidéo et le cinéma occidental contredit la pentachromie traditionnelle. Le Fenghuang authentique porte les cinq couleurs cosmologiques, non un seul rouge embrasé.
+
+- L'idée que le Fenghuang serait l'*ennemi* ou le *complémentaire belliqueux* du Dragon, popularisée par les fictions modernes, est un contresens. Dragon et Phénix forment dans la tradition une *paire harmonique*, jamais une paire conflictuelle. Leur union est conjugale et impériale, non antagoniste.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations matérielles du Fenghuang couvrent près de quatre millénaires.
+
+Sur les *bronzes rituels Shang*, on identifie des motifs aviaires stylisés à long bec et plumes effilées, considérés comme prototypes du Fenghuang. Ces bronzes — vases *gu*, récipients *jue*, tripodes *ding* — déposés dans les tombes royales d'Anyang, attestent du caractère immémorial de la figure.
+
+Sur les *jades Han*, le Fenghuang apparaît en haut-relief, souvent associé à un Dragon dans des compositions circulaires destinées à orner les vêtements funéraires des aristocrates. Les jades de la tombe du roi de Nanyue (Canton, IIe siècle avant notre ère) en présentent des exemples remarquables.
+
+Sur les *broderies impériales* des Tang, des Song et plus encore des Ming, le Fenghuang est l'emblème exclusif de l'impératrice. Les robes de cérémonie portées par l'épouse principale du Fils du Ciel arborent neuf Fenghuang brodés de fil d'or sur soie pourpre. Cette codification stricte fait de l'oiseau un signe protocolaire.
+
+Sur les *plafonds de la Cité Interdite*, à Pékin, le Fenghuang figure en panneaux peints sur les caissons polychromes des palais réservés aux femmes impériales — palais de la Tranquillité Terrestre, palais de la Pureté Céleste — par opposition aux dragons des appartements masculins.
+
+Sur les *porcelaines Ming et Qing*, particulièrement les pièces en bleu sous couverte de la période Yongle et Xuande, le Fenghuang devient un motif décoratif d'une virtuosité graphique inégalée. Les arabesques de la queue, traitées en spirales fluides, déploient sur la rondeur des vases une calligraphie continue.
+
+Le toit du *Hōōdō* du Byōdō-in japonais est sommé d'un couple de Fenghuang en bronze doré, datant du XIe siècle, l'une des représentations sculpturales les plus emblématiques de la figure transmise hors de Chine.
+
+## POUR ALLER PLUS LOIN
+
+Le corpus textuel sur le Fenghuang s'enracine dans le *Shanhaijing*, le *Shijing*, les annotations confucéennes des *Entretiens*, et la totalité des chroniques dynastiques officielles qui consignent ses apparitions. Les commentateurs Han — Liu Xiang, Ying Shao — fixent la lecture morale et cosmologique. Les ouvrages des Song et des Ming sur les rites de cour codifient l'usage protocolaire.
+
+L'iconographie est documentée par les collections impériales conservées au Musée du Palais de Pékin, au Musée National du Palais de Taipei, ainsi que dans les grands musées d'Asie de l'Est. Les études archéologiques sur les bronzes Shang et les jades Han fournissent les attestations matérielles les plus anciennes.
+
+La figure traverse l'ensemble de la sphère sinisée — Chine, Corée, Japon, Vietnam — et constitue, avec le Dragon, l'un des deux emblèmes les plus universellement partagés de cette aire culturelle.

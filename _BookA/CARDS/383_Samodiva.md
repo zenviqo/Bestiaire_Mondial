@@ -1,0 +1,140 @@
+# 383 — Samodiva
+
+**Tradition :** Balkans
+
+**Image à insérer :** `_BookA/images/36_Balkans/383_Samodiva.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Bulgarian icon style illustration of a samodiva, painted on aged wooden panel with cracked egg tempera and gold leaf background, a tall slender supernatural maiden in a long flowing white linen dress embroidered with red protective threads at the hem and cuffs, very long pale silver-blonde hair flowing like water down her back, a crown of mountain wildflowers (edelweiss, primrose, mountain forget-me-nots) on her head, bare feet that float just above the grass without bending the blades, eyes pale gray with a faint inner glow, standing in a circular clearing in a Rhodope mountain forest at midnight, the clearing showing a darker ring of grass marking the samodivi dance circle, six other samodivi dancing in a ring behind her with linked hands and white veils trailing, a pure mountain spring rising from rocks at her feet, her right hand holding a sprig of wormwood (pelin) reluctantly as if it pains her, in the background distant peaks of Pirin or Rhodope mountains under a full moon, deer grazing with serpents wrapped around their antlers (samodivi mounts), Byzantine gold leaf halo replaced by a crown of stars, decorative interlace borders with stylized vine and edelweiss patterns in deep red and gold, the entire image painted in the flat hieratic style of a Bulgarian Orthodox icon with no perspective depth, warm earth ochres, deep madder reds, lapis blues, gold leaf radiating from the central figure, weathered wood grain visible through the painted surface, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# SAMODIVA
+
+## SIGNIFICATION DU NOM
+
+Le mot *samodiva* se compose en bulgare de deux éléments : *samo-*, qui signifie *seule, par elle-même, en propre*, et *-diva*, qui dérive d'une racine indo-européenne ancienne ayant donné en sanskrit le terme désignant les puissances divines (deva), en latin la divinité (divus), et en slave la qualité de sauvage, d'incontrôlable. La samodiva est ainsi *la sauvage en elle-même*, *la libre par sa propre nature*, *celle qui ne dépend de rien ni de personne*.
+
+Le synonyme *samovila* est plus largement répandu dans les pays slaves du sud, et désigne très précisément la même créature, avec parfois de légères inflexions régionales. Le terme *yuda*, employé dans certaines régions montagneuses bulgares, désigne quant à lui une samodiva particulièrement ancienne et redoutable, reine ou aînée parmi ses sœurs.
+
+## ORIGINE
+
+Les samodivi appartiennent à la grande famille des *vile* slaves du sud, dont elles constituent la branche bulgaro-macédonienne. Elles ne sont pas créées : elles existent depuis toujours, contemporaines des forêts, des sources et des montagnes qu'elles habitent. Aucune cosmogonie ne les fait naître d'une union, d'une transformation ou d'une chute. Elles sont consubstantielles aux paysages sauvages.
+
+Certaines traditions bulgares affirment néanmoins qu'une jeune fille morte avant son mariage, particulièrement si elle est morte d'une mort violente ou tragique, peut rejoindre la troupe des samodivi. Cette explication tardive cherche à intégrer la croyance pré-chrétienne dans le cadre des conceptions chrétiennes de l'au-delà, mais elle ne supplante pas la conception primitive d'êtres autonomes du paysage.
+
+## NATURE
+
+La samodiva est une *fée-démone*, terme qui rend imparfaitement le caractère ambivalent de la créature. Elle n'est ni angélique, ni démoniaque au sens chrétien strict. Elle appartient à un ordre antérieur à cette division : elle est *sauvage*, c'est-à-dire à la fois belle et dangereuse, attirante et meurtrière, jamais entièrement bienveillante mais pas non plus définitivement mauvaise.
+
+Sa nature est *gregaire* : les samodivi vivent en troupes, généralement composées de sept, neuf ou douze sœurs. Elles dansent ensemble, chantent ensemble, chassent ensemble. La samodiva isolée est rare et toujours redoutable.
+
+Sa nature est enfin *temporelle* : elle est liée aux moments charnières de la nuit et de la saison. Elle apparaît surtout entre minuit et le chant du coq, et particulièrement durant les semaines qui entourent la Pentecôte (les *rusalii* bulgares), période où le voile entre les mondes est tenu pour mince.
+
+## HABITAT
+
+Les samodivi habitent les hautes montagnes bulgares et macédoniennes : les Rhodopes, le Pirin, la Stara Planina (Grand Balkan), le Šar Planina, l'Ograzhden. Elles préfèrent les sommets boisés, les lacs glaciaires d'altitude, les sources cachées au cœur des forêts de hêtres.
+
+Leurs lieux privilégiés sont :
+- les *clairières circulaires* où l'herbe pousse de manière inhabituelle, parfois ornées de cercles d'herbe brûlée ou plus drue (les *samodivski igrišta*, places de danse des samodivi),
+- les *sources glacées* qui jaillissent des pierres au lever du jour,
+- les *vieux arbres isolés*, particulièrement les chênes et les hêtres centenaires aux branches tordues,
+- les *lacs de montagne* dont l'eau ne se réchauffe jamais.
+
+Aucun berger ne mène ses troupeaux dans ces lieux après la tombée du jour.
+
+## DESCRIPTION
+
+Les samodivi apparaissent sous forme de jeunes femmes d'une beauté éclatante, vêtues de longues robes blanches en lin fin, ceinturées de fil rouge ou doré. Leurs cheveux sont longs et blonds — d'un blond pâle, presque argenté, que les paysans bulgares décrivent comme la couleur du blé mûr juste avant la moisson.
+
+Sur leur tête, elles portent une couronne tressée de fleurs sauvages spécifiques selon les saisons : primevères au printemps, edelweiss en été, baies rouges en automne. Leurs pieds sont nus, ne laissant aucune empreinte dans l'herbe ni dans la neige.
+
+Leur trait distinctif fondamental réside dans leur *vêtement* lui-même : la robe et la chemise contiennent leur pouvoir surnaturel. Si une samodiva est privée de sa chemise, elle perd la capacité de voler et de retourner dans la troupe. C'est par ce biais que les hommes des contes parviennent parfois à en capturer une — en dérobant la chemise pendant qu'elles se baignent.
+
+Certaines descriptions plus anciennes mentionnent également des traits ailés : ailes invisibles ordinairement, mais qui se déploient lors du vol nocturne, ou pieds anormalement minces, parfois en forme de sabots de chèvre ou d'oiseau dissimulés sous la robe.
+
+## POUVOIRS
+
+La *vitesse extraordinaire* leur permet de courir et de voler plus rapidement que n'importe quelle créature mortelle. Aucune monture ne peut rattraper une samodiva en fuite.
+
+Le *chant ensorcelant* constitue leur arme principale. Lorsqu'elles chantent ensemble, leurs voix attirent les jeunes hommes vers les clairières où elles dansent. L'imprudent qui les surprend peut être *frappé du mal samodiv*, une paralysie soudaine, ou bien condamné à danser avec elles jusqu'à mourir d'épuisement avant l'aube.
+
+La *connaissance des herbes* leur donne savoir absolu sur les plantes médicinales et les poisons des montagnes. Elles peuvent guérir, mais aussi rendre malade celui qui leur a déplu.
+
+Le *contrôle des eaux* leur permet de retenir les sources, de tarir les fontaines, ou au contraire de faire surgir une source nouvelle où il n'y en avait pas. Une samodiva offensée peut sécher un puits entier pendant des années.
+
+Le *vol* leur appartient lorsqu'elles portent leur chemise. Privées de cet attribut, elles ne sont plus que femmes mortelles, certes belles, mais sans pouvoir.
+
+## FAIBLESSES
+
+La *chemise dérobée* constitue leur faiblesse classique. Privées de leur vêtement, les samodivi sont vulnérables et peuvent être contraintes au mariage avec un humain — un mariage qui ne dure cependant que jusqu'au jour où elles retrouvent leur chemise, après quoi elles s'envolent immédiatement, abandonnant souvent leurs enfants.
+
+Le *fer* les blesse comme il blesse les fées de toutes les traditions slaves. Une lame de fer pointée vers une samodiva la maintient à distance.
+
+Le *signe de la croix*, depuis la christianisation, est tenu pour efficace, mais les paysans le complètent volontiers par des formules plus anciennes — invocations en vers, jets de sel, brins d'absinthe portés sur soi.
+
+L'*absinthe* (en bulgare *pelin*) reste l'herbe protectrice par excellence. Glissée dans les sandales, tressée en couronne, brûlée à la lisière du champ, elle fait reculer les samodivi qui ne supportent pas son odeur amère.
+
+Le *chant du coq* met fin instantanément à toute apparition. Au premier chant, les samodivi disparaissent dans l'air et la nuit reprend son cours ordinaire.
+
+## COMPORTEMENT
+
+Les samodivi *dansent*. Cette activité est leur mode d'existence principal, plus encore que la prédation. Elles dansent en cercle dans les clairières, pieds nus, leurs chemises blanches tournoyant, sous la lune. Ce sont leurs danses qui produisent les *cercles de fées* observables dans l'herbe : zones où la végétation reste verte plus longtemps, ou au contraire roussit en cercle parfait.
+
+Elles *chassent*. Plusieurs traditions bulgares les associent à la chasse nocturne — non comme proies mais comme cavalières. Elles montent des cerfs sauvages bridés de couleuvres, dont elles fouettent les flancs avec des branches de noisetier.
+
+Elles *séduisent*, parfois pour le plaisir, parfois pour la mort. Le jeune berger qui s'attarde près d'une source en montagne peut être appelé par une voix de femme. Selon les cas, il en revient ébloui à jamais, fou, paralysé, ou mort.
+
+Elles *vengent les torts*. Une samodiva à laquelle on a dérobé un objet, ou dont on a profané le lieu sacré, poursuit le coupable jusqu'à le punir — et la punition est souvent la mort par dépérissement.
+
+## RÉCITS TRADITIONNELS
+
+Le motif du *jeune berger ensorcelé* parcourt toute la tradition bulgare. Un jeune homme s'éloigne du troupeau pour cueillir des fraises ou boire à une source. Il entend un chant. Il s'approche. Il voit les samodivi dansant. Il s'arrête, captivé. Il cherche à les rejoindre, ou bien il s'enfuit. S'il les rejoint, il meurt avant l'aube. S'il s'enfuit, il rentre au village privé de la parole, ou de la jambe, ou de la raison. Cette structure narrative, déclinée en centaines de variantes locales, fournit l'ossature de la peur paysanne envers la haute montagne.
+
+Le motif de la *chemise volée* fournit une seconde grande structure. Un homme — généralement un jeune berger ou un fils cadet — observe les samodivi qui se baignent dans un lac de montagne, après avoir déposé leurs chemises sur la rive. Il s'empare de l'une des chemises et la cache. Lorsque les samodivi remontent, l'une d'elles, ne retrouvant pas son vêtement, ne peut s'envoler avec ses sœurs. Le berger lui propose le mariage en échange de la restitution promise plus tard. Elle accepte. Plusieurs années passent. Des enfants naissent. Un jour, par négligence ou par traîtrise, la chemise est rendue ou retrouvée. Aussitôt la samodiva s'envole, et le berger reste seul avec les enfants.
+
+Le motif du *combat avec un héros mortel* apparaît dans les chants épiques bulgares (*pesni*) et macédoniens. Le héros — souvent un haïdouk, un brigand-protecteur des montagnes — affronte une samodiva qui retient les eaux d'une source. Il la vainc en lui dérobant sa couronne ou sa ceinture. Elle promet alors de rendre l'eau à la source en échange de la restitution.
+
+## VARIANTES RÉGIONALES
+
+Dans les Rhodopes, les samodivi sont plus volontiers associées aux sources thermales et aux forêts profondes. Elles y portent souvent le surnom de *bele peri* (les pâles fées).
+
+Dans le Pirin et le Šar Planina, elles sont plus guerrières, montant des cerfs et chassant les hommes qui s'aventurent en haute montagne.
+
+En Macédoine du Nord, le terme *samovila* domine, et les chants épiques (*pesni*) recensent des dizaines de noms propres de samovili célèbres dans le folklore : Janka, Ravijojla, Andjelija.
+
+Dans la Strandja, montagne entre Bulgarie et Turquie, les samodivi se confondent partiellement avec les fées thraces antiques dont elles ont peut-être hérité certains traits — notamment l'association aux cultes solaires de printemps.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les samodivi sont apparues dans plusieurs œuvres de fantasy moderne, films et jeux vidéo, généralement sous une forme édulcorée qui les rapproche des elfes scandinaves de littérature ou des nymphes grecques classiques. Plusieurs précisions s'imposent :
+
+- La samodiva n'est pas une nymphe au sens grec — elle n'est pas l'esprit individuel d'une source ou d'un arbre précis. Elle est membre d'une troupe et son ancrage géographique est plus large : un massif entier, plutôt qu'un point d'eau particulier.
+
+- L'image romantique de la fée bienveillante qui guide les héros perdus n'est pas conforme à la tradition. La samodiva est dangereuse par nature ; sa beauté est un piège plus qu'une promesse.
+
+- L'idée que les samodivi seraient toutes immortelles et invulnérables est inexacte. Elles peuvent être blessées, capturées, et même selon certaines traditions tuées par un homme particulièrement déterminé.
+
+- La confusion fréquente avec la rusalka slave orientale est trompeuse. La rusalka est un esprit aquatique de jeune fille noyée, fortement liée à l'eau ; la samodiva est un être autonome lié aux montagnes et aux forêts d'altitude, dont l'élément n'est pas spécifiquement l'eau.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les *broderies* paysannes bulgares et macédoniennes représentent souvent des figures féminines stylisées les bras levés, en cercle de danse, identifiées par les ethnographes comme des samodivi. Ces motifs se retrouvent sur les tabliers, les chemises de fête, les serviettes rituelles.
+
+Les *icônes populaires* (icônes peintes hors commande monastique, dites *naïves*) ne représentent pas directement les samodivi, mais les figures de saintes martyres y empruntent parfois certains traits — la robe blanche, la couronne de fleurs — qui montrent une perméabilité entre l'imaginaire chrétien et l'imaginaire païen sous-jacent.
+
+Les *bijoux ethnographiques* du Pirin et des Rhodopes incluent des amulettes en argent ciselées de motifs solaires et féminins qui, selon les traditions paysannes, protègent contre la fascination des samodivi.
+
+## POUR ALLER PLUS LOIN
+
+Les samodivi sont attestées dans le folklore bulgare et macédonien depuis les premiers recueils de chansons et de récits oraux établis au dix-neuvième siècle, notamment lors du grand mouvement de réveil national bulgare. Les milliers de chants populaires (*narodni pesni*) collectés à partir de cette époque dans les villages de montagne offrent un corpus considérable.
+
+Elles sont apparentées à la grande famille des vile slaves du sud, présentes en serbe (*vila*), en croate (*vila*) et en slovène (*divja žena*), avec des variantes régionales. Le motif paneuropéen de la *swan maiden* — la femme-cygne dont on dérobe le vêtement — y trouve l'une de ses formes balkaniques.

@@ -1,0 +1,128 @@
+# 368 — Vishap
+
+**Tradition :** Caucase
+
+**Image à insérer :** `_BookA/images/35_Caucase/368_Vishap.png`
+
+---
+
+## ⤓ PROMPT À COPIER-COLLER DANS CHATGPT
+
+```
+Ancient Armenian bronze-age vishap stele carving combined with medieval Armenian manuscript illumination style, a great serpentine dragon of the high plateau, long fusiform body with stylized fish-scale chevrons carved into dark basalt, flattened reptilian head with stone-carved gills and round prominent eyes, short clawed limbs without wings, body coiled around a mountain spring whose water emerges in spirals from beneath the creature, the dragon depicted half as living serpent and half as standing monolith of weathered black basalt rising from a high volcanic plateau, in the background the snow-streaked silhouettes of Mount Aragats and the Geghama range, glacial lake reflecting clouds, summer storm gathering over the peaks, lightning bolts striking down from heaven in a gesture of cosmic combat, the lightning-bearer Vahagn implied as a luminous figure descending from the upper sky with spear and solar halo, foreground decorated with sculpted bull-hide motif of the cube-form vishapakar with hanging hide and severed head pouring water, manuscript-illumination palette of deep ultramarine, lapis blue, ochre yellow, vermilion red and gold leaf, knotwork borders inspired by medieval Armenian khatchkar interlace patterns, marginalia featuring small icons of mountain springs, irrigation canals, fish-shaped stelae and storm clouds (purely decorative, no readable script), aged parchment texture with subtle craquelure, dramatic monumental composition emphasizing the dragon as guardian and obstructor of water, no modern fantasy wings, no European wyvern aesthetic, no 3D rendering, no cartoon, vintage illuminated bestiary quality, no text, no letters, no inscriptions, no labels
+```
+
+---
+
+## TEXTE DE LA FICHE (à coller dans Canva)
+
+
+# VISHAP
+
+## SIGNIFICATION DU NOM
+
+Le mot *vishap* désigne en arménien le grand reptile cosmique, le dragon des hauteurs et des eaux, le serpent monstrueux qui retient les pluies. Son étymologie demeure discutée. Une partie des philologues le rattache à un fonds indo-européen oriental commun, en lien avec la racine qui produit également en avestique et en moyen-perse les noms du serpent-dragon (*aži-, aždahā*). D'autres lectures préfèrent y reconnaître un emprunt arménien à un substrat anté-indo-européen du Caucase Sud, antérieur à l'arrivée des locuteurs proto-arméniens — hypothèse soutenue par la prodigieuse antiquité des stèles auxquelles le terme s'applique. Le mot est en tout cas attesté très tôt dans la langue arménienne classique du cinquième siècle, où il sert à traduire les figures dragoniennes des textes bibliques sans jamais perdre sa résonance proprement arménienne.
+
+Le composé *vishapakar*, formé de *vishap* et de *kar* (« pierre »), désigne les célèbres stèles de pierre érigées sur les hauts plateaux du pays. Le terme est tardif — il fut consacré par l'archéologie moderne arménienne du début du vingtième siècle — mais il enregistre une association populaire ancienne entre ces monuments énigmatiques et la figure du dragon.
+
+## ORIGINE
+
+L'attestation matérielle du Vishap remonte plus haut que celle de presque toute autre créature folklorique caucasienne. Sur les hauts plateaux volcaniques du Geghama, du Vardenis et de l'Aragats — au-dessus de deux mille mètres d'altitude, dans les zones d'estive et près des sources qui alimentent les vallées habitées —, les archéologues ont relevé près d'une centaine de stèles monolithiques, hautes parfois de cinq mètres, datables du second millénaire avant l'ère commune. Ces stèles, taillées dans le basalte, prennent deux formes principales : un long fuseau-poisson sculpté avec écailles, branchies et yeux ; ou un cube portant en relief la dépouille d'un taureau dont la peau pend et dont la tête, suspendue, semble couler en cascade le long du fût. Une troisième forme combine les deux. Toutes furent érigées en lien direct avec des sources, des conduits hydrauliques ou des canaux d'irrigation de haute montagne.
+
+Cette antériorité fait du Vishap l'une des figures dont la profondeur chronologique est la mieux documentée du Caucase. Avant le royaume d'Urartu, avant l'arrivée des Arméniens proto-historiques, avant l'écriture, des populations dont nous ignorons la langue dressaient déjà ces dragons de pierre auprès des eaux du plateau. Lorsque les locuteurs proto-arméniens s'installèrent et donnèrent à ces monuments le nom qu'ils leur ont conservé, ils n'inventaient pas la créature : ils héritaient d'un imaginaire des eaux des hauteurs déjà sédimenté dans le paysage.
+
+## NATURE
+
+Le Vishap est un *dragon des hauteurs et des eaux*. Cette double appartenance constitue son trait définitionnel. Les dragons d'autres traditions habitent grottes ou trésors souterrains. Le Vishap, lui, hante les sommets et tout ce qui s'y rattache : sources jaillissantes, lacs glaciaires, bouches de torrents, nuages d'orage qui s'accrochent aux pics. Il est tout à la fois reptile et phénomène atmosphérique, créature charnelle et puissance météorologique.
+
+Sa nature est *retenue* : le Vishap n'est pas le serpent qui ravage activement, c'est le serpent qui *empêche* — il s'enroule autour des sources et bloque l'écoulement des eaux, il avale les nuages et confisque la pluie, il garde les lacs et les soustrait aux hommes. Il est obstacle, captation, blocage des flux vitaux dont la communauté humaine dépend.
+
+Sa nature est aussi *adverse* : il appartient à la classe des êtres contre lesquels les héros et les dieux protecteurs doivent combattre. Il n'y a pas de Vishap bienveillant. Les variantes folkloriques tardives en font parfois un personnage sournois plus que destructeur, mais jamais un allié.
+
+## HABITAT
+
+Le Vishap habite spécifiquement les zones d'altitude. Les hauts plateaux du Geghama, dont les pâturages d'été dominent le bassin du Sevan, sont son territoire archétypal. Le mont Aragats, plus haut sommet du pays moderne, lui est associé en plusieurs récits — ses lacs glaciaires, ses sources froides, ses pentes scoriacées seraient autant de demeures possibles. Le mont Ararat lui-même, dans la tradition légendaire, abriterait des Vishap dans ses gorges hautes et inaccessibles.
+
+Les sources, surtout, lui appartiennent. Une source qui se tarit subitement, un canal qui se bouche sans cause apparente, un lac de montagne dont le niveau monte ou descend de façon inexplicable : autant de signes traditionnels que le Vishap est à l'œuvre. Les anciens systèmes d'irrigation arméniens, dont la construction et l'entretien constituaient une charge collective lourde, voyaient ainsi dans la moindre rupture de canalisation une intervention du dragon — ce qui justifiait, en miroir, la pratique d'ériger des vishapakar pour fixer la créature en pierre et garantir le bon écoulement des eaux.
+
+## DESCRIPTION
+
+Le Vishap, dans les textes arméniens médiévaux et le folklore conservé jusqu'au vingtième siècle, est décrit comme un serpent ou reptile gigantesque. Son corps est allongé, écailleux, parfois doté de pattes courtes, parfois entièrement aphode. Sa tête massive porte une gueule capable d'avaler hommes et bétail entiers. Certaines descriptions lui prêtent plusieurs têtes — trois, sept — dans la lignée des dragons à têtes multiples du fonds indo-européen.
+
+La peau est sombre — verte, noire, brun ardoise selon les versions —, écailleuse, parfois ornée de taches plus claires sur le ventre. Les yeux sont grands, fixes, lumineux dans l'obscurité. Le souffle est froid et humide quand il avale les nuages, brûlant et sulfureux quand il déclenche l'orage.
+
+Les vishapakar de l'âge du bronze présentent, dans leur version piscine, une iconographie remarquablement cohérente : forme fuselée, tête aplatie, branchies stylisées, écailles rendues en chevrons réguliers. Cette représentation poissonnière du dragon — qu'on retrouve dans la racine commune avec le géorgien *vešapi* qui signifie aussi « cétacé » — atteste que le Vishap fut originellement conçu comme une créature aquatique géante, à mi-chemin entre serpent et grand poisson. La forme reptilienne pure des récits postérieurs représente un glissement folklorique progressif.
+
+## POUVOIRS
+
+Le pouvoir cardinal du Vishap est la *captation des eaux*. Il avale les nuages d'orage, vide les sources, bloque les canaux, retient pour lui-même la pluie due aux champs. Cette fonction négative — soustraire l'eau à la communauté humaine — fait de lui l'antagoniste essentiel des sociétés agraires de haute altitude pour qui l'irrigation est question de survie.
+
+Le *déclenchement de la tempête* lui revient également. Lorsque le Vishap s'agite ou se déplace, le ciel se couvre, le tonnerre roule sur les sommets, les torrents grossissent. Les orages violents qui ravagent les pâturages d'estive sont traditionnellement attribués à son passage.
+
+L'*engloutissement* est un autre pouvoir. Vivants ou morts, hommes ou bêtes pris par les eaux, peuvent être avalés par le dragon — interprétation surnaturelle des disparitions liées aux crues subites de montagne.
+
+Quelques traditions tardives lui prêtent enfin une *capacité de métamorphose limitée* : il peut prendre forme de cheval, de bouvillon, ou, plus rarement, d'homme à barbe sombre, pour entrer dans les habitations et y commettre des méfaits — motif folklorique tardif probablement contaminé par d'autres figures caucasiennes shape-shifteuses.
+
+## FAIBLESSES
+
+Le Vishap est vulnérable au *foudroiement*. La foudre, comprise dans la mythologie préchrétienne arménienne comme arme du dieu solaire et orageux Vahagn, est l'instrument premier qui le terrasse. Le combat entre le dieu lance-foudre et le dragon des eaux constitue l'un des affrontements mythiques les plus profondément enracinés.
+
+Il craint également les *armes en fer* maniées par un héros conforme à la fonction guerrière. Une lance bien forgée, une flèche dont la pointe a été trempée par un forgeron averti, un sabre béni : autant d'instruments capables de percer son flanc.
+
+Le *Vishap est lié à un lieu* — sa source, son lac, son sommet. L'éloigner de cet ancrage, le contraindre à descendre dans la plaine, c'est l'affaiblir. Plusieurs récits décrivent le héros qui force le dragon à quitter son antre humide pour le combattre en terrain sec où la créature étouffe progressivement.
+
+Enfin, le rituel chrétien postérieur — bénédiction des eaux, érection de croix de pierre auprès des sources, apposition de signes sacrés sur les conduits — fonctionne traditionnellement comme apotropaïque contre la créature.
+
+## COMPORTEMENT
+
+Le Vishap demeure le plus souvent enroulé sur lui-même au fond de son lac ou tapi dans la cavité d'où jaillit la source. Il ne se déplace que pour deux motifs : capter de l'eau, ou répondre à une provocation héroïque. Hors de ces moments, il semble dormir, lové, immobile pendant des saisons entières.
+
+Ses sorties sont catastrophiques. Lorsqu'il se met en mouvement, l'eau se trouble, le ciel s'obscurcit, le bétail panique sur les pâturages. Sa progression provoque des crues, des éboulements, des coups de tonnerre. Les bergers traditionnels reconnaissaient dans certains nuages noirs accrochés aux pics — particulièrement dans les *cumulus orageux d'été* qui se forment au-dessus du Geghama — la silhouette même du Vishap montant vers le ciel.
+
+Le dragon est par nature avare. Tout ce qu'il a capté, il le garde. C'est là sa fonction de blocage. Le héros qui le tue ne libère pas seulement la communauté de la peur : il *libère les eaux* — la pluie tombe à nouveau, la source coule, les canaux se remplissent.
+
+## RÉCITS TRADITIONNELS
+
+Le récit cardinal demeure le combat de **Vahagn** contre le Vishap. Vahagn, dieu solaire et guerrier de la triade préchrétienne arménienne, hérité de fonds indo-européens orientaux où il prolonge la figure du dieu lance-foudre, fut tôt qualifié de *vishapakal* — *celui qui empoigne les vishap*, *l'attrapeur de dragons*. Son hymne de naissance, conservé sous forme fragmentaire dans les textes médiévaux arméniens, le décrit naissant des entrailles du ciel et de la mer dans une parturition cosmique de feu, d'où il émerge déjà adulte, déjà armé, déjà prêt à combattre les dragons des hauteurs. L'épisode central du combat n'est pas conservé dans son intégralité, mais ses échos parcourent toute la littérature arménienne ultérieure : Vahagn poursuit les Vishap dans les nuées, les terrasse de sa foudre, libère les eaux qu'ils retenaient, restaure le cycle météorologique.
+
+Un second cycle de récits, postérieur et déjà profondément christianisé, raconte comment le héros épique **Sassountsi David** (David de Sassoun) — figure centrale de l'épopée arménienne médiévale — affronte un Vishap sur les pentes d'une montagne de l'Arménie occidentale. Le dragon retient les eaux qui devraient nourrir le village. David le combat, le perce de sa lance, et la source jaillit à nouveau. Ce schéma — héros, captation des eaux par le dragon, combat, libération du flux — répète la structure mythique fondamentale dans un cadre épique tardif.
+
+Une troisième série de récits, conservée dans le folklore villageois jusqu'au vingtième siècle, raconte la rencontre fortuite de bergers ou de voyageurs avec un Vishap endormi sur un pic ou enroulé près d'une source. Le narrateur s'enfuit, ou récite une prière, ou marque le sol d'une croix : le dragon s'enfonce dans la terre, les eaux reviennent.
+
+## VARIANTES RÉGIONALES
+
+Sur les hauts plateaux du Geghama et autour du lac Sevan, l'identification du Vishap aux stèles de pierre de l'âge du bronze est la plus prononcée. Les bergers de la région considéraient ces monuments comme les *corps pétrifiés* des dragons vaincus, et leur attribuaient une vertu protectrice résiduelle pour les troupeaux d'estive.
+
+Dans la région du mont Aragats et des bassins de l'Arménie centrale, le Vishap se confond parfois avec d'autres créatures aquatiques mineures, et acquiert des traits de protée local — créature changeante, surveillante des moulins et des canaux d'irrigation.
+
+Dans les régions arméniennes occidentales (Anatolie orientale historique), aujourd'hui dépeuplées de leur population arménienne ancestrale, le Vishap était fortement associé à l'imaginaire du mont Ararat et à des montagnes plus modestes comme le Sipan et le Nemrut. Les contes y étaient plus directement épiques, intégrés au cycle de Sassoun.
+
+Côté géorgien, la racine commune *vešapi* a évolué de façon partiellement divergente : elle sert à désigner aussi bien le dragon mythique que la baleine biblique, et la dimension piscine y est restée plus présente que la dimension reptilienne.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs confusions doivent être dissipées concernant le Vishap.
+
+Premièrement, le **Vishap arménien n'est pas l'Azhdaha persan ni l'Azdaha caucasien** que d'autres traditions voisines connaissent. Bien que ces figures partagent un fonds dragonien indo-iranien commun, le Vishap se distingue par son ancrage spécifique dans l'eau de haute altitude et par son association aux vishapakar — monuments lithiques sans équivalent dans les traditions iraniennes. L'Azdaha caucasien, créature combattue dans plusieurs cycles régionaux, possède un profil géographique et iconographique distinct.
+
+Deuxièmement, le Vishap n'est **pas un dieu**. Plusieurs vulgarisations modernes, par confusion avec les dragons cosmiques de certaines mythologies, en font une divinité ancienne du panthéon arménien. C'est une erreur : le Vishap est *créature*, et plus précisément créature *adverse* aux divinités. Il n'a jamais reçu de culte, jamais été invoqué comme protecteur. Les vishapakar érigées auprès des sources ne sont pas des autels au dragon mais des dispositifs de fixation, possiblement apotropaïques, destinés à inscrire et neutraliser sa puissance dans la pierre.
+
+Troisièmement, l'idée que les vishapakar seraient « bornes-frontières » ou « stèles funéraires » constitue une lecture archéologique périmée des premières fouilles. La position systématique de ces monuments auprès des sources, conduits hydrauliques et zones d'irrigation de haute altitude indique sans ambiguïté une fonction *liée à l'eau* — gardiennage, sacralisation, peut-être contrainte symbolique de la créature qui menace les flux.
+
+Quatrièmement, les représentations contemporaines du Vishap dans la culture populaire arménienne — illustrations modernes, jeux, fresques — tendent à l'occidentaliser en dragon ailé à la manière des *wyverns* européens. Cette aile est étrangère à la tradition. Le Vishap arménien historique est aphode ou pourvu de courtes pattes, mais jamais ailé — sa puissance d'élévation passe par l'eau et la nuée, non par le vol propre.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie du Vishap repose sur trois strates principales.
+
+La première et la plus ancienne est celle des **vishapakar de l'âge du bronze**. Ces stèles, taillées dans le basalte des plateaux volcaniques, datent du second millénaire avant l'ère commune. La forme « poisson » montre un long corps fuselé, tête aplatie, écailles en chevrons, branchies en relief, parfois yeux ronds soulignés. La forme « taureau » figure une dépouille bovine entière, peau pendante, tête tombante, pattes sciées suspendues le long du fût. La forme combinée associe les deux. Plusieurs dizaines sont conservées en place sur les hauts plateaux du Geghama, du Vardenis et de l'Aragats ; d'autres sont déplacées dans des musées (Erevan notamment).
+
+La deuxième strate est celle des **miniatures des manuscrits arméniens médiévaux**, particulièrement à partir du dixième siècle. Le Vishap y apparaît dans les Évangiles enluminés sous le pied d'un saint cavalier, ou sous la lance d'un Vahagn christianisé — son corps reptilien sinueux, sa gueule ouverte, ses yeux ronds, dans le style enluminé des écoles de Vaspourakan, de Kilikia et de Gladzor. Ces images témoignent de la persistance de la créature dans l'imaginaire chrétien arménien sous des dehors hagiographiques.
+
+La troisième strate est celle des **khatchkars** (croix-pierres) tardifs et des reliefs d'églises où le motif du dragon vaincu sous la croix réinvestit, dans un cadre chrétien, le combat héroïque ancien.
+
+## POUR ALLER PLUS LOIN
+
+Le Vishap appartient à un fonds dragonien profond du Caucase Sud, dont l'ancienneté matérielle — attestée par les vishapakar de l'âge du bronze — dépasse celle de la plupart des figures comparables d'autres aires culturelles. Le combat de Vahagn contre les dragons, dont l'hymne de naissance constitue l'un des rares morceaux de poésie préchrétienne arménienne préservés (transmis dans les chroniques médiévales), assure la continuité de la créature depuis l'âge du fer jusqu'à la christianisation et au-delà. L'épopée de Sassountsi David — corpus oral massif compilé à partir du dix-neuvième siècle — atteste enfin la vitalité folklorique du dragon dans la tradition villageoise jusqu'à l'époque contemporaine.
+
+L'ensemble du dossier vishapakar, étudié intensivement par l'archéologie arménienne et soviétique du vingtième siècle, demeure un cas singulier de survivance d'un imaginaire des eaux d'altitude depuis le second millénaire avant l'ère commune.
