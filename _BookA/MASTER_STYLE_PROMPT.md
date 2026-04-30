@@ -79,5 +79,6 @@ GLOBAL CONSTRAINTS
 - AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
 - FAMILY-FRIENDLY: NO skeletons, NO bones, NO surgical anatomy, NO blood, NO graphic violence. Atmospheric and mysterious is fine; gore and clinical exposure are not.
 - NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+- **STRICT NO-FAKE-SCRIPT RULE**: do NOT add any fake runes, fake hieroglyphs, fake Cyrillic, fake Arabic, fake Hebrew, fake Greek, fake Sanskrit, fake Chinese characters, fake medieval script, or any letter-like / glyph-like decorative shapes anywhere on the page. The ONLY readable text on the entire spread must be the French text I have described and the invented Latin name. All decorative borders, ornaments, corners, and bottom flourishes must be PURE PATTERNS — geometric, floral, knotwork, compass roses, fleurs-de-lys — never anything resembling letters or writing. If you feel tempted to add "atmospheric" inscriptions or "ancient" markings, DON'T — leave the space empty or use a non-textual ornament.
 
 Now generate the spread for the following creature:
