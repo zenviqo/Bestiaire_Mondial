@@ -79,6 +79,16 @@ GLOBAL CONSTRAINTS
 - AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
 - FAMILY-FRIENDLY: NO skeletons, NO bones, NO surgical anatomy, NO blood, NO graphic violence. Atmospheric and mysterious is fine; gore and clinical exposure are not.
 - NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
-- **STRICT NO-FAKE-SCRIPT RULE**: do NOT add any fake runes, fake hieroglyphs, fake Cyrillic, fake Arabic, fake Hebrew, fake Greek, fake Sanskrit, fake Chinese characters, fake medieval script, or any letter-like / glyph-like decorative shapes anywhere on the page. The ONLY readable text on the entire spread must be the French text I have described and the invented Latin name. All decorative borders, ornaments, corners, and bottom flourishes must be PURE PATTERNS — geometric, floral, knotwork, compass roses, fleurs-de-lys — never anything resembling letters or writing. If you feel tempted to add "atmospheric" inscriptions or "ancient" markings, DON'T — leave the space empty or use a non-textual ornament.
+- **STRICT NO-FAKE-SCRIPT RULE — ABSOLUTE PROHIBITION**: Under NO circumstances may you add any of the following anywhere on the spread (especially in bottom borders, headers, or decorative bands):
+  - Fake runes (Norse, Anglo-Saxon, Hungarian, Slavic)
+  - Fake hieroglyphs or pictographs
+  - Fake Cyrillic, Greek, Arabic, Hebrew, Sanskrit, Devanagari, Chinese, Japanese, Korean characters
+  - Fake medieval script, Gothic script, calligraphy lines that look like writing
+  - Any sequence of letter-like or glyph-like shapes resembling an inscription or alphabet
+  - Decorative bands made of repeating "X" or "I" or angular shapes that suggest writing
+  
+  The ONLY readable text on the entire spread is the French body text and the Latin name I specify. EVERY decorative element — borders, corners, bottom flourishes, ornamental bands, page bottoms — must be EXCLUSIVELY one of: geometric repeating patterns (dots, lines, waves, chevrons WITHOUT letter resemblance), floral motifs (vines, leaves, flowers), knotwork (Celtic, Norse, Arabic geometric), compass roses, fleurs-de-lys, simple ornamental dingbats (♦ ❦ ❧ ⚜).
+  
+  If you feel tempted to fill a bottom band with "atmospheric ancient text", LEAVE IT EMPTY or fill it with a thin geometric line. The reader is sophisticated and recognizes fake script immediately — it ruins the credibility of the book.
 
 Now generate the spread for the following creature:
