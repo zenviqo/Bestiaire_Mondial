@@ -1,0 +1,163 @@
+---
+nom_principal: Coatl
+nom_original: Coatl / Cohuatl (nahuatl classique)
+variantes_linguistiques:
+  - nahuatl_classique: Coatl, Cohuatl, Cōātl, pluriel Cocoah
+  - traduction_française: serpent (mythique, classe générique)
+  - traduction_anglaise: serpent (as mythological class)
+categorie: classe générique de créatures serpentines / créatures mythiques de l'eau et de la terre
+tradition: aztèque
+sous_tradition: nahua, vallée de Mexico (corpus mexica et codex pictographiques)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# COATL
+
+## SIGNIFICATION DU NOM
+
+Le mot *coatl* est l'un des plus polyvalents du nahuatl classique. Sa signification immédiate est *serpent* — l'animal reptilien terrestre. Mais l'usage traditionnel étend le mot à une classe entière de *créatures serpentines mythiques*, qui dépassent largement le serpent ordinaire des champs.
+
+Le mot apparaît également comme cinquième signe du calendrier de vingt jours — *coatl* y désigne un signe sous lequel naissent des destins spécifiques, et qui projette son influence sur les jours qui le portent. À ce titre, *coatl* est à la fois une créature, une classe d'êtres, un signe calendaire, et une catégorie cosmologique.
+
+Une particularité de la langue est l'homonymie partielle entre *coatl*, *serpent*, et *coatl*, *jumeau* — racines qui se ressemblent suffisamment pour que les commentateurs anciens aient parfois fait jouer la double valeur dans des contextes mythologiques. Le serpent partage avec le jumeau une qualité de doublure, de double nature, de réflexion cosmique.
+
+Comme préfixe ou élément de composition, *coatl* entre dans de nombreux noms de créatures, lieux, et figures sacrées — chaque fois portant le sens *serpent-* avec la connotation mythique appropriée.
+
+## ORIGINE
+
+Les *cocoah* (pluriel mythique de *coatl*) appartiennent à la couche la plus ancienne de la cosmologie mésoaméricaine. Les récits de fondation du monde les situent dès l'origine, antérieurs à la stabilisation actuelle du cosmos.
+
+Selon plusieurs versions, lors de la création de la terre habitable, deux grandes serpentines cosmiques saisirent un être primordial flottant sur les eaux et la déchirèrent en deux ; la moitié supérieure devint le ciel, la moitié inférieure devint la terre. La classe entière des *coatl* dériverait de ce geste fondateur — chaque serpent particulier portant une parcelle de la fonction cosmogonique d'origine.
+
+D'autres récits associent les *coatl* aux eaux primordiales avant la création du monde sec. Avant que la terre n'émerge, les eaux étaient peuplées de cocoah de toutes tailles, certains gigantesques, certains minuscules. La création du monde sec n'a pas éliminé ces créatures ; elle les a relégués dans des poches d'eau persistante — sources, lacs, mer, fleuves — où ils demeurent comme habitants antérieurs à l'humain.
+
+## NATURE
+
+La classe *coatl* couvre plusieurs sous-natures distinctes que la cosmologie nahua articule en un système complexe.
+
+Le *serpent terrestre mythique* est le plus proche de l'animal commun. Il s'agit d'un serpent d'une taille extraordinaire, parfois doté d'attributs supplémentaires (cornes, plumes, double tête), mais qui reste fondamentalement reptilien dans son comportement.
+
+Le *serpent d'eau* habite les fleuves, sources, et lacs. Il préside aux régulations du courant, aux noyades, à la fertilité agricole liée à l'irrigation. Plusieurs sources fluviales étaient considérées comme habitées par un *coatl* propre, gardien et donneur d'eau.
+
+Le *serpent de feu* représente une catégorie distincte, portant le nom *xiuhcoatl* (serpent de turquoise / de l'année). Ce serpent flamboyant est l'arme par excellence des dieux solaires-guerriers et apparaît dans les récits de combat cosmique.
+
+Le *serpent à plumes* (ou plumé), de l'espèce *quetzalcoatl* employée comme nom commun avant l'individuation divine, désigne une catégorie de cocoah ornés de plumes précieuses, à la fonction sacerdotale et créatrice.
+
+Le *serpent à cornes* ou *à crête* combine attributs reptiliens et bovins, et est associé à des points d'eau précis ou à des zones de transition entre mondes.
+
+## HABITAT
+
+Les *coatl* terrestres habitent les *zones rocheuses*, les *fissures*, les *grottes peu profondes*, là où la pierre offre des refuges chauds. Ce sont des habitats partagés avec les serpents ordinaires, et la proximité géographique entretient leur ambiguïté entre nature animale et nature surnaturelle.
+
+Les *coatl* aquatiques habitent les *fleuves profonds*, les *lacs*, et plus particulièrement les *sources jaillissantes*. Une source est presque toujours associée à un *coatl* particulier dans la géographie sacrée — celui-ci en est à la fois le gardien et la cause. Tarir une source équivaut à la mort ou au départ du *coatl* qui l'habitait.
+
+Les *coatl* célestes habitent les *nuages d'orage*. La foudre qui zigzague entre les nuages est interprétée comme la course d'un coatl céleste — image qui rapproche le serpent visuellement (forme zigzagante) du phénomène atmosphérique.
+
+Les *coatl* ignés résident sur le soleil et l'accompagnent dans son trajet ; ils ne descendent que lorsque le dieu solaire-guerrier les saisit comme arme.
+
+## DESCRIPTION
+
+Iconographiquement, la classe *coatl* se reconnaît à un répertoire visuel partagé : corps allongé, tête disproportionnée par rapport à la mince épaisseur du corps, langue bifide tirée vers l'avant, gueule grande ouverte montrant les crocs, yeux ronds bordés d'une marque rituelle.
+
+Au-delà de ce noyau commun, chaque sous-classe ajoute ses attributs distinctifs.
+
+Le serpent à plumes porte sur tout son corps une rangée de plumes longues, souvent rendues en vert turquoise, qui ondule en bandeau le long du dos. Sa tête peut porter une crête plumée et un masque facial.
+
+Le serpent de feu est rendu en couleurs chaudes — rouge, ocre, jaune — avec des touffes de flammes émergeant de son dos, une queue terminée en triangle de feu, et une langue qu'on peut figurer comme une langue de flamme plutôt que reptilienne.
+
+Le serpent d'eau porte parfois des bandes bleues alternées avec des motifs de coquillage, et peut être figuré dans une posture ondulante évoquant le courant. Sa tête est parfois ornée de coquillages incrustés.
+
+Le serpent à cornes ajoute une paire de cornes courtes au-dessus des yeux ; le serpent à crête, une crête dorsale dentelée le long de la nuque.
+
+Certains *coatl* sont représentés à *deux têtes*, une à chaque extrémité du corps — image qui souligne la double nature de la classe et qui se trouve sur plusieurs pièces sculptées importantes.
+
+## POUVOIRS
+
+Le *pouvoir de transformation cosmique* appartient aux grands cocoah primordiaux qui ont participé à la création du monde. Ce pouvoir est largement enfoui dans le passé mythique, mais reste latent — un grand coatl pourrait, en théorie, recommencer à déchirer ou à recoudre.
+
+Le *contrôle des eaux* caractérise les coatl aquatiques. Ils peuvent retenir l'eau d'une source, la libérer en abondance, créer une crue, assécher un fleuve. Cette puissance hydrologique fait d'eux des partenaires cérémoniels essentiels pour les communautés agricoles.
+
+La *transmission de la foudre* appartient aux coatl célestes. Leur vol entre nuages est perçu comme un phénomène énergétique qui peut frapper la terre, en bénédiction ou en destruction.
+
+L'*efficacité guerrière* du serpent de feu en fait l'arme dévastatrice par excellence ; tenu dans la main d'un dieu, il fauche des cohortes entières.
+
+La *sagesse* est attribuée à certains cocoah à plumes. Ils connaissent les choses cachées, les origines, les noms véritables. Quelques traditions racontent qu'un homme accordé à un coatl à plumes a accédé à des connaissances inaccessibles au reste de l'humanité.
+
+La *fertilité agricole* est conférée par la présence d'un *coatl* dans une source qui irrigue un champ. Sa présence est garantie de récoltes ; son départ — souvent provoqué par la pollution de l'eau, par la rupture des rituels, ou par une offense humaine — annonce sécheresse et famine.
+
+## FAIBLESSES
+
+Les *coatl* sont vulnérables à la *rupture rituelle*. Une source non honorée par les offrandes annuelles peut perdre son habitant. Le coatl ne meurt pas — il s'absente, et son absence se traduit par le tarissement de l'eau.
+
+Ils sont sensibles à la *pollution* — au sens cérémoniel comme au sens matériel. Les déchets jetés dans une source font fuir le coatl ; les paroles malsaines prononcées près d'un point d'eau le contrarient. Un coatl furieux ne tarit pas seulement la source, il peut envoyer de l'eau corrompue qui empoisonne les buveurs.
+
+Les *coatl* terrestres ordinaires peuvent être tués par les chasseurs habiles, et leurs dépouilles font l'objet d'usages rituels — peau utilisée dans certaines parures sacerdotales, os parfois inclus dans des objets cérémoniels.
+
+Les *coatl* mythiques majeurs ne peuvent pas être tués par main humaine. Seuls les dieux peuvent les défaire, comme dans les récits cosmogoniques où un coatl primordial est démembré pour fonder l'ordre du monde.
+
+## COMPORTEMENT
+
+Le comportement des *coatl* est *territorial*. Chaque coatl a son lieu — sa source, sa grotte, sa portion de fleuve, sa zone de nuages — et il y demeure. Les empiétements sont mal tolérés.
+
+Ils sont *réceptifs aux rituels*. Un *coatl* honoré est un coatl bienveillant ; un coatl négligé est un coatl menaçant. Cette réciprocité ritualisée structure le rapport quotidien que les communautés agricoles entretiennent avec eux.
+
+Ils peuvent *se déplacer*, mais le font rarement de leur propre initiative. Le départ d'un *coatl* est généralement provoqué par une offense ; l'arrivée d'un nouveau coatl dans une source antérieurement vide est généralement provoquée par un rituel d'invitation.
+
+Entre eux, les cocoah ne sont pas représentés comme une société hiérarchisée. Chacun est attaché à son lieu, et la classe ne constitue pas une troupe organisée, à la différence des Centzon Totochtin ou des Centzon Huitznahua. Quelques cocoah individuels — par leurs attributs particuliers et leur ancienneté — émergent comme figures distinctes ; le reste forme un arrière-plan diffus.
+
+## RÉCITS TRADITIONNELS
+
+Le récit cosmogonique central met en scène deux cocoah primordiaux qui saisissent un être primordial féminin flottant sur les eaux. L'un saisit une moitié, l'autre l'autre moitié. Ils tirent en sens contraires. L'être se déchire en deux. La moitié supérieure devient le ciel ; la moitié inférieure, qui retombe, devient la terre. Les cocoah primordiaux se retirent ensuite — l'un vers les eaux profondes, l'autre vers les couches profondes du sol — d'où ils continuent d'animer la totalité de la classe coatl ultérieure.
+
+Un récit de fondation hydrologique raconte qu'au temps des origines, une source bénie habitée par un grand *coatl* d'eau jaillissait au cœur de la vallée. Cette source nourrissait toutes les communautés. Une faute collective — précisée différemment selon les versions — provoqua le retrait du coatl et le tarissement de la source. Les communautés durent dès lors creuser des aqueducs lointains pour ramener l'eau, et le souvenir de la source perdue resta vivace dans les rituels de demande de pluie.
+
+Plusieurs récits attestent que des *cocoah à plumes* ont été aperçus dans des grottes ou des cénotes par des hommes qualifiés. Ces rencontres se traduisent par des transmissions de connaissances ; l'homme ressort en sachant des choses, en parlant autrement, en voyant le monde par des aspects que les autres ne perçoivent pas. Le prix à payer est variable : parfois la perte de la parole pendant une période, parfois une infirmité durable, parfois rien d'apparent — mais la dette reste enregistrée.
+
+Un récit guerrier raconte le maniement du *serpent de feu* par le dieu solaire-guerrier au moment de sa naissance. L'arme, prise en main, fauche les Centzon Huitznahua ; elle est ensuite remise à sa place céleste, attendant la prochaine occasion d'usage.
+
+## VARIANTES RÉGIONALES
+
+Le mot *coatl* circule dans toute l'aire nahua avec des nuances locales. Dans certaines régions, l'accent est mis sur les coatl aquatiques ; dans d'autres, sur les coatl terrestres rocheux ; dans d'autres encore, sur les coatl célestes liés à la foudre.
+
+Les régions méridionales, en contact avec les traditions mayas, partagent l'imaginaire du serpent à plumes mais sous des noms et des attributs différents.
+
+Les régions occidentales, plus arides, accentuent les coatl du désert et des grottes profondes ; les régions orientales, plus humides, accentuent les coatl fluviaux et marécageux.
+
+Une variante minoritaire, attestée dans certaines compilations rurales, fait des *coatl* les esprits gardiens des semences enfouies — variante agricole qui ne contredit pas le système central mais le complète par une fonction agraire spécifique.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'usage moderne du mot *coatl* déforme souvent sa polysémie originelle :
+
+- Le grand public assimile fréquemment *coatl* à la seule figure individuée du serpent à plumes divinisé. Or *coatl* est d'abord un *nom commun* désignant une classe entière, et seulement secondairement et tardivement le préfixe d'un nom propre divin. La classe précède l'individu.
+
+- L'idée d'un *coatl* essentiellement bienveillant ou essentiellement maléfique simplifie une réalité plus nuancée. Les cocoah sont *réciproques* — ils répondent au traitement qui leur est réservé. Le bien et le mal qu'ils apportent dépendent du soin rituel qu'on leur offre.
+
+- L'image du serpent comme symbole de mal, héritée des traditions abrahamiques, ne s'applique pas à la classe *coatl*. Dans la cosmologie nahua, le serpent est partenaire cosmique, gardien des eaux, transmetteur de sagesse — ses dimensions négatives sont des aspects parmi d'autres, pas une essence.
+
+- Les représentations modernes tendent à uniformiser visuellement les cocoah en serpents identiques, alors que la tradition les distingue minutieusement par leurs attributs.
+
+- L'identification du *coatl* à des espèces zoologiques précises (le crotale, le serpent corail) est tardive et non systématique dans les sources anciennes, qui parlent d'une catégorie mythique débordant la zoologie observable.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations sculptées de *coatl* abondent dans l'archéologie mésoaméricaine. Les bases des grandes pyramides portent souvent en relief des têtes de cocoah saillantes — disposées en rangées qui forment des bandeaux ornementaux, ou isolées comme protections aux angles.
+
+Plusieurs pierres monumentales représentent un *coatl* à deux têtes, corps en S, gueules ouvertes aux deux extrémités. Ces sculptures, retrouvées dans la zone du grand sanctuaire mexica et au-delà, témoignent de l'importance du motif de double-tête dans la classe.
+
+Les codex pictographiques utilisent la silhouette du *coatl* comme glyphe — calendaire (cinquième signe des vingt jours), toponymique (le préfixe *Coa-* dans des noms de lieu apparaît graphiquement comme une tête de serpent), et symbolique (pour désigner certaines fonctions ou certains rituels).
+
+Le Codex Borgia contient plusieurs scènes complexes où des cocoah de différentes sous-classes apparaissent ensemble, parfois enchevêtrés en un nœud symbolique, parfois disposés autour d'une figure centrale qu'ils encadrent.
+
+Des objets utilitaires — couteaux sacrificiels, encensoirs, vases cérémoniels — portent fréquemment des motifs de *coatl* en relief ou en gravure, soulignant l'omniprésence de la classe dans le quotidien rituel.
+
+## POUR ALLER PLUS LOIN
+
+La classe *coatl* est attestée dans la totalité du corpus mésoaméricain ancien, depuis les époques préclassiques jusqu'aux compilations coloniales du seizième siècle. Sa polyvalence — animal observable, créature mythique, signe calendaire, élément de composition lexicale — en fait l'une des notions les plus transversales de la cosmologie nahua.
+
+Les recherches archéologiques continuent à enrichir l'inventaire des sous-classes et à préciser leurs liens géographiques avec des sources d'eau spécifiques, des points hauts particuliers, ou des points de la voûte céleste observés rituellement.
+
+## PROMPT IMAGE
+
+Ancient Aztec codex illustration in the style of Codex Borgia and Codex Magliabechiano, depicting the Coatl as a class of mythological serpents arranged in a circular composition, at the center a great two-headed serpent with open jaws at both ends and an undulating S-shaped body covered in alternating turquoise scales and red bands, surrounding it four sub-class representatives in cardinal positions: a feathered serpent with long quetzal plumes flowing down its back rendered in vivid green and gold, a fire-serpent with flames erupting along its spine and a triangular flame-tail in cinnabar red and ochre, a water-serpent with shell ornaments and blue undulating bands suggesting current, and a horned serpent with short curved horns above its eyes and a dentate dorsal crest, each serpent rendered with thick black contour lines, large round eyes with ritual borders, bifid tongues extended forward, open jaws displaying curved fangs, painted in flat pre-Columbian Mesoamerican style with saturated mineral pigments (turquoise, cinnabar, ochre, charcoal, white lime), background filled with stylized cloud-glyphs, water-glyphs, fire-glyphs, and earth-glyphs corresponding to each serpent's domain, traditional Aztec border with stepped fret motifs and small day-sign cartouches in the corners, on aged amate bark paper with rough fiber texture and faded edges, hieratic frontal symmetrical composition without perspective or shadows, no European Renaissance influence, no realistic 3D rendering, codex pictographic aesthetic with strong glyphic density, no text, no letters, no inscriptions, no labels
