@@ -1,0 +1,142 @@
+---
+nom_principal: Mo'o
+nom_original: moʻo (hawaïen)
+variantes_linguistiques:
+  - hawaïen: moʻo, moʻo akua (mo'o-divinité), moʻo wahine (mo'o femelle), kupua moʻo
+  - tahitien_apparenté: moʻo (lézard, sans dimension divine élargie)
+  - maori_apparenté: moko (lézard et motif tatoué — voir entrée séparée Moo)
+categorie: saurien gardien d'eau douce / créature-divinité hawaïenne / kupua transformateur
+tradition: polynésienne
+sous_tradition: hawaïenne (archipel d'Hawaï, principalement O'ahu, Maui, Kaua'i, Hawaï)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# MO'O
+
+## SIGNIFICATION DU NOM
+
+Le mot *moʻo* signifie en hawaïen, à son sens premier, *lézard* — désignant les petits sauriens véritables qui peuplent les forêts et les habitations de l'archipel. Mais le terme s'étend bien au-delà de l'animal observable. Il désigne une catégorie d'êtres surnaturels : les *moʻo akua*, ou *moʻo* divinisés, qui sont les grands sauriens-esprits gardiens des sources, des étangs sacrés, et des bassins d'eau douce de l'archipel hawaïen.
+
+Le mot porte aussi un sens secondaire de *suite, lignée, succession* — comme dans *moʻokūʻauhau*, *la suite généalogique*. Cette polysémie n'est pas accidentelle pour l'esprit hawaïen : le moʻo, par sa forme allongée articulée en segments, par sa peau qui mue par couches, par sa capacité à reparaître après absence, est l'image vivante de la continuité ancestrale. Le saurien et la lignée portent le même nom.
+
+## ORIGINE
+
+Les *moʻo akua* hawaïens forment une catégorie d'esprits anciens. Selon les traditions de chaque île, plusieurs origines coexistent. Une partie d'entre eux serait venue lors des grandes migrations spirituelles qui suivirent l'arrivée des premiers colons polynésiens, accompagnant les chefs ou s'installant d'eux-mêmes dans les bassins de l'archipel. D'autres seraient nés directement sur les îles, de la rencontre entre un esprit et un point d'eau particulièrement vivace.
+
+Plusieurs lignées humaines hawaïennes traditionnelles revendiquaient une descendance directe d'un moʻo, comme *aumakua* familial — ancêtre tutélaire animal. Cette parenté donnait à la lignée une relation privilégiée avec un bassin précis, et un devoir d'entretien rituel envers le moʻo qui y résidait.
+
+Les noms de moʻo célèbres se sont conservés dans la tradition orale : Kihawahine, moʻo de Maui dont le culte fut maintenu par les chefs jusqu'à l'arrivée des premiers Européens ; Mokuhinia, moʻo associée à un étang à Lahaina ; Hauwahine, gardienne des bassins de Kawainui à O'ahu, dont les traditions sont parmi les mieux conservées ; Lani-wahine, autre moʻo d'O'ahu. Ces noms ne sont pas interchangeables : chaque moʻo est un individu distinct, avec son histoire, son territoire, ses préférences rituelles.
+
+## NATURE
+
+Le moʻo est avant tout *gardien d'eau douce*. Sa fonction première est de surveiller un point précis — un étang sacré (*loko*), une source, une cascade, parfois un bassin de pluie permanent dans une coulée de lave ancienne. Cette eau, sous la protection du moʻo, possède des qualités particulières : on l'utilise pour la guérison, pour les rituels de purification, pour l'entretien des taros sacrés.
+
+Le moʻo est également *transformateur*. C'est un *kupua* — terme hawaïen qui désigne les êtres capables de changer de forme. Sous sa forme première, le moʻo est un saurien immense — long de plusieurs dizaines de pieds selon les traditions les plus développées, atteignant la taille d'une pirogue de chef pour les plus grands. Mais il peut prendre la forme d'une femme d'une beauté surnaturelle, et c'est sous cette forme qu'il apparaît le plus souvent aux humains. La transformation est complète et plausible — un visiteur ne reconnaît pas, en la femme qu'il rencontre près d'un bassin, le moʻo qui veille sur les eaux.
+
+Le moʻo est *moralement complexe*. Il n'est ni bienveillant ni malveillant par défaut. Il punit les transgressions de tabous liés à son bassin. Il récompense la déférence rituelle. Il peut développer des relations longues avec une famille humaine particulière, qu'il protège et conseille à travers les générations.
+
+## HABITAT
+
+Chaque moʻo est attaché à un site précis. La géographie hawaïenne est ainsi parsemée de points d'eau identifiés à un moʻo nommé. Quelques exemples documentés par la tradition :
+
+- À Maui : Mokuhinia, étang à Lahaina, abritait Kihawahine. Les fouilles archéologiques modernes ont confirmé l'ancienneté du site et son importance rituelle.
+- À O'ahu : les marais et bassins de Kawainui, près de Kailua, sont depuis l'antiquité associés à Hauwahine, dont la mémoire perdure dans le toponyme et dans les traditions orales locales.
+- À Kaua'i : plusieurs bassins de la vallée de Wailua sont associés à des moʻo féminins, gardiennes des sources qui irriguent les anciennes plantations de taro.
+- Sur l'île d'Hawaï : des bassins de lave noire dans plusieurs vallées de la côte au vent abritent des moʻo dont les noms sont préservés dans certaines lignées.
+
+Le moʻo se manifeste plus volontiers à l'aube et au crépuscule, ainsi que par temps de pluie, lorsque l'eau de son bassin se trouble et que sa surface devient miroir. Les jours de forte tempête sont également propices à sa manifestation — l'eau bouillonne, et la surface peut révéler la silhouette ondulante du saurien.
+
+## DESCRIPTION
+
+Sous sa forme saurienne, le moʻo est un grand reptile de teinte variable selon les traditions — souvent décrit comme noir ou brun très foncé, parfois avec des reflets verts ou rouges sur le dos lorsque la lumière du soleil le touche. Son corps est allongé, articulé, avec une queue puissante qui peut frapper l'eau et soulever des vagues. Ses yeux sont grands et phosphorescents la nuit. Sa langue est fourchue. Sa peau est couverte d'écailles qui semblent assemblées en motifs réguliers, parfois rapprochés des motifs de tatouage hawaïen traditionnel.
+
+Sous sa forme humaine, le moʻo apparaît presque toujours en *moʻo wahine* — femme moʻo. Elle est décrite comme d'une beauté exceptionnelle, avec une longue chevelure noire, une peau lisse et fraîche, et des yeux particulièrement brillants. Un détail trahit parfois sa nature : un mouvement trop fluide, une humidité persistante autour d'elle, un ombre qui ne suit pas exactement les lois de la lumière. Dans certains récits, elle se peigne au bord du bassin, et un visiteur attentif peut voir, dans l'eau du miroir, le reflet du saurien à la place de celui de la femme.
+
+Certaines traditions mentionnent des moʻo masculins, mais ils sont nettement moins fréquents dans le corpus narratif. Le moʻo féminin domine.
+
+## POUVOIRS
+
+La *transformation* est le pouvoir le plus distinctif. Le moʻo passe entre la forme saurienne et la forme humaine selon les circonstances. Il peut maintenir indéfiniment l'une ou l'autre. Certains moʻo restent sous forme humaine pendant de longues périodes, vivent parmi les humains, peuvent même contracter des unions, jusqu'au moment où un événement révèle leur nature.
+
+Le *contrôle de l'eau de son bassin* permet au moʻo de modifier le niveau, la température, la limpidité de son point d'eau. En cas de transgression, le bassin se trouble, sa surface devient inhospitalière, ou pire, l'eau monte soudainement et noie l'imprudent.
+
+La *défense du tabou* est une fonction quasi automatique. Lorsqu'un humain enfreint un tabou rituel attaché au bassin — pénétrer sans purification, prélever de l'eau sans demander, déranger les pierres rituelles —, le moʻo se manifeste, parfois avec violence.
+
+La *malédiction par maladie* est un pouvoir attesté. Un moʻo offensé peut affliger le coupable de maladies liées à l'eau (œdèmes, fièvres, troubles cutanés), qui ne se résolvent qu'après un rituel d'apaisement.
+
+La *protection familiale* opère pour les lignées qui reconnaissent un moʻo comme aumakua. Le moʻo guide alors les membres de la famille en rêve, écarte les dangers liés à l'eau, favorise la pêche et les récoltes irriguées.
+
+## FAIBLESSES
+
+Les sources traditionnelles n'évoquent pas vraiment de faiblesses physiques du moʻo. Il n'est pas un monstre que l'on combat. Les récits où un moʻo est combattu sont rares et concernent presque toujours des héros culturels exceptionnels, souvent eux-mêmes kupua — êtres surnaturels.
+
+L'élément le plus efficace pour neutraliser un moʻo offensé n'est pas l'arme mais le rituel. Les offrandes appropriées — kava (awa en hawaïen), poisson cuit selon des préparations précises, fleurs spécifiques, étoffes de tapa rouge — peuvent calmer un moʻo et restaurer la paix entre lui et la communauté.
+
+La connaissance précise du nom du moʻo, de sa généalogie, et des paroles rituelles propres à son bassin est l'instrument le plus puissant. Les *kahuna* (spécialistes rituels hawaïens) qui maîtrisaient ces savoirs pouvaient négocier avec le moʻo en son nom.
+
+L'assèchement complet du bassin ferait perdre au moʻo son ancrage, mais cet assèchement serait considéré comme un désastre rituel majeur, et personne dans la tradition ne le provoquait délibérément.
+
+## COMPORTEMENT
+
+Le moʻo passe la plus grande partie de son existence dans son bassin, sous forme saurienne. Sa vigilance est continue mais discrète — la plupart des visiteurs respectueux des règles ne le voient jamais, ou n'en aperçoivent qu'une trace : un remous inattendu, un reflet inhabituel, la sensation d'être observé.
+
+Lorsqu'un humain transgresse, le moʻo se manifeste de manière proportionnée. Une transgression mineure entraîne un avertissement — un rêve troublant, une eau qui devient soudain trop froide, un poisson qui apparaît dans le bassin alors qu'il ne devrait pas s'y trouver. Une transgression grave provoque une réaction directe — apparition de la moʻo wahine sous une forme inquiétante, montée soudaine du niveau d'eau, attaque du saurien lui-même.
+
+Avec les lignées familiales auxquelles il est lié, le comportement du moʻo est protecteur. Il apparaît en rêve aux membres de la lignée pour les avertir de dangers, pour les guider dans des choix importants. Il accepte les offrandes régulières et y répond par sa bienveillance continue.
+
+Les unions entre un moʻo (sous forme humaine) et un humain sont attestées dans plusieurs récits. Ces unions sont presque toujours problématiques : la nature véritable du moʻo finit par se révéler, et la séparation se produit, souvent dans des conditions tragiques.
+
+## RÉCITS TRADITIONNELS
+
+Les chants et récits hawaïens conservent plusieurs cycles de moʻo. Le cycle de Kihawahine de Maui est l'un des plus développés. Cette grande moʻo, dont le culte fut maintenu jusqu'à la fin de la royauté traditionnelle, était associée à la lignée des chefs de Maui. Elle résidait dans l'étang de Mokuhinia à Lahaina. Ses apparitions aux chefs et aux kahuna étaient consignées dans la mémoire des familles royales.
+
+Le cycle de Hauwahine, à Kawainui sur O'ahu, raconte les rapports entre la moʻo et les habitants des terres environnantes. Les transgressions de tabous étaient suivies de signes — l'eau qui se colorait, des poissons qui sortaient sur le bord du marais. Les rituels d'apaisement, conduits par les kahuna locaux, restauraient l'équilibre.
+
+Plusieurs récits traitent de la rencontre entre un voyageur et une moʻo wahine au bord d'un bassin. Le voyageur, séduit, s'attarde. La femme l'invite à boire de l'eau. Selon le respect ou l'irrespect des protocoles, le voyageur sort enrichi de la rencontre — guéri, instruit, parfois nourri d'une connaissance qui lui sera utile — ou malade, ou emporté.
+
+Les confrontations entre un héros culturel et un moʻo apparaissent dans certains récits. Ces confrontations ne se concluent généralement pas par la mort du moʻo — qui ne se laisse pas tuer aisément — mais par un pacte ou une trêve, parfois par la transformation du moʻo en pierre ou son retrait définitif dans la profondeur du bassin.
+
+## VARIANTES RÉGIONALES
+
+Chaque île d'Hawaï conserve son propre catalogue de moʻo nommés. Maui a ses moʻo (Kihawahine, Mokuhinia, et d'autres). O'ahu a les siens (Hauwahine, Lani-wahine, Walinu'u). Kaua'i et l'île d'Hawaï complètent le tableau.
+
+Les caractéristiques rituelles varient légèrement selon les îles : certains moʻo demandent des offrandes spécifiques (telle variété de poisson, telle plante), d'autres sont associés à des fleurs ou à des couleurs particulières.
+
+La taille attribuée aux moʻo varie également. Certaines traditions parlent de petits moʻo, à peine plus grands qu'un lézard ordinaire mais doués des mêmes pouvoirs. D'autres décrivent des géants longs de plusieurs dizaines de mètres, capables de soulever des vagues.
+
+Le terme apparenté *moʻo* existe dans d'autres îles polynésiennes (Tahiti, Marquises) avec un sens plus restreint — souvent simplement *lézard* sans dimension divine — ou avec des noms différents pour les sauriens-esprits. À Tahiti, des esprits sauriens existent mais ne portent pas la même dénomination élargie qu'à Hawaï.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les œuvres contemporaines situées à Hawaï — séries télévisées comme *Hawaii Five-0*, films d'action tournés sur place, représentations touristiques de la culture hawaïenne — ignorent presque entièrement la figure du moʻo. Quand elle apparaît, c'est presque toujours sous forme dégradée :
+
+- Le moʻo est parfois représenté comme un simple gros lézard de fiction, sans dimension divine ni gardienne. Cette réduction efface la complexité rituelle de la figure.
+
+- La capacité de transformation en moʻo wahine — pourtant centrale dans les traditions — est souvent absente, les œuvres préférant une figure simple de monstre saurien ou au contraire une simple femme exotique sans dimension surnaturelle.
+
+- L'attachement spécifique à un bassin nommé est généralement gommé. Le moʻo de fiction est un monstre errant, là où le moʻo authentique est un être local profondément ancré dans la géographie de son île.
+
+- La distinction d'avec d'autres figures hawaïennes — Pele la divinité du feu, les aumakua animaux — est fréquemment confondue. Le moʻo est traité comme un esprit générique, sans sa spécificité aquatique et saurienne.
+
+- Le film d'animation *Moana* de Disney (2016), bien qu'il s'inspire de plusieurs traditions polynésiennes, ne représente pas authentiquement les moʻo hawaïens. Tout rapprochement entre les créatures du film et les figures traditionnelles relève de l'inspiration libre, non de la transmission fidèle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie hawaïenne ancienne du moʻo est principalement indirecte. Les pétroglyphes hawaïens, gravés dans les coulées de lave de plusieurs sites, comportent occasionnellement des figures sauriennes allongées que certains interprètes identifient comme des représentations de moʻo. Ces gravures, dépourvues de contexte écrit, restent d'identification incertaine.
+
+Quelques objets cérémoniels hawaïens comportent des motifs sauriens — bâtons rituels, calebasses gravées, ornements en bois — qui ont pu être associés au culte du moʻo dans des contextes spécifiques.
+
+Les sites mêmes où résidaient les moʻo célèbres — Mokuhinia à Lahaina, Kawainui sur O'ahu, certaines vallées de Kaua'i — constituent l'iconographie la plus durable. Leur géographie même, leur configuration de bassins et de sources, fait partie de la mémoire matérielle du moʻo.
+
+Plusieurs collections muséales (Bishop Museum à Honolulu, Peabody Essex Museum, British Museum) conservent des objets hawaïens dont certains sont associés à la sphère rituelle des moʻo.
+
+## POUR ALLER PLUS LOIN
+
+Le moʻo est l'une des figures les plus complexes du panthéon spirituel hawaïen. Il appartient à la sphère des aumakua familiaux et des esprits de lieu. Son culte, fortement perturbé par la christianisation au dix-neuvième siècle, n'a pas entièrement disparu — plusieurs familles hawaïennes continuent de reconnaître un moʻo aumakua dans leur lignée et d'entretenir, sous des formes adaptées, les liens rituels avec leur bassin ancestral.
+
+La figure se distingue radicalement des sauriens-divinités présents dans d'autres traditions polynésiennes (le moko maori, les figures sauriennes tahitiennes), même si une parenté ancienne dans le fonds polynésien commun reste perceptible.
+
+## PROMPT IMAGE
+
+Ancient Hawaiian bestiary illustration of moʻo, water-guardian saurian deity of the Hawaiian archipelago, ink and natural pigment composition, central figure showing a massive black saurian coiled in a clear freshwater pool surrounded by black volcanic rock, the saurian's elongated body with articulated segments and faintly iridescent dark green-red scales catching ambient light, large phosphorescent eyes and forked tongue tasting the air, the surface of the pool acting as a mirror revealing simultaneously the reflection of a beautiful long-haired woman (the moʻo wahine form) sitting on the rocky edge combing her hair, her form merging at the edges with the saurian beneath the water in subtle visual continuity, surrounding landscape of a Hawaiian valley with taro patches (loʻi kalo) terraced down toward the pool, ancient lava flows in the background, hala trees and koa trees, small offerings of awa root, fish wrapped in ti leaves, and red tapa cloth placed on a stone altar near the water's edge, twilight atmosphere with the last light of the sun touching the surface of the pool, decorative borders inspired by Hawaiian feather kahili patterns and traditional kapa stamp motifs (geometric only, no readable text), ink hand-drawn aesthetic with earth-toned pigments evoking ʻōlena yellow, kukui soot, ʻalaea red ochre, and coral white, no modern rendering, no 3D, no cartoon, vintage ethnographic illustration aesthetic, aged kapa cloth texture as background, no text, no letters, no inscriptions, no labels
