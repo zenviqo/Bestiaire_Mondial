@@ -1,0 +1,144 @@
+---
+nom_principal: Pricolici
+nom_original: Pricolici (roumain)
+variantes_linguistiques:
+  - roumain: Pricolici, Priculici, Tricolici
+  - aroumain: Pricolitsi
+  - megléno_roumain: Priculits
+  - dialectal_olténien: Pricoliciu
+categorie: lycanthrope vivant / homme-loup maudit
+tradition: balkanique, roumaine
+sous_tradition: carpatique (Transylvanie, Olténie, Maramureș, communautés aroumaines)
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# PRICOLICI
+
+## SIGNIFICATION DU NOM
+
+Le mot *pricolici* a longuement intrigué les philologues roumains. Sa forme la plus assurée se retrouve dans la zone slave méridionale sous des termes apparentés — la même racine ayant produit dans les langues balkaniques avoisinantes une série de mots désignant tour à tour le mort-vivant qui sort de sa tombe, l'homme transformé en loup, et certaines apparitions nocturnes mal définies. Le roumain a hérité de ce fonds slave une valeur qu'il a infléchie selon ses propres logiques folkloriques : tandis que la créature voisine *strigoï* a peu à peu absorbé l'aspect mort-vivant, le *pricolici* s'est spécialisé dans l'aspect proprement lycanthropique — le vivant qui se mue en bête.
+
+Les variantes orales montrent une grande plasticité. *Priculici* apparaît dans les régions où la prononciation locale resserre la voyelle ; *Tricolici*, plus rare, semble être une déformation populaire passée par étymologie populaire (l'idée d'un *trois* mystérieux, peut-être lié aux trois conditions qui font le pricolici, peut-être aux trois soirs de transformation). En aroumain, parler roman des Balkans méridionaux, la forme *pricolitsi* atteste l'ancienneté du terme bien au-delà de la seule Roumanie carpatique.
+
+## ORIGINE
+
+Le pricolici n'est pas une créature née monstre. Il est, à l'origine, un être humain — homme ou plus rarement femme — qui se trouve condamné à la lycanthropie par une cause précise. La tradition roumaine, particulièrement attentive à cette dimension causale, a recensé plusieurs scénarios récurrents.
+
+Le premier est celui du *péché grave*. L'inceste, le parjure répété, le vol du cierge bénit, la malédiction d'un parent prononcée dans la colère absolue, le fait d'avoir tué injustement un homme sans réparation : autant de fautes qui, selon les conteurs, peuvent attirer sur le coupable la métamorphose. Le pricolici devient alors la chair vivante de la transgression — la peau bestiale dans laquelle Dieu enferme celui qui a refusé sa loi.
+
+Le second scénario est celui du *septième fils*. Lorsqu'une mère met au monde sept garçons consécutifs sans qu'aucune fille interrompe la série, le dernier-né est dit prédisposé à la lycanthropie. Cette croyance, que l'on retrouve étendue à plusieurs traditions européennes, se présente en Roumanie sous une forme particulièrement systématique : on examine l'enfant, on cherche le signe — une queue minuscule, un duvet excessif, une dent prématurée — et l'on prend les précautions adéquates pour conjurer la métamorphose à venir.
+
+Le troisième scénario est celui de la *malédiction généalogique*. Certaines familles passent dans leur région pour porter le pricolici comme tare héréditaire, transmise de père en fils, parfois sautant une génération. Les villages reconnaissent la lignée et se tiennent à distance.
+
+Le quatrième scénario, plus rare mais bien attesté, est celui de l'*acceptation volontaire*. Un homme désespéré, ruiné, chassé par les siens, peut conclure un pacte avec le diable ou avec une vieille sorcière des bois pour acquérir la force et la fureur du loup. Il obtient ce qu'il a demandé. Il ne pourra plus revenir en arrière.
+
+## NATURE
+
+Le pricolici est un *vivant transformé*, et c'est par cette nature qu'il se distingue radicalement des autres créatures lupines des Balkans. Il n'est pas un mort revenu de sa tombe sous forme animale ; il n'est pas un démon revêtu de chair temporaire ; il n'est pas un esprit de la forêt à figure de bête. Il est un homme, parfaitement vivant durant le jour, qui à la tombée de la nuit revêt sa peau de loup et part chasser. Au matin, il dépose la peau ou la rentre sous la sienne, et reprend sa place parmi les hommes — souvent silencieux, marqué d'une fatigue inexpliquée, parfois maculé de traces qu'il dissimule.
+
+Cette nature double engendre la signature comportementale du pricolici : la capacité à *passer pour normal*. Le voisin que l'on salue à la fontaine, le berger croisé sur le sentier, le mendiant que l'on a hébergé une nuit peuvent tous être pricolici. La paroisse n'en sait rien jusqu'à ce qu'un signe trahisse la chose — une blessure que l'homme porte le matin et que le loup avait reçue la veille, une mèche de poil retrouvée dans le lit, un comportement étrange à la sortie de la messe.
+
+## HABITAT
+
+Le territoire du pricolici est double, à l'image de sa nature. Le jour, il habite parmi les hommes — dans un hameau des Carpates, dans une maison écartée à la lisière du village, parfois dans un pâturage isolé où il garde les bêtes des autres en se gardant de leur faire du mal sous sa forme humaine.
+
+La nuit, son territoire est celui des forêts profondes et des chemins déserts. Les forêts carpatiques, avec leurs sapinières sombres et leurs vallées humides, lui offrent un domaine privilégié. Les vieux cimetières aux murs effondrés, les carrefours, les ruines de moulins abandonnés, les ponts de rondins jetés sur les torrents : voilà les lieux où la tradition place ses apparitions. Il rôde aussi autour des bergeries et des étables — partout où il y a du bétail et des dormeurs.
+
+Les villages les plus exposés, selon les récits, sont ceux qui sont éloignés des grandes routes et des grandes paroisses : les hameaux de Maramureș perdus dans leurs vallées, les villages de moyenne montagne d'Olténie, les bourgs aroumains accrochés aux pentes des Pinde et des Grammos. Là où le prêtre passe rarement, le pricolici trouve son couloir.
+
+## DESCRIPTION
+
+Sous sa forme transformée, le pricolici apparaît comme un loup démesuré — plus grand que les loups ordinaires des forêts, plus massif, plus lourd. Le pelage est épais et sombre, allant du gris cendre au noir profond ; certaines descriptions précisent qu'une bande plus claire court le long de l'échine, tandis que d'autres mentionnent au contraire une pelisse uniformément ténébreuse.
+
+Les yeux constituent le signe distinctif le plus universellement attesté. Ils brûlent — d'un rouge braisé, parfois jaune sulfureux — et leur lumière demeure perceptible dans l'obscurité absolue. Les vieux disent qu'on reconnaît un pricolici à ses yeux avant même d'en distinguer la silhouette : deux braises mouvantes glissent au ras du sentier, et l'on sait alors qu'il faut serrer la croix.
+
+La gueule est plus grande qu'elle ne devrait l'être pour la taille du corps. Les crocs dépassent les babines même quand la mâchoire est fermée. Les pattes laissent des empreintes plus profondes que celles d'un loup ordinaire — ce qui sert souvent, dans les récits matinaux, à confirmer le passage nocturne.
+
+Sous sa forme humaine, le pricolici présente des indices que l'œil exercé sait lire. Sourcils joints au-dessus du nez ; poil dru poussant dans la paume des mains ; dents très blanches et un peu trop pointues ; aversion pour l'eau bénite ; teint pâle au matin alors qu'il était coloré la veille. Aucun de ces signes n'est concluant pris isolément, mais leur accumulation alerte le voisinage.
+
+## POUVOIRS
+
+Le pricolici possède la *force décuplée* propre à sa nature lupine. Il abat un veau d'un coup de mâchoire, brise les portes de bergerie d'un coup d'épaule, traverse en une nuit des distances qu'un loup ordinaire ne couvrirait qu'en plusieurs.
+
+Il possède la *vitesse silencieuse* de la grande bête. Aucune feuille ne craque sous sa patte, aucun chien ne le devine avant qu'il ne soit dans la cour. Les chiens d'ailleurs le redoutent : à son approche ils s'aplatissent, geignent, refusent d'aboyer.
+
+Il possède une *résistance accrue aux blessures*. Les armes ordinaires l'atteignent peu — la balle de plomb le frôle, le couteau ricoche sur le pelage trop dense, le bâton s'émousse. Seules les armes consacrées et certains matériaux particuliers peuvent réellement lui faire du mal.
+
+Il possède enfin la *transformation maîtrisée à la nuit tombée*. Selon la plupart des récits, le pricolici choisit le moment de sa mue, qui se produit à l'écart, dans un fourré ou derrière une grange, par une opération qui mêle souvent un roulement à terre et le passage sous une certaine racine ou par-dessus une certaine clôture rituelle. Au lever du jour, il refait l'opération à l'envers et redevient homme.
+
+## FAIBLESSES
+
+La tradition roumaine a accumulé une pharmacopée protectrice considérable contre le pricolici, témoignant de la peur ancienne et concrète que la créature inspirait.
+
+La *balle d'argent* constitue l'arme la plus universellement attestée. Une balle ordinaire de plomb glisse sur le pelage du pricolici ou s'y enfonce sans dommage durable ; une balle d'argent, fondue parfois à partir d'une pièce déposée sur un autel, perce la peau du loup et atteint le cœur du maudit. Les chasseurs des Carpates conservaient, dit-on, une telle balle dans leur cartouchière par précaution.
+
+La *croix de coudrier* est la deuxième défense majeure. Le bois de coudrier — le noisetier sauvage — possède dans le folklore roumain une vertu apotropaïque exceptionnelle. Une croix taillée dans une branche de coudrier, plantée au seuil de l'étable ou portée sur soi, repousse le pricolici. Une simple branche fraîchement coupée, brandie face à la bête, peut suffire à la faire reculer.
+
+La *prière orthodoxe* récitée à voix haute paralyse l'animal. Le *Notre Père* dit jusqu'au bout sans erreur, le *Tatăl nostru* roumain prononcé d'une traite, peut transformer le pricolici en bête figée le temps de la prière, suffisamment pour qu'on l'attache ou qu'on le frappe efficacement. L'eau bénite jetée sur son pelage le brûle.
+
+D'autres défenses plus locales sont attestées : enfouir un fer rouge sous le seuil de la maison, suspendre une tresse d'ail à la porte de l'étable, jeter du sel consacré derrière soi quand on traverse un bois suspect, marcher pieds nus à reculons autour de sa propre maison en récitant trois fois une formule de bénédiction. Toutes ces pratiques visent le même objectif : interposer entre l'homme et la bête une frontière sacrée que la créature maudite ne pourra franchir.
+
+## COMPORTEMENT
+
+Le pricolici en activité ne tue pas pour se nourrir comme un loup ordinaire. Il tue *par excès* — il égorge plus de brebis qu'il n'en peut manger, il poursuit le bétail dans les enclos jusqu'à épuisement, il harcèle les bergers et les voyageurs sans que la faim suffise à expliquer sa furie. Cette démesure dans la prédation est l'un des indices que l'on a affaire à un pricolici plutôt qu'à un loup naturel : un loup tue ce dont il a besoin, le pricolici tue ce qu'il rencontre.
+
+Sa conduite envers les humains varie selon les récits. Certains pricolici se contentent d'effrayer les voyageurs sans les blesser, comme si la part humaine sous la peau de bête retenait la mâchoire. D'autres attaquent franchement les passants, surtout au crépuscule sur les chemins forestiers, et les récits de paysans déchirés sur les sentiers carpatiques sont nombreux dans la mémoire orale.
+
+Le pricolici manifeste une *rancune lucide*. Il se souvient, sous sa forme animale, des affronts subis sous sa forme humaine. Il harcèle préférentiellement le berger qui l'a chassé, le voisin qui l'a dénoncé, le prêtre qui l'a montré du doigt à la sortie de la messe. Cette mémoire fait peser sur les villageois une menace personnelle plus inquiétante que celle d'un prédateur aveugle.
+
+Au matin, redevenu homme, le pricolici porte les traces de la nuit. Il dort tard, mange mal, montre une plaie qu'il prétend s'être faite en travaillant. Il ne se souvient pas toujours clairement de ce qu'il a fait ; certains récits parlent d'un voile, d'une absence, comme si la conscience humaine se retirait pendant que la bête agissait.
+
+## RÉCITS TRADITIONNELS
+
+Un récit transylvain rapporte qu'un berger des environs de Sibiu remarqua plusieurs nuits de suite que ses brebis étaient déchirées sans qu'aucun loup ordinaire ne fût visible. Il chargea son fusil d'une balle d'argent fondue à partir d'une médaille de la Mère de Dieu. La nuit suivante, il guetta. Une bête énorme aux yeux de braise sortit de la forêt. Il tira. Le loup s'enfuit en boitant. Au matin, le berger trouva un voisin qu'il savait suspect alité avec une plaie à la cuisse — une plaie dont nul n'avait pu voir l'origine. Le pricolici fut traité, prié, et l'on dit que la mue cessa.
+
+Un récit olténien rapporte le cas d'un septième fils dont la mère, prévenue par une vieille femme du village, avait pris soin d'enfouir le placenta sous la racine d'un coudrier au moment de l'accouchement. L'enfant grandit normal. À la puberté, cependant, des accès de violence inexplicable lui prirent. Le grand-père lui expliqua sa nature, lui apprit la prière qui retient la bête, et lui fit jurer de ne jamais dormir dehors. Le garçon, devenu vieux, mourut sans avoir cédé une seule nuit.
+
+Un récit du Maramureș raconte qu'un voyageur traversant les forêts entre deux villages fut suivi tout au long du sentier par une présence qu'il devinait sans la voir. Au croisement des trois routes, il fit halte, déposa son baluchon, et récita le *Tatăl nostru* à voix haute. Une grande forme noire émergea des sapins, fit un pas vers lui, puis s'arrêta net. Il termina la prière. La bête recula et disparut. Au village suivant, on lui confirma que le sentier était mauvais et que plusieurs avaient disparu sur ce parcours.
+
+Un récit aroumain des Pinde rapporte qu'un berger d'estive avait pris en pitié un mendiant et l'avait hébergé dans sa cabane. La nuit, il fut réveillé par un grognement. À la lueur du foyer mourant, il vit son hôte recroquevillé en train de revêtir une peau de loup tirée d'un sac. Le berger ne bougea pas. Au matin, le mendiant repartit comme si de rien n'était. Le berger, lui, ne raconta l'épisode qu'à son fils, des décennies plus tard, et seulement à condition qu'il n'en parlât à personne d'autre tant que le mendiant pourrait être encore en vie quelque part.
+
+## VARIANTES RÉGIONALES
+
+En *Transylvanie*, le pricolici est souvent associé aux maudits par parjure. Les contes y insistent sur la dimension morale : la bête est punition. Les protections y mêlent fortement le rituel orthodoxe et l'usage du coudrier. Certaines variantes locales rapprochent le pricolici du *vârcolac*, créant une zone de superposition que les conteurs eux-mêmes peinent parfois à clarifier.
+
+En *Olténie*, l'accent porte davantage sur la transmission héréditaire et le septième fils. Les rituels prophylactiques pratiqués à la naissance — placenta enfoui, premier bain dans une eau où l'on a trempé une racine de coudrier, signe de croix tracé sur la langue de l'enfant avec du sel bénit — y sont particulièrement élaborés.
+
+En *Maramureș*, région de hautes vallées encaissées et de villages reculés, le pricolici garde une présence vivace jusqu'à des époques récentes. Les églises de bois sculptées, l'absence prolongée de routes carrossables, l'isolement hivernal entretiennent une tradition orale dense. Les récits y mêlent le pricolici à d'autres créatures locales et à des fragments de cosmologie ancienne où le loup-homme côtoie les esprits des forêts.
+
+Chez les *Aroumains* — populations romanophones disséminées dans les montagnes des Balkans méridionaux, des Pinde grecs aux confins macédoniens et albanais — le pricolici survit sous la forme *pricolitsi*. La tradition aroumaine, pastorale et transhumante, lie particulièrement la créature aux estives élevées et aux migrations saisonnières du bétail. Le pricolitsi y est volontiers un berger maudit qui suit les troupeaux d'autrui et frappe à leurs périphéries.
+
+En *Mégléno-roumain*, dialecte minoritaire d'une petite communauté roman des Balkans, la forme *priculits* est attestée dans les contes recueillis au début du vingtième siècle. La créature y conserve les traits essentiels du pricolici roumain — vivant transformé, balle d'argent, prière protectrice — avec quelques inflexions slaves locales.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le pricolici n'est pas un *vârcolac*. Cette distinction est centrale et souvent négligée par les ouvrages superficiels qui mêlent les deux figures. Le vârcolac, dans la tradition roumaine la plus ancienne, est une entité cosmique — souvent imaginée comme un grand animal ou un dragon — qui dévore le soleil et la lune lors des éclipses. Sa fonction est astronomique et collective. Il n'est pas, à l'origine, un humain transformé. Le pricolici, lui, est strictement individuel : un homme nommé, identifiable, qui se mue en loup pour des causes morales ou héréditaires. Une zone de confusion s'est créée dans certaines régions où le mot vârcolac a fini par désigner aussi le loup-garou ; mais la tradition la plus solide maintient la différence — vârcolac mange la lune, pricolici mange les brebis.
+
+Le pricolici n'est pas non plus un *strigoï*. Le strigoï est un mort-vivant : un corps de défunt qui sort de sa tombe pour tourmenter les siens, parfois sous forme animale, mais dont le statut fondamental est celui du revenant. Le pricolici demeure parfaitement vivant dans son lit le jour ; le strigoï pourrit dans le sien. Les protections diffèrent en conséquence : on fiche un pieu dans le strigoï, on tire à la balle d'argent sur le pricolici. On ouvre la tombe du strigoï pour vérifier son état ; on observe le voisinage du pricolici pour repérer la blessure.
+
+Le pricolici n'est pas, enfin, le *werewolf de cinéma américain*. La créature hollywoodienne, telle que les studios l'ont fixée à partir des années 1940, transforme le malheureux à chaque pleine lune contre sa volonté, le rend totalement amnésique, le fait souffrir d'une morsure infectieuse qui transmet la malédiction à ses victimes survivantes, et fait disparaître la peau lupine au matin sans laisser de traces matérielles. Le pricolici roumain ne suit aucun de ces protocoles canoniques. La transformation se produit la nuit en général mais pas exclusivement à la pleine lune ; le maudit conserve souvent une certaine mémoire de ses actes ; la morsure ne transforme pas la victime ; et la peau de loup peut être un objet matériel — une pelisse — que l'on revêt et que l'on retire. Le pricolici est une figure morale et héréditaire ; le werewolf moderne est une figure médicale et virale.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations anciennes du pricolici sont rares — la créature ressortissait à la transmission orale plutôt qu'à l'art savant. Quelques traces existent néanmoins.
+
+Sur les *peintures murales extérieures des monastères moldaves* — Voroneț, Sucevița, Humor, Moldovița, dont les fresques peintes au seizième siècle couvrent l'extérieur des églises de scènes du Jugement dernier — figurent parfois, parmi les damnés conduits aux flammes, des créatures à corps d'homme et tête de bête, ou des hommes flanqués de loups démesurés qui les dévorent. L'identification précise au pricolici n'est pas toujours assurée, mais l'imaginaire de la lycanthropie comme châtiment du péché grave nourrit visiblement la composition.
+
+Les *gravures populaires roumaines* du dix-neuvième siècle, vendues sur les foires, montrent à l'occasion des scènes de pricolici — le loup aux yeux de braise sortant de la lisière, le berger brandissant une croix, la bête reculant devant la flamme du cierge bénit. Ces gravures, simples mais expressives, témoignent de la vivacité populaire du thème.
+
+Les *églises de bois du Maramureș*, classées au patrimoine mondial, portent sur certaines de leurs poutres et frontons des sculptures animales dont l'interprétation est ouverte. Loups, têtes de bêtes, museaux entrouverts : la frontière entre décor symbolique et figuration de créatures précises reste discutée par les ethnographes.
+
+Les *broderies traditionnelles*, sur les manches des chemises de fête et sur les ceintures cérémonielles, intègrent parfois des motifs lupins stylisés. Ces motifs, hérités de fonds plus anciens encore que la christianisation orthodoxe, conservent peut-être une mémoire de la créature à laquelle ils opposent leur fonction protectrice.
+
+## POUR ALLER PLUS LOIN
+
+Le pricolici est documenté principalement par les grands recueils ethnographiques roumains constitués à partir du dix-neuvième siècle, lorsque les folkloristes commencèrent à parcourir systématiquement les villages des Carpates, de la Transylvanie et de la Moldavie. Les enquêtes postérieures, menées au vingtième siècle dans le cadre des grandes campagnes de collecte, confirment la persistance de la croyance dans les régions reculées au moins jusqu'à la moitié du siècle.
+
+La tradition aroumaine, parallèle et apparentée, a fait l'objet de collectes plus tardives mais tout aussi riches, notamment dans les zones pastorales des Pinde et des montagnes macédoniennes.
+
+La distinction entre pricolici, strigoï et vârcolac fait l'objet d'une littérature ethnographique spécifique, certaines études ayant cherché à clarifier les zones de superposition lexicale entre ces trois figures du surnaturel roumain.
+
+## PROMPT IMAGE
+
+Romanian Orthodox monastery fresco style, ancient mural painting on weathered church wall, depicting Pricolici the living werewolf of Carpathian folklore, a massive black wolf of unnatural proportions emerging from a dense Carpathian fir forest at twilight, eyes glowing with red ember-fire visible in the deep shadows under the trees, oversized fangs protruding from the closed muzzle, dense matted fur rendered with traditional egg-tempera brushwork, the wolf prowling near a wooden Maramureș village with shingled rooftops and a tall church tower visible in the distance, a peasant figure in traditional Romanian dress holding up a hazel-wood cross toward the beast, a discarded human cloak and torn shirt lying at the edge of the forest indicating the man-to-wolf transformation, a small Orthodox icon and a silver bullet visible in the foreground as protective elements, surrounding decorative border in the style of Voroneț and Sucevița monastery exterior frescoes with stylized vine and floral motifs, color palette of deep midnight blue, ochre, red iron oxide, charcoal black and aged plaster cream, slightly cracked plaster surface texture suggesting centuries of weathering, gold-leaf nimbus halo around the praying peasant indicating sanctity opposing the cursed beast, no Latin text, no readable inscriptions, decorative geometric Maramureș wood-carving motifs in the corners, candlelit atmosphere with cold mountain mist rising from the forest floor, traditional medieval Eastern European devotional art aesthetic, no modern rendering, no 3D, no cartoon, aged fresco texture with visible brushstrokes and pigment cracks, no text, no letters, no labels
