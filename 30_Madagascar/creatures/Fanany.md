@@ -1,0 +1,151 @@
+---
+nom_principal: Fanany
+nom_original: Fanany
+variantes_linguistiques:
+  - antaisaka: Fanany
+  - antemoro: Fanany
+  - betsileo: Fanainy (variante méridionale)
+  - tanala: Fanany
+  - sakalava_sud: Fanany be (Fanany le grand)
+categorie: serpent funéraire / âme transformée / esprit ancestral métamorphique
+tradition: malgache
+sous_tradition: Antaisaka et Antemoro (corpus principal du sud-est)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# FANANY
+
+## SIGNIFICATION DU NOM
+
+Le terme *Fanany* dans les langues du sud-est malgache désigne d'abord un être qui *apparaît*, qui *se manifeste*, qui *se montre après*. La racine évoque l'idée d'une présence qui surgit en son temps, à l'endroit prévu, comme l'aboutissement d'un processus invisible. Le mot ne se traduit pas par *serpent* — d'autres termes comme *bibilava* ou *menarana* désignent les serpents naturels. *Fanany* nomme spécifiquement *cet être qui se révèle*, indépendamment de la forme zoologique ordinaire.
+
+Chez les Antaisaka et les Antemoro, qui conservent le corpus le plus développé, *Fanany* implique toujours la double appartenance : c'est un être issu d'un corps humain défunt, et c'est en même temps un être de forme animale visible. Il est le *même* que le mort sans en être la *copie* — il est la phase ultérieure d'une même âme ancestrale.
+
+Chez les Sakalava du sud, l'expression *Fanany be* (le grand Fanany) désigne les manifestations exceptionnelles attribuées aux dépouilles des grands rois ou notables, dont la métamorphose serpentine acquiert une stature monumentale.
+
+## ORIGINE
+
+Le Fanany naît du corps humain, mais après la mort. Selon la tradition antaisaka, lorsqu'un homme est enterré selon les rites convenables, son cadavre repose dans une fosse temporaire ou dans un cercueil dressé. La décomposition s'opère dans la durée. Les fluides du corps se rassemblent, se concentrent, et de cette substance nouvelle naît l'animal qui porte désormais l'âme du défunt vers sa forme suivante.
+
+Le Fanany n'est donc pas une réincarnation au sens d'un nouveau-né humain. Il est la *continuation directe* du défunt, dans une forme animale, durant une période transitoire qui précède l'intégration définitive du mort à la communauté des ancêtres. Cette transition est nécessaire, attendue, et souvent ritualisée.
+
+D'autres traditions de l'île étendent l'idée : chez les Tanala, on rapporte que les corps des anciens, déposés dans des grottes funéraires, donnent naissance à des serpents qui demeurent gardiens du lieu. Chez les Antemoro, la naissance du Fanany dans le cercueil est interprétée comme un signe — sa survenue confirme que le défunt accepte sa nouvelle condition et acquiesce au passage.
+
+## NATURE
+
+Le Fanany est un *être de transition*. Il n'appartient ni au monde des vivants ordinaires, ni à celui des ancêtres définitivement intégrés à la communauté des Razana. Il occupe l'intervalle. Cette qualité intervalaire le distingue radicalement des serpents naturels, dont les Malgaches connaissent par ailleurs les espèces et les comportements.
+
+Il est *individuel* — chaque Fanany est l'âme d'un défunt précis, et non un esprit collectif. On peut donc parler du Fanany d'untel, du Fanany de tel grand-père, du Fanany du roi.
+
+Il est *transformiste*. Sa forme première est celle d'un serpent — long, parfois remarquable par sa couleur ou par certains signes corporels qui rappellent au défunt — mais il peut, selon plusieurs traditions, se métamorphoser au fil du temps. Le serpent, dans la durée, peut devenir crocodile (chez les Antaisaka des berges fluviales), ou bovin (chez certaines lignées de l'intérieur). Cette série de métamorphoses correspond à une lente migration de l'âme vers son intégration finale aux ancêtres.
+
+Il est *reconnaissable*. Les vivants qui rencontrent un Fanany identifient parfois en lui le défunt par des signes — manière de regarder, lenteur de mouvement, présence sur le tombeau familial, indice corporel qui rappelle le mort.
+
+## HABITAT
+
+Le lieu primordial du Fanany est le tombeau familial — ces tombeaux de pierre, de bois ou de terre, parfois monumentaux, qui constituent dans l'imaginaire malgache le centre vital de la lignée. Le Fanany demeure dans le voisinage immédiat de la tombe, dans ses interstices, sous ses dalles, dans la végétation qui l'entoure.
+
+Chez les Antaisaka, où la tradition du *grenier des morts* (édifice funéraire dans lequel les cercueils sont déposés en attente du grand rite) est centrale, le Fanany apparaît dans ce grenier même, parmi les cercueils. Sa présence y est attendue et reconnue.
+
+Dans certaines régions, le Fanany élargit son territoire : il peut occuper un puits proche, une mare, un bras de rivière, un bois sacré contigu au tombeau. Les zones d'eau sont particulièrement associées à sa présence — le serpent s'y abrite et s'y déplace.
+
+Lorsqu'il subit ses métamorphoses ultérieures (crocodile, bovin), son habitat suit la forme : marécage, fleuve, prairie ancestrale.
+
+## DESCRIPTION
+
+Le Fanany apparaît d'abord comme un grand serpent, plus long que la moyenne des espèces ordinaires. Sa couleur peut varier selon les traditions et selon le défunt qu'il prolonge — sombre pour les morts ordinaires, plus claire ou plus marquée pour les grands ancêtres. Certains conteurs antaisaka insistent sur des bandes dorsales distinctes, sur une tête plus large que celle d'un serpent normal, sur une queue épaisse.
+
+Il porte parfois un signe particulier qui permet aux vivants de l'identifier comme la prolongation d'un mort précis : une tache colorée correspondant à un grain de beauté du défunt, une cicatrice apparente sur les écailles, une démarche caractéristique. Ces signes sont au cœur de la reconnaissance familiale du Fanany.
+
+Lorsqu'il atteint la forme de crocodile (dans les versions où la métamorphose se poursuit), il est décrit comme un crocodile de taille notable, plus calme que les espèces sauvages, qui hante un bief précis du fleuve familial.
+
+Lorsque la transformation aboutit à la forme bovine, il prend l'apparence d'un zébu — animal centralement valorisé dans la culture malgache — souvent à robe particulière, et qui se mêle au troupeau de la lignée sans en être réellement membre.
+
+## POUVOIRS
+
+Le pouvoir fondamental du Fanany est d'être *le pont*. Il maintient ouverte, durant la phase liminaire, la communication entre les vivants et le défunt en train de devenir ancêtre. Sa simple présence, observée près du tombeau, atteste que le mort *est encore là*, qu'il accepte sa nouvelle condition, qu'il n'est pas perdu dans un nulle-part inquiétant.
+
+Il dispose d'un pouvoir d'*influence sur les vivants*. Ceux qui rencontrent le Fanany de leur ancêtre reçoivent parfois des indications oniriques — rêves de la nuit suivante qui livrent un conseil, une mise en garde, une demande rituelle. La rencontre n'est donc pas neutre : elle ouvre un canal d'information.
+
+Le Fanany possède aussi un pouvoir de *mémoire restituée*. Les cas relatés par les Antaisaka et les Antemoro montrent que la rencontre avec le Fanany peut faire ressurgir chez le vivant des souvenirs précis du défunt, des paroles oubliées, des engagements anciens à honorer.
+
+Enfin, le Fanany agit comme *gardien du tombeau*. Sa présence dissuade les profanateurs. Quiconque tenterait d'endommager la tombe ou d'en déplacer indûment le contenu s'expose à une réponse du Fanany — réponse qui peut prendre la forme d'une morsure ordinaire (s'il s'agit du serpent), d'une attaque crocodilienne, ou d'événements malheureux survenant après l'offense.
+
+## FAIBLESSES
+
+Le Fanany est lié à la *régularité du rite*. Si la famille du défunt accomplit fidèlement les obsèques attendues, les rites de retour, et le grand rite de transfert dans la sépulture définitive (notamment le grand rituel collectif des Antaisaka), le Fanany se laisse intégrer paisiblement à la communauté des ancêtres. Sa phase de Fanany se résout naturellement.
+
+À l'inverse, l'oubli rituel ou la négligence des descendants peut le fixer dans une condition errante. Un Fanany dont la famille a manqué à ses obligations peut devenir nuisible — parcourir les cours, susciter des malheurs, exiger réparation par des manifestations qui obligent les vivants à reconnaître leur faute.
+
+Il craint la *parole offensante*. Insulter le tombeau, prononcer le nom du défunt sans respect, mentir sur sa lignée près de la sépulture sont des conduites qui éveillent la colère du Fanany.
+
+Il n'a pas de faiblesse face aux armes ordinaires au sens où on pourrait le détruire ; tuer le serpent identifié comme Fanany ne libère pas le tueur — au contraire, l'acte attire une malédiction héréditaire que seuls de longs rituels expiatoires peuvent contenir.
+
+## COMPORTEMENT
+
+Le Fanany se manifeste discrètement. Il apparaît au tombeau, glisse parmi les pierres, traverse une cour, se montre à un descendant proche, puis disparaît. Ses apparitions sont souvent rares et choisies — non quotidiennes, mais espacées, à des moments significatifs : période précédant un rite familial, anniversaire informel du défunt, naissance ou maladie dans la lignée.
+
+Il évite la confrontation avec les humains qui ne sont pas de la lignée concernée. Les étrangers qui le voient n'identifient en lui qu'un serpent, sans reconnaître sa nature de Fanany — la reconnaissance est réservée aux descendants directs, qui *savent*.
+
+Il accepte certaines offrandes. Du rhum versé sur le tombeau, un peu de viande de zébu déposée à côté, du miel, du tabac — ces offrandes fréquentes dans le rituel ancestral malgache lui sont en partie destinées et lui assurent un bon comportement.
+
+Lorsqu'il est en colère — dans les cas d'oubli rituel ou d'offense — son comportement bascule. Il se montre alors plus fréquemment, dans des lieux inhabituels (la maison plutôt que la tombe, le chemin plutôt que le bois sacré), avec une charge inquiétante qui exige des descendants qu'ils consultent un ombiasy et organisent les rites réparateurs.
+
+## RÉCITS TRADITIONNELS
+
+Les récits antaisaka concernant le Fanany s'inscrivent souvent dans le cycle des deuils des grandes familles. Un récit type rapporte qu'après la mort d'un chef de lignage et son dépôt dans le grenier des morts, ses fils, venus quelques mois plus tard pour vérifier le cercueil, virent à l'intérieur un grand serpent immobile, regardant vers eux. Ils comprirent que c'était leur père. Ils refermèrent. Le serpent, par la suite, se montra à plusieurs reprises dans la cour familiale, et chacune de ses apparitions précéda un événement marquant — naissance, mariage, conflit. Lorsque vint le moment du grand rite collectif de transfert vers la sépulture définitive, le Fanany ne fut plus jamais revu : signe que l'ancêtre avait achevé sa transition.
+
+Un autre récit, antemoro, raconte qu'un fils négligent omit pendant plusieurs années les offrandes dues à son père défunt. Il prétendait n'avoir pas le temps. Une nuit, un grand serpent entra dans sa case et s'enroula près du foyer. Le fils, terrifié, comprit. Il appela un ombiasy. Le devin diagnostiqua que le Fanany du père exigeait réparation. Le fils accomplit les rites manqués, sacrifia un zébu, versa du rhum sur le tombeau ; le serpent partit et ne revint plus.
+
+Un récit sakalava méridional rapporte qu'un grand roi enterré près d'un fleuve devint, après plusieurs cycles, un crocodile reconnaissable à une marque sur le dos. Ce crocodile habitait un bief proche du tombeau royal. Aucun pêcheur n'osait franchir cette eau. Lorsque la dynastie du roi commit une faute grave, le crocodile remonta le fleuve et se montra à proximité du palais — incident interprété comme l'avertissement de l'ancêtre.
+
+## VARIANTES RÉGIONALES
+
+Chez les Antaisaka, où la tradition est la plus structurée, le Fanany est principalement serpent et lié au cycle des grandes funérailles collectives.
+
+Chez les Antemoro, voisins immédiats des Antaisaka, le Fanany conserve la forme serpentine mais s'accompagne d'une littérature manuscrite ancienne (les *sorabe*) qui consigne les généalogies et les rites associés.
+
+Chez les Tanala de l'arrière-pays forestier, les Fanany sont multiples et logent dans les grottes funéraires, où plusieurs serpents ancestraux peuvent cohabiter — chacun lié à un mort différent de la lignée.
+
+Chez les Sakalava du Sud, la métamorphose vers le crocodile est documentée pour les morts royaux ; ces crocodiles ancestraux deviennent objets de respect collectif et leur eau devient sacrée.
+
+Chez les Betsileo de l'intérieur, la version bovine apparaît : certains zébus à robe singulière sont identifiés comme la prolongation d'un ancêtre récent, et ces bêtes sont préservées du sacrifice.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire contemporaine, en cherchant à représenter les "esprits malgaches", confond souvent le Fanany avec d'autres figures de l'île. Plusieurs distinctions importantes méritent d'être posées.
+
+Le Fanany n'est pas un *esprit malveillant* à la manière des Lolo ou des Kinoly. Sa nature est ambivalente mais fondamentalement intégrative — il accompagne le défunt vers le statut d'ancêtre, fonction positive dans la cosmologie malgache.
+
+Le Fanany n'est pas un *serpent géant monstrueux* comparable aux serpents cosmiques d'autres traditions. Sa taille remarquable n'a rien d'apocalyptique ; il reste à l'échelle du tombeau familial.
+
+Le Fanany n'est pas une *réincarnation* au sens hindouiste ou bouddhiste, où une âme reprend un nouveau corps humain dans une nouvelle vie. Il est une *phase* — non une nouvelle vie, mais le prolongement transitoire de la même vie achevée.
+
+Les représentations touristiques ou romanesques qui présentent les Malgaches comme "adorant un dieu-serpent" font une grossière confusion. Aucun culte ne s'adresse à une entité serpentine impersonnelle ; le respect rendu au Fanany est respect rendu à *l'ancêtre identifié*, et il s'inscrit dans le culte familial des Razana, non dans une vénération zoolâtrique.
+
+Enfin, l'idée parfois répandue que le Fanany serait l'âme de *tout* mort malgache est erronée. Toutes les âmes deviennent à terme Razana, mais la phase Fanany particulière est attestée surtout pour certaines régions et certains défunts notables.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie malgache traditionnelle ne représente pas le Fanany de manière figurative directe. Les arts visuels malgaches — sculptures funéraires *aloalo* des Sakalava, motifs des linceuls de soie *lamba mena*, gravures des poteaux de tombe betsileo — ne livrent pas de portrait identifiable du Fanany comme personnage.
+
+Toutefois, plusieurs éléments visuels indirects témoignent de sa présence dans l'imaginaire :
+
+Sur certains tombeaux antaisaka, des éléments serpentiformes sont gravés dans le bois, intégrés aux motifs ornementaux. Ces serpents sculptés sont rarement identifiés explicitement comme Fanany par les artisans, mais leur emplacement aux abords immédiats du cercueil suggère un rapport avec la phase serpentine du défunt.
+
+Les linceuls de soie utilisés pour envelopper les morts dans plusieurs régions portent parfois des motifs ondulants et des chevrons que certains commentateurs anciens ont rapprochés de la peau d'un grand serpent.
+
+Les *aloalo* sakalava, poteaux funéraires sculptés, représentent presque toujours des oiseaux, des bovins, des humains, ou des scènes de la vie du défunt. Le serpent y est rare, mais des figures bovines portent parfois une marque dorsale insolite que les anciens reliaient à la métamorphose ultime du Fanany devenu zébu.
+
+L'absence d'iconographie directe est cohérente avec la nature même du Fanany : il *se manifeste* en son temps, et le représenter prématurément reviendrait peut-être à le forcer à apparaître hors du rite.
+
+## POUR ALLER PLUS LOIN
+
+Le Fanany s'inscrit dans le grand système malgache du culte des ancêtres, où le défunt traverse plusieurs phases avant d'atteindre la condition stable de Razana. Son étude est inséparable de celle des rites funéraires des Antaisaka — notamment le grand rite collectif de transfert qui marque l'achèvement de la phase serpentine.
+
+Le motif du *serpent ancestral* connaît des parallèles dans d'autres traditions africaines et austronésiennes, sans qu'il faille y voir une importation : la cosmologie malgache, à la croisée des héritages austronésien et bantou, a développé sa propre articulation du thème, avec ses régionalités spécifiques.
+
+## PROMPT IMAGE
+
+Ancient natural history illustration in the style of a Malagasy bestiary plate, ink and earth-pigment drawing on aged paper, a long sinuous serpent emerging from beneath the carved wooden planks of a traditional Antaisaka funerary granary, the serpent's body decorated with subtle dorsal bands and a single distinguishing mark that recalls a human birthmark, the snake rendered with detailed scale-by-scale linework and dignified bearing rather than predatory aggression, surroundings showing the wooden funerary structure with stacked elongated coffins visible in shadow, traditional Sakalava aloalo carved poles standing nearby decorated with stylized birds and zebu motifs, a single Imerina silk lamba mena cloth draped over a stone, megalithic vazimba tomb stones in the middle distance forming a sacred enclosure, lush southeastern Madagascar vegetation with banana leaves and tropical canopy, dawn light filtering through, six small marginal vignettes depicting the metamorphic phases (egg-like form within coffin, juvenile snake, full serpent, transitional aquatic figure, large crocodile in river, ancestral zebu with distinctive dorsal marking), warm earth-toned palette with red ochre, deep indigo, and bone-white, no readable text or letters anywhere, decorative geometric malagasy patterns in border, illuminated manuscript aesthetic, no modern rendering, no 3D, no cartoon, vintage natural history scientific illustration quality, aged parchment texture

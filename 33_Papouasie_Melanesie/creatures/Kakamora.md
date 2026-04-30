@@ -1,0 +1,156 @@
+---
+nom_principal: Kakamora
+nom_original: Kakamora (langues de Makira et Malaita, Salomon)
+variantes_linguistiques:
+  - arosi: Kakamora
+  - bauro: Kakamora
+  - lau_malaita: Kakamora (forme proche)
+  - kwaio: Kakamora
+categorie: petit peuple sauvage des forêts / homoncule velu / esprit hominoïde
+tradition: papouasie-mélanésie
+sous_tradition: Salomon (Makira/San Cristobal et îles voisines, Malaita partielle)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# KAKAMORA
+
+## SIGNIFICATION DU NOM
+
+Le mot *Kakamora* est attesté dans plusieurs langues de l'île de Makira (autrefois nommée San Cristobal) au sud-est des îles Salomon, ainsi que sous formes proches à Malaita. La racine évoque à la fois la *petitesse*, le *bondissement* et la *nature forestière*. Le terme s'oppose dans le système lexical local aux noms désignant les humains ordinaires (*aniwai* en arosi) et aux noms désignant les esprits-fantômes (*adaro*, *figona*) — c'est une catégorie distincte qui ne se confond ni avec les vivants ni avec les morts.
+
+Les Kakamora ne sont pas des esprits au sens des âmes désincarnées ni des dieux au sens des entités primordiales. Ils constituent un *peuple à part*, antérieur aux humains selon certaines traditions, ou parallèle à eux selon d'autres, qui peuplent les forêts profondes et les hauteurs intérieures de Makira et de quelques îles voisines.
+
+## ORIGINE
+
+Les origines des Kakamora varient selon les villages mais convergent sur quelques traits.
+
+Une tradition arosi affirme qu'ils descendent d'un peuple plus ancien, présent sur Makira avant l'arrivée des ancêtres des actuels habitants. Ce peuple, refusant les villages et la culture du jardin, se serait retiré dans les hauteurs intérieures où il aurait régressé en taille et en pilosité au fil des générations, tout en conservant une intelligence rusée. Les Kakamora seraient donc des *humains anciens* devenus créatures à mesure qu'ils se séparaient de l'humanité des plaines.
+
+Une seconde tradition, attestée à Malaita et dans certains villages de Makira, les rattache à des esprits du sol qui auraient pris forme matérielle au commencement des temps. Ils naissent et meurent, mais en dehors du cycle ordinaire de la naissance humaine ; leur reproduction est mal connue, et ils n'ont pas d'enfants en bas âge visibles.
+
+Une troisième variante locale les présente comme un peuple qui aurait été *autrefois grand* et que les ancêtres humains, plus rusés, auraient progressivement repoussé dans les forêts en réduisant leur taille à chaque conflit perdu. Cette explication exprime la mémoire d'une concurrence ancestrale entre populations, traduite en récit étiologique sur l'origine des Kakamora.
+
+## NATURE
+
+Les Kakamora sont des *créatures hominoïdes mineures*. Ils appartiennent à la catégorie large des « petits peuples » que de nombreuses traditions du monde reconnaissent — mais leur forme spécifique mélanésienne se distingue par sa pilosité, son agilité arboricole et son rapport particulier avec la forêt de Makira.
+
+Ils sont *réels* aux yeux des traditions locales. Beaucoup de villages des hauteurs intérieures de Makira affirment encore aujourd'hui que les Kakamora existent et qu'on peut les croiser. Cette réalité accordée n'est pas le produit d'un imaginaire abstrait : elle est ancrée dans des récits de témoins, des traces relevées, des signes interprétés.
+
+Ils sont *intelligents*. Les traditions ne les présentent pas comme des bêtes simples, mais comme un peuple disposant de son langage, de ses outils rudimentaires, de ses techniques de chasse et de fuite. Leur intelligence est rusée, défensive, orientée vers la dissimulation plutôt que vers la confrontation.
+
+Ils sont enfin *liminaires*. Vivant aux marges de l'humanité ordinaire, ils ne sont ni accueillis dans les villages ni totalement rejetés vers le monde des esprits. Ils occupent une zone-tampon entre humanité civilisée et nature pleine.
+
+## HABITAT
+
+Les Kakamora habitent les hauteurs intérieures boisées de Makira — notamment les zones montagneuses centrales de l'île — et quelques aires comparables à Malaita et plus rarement à Guadalcanal et Ulawa.
+
+Ils privilégient les *grottes calcaires*, fréquentes sur Makira en raison de la géologie de l'île. Ces grottes leur servent d'abris durables, de lieux de réunion et de réserves de nourriture.
+
+Ils utilisent aussi les *grands arbres creux* — banians, figuiers étrangleurs aux racines aériennes massives, certains arbres-fer dont l'intérieur évidé offre un espace d'habitation suspendu. Ils grimpent et descendent ces arbres avec une agilité reconnue à toutes les traditions qui les décrivent.
+
+Les *rivières intérieures* et leurs zones rocheuses constituent leur principal terrain d'approvisionnement. Ils y pêchent, y attrapent les écrevisses des cours d'eau, y cueillent les fougères comestibles. Ils descendent rarement vers la côte habitée par les humains.
+
+Certains villages anciennement abandonnés, repris par la végétation, sont signalés comme repaires possibles des Kakamora. Lorsqu'un hameau humain est délaissé pour une raison ou une autre, les Kakamora s'y installeraient parfois, profitant des structures résiduelles — clairières d'anciens jardins, traces de foyers, abris partiels.
+
+## DESCRIPTION
+
+Les Kakamora sont décrits avec une remarquable constance à travers les villages de Makira et Malaita.
+
+Leur taille est petite : entre la cuisse et la poitrine d'un homme adulte selon les estimations recueillies. Certaines traditions précisent une taille proche de celle d'un enfant de cinq ou six ans ; d'autres parlent d'individus à peine plus grands qu'un nourrisson.
+
+Leur corps est entièrement couvert de *poils longs et drus*. La pilosité couvre les bras, les jambes, le dos, la poitrine ; même le visage est pileux. Ce pelage est généralement brun foncé, parfois noir, parfois roux selon les variantes locales. Les paumes des mains et la plante des pieds ne sont pas pileuses.
+
+Leur visage présente des traits humanoïdes mais simiens : front bas, mâchoire avancée, nez aplati. Les yeux sont grands, vifs, parfois décrits comme jaunes ou verts dans la pénombre.
+
+Leurs *ongles sont longs et coupants*, utilisés pour grimper, déchirer la viande, et — dans les récits hostiles — pour griffer les humains imprudents. Leurs dents incluent souvent des canines plus saillantes que la moyenne humaine.
+
+Ils ne portent généralement pas de vêtements, leur pilosité dense leur tenant lieu de couverture. Certaines traditions mentionnent des ceintures de feuilles ou des colliers de coquillages portés par les chefs Kakamora, mais ces ornements restent l'exception.
+
+## POUVOIRS
+
+Les Kakamora ne sont pas surnaturels au sens des esprits-figona ou des adaro. Leurs pouvoirs sont des capacités physiques portées à un degré que les humains ne peuvent atteindre.
+
+Leur *agilité arboricole* est exceptionnelle. Ils grimpent les troncs lisses des arbres-fer sans effort apparent, sautent de branche en branche à des distances que les humains jugent impossibles, et redescendent au sol en un instant. Cette mobilité verticale leur sert de stratégie défensive principale.
+
+Leur *force relative à la taille* est remarquée. Un Kakamora adulte peut soulever ou déplacer des objets que sa silhouette ne laisserait pas anticiper. Cette force se manifeste surtout dans la prise et la traction.
+
+Leur *vision nocturne* dépasse celle des humains. Les Kakamora sont actifs pendant les heures crépusculaires et nocturnes, et se déplacent dans l'obscurité de la forêt avec aisance.
+
+Leur *langage propre*, distinct des langues humaines de l'île, est attesté par les récits de chasseurs qui les ont entendus communiquer entre eux. Il est décrit comme rapide, aigu, ponctué de claquements et de sifflements. Aucun humain n'est réputé l'avoir compris.
+
+Leur *connaissance des plantes médicinales et alimentaires* de la forêt est tenue pour profonde. Certaines traditions affirment que les guérisseurs humains les plus habiles auraient appris auprès de Kakamora capturés et apprivoisés — récits étiologiques sur l'origine de certaines pharmacopées locales.
+
+## FAIBLESSES
+
+Les Kakamora sont vulnérables aux humains malgré leur agilité, ce qui explique leur retrait dans les hauteurs.
+
+Le *feu* les effraie. Les torches portées la nuit sur les sentiers de forêt suffisent généralement à les tenir à distance. Aucune tradition ne rapporte qu'ils maîtrisent eux-mêmes le feu, contrairement aux humains.
+
+Les *armes humaines* — sagaies, arcs, frondes — peuvent les blesser et les tuer. Leur petite taille les rend vulnérables aux traits ajustés, et leur pilosité ne constitue pas un blindage.
+
+Leur *peur des regroupements humains* est connue. Un seul humain isolé peut être attaqué par un groupe de Kakamora si la rencontre tourne à la confrontation ; mais une troupe humaine de plusieurs adultes n'est jamais attaquée. Les Kakamora évitent systématiquement les groupes nombreux.
+
+Certains *charmes prononcés par les hommes de connaissance* sont réputés avoir effet sur eux. Ces charmes sont peu nombreux et tenus pour des savoirs spécifiques transmis dans certains lignages.
+
+Leur *peur des chiens* est largement attestée. Un chien aboyant sur une piste de Kakamora suffit généralement à mettre en fuite la créature, qui ne tient pas tête à cet adversaire spécifique.
+
+## COMPORTEMENT
+
+Les Kakamora sont *généralement craintifs* face aux humains. Leur stratégie première est la fuite, l'observation à distance, la dissimulation. La plupart des récits de rencontre se concluent par la disparition rapide du Kakamora dès qu'il est repéré.
+
+Ils sont *curieux*. Ils suivent parfois discrètement les groupes humains qui s'enfoncent dans leurs territoires, observent les campements de chasseurs, surveillent les jardins de hauteur. Cette curiosité reste prudente : ils ne se montrent pas sans raison.
+
+Ils sont *opportunistes*. Si les jardins humains sont mal gardés, ils descendent y prélever ignames, taro, fruits. Cette pratique génère des frictions récurrentes entre villages humains des hauteurs et populations Kakamora avoisinantes. Les jardins de plaine, plus éloignés de leurs habitats, ne subissent pas ce problème.
+
+Ils peuvent devenir *agressifs* dans des circonstances précises : femmes seules en forêt, enfants éloignés du village, voyageurs blessés ou affaiblis. Plusieurs récits rapportent des enlèvements d'enfants ou de jeunes femmes par des bandes de Kakamora — épisodes qui ont nourri la prudence transmise de génération en génération.
+
+Leur *organisation sociale* paraît hiérarchique. Les bandes observées comportent généralement un mâle dominant plus grand et plus pileux, des mâles subalternes, et des femelles avec leur progéniture cachée. Les jeunes Kakamora sont rarement vus, ce qui suggère une protection rapprochée des nichées.
+
+## RÉCITS TRADITIONNELS
+
+Les villages de Makira ont conservé un répertoire substantiel de récits sur les Kakamora.
+
+Le récit du chasseur capturé raconte qu'un homme parti seul dans les hauteurs intérieures pour chasser le porc sauvage est attaqué par un groupe de Kakamora. Il est ramené dans une grotte profonde où il est gardé plusieurs jours, nourri de fruits et d'écrevisses crues. Il observe les Kakamora vivre, communiquer, dormir. Lorsqu'il s'évade enfin par une nuit de pluie, il rapporte au village ce qu'il a vu — récit qui constitue l'une des bases de la connaissance des mœurs Kakamora.
+
+Le récit de l'enfant retrouvé raconte qu'une fillette disparue d'un village des pentes intérieures est retrouvée plusieurs lunes plus tard par une expédition organisée par sa famille. Elle est saine mais sauvage, marchant à demi accroupie, refusant d'abord la nourriture cuite. Elle parle de poils, de grottes, de mains qui la tenaient. Elle redevient progressivement humaine après plusieurs lunes, mais conserve une réserve étrange devant la forêt.
+
+Le récit du jardin défendu raconte qu'un village des hauteurs, las des prélèvements répétés des Kakamora sur ses jardins de taro, organise une battue. Les hommes encerclent la zone d'activité connue avec des chiens et des torches, et abattent plusieurs Kakamora avant que les autres ne fuient vers les grottes inaccessibles. Le récit transmet à la fois le souvenir de l'efficacité de la battue et la mise en garde : les Kakamora survivants ne reviendront pas avant longtemps, mais leur mémoire de l'événement durera plusieurs générations.
+
+## VARIANTES RÉGIONALES
+
+L'aire principale des Kakamora couvre Makira et ses îles satellites (Ulawa, Ugi, Ngela partiel). Une présence est attestée à Malaita, où les Kakamora sont parfois confondus avec d'autres petits peuples des hauteurs (notamment les *gwa'gwa'a* selon certaines traditions kwaio). Plus largement, des conceptions parentes de petits peuples velus existent dans le sud-est des Salomon, à Santa Cruz, et trouvent des correspondants dans certaines traditions du Vanuatu (notamment le « petit homme de la forêt » sans nom standardisé).
+
+À Guadalcanal, les figures comparables portent des noms locaux différents et présentent des nuances : taille parfois plus grande, pilosité parfois moins marquée, rapport au feu parfois différent.
+
+La continuité d'attestation à travers les langues austronésiennes du sud-est des Salomon témoigne de l'ancienneté de la conception et de sa diffusion à partir d'un foyer mélanésien commun.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs précautions s'imposent pour aborder les Kakamora authentiques sans les confondre avec leurs représentations modernes.
+
+Le film d'animation populaire qui a porté le nom *Kakamora* à un large public international en 2016 propose des personnages cocoteux, masqués, organisés en pirates miniatures. Cette représentation est entièrement une invention contemporaine et ne correspond en rien à la créature folklorique des Salomon. Le nom a été emprunté ; le contenu ne l'a pas été.
+
+Les Kakamora ne sont pas des « hobbits mélanésiens ». L'analogie avec les peuples miniatures de la fantasy occidentale est tentante mais trompeuse. Les Kakamora sont velus, sauvages, partiellement hostiles ; ils ne tiennent pas de villages organisés ni de culture matérielle élaborée.
+
+Les Kakamora ne sont pas des esprits. Ils ne sont pas immatériels, ne hantent pas les morts, ne disparaissent pas dans le vent. Ils sont chair, bien que d'une chair différente. Cette matérialité est essentielle à leur identité folklorique.
+
+Les Kakamora ne sont pas des « hommes-singes ». Bien qu'ils présentent des traits simiens, ils sont conçus comme un peuple à part, doté de langage et d'intelligence, et non comme des animaux légèrement humanisés.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les Kakamora ont rarement fait l'objet de représentations artistiques traditionnelles. Quelques figures sculptées miniatures ont été collectées à Makira aux XIXe et XXe siècles, identifiées par les villageois comme représentant des Kakamora. Ces figures montrent des silhouettes humanoïdes accroupies, à la pilosité indiquée par des incisions denses sur le bois, aux ongles allongés, et à la posture d'observation prudente.
+
+Les motifs en spirale et les visages encadrés des *nguzunguzu* (figures de proue de canoë salomonais) ne représentent pas des Kakamora, malgré la confusion parfois faite. Les nguzunguzu protègent les pêcheurs et chasseurs de tête en mer ; les Kakamora appartiennent à un autre univers, celui de l'intérieur forestier.
+
+Quelques *peintures rupestres* dans certaines grottes de Makira ont été interprétées par les villageois locaux comme représentant des Kakamora ou des scènes mettant en scène des Kakamora. Ces interprétations restent locales et n'ont pas fait l'objet d'attribution archéologique formelle.
+
+## POUR ALLER PLUS LOIN
+
+La figure des Kakamora a été décrite dans les ethnographies des îles Salomon constituées à partir de la fin du XIXe siècle, lorsque les premières missions et expéditions scientifiques européennes commencèrent à recueillir les traditions des villages de Makira. Les langues arosi, bauro et kahua sont les principales attestations linguistiques de l'aire Makira.
+
+L'imaginaire des Kakamora est encore vivace dans les villages contemporains des hauteurs de Makira. Les rencontres rapportées au XXe et XXIe siècle continuent à alimenter le corpus, intégrant cette croyance traditionnelle dans la vie quotidienne des communautés.
+
+## PROMPT IMAGE
+
+Ancient ethnographic illustration of Kakamora forest beings from Makira, Solomon Islands, ink and wash drawing on aged parchment, the visual style of a Solomon Islands nguzunguzu canoe figure, a small group of three or four diminutive humanoid creatures perched among the aerial roots of a great strangler fig tree deep in tropical mountain rainforest, their bodies entirely covered in dense long brown-black hair, faces simian with wide observant eyes glinting faintly in the dappled light, long curved fingernails clearly visible, one creature crouching on a mossy root holding a freshwater shrimp, another peering down from a higher branch with cautious curiosity, a third partially hidden behind a tree-fern frond, the forest dense with breadfruit leaves, pandanus, tree-ferns, hanging vines, a thin shaft of golden afternoon sunlight cutting through the canopy, a distant glimpse of a limestone cave entrance suggested in the background, decorative borders inspired by Solomon Islands shell-inlay patterns and Makira carved bowl motifs (abstract spiral and concentric patterns, no readable text), black ink with deep forest-green and brown sepia wash, aged parchment texture, atmosphere of secret forest watchers and shy intelligence, naturalistic anatomy, no modern rendering, no 3D, no cartoon, vintage natural history scientific illustration quality, no text, no letters, no inscriptions, no labels
