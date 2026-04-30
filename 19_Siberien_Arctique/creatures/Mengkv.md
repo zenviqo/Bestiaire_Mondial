@@ -1,0 +1,131 @@
+---
+nom_principal: Mengkv
+nom_original: Менкв (mansi) / Менк (variantes)
+variantes_linguistiques:
+  - mansi: Менкв (Mengkv, Menkv), pluriel Менквыт (Mengkvyt)
+  - khanty: Mis, Menk (formes apparentees)
+  - russe: Менкв, лесной великан (geant des forets)
+categorie: geant des forets / homme-bois / etre primordial
+tradition: siberien_arctique
+sous_tradition: ougrienne occidentale (Mansi, basse Ob)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# MENGKV
+
+## SIGNIFICATION DU NOM
+
+Le terme *Mengkv* (parfois transcrit *Menkv* ou *Menk*) appartient a la langue mansi, parlee dans les forets de la basse Ob et de l'Oural septentrional. Sa racine est ancienne et opaque pour les locuteurs eux-memes, ce qui constitue dans la tradition mansie un indice de son anciennete : les noms dont le sens premier s'est efface remontent au temps ou les especes furent nommees pour la premiere fois, avant que la parole ordinaire ne les reduise a des etiquettes.
+
+Les recits le designent souvent par perilcuse : *l'homme de la foret*, *le grand qui marche*, *celui dont on ne dit pas le nom dans les bois*. Cette derniere appellation traduit une regle observee par les chasseurs mansis traditionnels : prononcer le nom propre du Mengkv en pleine foret revient a l'appeler, et il se rendra a l'invitation.
+
+## ORIGINE
+
+Selon les traditions mansies, le Mengkv n'est pas une creation accidentelle ni une descendance d'unions ulterieures. Il appartient a la *premiere humanite* — celle que le demiurge essaya de creer avant les hommes actuels, et dont il fut mecontent.
+
+Les recits varient sur le materiau. Une version courante affirme qu'il fut taille dans le meleze. Une autre raconte qu'il fut faconne dans le bois pourri. Une troisieme avance qu'il fut petri dans une glaise impure. Toutes s'accordent pour dire qu'a un certain moment, le createur regarda son ouvrage et le jugea inacceptable comme prototype humain : trop grand, trop dur, incapable de parole articulee, indomptable. Il abandonna ces premiers etres dans la foret plutot que de les detruire, et entreprit alors la fabrication de l'homme actuel a partir d'une matiere differente, plus souple.
+
+Les Mengkv sont donc *les ainés rejetes*. Ils ont conscience d'etre venus avant les humains, et conservent rancune envers ceux qui ont pris leur place dans la faveur du demiurge.
+
+## NATURE
+
+Le Mengkv est un *etre vivant a part entiere* — il mange, il dort, il engendre, il vieillit, il meurt. Mais sa substance porte la marque de sa matiere d'origine : il est plus *bois* qu'homme, plus *terre* qu'homme.
+
+Il n'est pas un esprit au sens strict. Il n'est ni invisible, ni intangible, ni immateriel. Un chasseur mansi qui rencontre un Mengkv le voit avec ses yeux, l'entend marcher, sent son odeur. Il peut etre tue par les armes ordinaires si l'on connait ses points de vulnerabilite. Cette materialite radicale le distingue des esprits chamaniques tout en le maintenant en dehors de l'humanite normale.
+
+Les traditions le rattachent au *peuple intermediaire*, situé entre la pure humanite et la pure animalite, entre la creation reussie et l'echec entier.
+
+## HABITAT
+
+Le Mengkv habite les forets profondes — les zones de taiga dense, les vallees marecageuses ou les humains ne s'aventurent pas, les hauteurs boisees inaccessibles. Il privilegie les pessieres anciennes, les meleziers vierges, les rives de rivieres reculees ou aucune trace de campement humain n'est visible.
+
+Il construit parfois des abris — des cabanes rudimentaires faites de troncs entasses, sans portes, sans foyer. D'autres fois il dort directement adosse contre les arbres, ou dans des creux d'ecorce, ou enterre a demi dans le sol forestier. Il ne possede pas de territoire defendu au sens animal, mais des *zones d'errance* qu'il parcourt selon des cycles que les anciens chasseurs apprenaient a reperer pour les eviter.
+
+## DESCRIPTION
+
+Le Mengkv est *immense*. Sa taille depasse de loin celle d'un homme ordinaire — les recits parlent de figures atteignant la cime des jeunes meleziers, ou se baissant pour passer sous les branches des plus grands arbres. Cette demesure constitue son trait premier.
+
+Sa peau est decrite tantot comme couverte de poils longs et durs, tantot comme nue et craquelee comme l'ecorce, tantot comme un mélange — poils sur le tronc, ecorce sur les membres. Sa couleur tire toujours vers le brun sombre, le gris-vert mousseux, parfois le noir terreux.
+
+Son visage est rarement decrit en detail, comme si les rares chasseurs qui l'ont vu de pres n'ont pas eu le loisir d'en garder un souvenir précis. Les recits mentionnent une bouche large garnie de dents inegales, des yeux enfonces sous des arcades proeminentes, une absence presque totale de cou — la tete posee directement sur les epaules massives. Certaines traditions lui donnent un seul oeil, ou trois yeux, ou des yeux qui changent de nombre selon l'angle.
+
+Sa main comporte des doigts plus longs et plus durs que ceux d'un homme. Ses pieds laissent des empreintes dont les chasseurs mansis savaient reconnaitre la disposition particuliere — souvent decrite comme tournee a l'envers, les talons devant et les orteils derriere, ce qui rendait sa piste impossible a suivre dans le sens correct.
+
+## POUVOIRS
+
+Le Mengkv est *d'une force prodigieuse*. Il deracine de jeunes arbres pour s'en faire des armes. Il abat un elan d'un seul coup. Il porte sur ses epaules des charges qu'aucun cheval ne souleverait.
+
+Il *connait la foret intimement*. Il sait ou se trouvent le gibier, l'eau, les passages dissimules. Il sait quand la neige cedera, quand la riviere debordera, quand les ours sortiront de leur taniere. Cette connaissance n'est pas surnaturelle au sens des esprits chamaniques — elle decoule de son anciennete dans le territoire et de sa parente avec la matiere boisee qui l'environne.
+
+Il a la *capacite de tromper l'orientation*. Un homme qui croise sa piste, ou qui penetre dans une zone qu'il considere sienne, se trouve subitement incapable de retrouver son chemin. Les arbres lui paraissent identiques quel que soit l'angle, le soleil semble se deplacer dans le ciel a contresens, les ruisseaux changent de direction. Cette desorientation persiste jusqu'a ce que l'homme sorte de la zone — souvent en cercle, parfois apres plusieurs jours d'errance.
+
+Sa *parole*, lorsqu'il en use, ressemble a un grondement ou a un craquement de bois. Certaines traditions affirment qu'il connait la langue mansie ancienne — celle parlee par les premieres generations apres la creation — mais qu'il la deforme par sa bouche maladroite. D'autres traditions lui denient toute parole articulee.
+
+## FAIBLESSES
+
+Le Mengkv, malgre sa taille et sa force, n'est pas invulnerable.
+
+Sa premiere faiblesse est l'eau courante : il repugne a traverser une riviere ou un torrent. Les chasseurs poursuivis pouvaient se sauver en franchissant le premier cours d'eau rencontre.
+
+Sa seconde faiblesse est la *connaissance de son nom propre*. Chaque Mengkv individuel porte un nom personnel, et celui qui le decouvre — par chance, par observation patiente, par un songe rapporte par le chamane — peut le commander en partie, ou du moins l'eloigner.
+
+Sa troisieme faiblesse est le *fer froid*. Le bois et l'os, materiaux dont sont faits ses propres outils, ne lui font qu'un mal limite. Mais le fer travaille, surtout celui d'une lame ou d'une pointe de fleche, lui inflige des blessures qu'il guerit difficilement.
+
+Une faiblesse plus subtile concerne la *parole de raison*. Un homme qui parvient a dialoguer calmement avec un Mengkv rencontre — sans courir, sans crier, sans le menacer — peut parfois detourner son attention, voire conclure avec lui une trêve temporaire. Ceci suppose un sang-froid que peu de chasseurs ont reussi a maintenir face a la creature.
+
+## COMPORTEMENT
+
+Le Mengkv n'est pas systematiquement hostile. Les recits decrivent trois grandes attitudes selon les circonstances.
+
+Lorsqu'il est laisse tranquille dans son territoire forestier, il vit en errance solitaire, chassant le gibier qu'il rencontre, dormant ou la fatigue le prend, evitant les zones humanisees. Dans ce mode, un humain qui le croise par hasard et qui s'eloigne sans bruit peut s'en tirer indemne.
+
+Lorsqu'il se trouve provoque, derange, suivi, ou que son territoire est traverse sans precaution, il devient agressif. Il poursuit l'humain, le force a l'errance circulaire, finit parfois par le saisir et l'emporter. Les hommes ainsi enleves ne reviennent pas, ou reviennent prives de raison.
+
+Lorsque la rencontre prend la forme d'une confrontation directe, le Mengkv peut accepter le combat — mais il preferera souvent fuir si l'humain montre une force inattendue ou se trouve accompagne. Il calcule. Il n'attaque que ce qu'il pense pouvoir vaincre.
+
+Une variante particuliere de son comportement concerne l'*enlevement des femmes*. Plusieurs recits mansis racontent comment un Mengkv enleva une jeune femme cueillant des baies en lisiere de foret, l'emporta dans son repaire, la garda comme compagne. Les enfants nes de telles unions etaient dits *moitie Mengkv* — d'apparence humaine mais dotes d'une force et d'une grossierete inhabituelles. Les traditions distinguent ces cas, qu'elles considerent comme rares et regrettables, de la simple agression mortelle plus frequente.
+
+## RÉCITS TRADITIONNELS
+
+Une histoire mansie repandue raconte la rencontre d'un chasseur solitaire avec un Mengkv au cours d'une saison de piegeage prolongee. Le chasseur, ayant observe pendant plusieurs jours des empreintes inhabituelles autour de sa cabane, comprit qu'un Mengkv hantait les environs. Au lieu de fuir, il prepara minutieusement sa rencontre : il fabriqua une lance a pointe de fer, dispersa des cendres autour de sa cabane, et garda toujours une riviere derriere lui en chemin. Lorsque le Mengkv apparut enfin, le chasseur ne courut pas. Il lui parla d'une voix calme, lui offrit une part de sa viande sechee, et lui demanda son nom. Le Mengkv, surpris d'etre traite ainsi, repondit en grondant un mot que le chasseur retint. Plus tard, lorsque le Mengkv revint avec des intentions hostiles, le chasseur prononca ce mot. La creature recula et disparut dans la foret pour ne plus revenir.
+
+Une autre tradition raconte un Mengkv qui defia un chamane mansi, croyant que les hommes nouveaux etaient incapables de tenir tete aux ainés rejetes. Le chamane, au lieu de combattre par la force, entra en transe et fit appel aux esprits qui habitent au-dela des forets. Ces esprits attesterent que la creation actuelle des hommes etait l'ouvrage definitif du demiurge, et que les Mengkv ne pouvaient revendiquer aucune preeminence. Le Mengkv, contraint de reconnaitre cette verite metaphysique, dut s'incliner et promettre de ne plus harceler le village du chamane.
+
+Un troisieme recit, plus sombre, raconte l'histoire d'une lignee mansie dont une ancetre fut enlevee par un Mengkv. Les descendants gardaient memoire de leur sang melange : ils etaient plus grands que la moyenne, plus silencieux, comprenaient mieux que les autres les mouvements du gibier. Mais ils etaient aussi sujets a des acces de fureur soudaine, qui rappelait a leur entourage la part de bois ancien qui circulait encore dans leurs veines.
+
+## VARIANTES RÉGIONALES
+
+Les Khantys, peuple voisin et linguistiquement apparente aux Mansis, connaissent une figure tres similaire, parfois designee par des termes derives. Les Khantys insistent davantage sur la dimension *exterieure aux frontieres* du peuple : pour eux, le Menk vit au-dela des limites du territoire connu, et son apparition aux abords des villages constitue un signe de desordre cosmique.
+
+Vers le sud, des traces de la figure se retrouvent dans certaines traditions samoyedes, ou un *homme-foret* analogue est mentionne, sans que les recits soient aussi developpes que chez les Mansis.
+
+Vers l'est, des creatures comparables — geants des bois, premiers humains rejetes, etres du materiau brut — apparaissent dans plusieurs traditions toungouses, evenkes, et meme yakoutes, signe d'un fond paleo-siberien ancien partage. Mais le terme *Mengkv* lui-meme appartient specifiquement au domaine ougrien occidental.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les representations modernes — notamment dans les fictions russes contemporaines, les jeux video et les recueils populaires destines au grand public — tendent a confondre le Mengkv avec d'autres figures de l'imaginaire mondial : le Yeti himalayen, le Sasquatch nord-americain, le geant generique des contes. Plusieurs traits propres aux traditions mansies sont ainsi gommes ou deformes :
+
+- L'origine theologique precise du Mengkv en tant que *premiere humanite ratée du demiurge* est generalement omise au profit d'une simple animalite primitive.
+- Les empreintes a l'envers, motif specifique des recits mansis, sont rarement reprises.
+- Le caractere negociable — possibilite de dialogue, de troc, voire de paix temporaire — est elimine au profit d'une bestialite irreductible.
+- La distinction entre le Mengkv individuel (etre concret, mortel) et la categorie generale est confondue avec les representations homogeneisantes des creatures cryptiques modernes.
+- L'identification, frequente dans la presse contemporaine, du Mengkv avec un *homme sauvage* observable scientifiquement releve d'une lecture ethnographique tardive et ne correspond pas au statut traditionnel de la creature dans le systeme religieux mansi.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie mansie traditionnelle, principalement transmise par les broderies, les objets de bois sculpte, les tambours chamaniques et les figurines d'os, donne du Mengkv des representations stylisees plutot que naturalistes. La figure est souvent reduite a une silhouette massive aux contours simplifies, avec des bras allonges et une tete sans cou, parfois marquee de motifs en zigzag rappelant l'ecorce.
+
+Les tambours chamaniques mansis et khantys de la basse Ob, lorsqu'ils representent la zone forestiere du monde median, incluent parfois une figure identifiable au Mengkv parmi les habitants de cet espace. Sa position iconographique le situe entre les animaux de la chasse et les esprits non humains, marquant son statut intermediaire.
+
+Quelques sculptures d'os ou de defenses de mammouth, retrouvees lors de fouilles dans le bassin de l'Ob, ont ete interpretees par certains specialistes comme des figurations anciennes de creatures de ce type, sans qu'une certitude absolue puisse etre etablie pour des objets prehistoriques.
+
+## POUR ALLER PLUS LOIN
+
+Le Mengkv occupe une position centrale dans la cosmologie mansie, ou il sert d'envers de l'humanite normale et de garde-fou ontologique : par contraste avec lui, l'homme actuel se definit comme creation reussie, parlante, sociale, mortelle d'une mortalite partagee. Sa presence dans les forets rappelle aux humains qu'ils ne furent pas la premiere tentative, et que d'autres esquisses du demiurge survivent dans les zones non humanisees du monde.
+
+L'etude scientifique du folklore mansi a longtemps ete entravee par l'eloignement geographique, le declin demographique du peuple mansi, et les politiques d'assimilation russes puis sovietiques. Les recueils ethnographiques realises au tournant du vingtieme siecle constituent neanmoins une base documentaire substantielle.
+
+## PROMPT IMAGE
+
+Ancient Siberian shamanic illustration of the Mengkv, ink and ochre on tanned reindeer hide stretched over wood, Mansi traditional folk art aesthetic, a colossal forest giant standing among ancient larch and Siberian pine trees in deep taiga, the giant's body composed of a hybrid of bark-textured skin and dark coarse hair, head set directly on massive shoulders without visible neck, deep-set eyes under heavy brow ridges, a wide mouth with uneven teeth, abnormally long arms ending in clawed bark-like fingers, footprints visibly oriented backward (heels forward, toes pointing back) in the snow behind him, surrounded by stylized larch trees and Siberian taiga vegetation, a small distant Mansi hunter visible at the edge of the composition with bow and reindeer-fur clothing, the river separating them flowing with stylized wave patterns, sky filled with northern light auroras and traditional Mansi geometric border patterns of zigzag and rhombic motifs (decorative abstract patterns only, no readable text), color palette restricted to earthy ochres, dark browns, charcoal black, and pale aurora green, hand-drawn folk art style reminiscent of authentic Khanty-Mansi embroidery and Siberian shamanic drum decoration, no modern rendering, no 3D, no cartoon, no photorealism, deeply traditional indigenous Siberian aesthetic, vintage ethnographic field illustration quality, weathered hide texture, no text, no letters, no inscriptions, no labels

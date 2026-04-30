@@ -1,0 +1,140 @@
+---
+nom_principal: Nekomata
+nom_original: 猫又 / ねこまた / Nekomata
+variantes_linguistiques:
+  - kanji: 猫又, 猫股
+  - kana: ねこまた
+  - romaji: Nekomata
+  - lecture_alternative: Neko-mata
+categorie: yokai félin / chat métamorphe / esprit de bête âgée
+tradition: japonaise
+sous_tradition: yokai (Honshu, mentions médiévales et Edo)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# NEKOMATA
+
+## SIGNIFICATION DU NOM
+
+Le nom *Nekomata* est composé de deux éléments. Le premier, *neko*, est le mot ordinaire désignant le chat domestique. Le second, *mata*, signifie *fourche*, *bifurcation*, *division en deux*. L'ensemble se traduit littéralement par *chat fourchu* ou *chat à la queue divisée*. Ce nom décrit l'attribut visuel le plus immédiatement reconnaissable de la créature — la fente longitudinale de sa queue, qui se sépare en deux branches à mesure qu'elle vieillit.
+
+Une lecture savante a parfois proposé un rapprochement étymologique avec le verbe *matagu* (enjamber, franchir), suggérant que la créature *enjambe* la frontière entre l'animal et l'esprit. Cette interprétation, sans être formellement attestée dans les anciens textes, traduit fidèlement la fonction symbolique du nekomata : il appartient à un seuil, ni tout à fait bête, ni tout à fait yokai.
+
+Les rouleaux médiévaux mentionnent occasionnellement la graphie *猫股*, où le second caractère désigne plus précisément la *cuisse* ou la *racine de la queue*, soulignant que la division ne survient pas n'importe où mais à la base de l'appendice caudal.
+
+## ORIGINE
+
+Le nekomata appartient à la classe des *bakemono* — les choses qui se transforment — et plus précisément à la sous-classe des animaux ordinaires devenus surnaturels par effet d'âge prolongé. Les traditions japonaises soutiennent depuis longtemps que tout animal qui dépasse une certaine durée d'existence acquiert progressivement des pouvoirs occultes. Pour le chat, ce seuil est généralement fixé à vingt ans, parfois à treize, parfois à un poids critique.
+
+La première mention textuelle d'une créature désignée comme *nekomata* apparaît dans un journal aristocratique de la période Kamakura, qui décrit un événement survenu dans une province montagneuse : une bête à grands yeux et à queue fourchue aurait dévoré plusieurs personnes en une nuit. Les commentaires postérieurs ont identifié cette bête comme un nekomata sauvage, distinct du nekomata domestique qui apparaîtra plus tard dans la tradition d'Edo.
+
+Les recueils de la fin du Moyen Âge distinguent en effet deux origines pour la créature. Il y a le *nekomata des montagnes*, créature sauvage et féline d'une taille comparable à celle d'un sanglier, qui n'a jamais vécu auprès des hommes. Et il y a le *nekomata domestique*, ancien chat de maison qui, ayant dépassé l'âge, a vu sa queue se fendre et son intelligence se transformer.
+
+## NATURE
+
+Le nekomata est un *chat-au-seuil* : il a quitté la simple animalité sans accéder pleinement au statut de yokai majeur. Sa nature est intermédiaire, hybride, instable. Il conserve la forme générale du chat, mais cette forme s'élargit, se charge de gestes humains, et abrite désormais une intelligence qui pèse, calcule, parfois se venge.
+
+Il est aussi *bipède occasionnel*. Les traditions affirment que le nekomata, lorsqu'il croit n'être pas observé, se dresse sur ses pattes arrière et marche debout. Cette posture, contraire à l'animalité, est le signe le plus inquiétant de sa transformation accomplie.
+
+Il est enfin *parolier*. Le chat ordinaire ne parle pas. Le nekomata, lui, parle — d'abord en répétant des mots qu'il a entendus chez ses maîtres, puis en formant des phrases entières, parfois en chantant. Cette parole acquise n'est jamais bienveillante. Elle révèle ce que le chat a vu et entendu durant ses longues années auprès des humains.
+
+## HABITAT
+
+Le nekomata sauvage habite les montagnes profondes. Les traditions le situent surtout dans les chaînes intérieures du Honshu — provinces de Shinano, Echigo, Tosa, Kii. Il y vit dans les vallées peu fréquentées, près des sources et des falaises, et descend rarement vers les villages.
+
+Le nekomata domestique demeure d'abord dans la maison où il a vécu sa longue vie de chat. Une fois sa transformation accomplie, il quitte généralement cette maison pour gagner un lieu retiré — temple abandonné, grenier d'une vieille demeure, repli forestier proche du village. Il y mène une existence à demi sociale : il observe les humains, parfois les fréquente déguisé, retourne à sa retraite avant l'aube.
+
+Certains récits évoquent des assemblées de nekomata. Plusieurs anciens chats convertis se réuniraient à la nouvelle lune dans des clairières précises pour danser, chanter, et choisir parmi les humains du voisinage ceux dont ils tireront vengeance.
+
+## DESCRIPTION
+
+Dans sa forme la moins développée, le nekomata ressemble à un grand chat ordinaire dont la queue se fend en deux branches égales à partir de la moitié. Ses yeux, plus larges que ceux d'un chat normal, brillent dans l'obscurité d'une lumière jaune ou verte plus intense que la simple réfraction féline.
+
+Dans sa forme accomplie, surtout pour les nekomata sauvages, la taille augmente considérablement. Les vieux récits décrivent des bêtes à hauteur d'épaule humaine, aux crocs proéminents, au pelage parfois noir, parfois tigré, parfois moucheté. La queue divisée porte chaque branche dressée, capable de se mouvoir indépendamment, et rappelle à l'œil deux serpents qui prolongent l'arrière-train.
+
+Lorsque le nekomata domestique se redresse sur ses pattes arrière, il atteint la taille d'un enfant. Les rouleaux d'Edo le représentent souvent vêtu d'un kimono ou d'un *tenugui* noué autour de la tête comme une danseuse, exécutant un pas léger devant une lanterne. Cette image — le chat humanisé qui danse — est devenue l'iconographie classique du yokai.
+
+## POUVOIRS
+
+La *parole acquise* est le pouvoir le plus immédiatement noté. Le nekomata répète d'abord, puis compose. Il imite la voix de membres de la maisonnée disparus, attirant ainsi les vivants vers des situations dangereuses.
+
+La *station debout et la danse* font partie de ses capacités caractéristiques. Le nekomata danse — devant une lanterne, dans une clairière, sur un toit — et ses postures évoquent celles des danseurs humains.
+
+La *manipulation des morts* lui est attribuée dans une croyance attestée d'Edo : il suffirait qu'un chat saute par-dessus le corps d'un défunt pour que ce corps se redresse. Cette croyance, terreur populaire des veillées funéraires, conduisait à enfermer les chats avant et pendant les rites mortuaires. Cette manipulation, lorsqu'elle est intentionnelle, relève spécifiquement du nekomata.
+
+La *production de feu fantôme* est mentionnée dans plusieurs sources. Le nekomata souffle ou crache une flamme bleuâtre — apparentée à celle du *kitsunebi* du renard — qu'il utilise pour égarer les voyageurs nocturnes ou simplement pour signaler sa présence dans la nuit.
+
+L'*illusion d'apparence humaine* lui est également prêtée, particulièrement pour le nekomata d'âge avancé. Sous cette forme, il prend l'aspect d'une vieille femme, d'un musicien itinérant, d'un moine de passage. Cette transformation est moins complète que celle du *kitsune* ou du *tanuki* — une queue, une oreille, une posture trahit toujours l'imposture pour qui sait regarder.
+
+## FAIBLESSES
+
+Le nekomata redoute *l'eau froide jetée par surprise*, qui peut briser sa transformation et le contraindre à révéler sa forme féline.
+
+Les *miroirs anciens* lui sont défavorables. Un miroir de bronze poli reflète son image véritable lorsqu'il a pris forme humaine, dénonçant sa nature.
+
+Le *chien*, ennemi héréditaire du chat, conserve cette inimitié face au nekomata. Plusieurs récits rapportent qu'un chien fidèle a sauvé son maître en s'attaquant à un nekomata qui s'apprêtait à le dévorer.
+
+Les *prières et formules apaisantes* sont efficaces dans la mesure où le nekomata, à la différence des yokai purement malveillants, conserve une mémoire de la maison où il a vécu. Si on l'invoque par son ancien nom de chat, en mentionnant une bonté reçue, il peut suspendre son agression.
+
+La *coupe rituelle de la queue*, pratique attestée dans certaines régions, vise à empêcher préventivement le chat domestique de devenir nekomata. On amputait l'extrémité de la queue dès le jeune âge ou bien on choisissait des chats à queue courte naturelle, parfois appelés *bobtail japonais*. Une queue qui ne peut pas se fendre ne peut pas, croyait-on, abriter la transformation.
+
+## COMPORTEMENT
+
+Le nekomata, dans la tradition, est rarement un yokai d'attaque frontale. Il agit par patience et calcul. Il observe la maisonnée durant des décennies, mémorise les querelles, retient les humiliations subies, et attend l'occasion.
+
+Il distingue nettement les humains qui l'ont bien traité de ceux qui l'ont maltraité. Aux premiers, il peut accorder, dans certains récits, des bienfaits discrets — un trésor révélé, un voleur dénoncé, un malade soigné par une présence apaisante au pied du futon. Aux seconds, il prépare des vengeances proportionnées.
+
+Sa vengeance ordinaire passe par la voix. Il imite la voix d'un proche défunt pour appeler le coupable hors de chez lui durant la nuit, vers un puits ou une falaise. Sa vengeance extrême consiste à dévorer le coupable et à prendre son apparence pour vivre, durant un temps, à sa place dans sa propre maison — un motif de kaidan particulièrement répandu à Edo.
+
+En groupe, les nekomata pratiquent des assemblées dansantes nocturnes. Quiconque les surprend doit fuir sans regarder en arrière, sous peine d'être saisi par les danseurs et intégré, vivant ou mort, à la danse.
+
+## RÉCITS TRADITIONNELS
+
+Le journal aristocratique du début du XIIIe siècle qui mentionne pour la première fois le nekomata rapporte l'événement avec sobriété : dans la province de Nantô, une bête à grands yeux et à queue fourchue est apparue dans la montagne et a tué plusieurs hommes en une seule nuit. Les chasseurs envoyés capturèrent finalement la bête et confirmèrent qu'il s'agissait d'un *nekomata*, vieux chat sauvage transformé.
+
+Un autre récit célèbre raconte l'histoire d'une vieille servante d'une famille samurai. Le chat de la maison, âgé de plus de vingt ans, disparaît un soir. Le lendemain, la vieille servante semble distante, refuse certains plats, fuit le regard des miroirs. La famille remarque que les anciennes querelles avec d'autres serviteurs ressurgissent par sa bouche avec une exactitude troublante. Un jour, le jeune fils de la maison, jouant avec un seau, jette par accident de l'eau froide au visage de la servante. L'image trouble : la silhouette humaine cède un instant à celle d'un grand chat à queue divisée. Le père comprend. La nuit suivante, on tend un piège. Au matin, la dépouille découverte est celle d'un vieux chat noir. Le corps de la véritable servante, dévorée plusieurs jours auparavant, est retrouvé sous le plancher.
+
+Une troisième histoire concerne un guerrier du Tosa qui, traversant un col en pleine nuit, entend un chant d'enfant venu de la falaise. Il s'approche, espérant porter secours. La voix change : c'est désormais celle de sa mère, morte depuis dix ans. Il comprend, dégaine, et frappe dans le vide. Le sang noir d'un nekomata jaillit. La bête s'enfuit en boitant, et le guerrier achève sa traversée avec aux narines une odeur âcre de poil brûlé.
+
+## VARIANTES RÉGIONALES
+
+Dans la province de Tosa, le nekomata se confond parfois avec un autre yokai félin, le *kasha*, qui dérobe les cadavres. Certaines traditions y voient le nekomata accompli, devenu charognard mortuaire.
+
+Sur l'île de Kyushu, on parle plutôt du *bakeneko* — le chat-monstre — comme catégorie englobante, et le nekomata y est traité comme une variante particulière : le bakeneko à queue divisée, distingué par cet attribut anatomique précis.
+
+Dans les régions du nord, où les hivers sont longs, on prête aux nekomata domestiques un comportement saisonnier. Ils sortiraient surtout en hiver, lorsque les chats ordinaires demeurent près du foyer, et profiteraient de la confusion entre chats normaux et chats transformés pour s'introduire dans les maisons.
+
+Une tradition d'Okinawa, plus tardive et probablement importée, distingue le *majimun* félin du nekomata propre : le premier serait un esprit ayant pris forme de chat, le second un chat ayant accédé à la condition d'esprit.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire récente — anime, manga, jeux vidéo — a beaucoup employé le nekomata, souvent en le confondant avec d'autres yokai félins. Plusieurs distinctions méritent d'être maintenues.
+
+Le nekomata n'est pas un *neko-musume* (fille-chat). Le neko-musume est une figure essentiellement moderne, jeune femme aux oreilles et à la queue de chat, image souvent humoristique ou affectueuse. Le nekomata, dans la tradition, est presque toujours masculin ou âgé, et son apparition est inquiétante.
+
+Le nekomata n'est pas non plus le *bakeneko* simple. Tout nekomata est un bakeneko — un chat transformé — mais tout bakeneko n'est pas nekomata. La queue fourchue est l'attribut distinctif. Un chat dont la queue reste entière, même s'il a parlé ou dansé, n'est pas nekomata mais simple bakeneko.
+
+Le nekomata n'est pas le *maneki-neko* (chat porte-bonheur). Le maneki-neko est un chat votif, gardien de prospérité, d'origine plus tardive et de connotation entièrement positive. Confondre les deux revient à mélanger un esprit dévorateur et une amulette commerciale.
+
+Enfin, l'idée que le nekomata serait toujours un yokai bienveillant — image diffusée par certaines œuvres récentes — ne correspond pas aux récits anciens. La tradition est sans ambiguïté : le nekomata est dangereux. Sa bienveillance, lorsqu'elle existe, est conditionnelle, sélective, et toujours teintée de mémoire et de calcul.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Toriyama Sekien, dans ses recueils illustrés du XVIIIe siècle, a fourni l'image classique du nekomata : un chat dressé sur ses pattes arrière, vêtu d'un kimono, un *tenugui* noué autour de la tête, exécutant une danse devant une lanterne, queue divisée nettement visible derrière lui. Cette représentation est devenue canonique pour toute l'iconographie yokai postérieure.
+
+Avant Sekien, le rouleau médiéval connu sous le nom de *Hyakki Yagyō* — défilé nocturne des cent démons — figurait déjà des chats à queue divisée parmi la procession des yokai, généralement en compagnie de *karakasa* (parasols animés) et de *tsukumogami* (objets devenus esprits).
+
+Le maître Yoshitoshi, à la fin du XIXe siècle, a consacré plusieurs estampes à des scènes de kaidan impliquant des nekomata. Il en montre généralement la transformation : la silhouette humaine en train de céder à la silhouette féline, la queue fourchue se devinant déjà sous l'ourlet du kimono.
+
+Les masques de théâtre Nō et Kabuki incluent un masque de nekomata, féminin et félin à la fois, avec des yeux étirés et une bouche fendue. Ce masque accompagne les pièces où le yokai félin tient un rôle, notamment celles inspirées de la tragédie du clan Saga.
+
+## POUR ALLER PLUS LOIN
+
+Le nekomata est l'un des yokai les mieux attestés du corpus japonais, présent dans les sources médiévales, dans les recueils Edo, dans le théâtre, et dans l'iconographie. Il appartient à la grande famille des *bakemono* animaux dont font également partie le renard transformé, le blaireau transformé, et la loutre transformée.
+
+L'étude de la croyance dans le nekomata révèle l'attention que les sociétés japonaises ont portée au seuil entre animal et esprit, et à la fonction de la longévité comme accélérateur de transformation. Vieillir, dans cette tradition, ce n'est pas seulement durer : c'est devenir progressivement autre.
+
+## PROMPT IMAGE
+
+Edo period ukiyo-e woodblock print of a Nekomata, traditional Japanese yokai, an aged cat standing upright on its hind legs in front of a glowing paper lantern, the cat's tail clearly split into two long branches behind him, both branches raised independently, the cat wearing a simple cotton kimono and a tenugui cloth knotted around its head like a dancer, performing a delicate posture mid-dance, large round eyes glowing with a faint inner light, sharp fangs slightly visible, fur rendered with traditional woodblock line work, deep blacks and muted ochre and grey-blue tones, behind him a wooden veranda of an old Japanese house at night, a bowl of fish bones nearby, distant moon partially hidden by drifting clouds, the composition recalling the Hyakki Yagyō night procession scrolls, marginal cartouches with abstract decorative patterns (no readable text), Yoshitoshi-influenced atmospheric mood, pale blue ghost flames floating in the background air, traditional Japanese ink line, flat color planes, faint paper texture, no modern rendering, no 3D, no cartoon style, vintage scientific bestiary precision combined with classical Japanese woodblock aesthetics, no text, no letters, no inscriptions, no labels
