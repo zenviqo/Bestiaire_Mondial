@@ -1,0 +1,138 @@
+---
+nom_principal: Anansi
+nom_original: Ananse (akan-twi)
+variantes_linguistiques:
+  - akan_twi: Ananse, Kwaku Ananse
+  - fante: Ananse
+  - ewe: Yiyi
+  - jamaicain_patwa: Anancy, Bredda Anansi
+  - gullah_caroline: Aunt Nancy, Aun' Nancy
+  - sranan_tongo_suriname: Anansi, Anansi-tori
+  - creole_haitien: Konpè Zarenyen, Ti Malis (figure parente)
+  - creole_antillais: Konpè Zayèn
+categorie: araignée trickster / créature-conteur / figure de ruse
+tradition: afro-américaine syncrétique
+sous_tradition: origine akan-ashanti (Ghana) puis créolisation caribéenne et gullah
+statut: validé
+date_rédaction: 2026-04-29
+---
+
+# ANANSI
+
+## SIGNIFICATION DU NOM
+
+Le nom *Ananse* en langue akan-twi du Ghana désigne d'abord, et avant toute charge mythologique, l'araignée — l'animal lui-même, celui qu'on voit tisser sa toile dans les coins des cases et au pied des arbres à kola. La créature de tradition s'appelle plus complètement *Kwaku Ananse*, c'est-à-dire *l'Araignée du mercredi*, le préfixe *Kwaku* étant le nom-jour donné dans la nomenclature akan aux personnes (et entités) nées un mercredi. Anansi est donc, littéralement, *l'Araignée née un mercredi* — un nom propre qui inscrit la créature dans une matrice familière, presque humaine, plutôt que dans une distance divine.
+
+Au fil du transport de la figure à travers l'Atlantique, le nom s'est plié aux phonologies des langues d'arrivée. Dans le créole anglais de la Jamaïque il devient *Anancy* ou *Bredda Anansi*. Dans le parler gullah de la côte de Caroline du Sud et de Géorgie, où la mémoire ouest-africaine s'est conservée avec une densité exceptionnelle, l'araignée est devenue *Aunt Nancy* — féminisation phonétique frappante d'un nom à l'origine masculin, et indice du déplacement narratif que la diaspora a opéré. Dans le créole haïtien, la figure se rapproche des chaînes de contes du *Konpè* (compère) et l'araignée y est désignée comme *Konpè Zarenyen*, l'Araignée en personne.
+
+## ORIGINE
+
+Anansi est originaire du peuple akan-ashanti, vaste ensemble culturel établi dans la forêt humide du sud du Ghana actuel et débordant sur la Côte d'Ivoire orientale, comprenant notamment les Ashanti, les Fante, les Akwapim, les Akyem, les Bono. Chez ces peuples, les contes se nomment *Anansesem* — littéralement *paroles d'Anansi*, *histoires d'Anansi*. L'expression dépasse le seul cycle de l'araignée : tout récit de tradition orale finit par relever de cette catégorie générique. Conter, en akan, c'est d'abord conter Anansi, puis tout ce qui s'apparente à Anansi.
+
+À partir du XVIIe siècle, la traite atlantique transporta des centaines de milliers d'Akan capturés vers les plantations sucrières des Antilles britanniques (Jamaïque, Barbade), des Antilles néerlandaises et du Suriname, puis vers les rizières et les indigoteries de la Caroline du Sud. Les langues s'effondrèrent en quelques générations, mais Anansi voyagea — porté par les contes que les esclaves se transmettaient de bouche à oreille, le soir, à la veillée, dans les *quartiers* à l'arrière des plantations. La figure devint alors un instrument de résistance culturelle : sous le rire et la ruse de l'araignée, les conteurs encodaient l'art de survivre face au plus fort, de retourner sa propre force contre le maître.
+
+## NATURE
+
+Anansi est une *créature-trickster*, terme que l'anthropologie a forgé pour désigner ces figures liminaires que l'on retrouve dans de nombreuses traditions du monde — Renard chez certains peuples eurasiatiques, Coyote ou Corbeau en Amérique du Nord, Tortue ailleurs en Afrique de l'Ouest. Le trickster n'est ni dieu, ni héros, ni démon ordinaire : c'est une créature qui dérange, ruse, transgresse, retourne, et dont les faits servent à expliquer après coup l'état présent du monde.
+
+Anansi est plus précisément l'*araignée-conteur*. Sa fonction propre n'est pas seulement de tromper : c'est de *posséder les histoires*, de les détenir, de les distribuer. Il est l'origine narrative de tout ce qui se raconte. Le fil qu'il tisse n'est pas seulement un piège matériel — c'est aussi le fil du récit, la trame que le conteur déploie au fil de la nuit.
+
+Sa nature est *ambivalente*. Anansi peut être bienveillant, ingénieux, salvateur — il enseigne par l'exemple, il sauve son peuple, il rapporte aux humains ce qui leur manquait. Il peut aussi être glouton, vaniteux, cruel envers plus faible que lui. Cette ambivalence n'est pas un défaut narratif : elle est constitutive de la figure. Anansi tient ensemble les deux versants de la ruse.
+
+## HABITAT
+
+Aux origines akan, Anansi habite la forêt équatoriale du Ghana — celle des grands arbres à kola, des fromagers monumentaux, des sentiers étroits où les hommes croisent les bêtes. Sa maison est tantôt un grand arbre creux, tantôt une simple toile tendue entre deux branches, tantôt une case humaine où il vit avec son épouse Aso et leurs fils.
+
+À travers la traversée atlantique, son habitat s'est translaté. Dans les Caraïbes anglophones, Anancy hante les *bushes* des montagnes intérieures, les *yards* des cases d'esclaves, les *provision grounds* où les captifs cultivaient leur subsistance. Au Suriname, *Anansi-tori* circule depuis les villages marrons de l'intérieur, où les descendants d'esclaves évadés ont reconstitué des sociétés afro-surinamaises. Sur les côtes de Caroline, *Aunt Nancy* hante les vérandas en bois où les anciens Gullah racontaient le soir, et les marais de palmétos où l'araignée tisse encore ses toiles entre deux racines de cyprès.
+
+## DESCRIPTION
+
+Anansi se présente sous une forme variable, et cette variabilité même est l'un de ses traits essentiels. Tantôt il est purement araignée — petit, à huit pattes, capable de se faufiler dans une fente, de descendre d'un fil, d'observer sans être vu. Tantôt il est purement humain — un petit homme malingre, à la voix nasillarde caractéristique que les conteurs imitent, vêtu modestement, capable de marcher debout, de parler aux rois et de manger à table.
+
+Tantôt — et c'est la forme la plus saisissante — il est *mi-humain mi-arachnide* : un corps d'homme avec huit membres, ou un corps d'araignée à face humaine, ou encore une silhouette qui glisse de l'une à l'autre selon les besoins du récit. La tradition n'impose pas de fixation iconographique : c'est l'auditeur qui se figure Anansi selon le moment du conte.
+
+Sa voix est partout décrite comme aigre, traînante, légèrement chuintante. Les conteurs jamaïcains et gullah ont conservé cette intonation comme un trait de signature : on *entend* qu'Anansi parle bien avant qu'on sache ce qu'il dit.
+
+## POUVOIRS
+
+La *ruse* est l'attribut premier d'Anansi. Il n'a pas la force du léopard, pas la masse de l'éléphant, pas la rapidité de l'antilope. Il a l'intelligence retorse — celle qui retourne la force d'autrui contre lui-même, qui exploite la vanité, la peur ou la cupidité de l'adversaire pour l'amener à se nuire seul. Cette ruse n'est pas pure cruauté : elle est *technique*, transmissible, enseignable. Les contes d'Anansi sont, sous leur apparence ludique, une école de stratégie pour les faibles.
+
+La *transformation* permet à Anansi de passer de l'humain à l'araignée et inversement, ainsi que d'emprunter parfois d'autres formes — celle d'un oiseau, d'une calebasse, d'une simple pierre sur le chemin.
+
+Le *fil cosmique* est une dimension plus haute du personnage. Plusieurs traditions akan rapportent que c'est Anansi qui tisse le lien entre le ciel et la terre, et que par son fil descendent les pluies, les paroles, les rêves, et parfois les hommes eux-mêmes. À ce niveau, l'araignée touche à une fonction quasi cosmologique sans pour autant être divinisée : elle reste un *Kwaku*, un compère né un mercredi.
+
+L'*intelligence linguistique* — capacité à manier les paroles, à poser des devinettes, à retourner les mots — est l'arme propre d'Anansi. Plus encore que ses pattes, sa langue est ce qui le sauve.
+
+## FAIBLESSES
+
+Anansi n'est pas invincible. Ses faiblesses sont, de manière significative, *morales* : ce sont elles qui rendent les contes pédagogiques.
+
+L'*orgueil* le perd régulièrement. À force de se croire le plus malin, Anansi tend la perche aux humiliations dont les conteurs aiment souligner la justesse. Plusieurs récits le montrent cherchant à concentrer sur lui toute la sagesse du monde et la perdant intégralement par excès même.
+
+La *gourmandise* est sa seconde faiblesse cardinale. Anansi mange trop, mange ce qui ne lui appartient pas, cache la nourriture pour la dévorer seul, et finit pris dans ses propres pièges alimentaires — ventre rond coincé dans un trou, marmite collée à la tête, miel suintant de ses pattes qui le trahissent.
+
+L'*excès de calcul*, enfin, le retourne contre lui. Quand Anansi cherche à tromper trop de monde à la fois, ses fils s'emmêlent, et la victime devient lui-même.
+
+## COMPORTEMENT
+
+Anansi est un *trickster bienveillant ou malveillant selon contexte*. Sa morale est circonstancielle. Face au tigre arrogant, à l'éléphant brutal, au dieu du ciel inaccessible, Anansi devient le porte-parole rusé du faible — et son triomphe est célébré. Face à sa propre famille, à ses fils ou à ses voisins, Anansi devient parfois mesquin, intéressé, presque vil — et le conte tourne à la moralité.
+
+Cette double polarité explique la fonction sociale du cycle d'Anansi dans les sociétés esclavagistes des plantations : Anansi est le *modèle du résistant*, celui qui survit en retournant la brutalité du maître contre lui ; mais il est aussi le *miroir critique* de la communauté elle-même, l'avertissement de ce qui arrive quand on rumine trop sa propre malice.
+
+Dans la tradition de la veillée, Anansi est annoncé par une formule rituelle. En Jamaïque, le conteur ouvre par *Crick !* auquel l'auditoire répond *Crack !* Au Suriname, par *Krin krin !* — *Mi mati !*. Cette ouverture rituelle marque l'entrée dans le temps spécial du conte, où Anansi peut surgir.
+
+## RÉCITS TRADITIONNELS
+
+Le récit fondateur du cycle est l'*achat des contes au dieu-ciel*. Au commencement, toutes les histoires du monde appartenaient à Nyame, le dieu-ciel des Akan, qui les gardait jalousement enfermées. Les humains n'avaient rien à raconter le soir, et la nuit tombait sur des veillées silencieuses. Anansi monta jusqu'à Nyame par son fil et demanda à acheter les contes. Nyame, méprisant l'araignée, fixa un prix qu'il jugeait inaccessible : Anansi devait lui rapporter Onini le grand serpent, Osebo le léopard, Mmoboro le nuage de frelons et Mmoatia la fée invisible. Anansi accepta. Par ruse pure, il piégea l'un après l'autre les quatre êtres redoutables — mesurant le serpent à un bâton et le ligaturant pendant la mesure, faisant tomber le léopard dans une fosse remplie d'eau, attirant les frelons dans une calebasse en simulant la pluie, capturant la fée par une poupée de glu. Il rapporta le tout à Nyame. Le dieu-ciel, ébahi, lui remit les histoires. Depuis ce jour, tous les contes du monde s'appellent *Anansesem* — paroles d'Anansi — parce qu'il les a achetées au prix de sa ruse.
+
+Le récit d'*Anansi et Onini le grand serpent* détaille l'épisode central de cette quête. Anansi se promène dans la forêt en se disputant à voix haute avec sa femme : *est-ce que tu es plus long que le bâton de palmier que je porte ? — non, tu es certainement plus long, ma chère épouse a tort*. Onini, piqué dans son orgueil, sort de son trou et accepte d'être mesuré pour prouver sa longueur. Anansi le couche le long du bâton, lui demande de bien s'étirer pour ne pas fausser la mesure, et profite de l'extension complète pour le ligaturer rapidement de la tête à la queue.
+
+Le récit d'*Anansi et Tigre* (qui dans le passage caribéen remplace souvent le léopard akan par le tigre — bête imaginaire dans la Caraïbe, conservée comme nom) montre Anansi rabaissant régulièrement le grand fauve par des ruses successives : tantôt il le persuade de se laisser ligoter pour son propre bien, tantôt il l'amène à dévoiler son point faible, tantôt il lui vole la nourriture en le faisant croire à un danger imaginaire. Dans la Caraïbe anglophone, ce cycle est devenu l'un des plus denses : Anancy contre Tiger y figure presque comme une fable parallèle.
+
+D'autres récits distribuent la sagesse, expliquent pourquoi l'araignée a la taille étranglée (Anansi a tellement mangé qu'il s'est coincé dans un trou, sa femme a dû tirer sur la corde nouée à sa taille), pourquoi les histoires se racontent la nuit, pourquoi les hommes ne peuvent plus monter au ciel par un fil.
+
+## VARIANTES RÉGIONALES
+
+Chez les *Akan-Ashanti du Ghana*, Anansi reste le *Kwaku Ananse* originel, héros des *Anansesem* contés dans la langue twi. Les conteurs traditionnels (les *kyeame* et les conteurs villageois) maintiennent l'usage rituel de la formule d'ouverture et de la structure en chaîne du conte. La figure y est intimement liée à l'arbre à kola, à la *case du conteur*, au cycle saisonnier.
+
+En *Jamaïque*, *Anancy* (orthographe anglo-créole) est devenu une figure quasi nationale. Les contes d'Anancy ont été collectés depuis le XIXe siècle et constituent un pilier du *patwa* littéraire. La voix d'Anancy y est codifiée — nasillarde, traînante, immédiatement reconnaissable. Le cycle joue souvent contre *Bredda Tiger*, *Bredda Crow* et autres compères animaux.
+
+Dans le *Sud-Est des États-Unis*, principalement chez les *Gullah* de Caroline du Sud et de Géorgie, Anansi est devenu *Aunt Nancy*. Cette féminisation du personnage est un trait propre à la diaspora gullah : les contes y ont été conservés à travers la mémoire des femmes, et la figure de l'araignée s'est attachée à celle de la conteuse. *Aunt Nancy* y vit dans les marais et les vérandas, et certains récits l'ont fusionnée partiellement avec d'autres figures du cycle des contes d'animaux du Sud (notamment dans les chaînes de *Brer Rabbit* qui partagent une parenté narrative).
+
+Au *Suriname*, les *Anansi-tori* sont la propriété intellectuelle vivante de la communauté, en particulier des Marrons de l'intérieur (Saramaka, Ndyuka, Aluku). La langue de transmission est le sranan tongo et les langues marronnes. Anansi y reste un trickster pleinement masculin, parfois marié à *Ma Akoeba*.
+
+En *Haïti et aux Antilles francophones*, la figure existe sous le nom *Konpè Zarenyen* mais s'est partiellement diluée dans le système plus large des compères créoles (*Konpè Lapen*, *Konpè Bouki*, *Konpè Malis*). Konpè Zarenyen y reste cependant identifiable comme l'araignée d'origine ouest-africaine, distinct du lapin (origine plus largement caribéenne) et du cycle Bouki/Malis (parenté ouest-africaine wolof-fulbe).
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire contemporaine a opéré sur Anansi plusieurs déplacements qu'il faut nettement distinguer de la tradition.
+
+Anansi *n'est pas un dieu* dans la tradition akan, malgré certaines présentations occidentales qui l'élèvent à ce rang par confusion. Il est créature — *abosom* de second rang voire simple esprit-animal — et le récit de l'achat des contes le montre précisément subordonné à Nyame, le dieu-ciel. Le présenter comme *deity* relève d'un raccourci anglophone.
+
+L'image d'Anansi *en super-héros aranéen* qui circule dans certaines bandes dessinées et adaptations contemporaines (où il est rapproché ou opposé à des figures comme Spider-Man, ou intégré à des panthéons fantaisistes) n'a aucun ancrage traditionnel. La parenté visuelle avec l'araignée justicière moderne est entièrement coïncidentale : l'araignée akan ne combat pas le crime, elle ruse pour vivre.
+
+L'apparence *spectaculaire et terrifiante* — araignée géante, monstre cauchemardesque, créature à crocs — qu'on rencontre dans certains romans urbains de fantasy moderne renvoie davantage à un imaginaire occidental de l'arachnophobie qu'à la tradition d'origine. Dans la tradition akan et caribéenne, Anansi est de petite taille, intelligent et drôle, plus comique que terrifiant. Sa puissance n'est pas physique.
+
+Enfin, la confusion fréquente entre Anansi et la figure de *Brer Rabbit* (conte du lapin du Sud des États-Unis collecté par Joel Chandler Harris au XIXe siècle) doit être dissipée : les deux cycles entretiennent une parenté de structure (trickster animal contre prédateur fort) mais Brer Rabbit relève d'autres traditions ouest-africaines (en particulier le lièvre des contes wolof, mandingue et bantous), tandis qu'Anansi/Aunt Nancy est strictement la lignée akan.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Dans l'art akan-ashanti traditionnel, Anansi apparaît avant tout dans le motif des *poids à peser la poudre d'or* — petites figurines en laiton coulé à la cire perdue, longtemps utilisées comme étalons monétaires dans le commerce ashanti. Plusieurs poids représentent Anansi sous forme d'araignée stylisée, parfois entourée d'un fil enroulé en spirale. Ces poids fonctionnaient comme proverbes en miniature : la possession d'un poids-Anansi évoquait, lors de la transaction, un conte associé.
+
+Les *textiles kente* et *adinkra* du Ghana intègrent des motifs liés à l'araignée et à sa toile. L'adinkra *Eban* (la clôture) et les motifs en grille rappellent la trame tissée dont Anansi est le maître. Certains kente royaux portent dans leur dessin des allusions à *Kwaku Ananse* — non figuratives mais codées dans la géométrie.
+
+Dans les *sculptures akan* en bois (statuaire votive, ustensiles de pouvoir), Anansi apparaît rarement de manière isolée mais fréquemment comme motif d'angle, de pied de tabouret royal, de poignée. Sa présence y signe la dimension de sagesse rusée que le pouvoir doit revendiquer.
+
+Dans l'art populaire jamaïcain du XXe siècle, *Anancy* est devenu un sujet récurrent des illustrations de livres de contes, des fresques scolaires, des affiches culturelles. Le style est volontiers naïf, coloré, avec une araignée portant chapeau ou costume humain — codification visuelle qui fait écho à la voix nasillarde du conteur.
+
+Aux États-Unis, dans la culture matérielle gullah, *Aunt Nancy* a pénétré tardivement l'iconographie : on la trouve dans des broderies, des courtepointes, et plus récemment dans la fresque communautaire des îles de la mer.
+
+## POUR ALLER PLUS LOIN
+
+Anansi est l'un des personnages les mieux documentés de la tradition orale ouest-africaine et de sa diaspora atlantique. Le cycle akan a fait l'objet de collectes par les ethnologues africanistes depuis la fin du XIXe siècle, prolongées dans la seconde moitié du XXe siècle par les chercheurs ghanéens eux-mêmes. Le cycle jamaïcain a été collecté par Walter Jekyll dès 1907 et par les chercheurs en folklore caribéen tout au long du XXe siècle. Le cycle gullah a été préservé en partie par les collectes communautaires de la Caroline du Sud et de Géorgie. Le cycle surinamais a été conservé à la fois dans les villages marrons et dans la littérature orale paramaribo.
+
+La figure a connu une seconde vie dans la littérature afro-diasporique du XXe siècle : poètes caribéens, romanciers africains-américains, dramaturges ghanéens ont retravaillé Anansi comme symbole de la résistance par l'esprit, héritage du captif qui survit en retournant la langue du maître.
+
+## PROMPT IMAGE
+
+Traditional Akan kente cloth pattern background with bold horizontal and vertical bands of yellow, green, red and black geometric motifs, overlaid in the center with a large stylized spider rendered in the visual idiom of an Ashanti gold weight (akrafena style brass figurine, low-relief, slightly worn patina), the spider with eight articulated legs symmetrically arranged around a rounded body, a single thin silken thread descending from above representing the cosmic line that connects sky and earth, in the corners four small folkloric vignettes arranged like adinkra symbols showing in simplified woodblock form: a coiled serpent being measured against a palm stick, a leopard caught in a covered pit, a calabash full of hornets, and a sticky doll figure, the whole composition flanked by adinkra-style decorative motifs (Eban, Gye Nyame stylization, Sankofa-like spirals — abstract patterns only, no readable script), Jamaican folk woodblock illustration aesthetic crossed with traditional Ashanti graphic design, warm earthy palette of ochre, indigo, brick red, deep black, and gold leaf accents, hand-printed texture with visible grain, slight registration imperfections suggesting handcraft, atmosphere of oral tradition and storytelling night, a faint aged paper background with subtle stains, bestiary illustration aesthetic respectful of West African and Caribbean folk traditions, no modern superhero rendering, no 3D, no cartoon, no photorealism, no anthropomorphic monster style, no text, no letters, no inscriptions, no labels
