@@ -1,0 +1,117 @@
+---
+nom_principal: Barong
+nom_original: Barong (balinais)
+variantes_linguistiques:
+  - balinais: Barong, Banaspati Raja
+  - javanais: Barongan
+  - indonesien: Barong
+categorie: créature-roi protectrice / lion mythique cosmique
+tradition: indonesienne
+sous_tradition: balinaise (avec variantes javanaises et insulaires)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# BARONG
+
+## SIGNIFICATION DU NOM
+
+L'origine du mot *barong* est débattue. Une première hypothèse le rapproche du sanskrit *bhārana*, *celui qui porte, qui supporte* — donnant un sens de *protecteur, gardien*. Une seconde hypothèse y voit une formation austronésienne autochtone, possiblement liée à la racine *barung* (sonorité collective) qui désigne un instrument de gamelan rituel.
+
+Dans le vocabulaire rituel balinais, on l'appelle aussi *Banaspati Raja*, terme kawi qui signifie *Roi de la Forêt* — épithète qui souligne sa fonction royale et sa dimension cosmique de souverain des espaces sauvages tenus en respect.
+
+À Java, où la figure est conservée mais dans un contexte rituel différent, le mot devient *Barongan* avec un suffixe nominalisant.
+
+## ORIGINE
+
+Le Barong est l'une des créatures les plus anciennes du panthéon insulaire indonésien. Son origine remonte probablement à des cultes pré-hindous de protection des villages par des esprits animaux gardiens — cultes que l'arrivée de l'hindouisme javanais médiéval a intégrés et redéfinis dans le cadre cosmologique du combat ordre-chaos.
+
+Les traditions balinaises présentent le Barong comme une émanation de la divinité protectrice du village, manifestée sous une forme animale puissante pour combattre les forces de désordre qui menacent la communauté. Chaque village balinais possède son Barong propre, lié à son temple central, conservé dans un sanctuaire spécial, sorti uniquement lors des cérémonies rituelles ou en cas d'urgence (épidémie, calamité, crise sociale).
+
+## NATURE
+
+Le Barong est une *créature-protectrice cosmique*. Sa nature combine plusieurs strates : il est animal (lion, sanglier, tigre, ou éléphant selon les variantes), il est esprit (entité sacrée investie dans le masque par consécration rituelle), il est aussi parfois royal (manifestation visible de la puissance souveraine du temple du village).
+
+Il n'est pas un simple personnage de carnaval. Une fois consacré, le Barong *est* la divinité protectrice — non sa simple représentation. C'est pourquoi les masques de Barong sont conservés avec les mêmes égards rituels qu'une statue de divinité dans un temple : on les baigne, on les nourrit symboliquement, on leur fait des offrandes quotidiennes.
+
+Sa nature est *bienfaisante mais redoutable*. Bienfaisante envers les villageois qu'il protège. Redoutable envers les forces qui menacent ces villageois — au premier rang desquelles les sorcières *leyak* dirigées par Rangda.
+
+## HABITAT
+
+Le Barong réside, dans son aspect manifeste, à l'intérieur du *bale agung* ou du *gedong* du temple central du village (le *pura desa* ou *pura puseh*). Le masque sacré et le costume sont conservés dans une pièce dédiée, entourée d'offrandes et de feuilles de palmier protectrices.
+
+Dans son aspect non manifeste, le Barong habite les *espaces sauvages* qui entourent le village : la forêt, les ravins, les territoires non cultivés. C'est là qu'il rencontre Rangda et ses leyak, c'est là que se déroule, dans la dimension invisible, le combat permanent entre l'ordre du village et le chaos extérieur.
+
+## DESCRIPTION
+
+L'apparence du Barong varie selon le type. Le plus connu est le *Barong Ket*, qui ressemble à une créature à mi-chemin entre lion et chien fabuleux. Sa tête est large, dotée de mandibules articulées en bois sculpté qui claquent lorsque le danseur les actionne. Ses yeux sont globuleux, peints en blanc et noir avec des cercles dorés. Son museau est barbu, orné de poils blancs ou noirs. Son corps est recouvert d'une longue chevelure-toison de fibres végétales (poils de cheval, fibres de palmier), ornée de petits miroirs ronds qui captent la lumière du soleil ou des torches.
+
+D'autres types existent. Le *Barong Bangkal* a la tête d'un sanglier sauvage. Le *Barong Macan* a la tête d'un tigre. Le *Barong Asu* a la tête d'un chien. Le *Barong Gajah* a la tête d'un éléphant. Le *Barong Landung* est de très grande taille (figures géantes sur perches manipulées par plusieurs porteurs). Chaque type a ses contextes rituels propres et ses villages d'élection.
+
+Quel que soit le type, le costume requiert au moins deux danseurs — l'un dans la partie avant, manipulant la tête, l'autre dans la partie arrière, manipulant la queue. Les deux doivent coordonner leurs mouvements avec la précision d'un seul corps.
+
+## POUVOIRS
+
+Le Barong possède le *pouvoir de protéger le village* contre les forces invisibles. Sa simple présence dans les rues lors d'une procession est censée disperser les esprits négatifs accumulés. Les villages organisent ces processions à intervalles réguliers, ainsi qu'en réponse à des crises (mort suspecte, maladie inexpliquée, mauvaise récolte).
+
+Il possède le *pouvoir de combattre Rangda*. Lors du grand drame rituel barong-rangda, le Barong affronte la sorcière en duel. Il ne la vainc jamais définitivement, mais il *contient* sa puissance et préserve l'équilibre cosmique.
+
+Il possède la *capacité de transmettre une transe protectrice* aux danseurs portant les *kris*. Lorsque Rangda paralyse les danseurs et qu'ils retournent leurs lames contre eux-mêmes, le Barong intervient en leur insufflant l'invulnérabilité — les pointes des kris ne percent pas leur peau.
+
+Il manifeste aussi un *pouvoir purificateur*. À la fin des cérémonies, les villageois se prosternent devant lui et reçoivent l'eau bénite recueillie sur ses poils ou sa barbe — eau réputée chasser les maladies et apaiser les angoisses.
+
+## FAIBLESSES
+
+Le Barong consacré n'a pas de faiblesse au sens d'une vulnérabilité directe. Sa puissance dépend cependant de la *préservation rigoureuse de sa pureté rituelle*. Si le masque est manipulé par une personne en état d'impureté (femme menstruée, homme en deuil récent, individu ayant commis une faute rituelle non expiée), sa puissance s'altère et il devient incapable de protéger le village.
+
+Si le masque est *abandonné, oublié, mal conservé*, il perd progressivement son pouvoir. Plusieurs villages balinais conservent la mémoire de Barongs qui se sont *éteints* en raison de la négligence des générations successives — il a fallu, pour les ranimer, recréer un nouveau masque et le reconsacrer par un long rituel.
+
+Le Barong ne peut pas non plus *éliminer définitivement* Rangda. Tenter de le faire briserait l'équilibre cosmique. Sa fonction est de contenir, non d'éliminer.
+
+## COMPORTEMENT
+
+Lors des danses rituelles, le comportement du Barong est *joueur, espiègle, mais vigilant*. Il claque ses mandibules de bois en rythme avec le gamelan. Il se gratte avec ses pattes. Il fait mine de se coucher pour dormir. Il bondit. Cette gestuelle, ludique et imprévisible, traduit la nature animale-divine du personnage.
+
+Lorsque Rangda apparaît, le comportement bascule. Le Barong se redresse, sa tête se dresse, ses mandibules claquent furieusement. Il avance vers la sorcière, recule, contourne, attaque. Le combat est dansé sur des heures, ponctué d'arrêts, de retraits, de relances. Il n'a pas de fin nette : il s'achève par épuisement rituel des danseurs et apaisement de la transe collective.
+
+Lors des processions, le Barong se déplace en tête du cortège, ouvrant le passage. Les villageois s'inclinent, lui offrent des pétales de fleurs, lui présentent leurs enfants pour qu'il les bénisse en passant la main de bois sur leur tête.
+
+## RÉCITS TRADITIONNELS
+
+Les villages balinais conservent des récits propres concernant les origines de leur Barong local. À Singapadu, le Barong est lié à un événement du dix-huitième siècle où un prince réfugié aurait introduit dans le village une effigie animale dotée d'un pouvoir particulier. À Pengosekan, le Barong serait sorti d'une vision qu'aurait eue un prêtre lors d'une période d'épidémie. À Tegallalang, le Barong actuel descendrait d'une lignée de masques refabriqués à chaque génération depuis des siècles.
+
+Le grand récit canonique reste celui du combat barong-rangda, intégré au cycle de Calon Arang. Le Barong y intervient comme l'adversaire ultime de la sorcière, manifestation de la divinité protectrice qui s'oppose à la puissance destructrice de la veuve démoniaque.
+
+D'autres récits rapportent les *interventions miraculeuses* du Barong dans des situations de crise. Un village frappé par la peste fit sortir son Barong et le promena toute la nuit dans les rues : au matin, l'épidémie avait reculé. Un voleur étranger qui avait pénétré dans le temple pour dérober les ornements du masque fut retrouvé errant et fou dans la forêt, incapable de retrouver son chemin.
+
+## VARIANTES RÉGIONALES
+
+À Java, le *Barongan* existe dans plusieurs traditions locales. Le plus connu est le *Reog Ponorogo* de Java oriental, où une figure animale géante (tête de tigre couronnée d'un éventail de plumes de paon) est portée par un seul danseur lors de spectacles itinérants. Cette tradition javanaise diffère du Barong balinais par son contexte (spectacle plus que rituel sacré), mais conserve la fonction de manifestation animale-protectrice.
+
+À Lombok, dans la communauté hindoue balinaise, le Barong est identique à celui de Bali. Dans la communauté sasak musulmane, des figures voisines existent dans les fêtes de quartier, mais avec une charge rituelle moindre.
+
+Dans les régions hindoues de l'est de Java (complexe Tengger), des figures rappelant le Barong apparaissent dans certaines fêtes locales du calendrier hindou conservé.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Barong est souvent présenté aux touristes à Bali comme une simple *attraction folklorique* — performance théâtrale détachée de son cadre rituel. Cette présentation adulte le ravale à un divertissement pittoresque. La forme rituelle authentique, conservée dans les temples des villages, est radicalement différente : elle n'a pas d'horaire fixe, elle peut durer une journée ou plusieurs jours, elle implique des transes véritables et des manipulations du masque consacré qu'aucune représentation touristique n'autoriserait.
+
+Le Barong n'est pas non plus *un costume coloré*. Le masque est un objet sacré, traité comme une présence divine. Le porter sans consécration appropriée serait considéré comme un acte de profanation grave.
+
+L'imagerie globale du *lion de Bali* qui orne les souvenirs et les enseignes des hôtels n'a qu'un rapport lointain avec le Barong rituel. Cette imagerie n'est qu'une stylisation décorative, dépouillée de la dimension liturgique fondamentale.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les masques de Barong sont sculptés dans le bois sacré du *pulé* (Alstonia scholaris), abattu selon un calendrier rituel précis et bénit avant la sculpture. Le maître sculpteur (*undagi*) suit des proportions traditionnelles transmises oralement de maître à apprenti pendant des générations.
+
+Les peintures murales des temples balinais (*kamasan*, du nom du village qui en a perfectionné le style) représentent des scènes de Barong dans le contexte du combat avec Rangda et avec les leyak. Ces peintures, exécutées sur tissu coton avec des pigments naturels, suivent des conventions iconographiques stables fixées au seizième siècle.
+
+Les manuscrits *lontar* contiennent des descriptions techniques de la fabrication des masques, des proportions à respecter, des matériaux à utiliser, des rituels de consécration à pratiquer. Ces manuscrits sont conservés dans les bibliothèques de prêtres-spécialistes et ne sont consultables que par initiation.
+
+## POUR ALLER PLUS LOIN
+
+Le Barong constitue avec Rangda le couple cosmologique fondamental de l'hindouisme balinais. Son étude relève de l'anthropologie religieuse, de l'histoire de l'art insulaire indonésien, et des traditions orales encore vivantes dans les villages. Le musée Bali de Denpasar conserve plusieurs masques anciens consacrés, accessibles à la visite mais maintenus avec les égards rituels appropriés. La pratique vivante reste cependant le lieu d'apprentissage principal.
+
+## PROMPT IMAGE
+
+Ancient Balinese sacred mask illustration of Barong the protective lion-king creature, traditional Balinese ceremonial sculptural style, large fantastical lion-like beast with broad articulated wooden mandible jaws (the mouth slightly open showing carved fangs), bulging round eyes with white sclera and black pupils ringed with gold, bearded muzzle decorated with white horsehair, body covered with long flowing mane of plant fibers and palm fronds adorned with small round mirrors that catch the light, gilded ornamental crown on the head with intricate floral patterns, wearing carved wooden leg ornaments with bells, the creature in mid-dance pose with two human dancer legs visible underneath supporting the costume, set in a Balinese village temple courtyard at festival time, gamelan musicians in the background, frangipani trees and split temple gates (candi bentar) framing the scene, sunlight catching the small mirrors of the mane, atmosphere of sacred ritual joy and protective power, ritual offerings of palm leaf canang sari around the dancing space, traditional Balinese ornamental floral and geometric patterns in the borders (decorative abstract patterns, no readable text), composition emphasizing the cosmic protective function and royal majesty of the creature, hand-carved sacred wood and textile appearance with deep shadow recesses, sacred ceremonial aesthetic, vintage natural history scientific illustration quality, aged parchment texture, no text, no letters, no inscriptions, no labels
