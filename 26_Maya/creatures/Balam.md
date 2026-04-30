@@ -1,0 +1,130 @@
+---
+nom_principal: Balam
+nom_original: Balam (yucatèque, k'iche')
+variantes_linguistiques:
+  - yucateque: Balam, B'alam
+  - kiche: B'alam, Balam
+  - tzeltal: Bahlam
+  - tzotzil: Bolom, Bahlam
+  - chol: Bahlum
+  - classique: Bahlam (logogramme tête de jaguar)
+categorie: jaguar mythique / esprit gardien / fauve cosmique
+tradition: maya
+sous_tradition: panmaya (Classique, Yucatèque, K'iche', Tzotzil, Lacandon)
+statut: validé
+date_rédaction: 2026-04-30
+---
+
+# BALAM
+
+## SIGNIFICATION DU NOM
+
+Le mot *balam* — orthographié *b'alam* dans la transcription contemporaine des langues mayas — désigne le jaguar dans la quasi-totalité des langues de la famille linguistique maya. Il s'applique simultanément à l'animal réel et à plusieurs catégories d'êtres surnaturels qui empruntent sa forme. Cette homonymie n'est pas une simple commodité lexicale : pour les locuteurs traditionnels, le jaguar physique et les *balam* surnaturels appartiennent au même ordre de réalité, distingués seulement par leur degré de manifestation visible.
+
+Le terme entre dans la composition de nombreux noms divins, royaux et toponymiques. Les souverains de plusieurs cités classiques portèrent *Balam* dans leur titre. Les premiers humains du récit fondateur k'iche' s'appellent collectivement *les hommes-jaguars*, leurs noms individuels combinant tous *Balam* à un autre élément — *Balam Quitze*, *Balam Acab*, et leurs deux compagnons. Le mot se retrouve aussi dans les noms d'esprits gardiens, de chamanes-félins, et d'entités astrales associées au crépuscule et à la nuit.
+
+## ORIGINE
+
+Le balam apparaît comme l'un des êtres les plus anciens de la cosmogonie maya. Dans le récit fondateur k'iche', il existe avant les humains. Les jaguars peuplent la forêt primordiale aux côtés des serpents, des oiseaux et des autres animaux que les divinités créatrices fabriquent lors de leurs premières tentatives de peuplement du monde. Lorsque ces créatures, incapables de prononcer le nom de leurs créateurs, sont condamnées à être mangées par les humains à venir, le jaguar conserve toutefois un rang particulier : il est désigné comme le prédateur qui dévorera, à son tour, les premiers hommes ratés — ceux faits de boue, puis ceux faits de bois.
+
+Lors de la création réussie, lorsque les véritables humains sont façonnés à partir du maïs, leurs ancêtres immédiats portent tous le nom *Balam*. Le jaguar est ainsi simultanément le grand prédateur de l'humanité défaillante et le nom propre de l'humanité accomplie. Cette ambivalence fondatrice imprègne toutes les apparitions ultérieures du balam dans les traditions mayas.
+
+## NATURE
+
+Le balam est un *jaguar de plusieurs ordres simultanés*. Il est l'animal forestier réel — quadrupède tacheté, prédateur solitaire des selvas. Il est aussi *esprit*, en tant que doublure surnaturelle du fauve. Il est encore *titre* — un homme peut être appelé balam parce qu'il en porte la force, ou parce qu'il en partage le destin nocturne. Il est enfin *catégorie cosmique*, désignant un type d'être qui marche entre le monde diurne des humains et le monde des morts.
+
+Cette pluralité n'est pas une superposition tardive. Elle structure la pensée maya depuis la période classique au moins, où le glyphe représentant la tête du jaguar fonctionne à la fois comme nom d'animal, comme syllabe phonétique, comme titre royal et comme désignation de classes d'esprits.
+
+Le balam appartient particulièrement à la *nuit*. Il est l'être qui voit dans l'obscurité, qui chasse à l'heure où les humains dorment, qui occupe l'envers du monde diurne. Cette association nocturne le relie aux divinités du monde inférieur sans pour autant l'y enfermer : le balam circule entre les deux faces du cosmos.
+
+## HABITAT
+
+Le balam ordinaire habite la forêt tropicale dense des basses terres mayas — la selva du Yucatán, du Petén, de la côte chiapanèque, des bassins guatémaltèques. Il occupe les territoires où la canopée demeure intacte et où les rivières offrent des points de chasse. Ce territoire physique constitue déjà, dans la pensée maya, un espace partiellement surnaturel : la forêt n'est pas simplement un milieu écologique, mais le domaine où les frontières entre les ordres de réalité s'amincissent.
+
+Les balam surnaturels — gardiens, esprits, doublures animales des chamanes — élargissent cet habitat. Ils marchent dans les villages la nuit, traversent les cimetières, longent les chemins isolés. Ils peuvent monter aux sommets des collines sacrées, descendre dans les cenotes, pénétrer dans les grottes qui mènent au monde inférieur. Leur déplacement n'est pas borné par les limites ordinaires de la zoologie.
+
+Certaines traditions placent les balam aux quatre points cardinaux, où ils gardent les villages. Cette répartition fait écho à l'organisation cosmologique en quatre directions, chacune associée à une couleur, à une divinité, à un type d'arbre. Les quatre balam-gardiens forment alors un système rituel.
+
+## DESCRIPTION
+
+Le balam a la forme du jaguar des forêts mayas — un grand félin à la robe fauve marquée de rosettes noires irrégulières, plus massif que la panthère ou le léopard, doté d'une mâchoire d'une puissance écrasante. Sa tête est large, ronde, ses yeux d'un jaune intense qui semble retenir la lumière du soleil même la nuit. Sa queue est longue, sa silhouette basse et puissante.
+
+Dans les représentations classiques sur céramique polychrome et sur stèles de pierre, le balam apparaît sous deux modes principaux. En forme animale pure, il est figuré dans la posture du fauve aux aguets, mâchoire entrouverte montrant les crocs. En forme hybride ou anthropomorphisée, il porte un corps humain avec une tête de jaguar, ou inversement un corps de jaguar avec des attributs humains — pagne, ornements, parure royale.
+
+Plusieurs variantes spectrales du balam comportent des marques distinctives qui le différencient du fauve ordinaire : robe entièrement noire, pelage anormalement clair, œil unique, cicatrices rituelles, ou flammes émergeant de la mâchoire.
+
+## POUVOIRS
+
+La *force redoutable* est sa caractéristique première. Le jaguar est, dans la zoologie mésoaméricaine, le seul prédateur capable de tuer un humain adulte d'un seul coup. Cette capacité physique fonde l'ensemble de sa charge symbolique : le balam est ce qui peut tuer sans avertissement, dans le silence de la nuit.
+
+Le *passage entre les mondes* constitue son pouvoir surnaturel principal. Là où l'humain ordinaire ne peut traverser sans rituel les frontières entre le monde diurne, le monde nocturne et le monde inférieur, le balam circule librement. Cette capacité fait de lui le compagnon naturel des chamanes : un homme qui possède un balam pour double animal accède, par lui, aux régions inaccessibles.
+
+L'*invisibilité partielle* lui est attribuée. Le balam peut se trouver à proximité immédiate d'un humain sans être perçu, jusqu'à choisir de se révéler ou d'attaquer. Cette propriété est attribuée tant au jaguar zoologique qu'à ses doublures spirituelles.
+
+La *protection des lieux* est exercée par certains balam désignés comme gardiens. Aux quatre directions du village, aux entrées des champs, aux carrefours sacrés, ces balam veillent et frappent les intrus.
+
+## FAIBLESSES
+
+Le balam n'est pas invulnérable. Le jaguar physique peut être tué, et de nombreux récits mayas mentionnent des chasseurs ayant abattu un fauve. Mais cette mort n'est jamais anodine. Tuer un balam ordinaire entraîne des conséquences rituelles : malheur, maladie, perte de gibier dans la région, parfois mort du chasseur lui-même peu de temps après.
+
+Lorsque le balam est la doublure animale d'un chamane, le tuer revient à tuer le chamane lui-même — au moment exact où le coup atteint l'animal, l'homme tombe mort dans son hamac, parfois à plusieurs jours de marche du lieu de la chasse. Cette correspondance fait du balam une cible dangereuse pour quiconque ignore qui en est l'humain associé.
+
+Les balam-gardiens des points cardinaux sont, en revanche, considérés comme indestructibles tant que dure le village qu'ils protègent.
+
+## COMPORTEMENT
+
+Le balam chasse seul. Il guette ses proies du haut des arbres ou depuis les berges des rivières, bondissant d'un seul élan. Cette stratégie de l'embuscade silencieuse marque toute sa charge symbolique : il est l'attaque qu'on ne voit pas venir.
+
+Vis-à-vis des humains, son comportement varie selon sa nature précise. Le jaguar zoologique évite généralement le contact mais peut attaquer s'il a faim, s'il défend sa progéniture ou s'il se sent acculé. Le balam-gardien d'un village protège les habitants mais frappe les étrangers malveillants. Le balam-doublure d'un chamane suit la volonté de son humain associé — soignant, divinant, ou attaquant selon la mission.
+
+Les balam apparaissent souvent par paires ou par groupes de quatre dans les récits — deux gardant l'entrée d'une caverne, quatre veillant aux directions, quatre attaquant les hommes de bois lors de leur destruction.
+
+## RÉCITS TRADITIONNELS
+
+Le récit fondateur k'iche' conservé sous le nom de *livre du conseil* attribue au balam plusieurs interventions majeures. Lors de la destruction des hommes de bois — créatures imparfaites façonnées par les divinités avant le succès de la création humaine définitive — les jaguars du ciel et les jaguars de la nuit descendent et dévorent les hommes ratés. Les ustensiles domestiques se révoltent eux aussi contre leurs maîtres, mais c'est l'attaque des balam qui marque la fin véritable de cette humanité préliminaire.
+
+Plus tard dans le même récit, lorsque les véritables humains sont enfin créés à partir du maïs, leurs quatre ancêtres masculins portent tous le nom Balam : *Balam Quitze*, *Balam Acab*, *Mahucutah* et *Iqi Balam*. Deux des quatre fondateurs de l'humanité maya k'iche' portent ainsi explicitement le nom du grand fauve — signifiant que l'humanité réussie n'est pas l'opposée du jaguar mais sa parente.
+
+Dans les traditions yucatèques recueillies après la conquête, les *balam ka'ax* — les jaguars de la forêt — sont les gardiens invisibles des champs de maïs. Ils punissent les voleurs, protègent les semences, exigent des offrandes lors des cérémonies de plantation et de récolte. Leur invisibilité ordinaire n'empêche pas leur présence : on entend leur souffle dans les branches, leur foulée dans les feuilles sèches, leur grognement lointain dans la nuit.
+
+Les traditions tzotzil et tzeltal du Chiapas conservent des récits de chamanes capables de prendre la forme du *bolom*. Lors des combats spirituels, deux chamanes peuvent s'affronter sous forme de jaguars dans la forêt nocturne, les blessures reçues sous forme animale apparaissant le lendemain sur leurs corps humains.
+
+## VARIANTES RÉGIONALES
+
+Les Mayas yucatèques distinguent plusieurs catégories de balam selon la couleur et la fonction. Le balam ordinaire de la forêt côtoie le *ek balam* — jaguar noir — réputé plus puissant et associé aux directions occultes. Le *chac balam* — jaguar rouge ou grand jaguar — est associé à l'est et à la pluie.
+
+Les K'iche' insistent particulièrement sur la dimension ancestrale du balam, au point que leur récit fondateur place les jaguars-hommes au cœur de la généalogie de leur peuple. Le récit accorde une attention plus diluée aux balam non humains.
+
+Les Lacandons des forêts du Chiapas conservent des rites de chasse au jaguar entourés de précautions extrêmes : prières avant la chasse, offrandes après l'abattage, refus formel de manger certaines parties de la dépouille.
+
+Les Tzotzil parlent du *bolom* simultanément comme animal forestier, comme esprit de la montagne, et comme catégorie de chamanes-jaguars qui descendent du ciel pour combattre les sorciers.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'imaginaire contemporain réduit fréquemment le balam à un simple animal totémique ou à un guerrier déguisé. Plusieurs simplifications sont à corriger.
+
+Le balam n'est pas une métaphore. Pour la pensée traditionnelle maya, le jaguar et les balam surnaturels appartiennent au même continuum d'existence ; les deux sont également réels.
+
+Le balam n'est pas un symbole exclusif de la guerre. Les ordres guerriers de Mésoamérique — notamment chez les Aztèques — ont popularisé l'image du *guerrier-jaguar*, mais cette imagerie aztèque tardive ne couvre qu'une fraction du sens maya. Chez les Mayas, le balam est aussi gardien des champs, doublure des chamanes guérisseurs, ancêtre des humains.
+
+Le balam n'est pas un être démoniaque ou maléfique. Sa dangerosité fait partie de sa fonction protectrice ; les balam attaquent les intrus mais préservent les leurs.
+
+Les œuvres modernes confondent souvent le balam maya et le *nahual* central-mexicain. Les deux notions partagent la doublure animale du chamane mais s'inscrivent dans des systèmes culturels distincts ; le balam ne se réduit pas au nahual.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le jaguar est l'animal le plus représenté dans l'art maya classique. Sur les stèles royales, les souverains portent fréquemment des coiffes ou des vêtements en peau de jaguar. Sur les céramiques polychromes funéraires, le balam apparaît en contexte mythologique — les seigneurs du monde inférieur incluent un jaguar nommé *Bolon Yokte K'uh* dans certaines lectures, et de nombreux vases représentent un jaguar de l'eau ou un jaguar du soleil nocturne.
+
+Les sites archéologiques portent des traces monumentales : les têtes de jaguar sculptées au temple de Chichén Itzá, les stèles de Tikal, les autels de Copán, les fresques de Bonampak. Le glyphe *bahlam* est l'un des plus fréquents dans les inscriptions classiques.
+
+Les codex préservés — Madrid, Dresde, Paris — figurent le jaguar dans plusieurs séquences rituelles et calendaires. Le codex de Madrid associe particulièrement le balam à des scènes de chasse et de divination.
+
+## POUR ALLER PLUS LOIN
+
+Le balam constitue l'un des fils centraux de la cosmologie maya — fil qui traverse la zoologie réelle, la mythologie fondatrice, la titulature royale, la pratique chamanique et l'iconographie monumentale. Sa compréhension nécessite de tenir simultanément ses multiples faces sans les hiérarchiser : le jaguar des forêts, l'esprit gardien, l'ancêtre nommé, le double animal du chamane, le titre du souverain.
+
+Les sources principales sur le balam combinent les témoignages des codex précolombiens préservés, les inscriptions classiques sur stèles et céramiques, les récits coloniaux comme le *livre du conseil* k'iche', et les traditions orales contemporaines des communautés mayas du Yucatán, du Chiapas, du Petén et du Guatemala.
+
+## PROMPT IMAGE
+
+Classic Maya polychrome vase painting of a Balam jaguar spirit, painted in red, orange, black, and cream pigments on a cream-colored ceramic background, the jaguar depicted in profile in the codex style with stylized rosettes formed by small black dots within open black ovals, large round head with prominent jaw and visible curved fang, almond-shaped eye with concentric pupil, tail curving upward, body shown in flat decorative outline with thick black contour lines, a scrollwork volute emerging from the open mouth representing breath or speech, decorative band of glyphic-style geometric patterns above and below the figure (purely decorative shapes, no readable text), background filled with stylized vegetation motifs and small four-petal flower glyphs representing the forest, the jaguar wearing a beaded collar with jade-green roundels indicating its status as a sacred entity, a smaller human figure in profile beside the jaguar wearing a feathered headdress representing a shaman in communion with his animal double, painted with the flat perspective and registered horizontal composition typical of Late Classic Maya ceramics from the Petén region, slight craquelure in the surface texture, aged ceramic patina, no modern rendering, no 3D, vintage archaeological illustration quality, ancient Mesoamerican aesthetic, no text, no letters, no inscriptions, no labels
