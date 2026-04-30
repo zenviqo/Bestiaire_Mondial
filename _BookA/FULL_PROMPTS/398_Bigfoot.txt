@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Bigfoot
+  Tradition : Cryptides Contemporains
+═══════════════════════════════════════════════
+
+
+# BIGFOOT
+
+## SIGNIFICATION DU NOM
+
+*Bigfoot* est un terme anglais transparent — *big* (grand) et *foot* (pied) — nommé d'après les empreintes démesurées (40-60 cm) trouvées dans les zones forestières de l'ouest américain. Le terme popularisé par le *Humboldt Times* en 1958 après la découverte d'empreintes au nord de la Californie est devenu le nom générique. *Sasquatch* vient du Halkomelem (*Stó:lō*) *Sasq'ets* ou *Sésquac* — désignant un homme sauvage dans les traditions des Premières Nations du Pacifique nord-ouest, témoignant d'une origine dans les traditions autochtones bien antérieure à 1958.
+
+## ORIGINE
+
+Les observations de grands humanoïdes velus dans les forêts du Pacifique nord-ouest américain et du Canada occidental sont signalées dès les premiers contacts entre Européens et peuples autochtones. Les nations salish, chinook, et d'autres peuples du nord-ouest ont des traditions de "wild men" (hommes sauvages) couverts de poils depuis des siècles. L'ère moderne du Bigfoot commence en 1958 avec les empreintes de Bluff Creek (Californie) et explose avec la célèbre vidéo Patterson-Gimlin de 1967.
+
+## NATURE
+
+Le Bigfoot est un cryptide — une créature dont l'existence est rapportée mais non confirmée scientifiquement. Dans les traditions autochtones du nord-ouest, il est souvent une entité spirituelle autant qu'un animal physique — il peut se rendre invisible, communiquer par télépathie, ou disparaître de façon surnaturelle. Dans la tradition cryptozoologique moderne, il est traité comme un grand primate non découvert.
+
+## HABITAT
+
+Le Bigfoot est signalé principalement dans les forêts conifériennes du Pacifique nord-ouest — Oregon, Washington, Colombie-Britannique, nord de la Californie. Des observations sont aussi signalées en Floride (*Skunk Ape*), dans l'Ohio, et dans d'autres états. Il préfère les zones forestières peu fréquentées, les zones humides, et les berges des rivières.
+
+## DESCRIPTION
+
+Grand humanoïde — entre 2 et 3 mètres debout selon les témoignages. Corps entièrement couvert d'une fourrure brune, noire ou rouge-brun. Épaules larges, absence de cou apparent. Démarche bipède avec un balancement caractéristique des bras. Empreintes de 40-60 cm. Odeur forte, décrite comme mélange de mouffette et d'animal sauvage. Les descriptions convergent remarquablement malgré la géographie étendue des observations.
+
+## POUVOIRS
+
+Force physique considérable. Vitesse de déplacement surprenante. Capacité de disparaître dans la végétation dense malgré sa taille. Dans les traditions autochtones, possibilité de se rendre invisible et de communiquer par infrasons ou télépathie avec les humains qui en font l'expérience.
+
+## FAIBLESSES
+
+Aucune faiblesse documentée — le Bigfoot évite les humains et ne les attaque généralement pas.
+
+## COMPORTEMENT
+
+Le Bigfoot est fondamentalement craintif — il fuit à l'approche humaine plus souvent qu'il n'affronte. Des comportements curieux sont signalés — il peut observer des campements humains de loin pendant des heures. Des frappements de bois contre des arbres (*wood knocks*) et des vocalisations nocturnes sont attribués à la créature dans les traditions de recherche cryptozoologique.
+
+## RÉCITS TRADITIONNELS
+
+La vidéo Patterson-Gimlin (1967, Bluff Creek, Californie) est la pièce maîtresse du corpus moderne — 59 secondes d'une créature bipède velue marchant. Analysée par des experts depuis 60 ans, elle reste non résolue — ni prouvée réelle, ni prouvée fausse. Des milliers de témoignages d'observations directes existent dans les bases de données cryptozoologiques (BFRO — Bigfoot Field Researchers Organization en répertorie plus de 5000).
+
+## VARIANTES RÉGIONALES
+
+Le *Skunk Ape* floridien est plus petit et plus malodorant. Le *Fouke Monster* de l'Arkansas est une variante régionale. Au Canada, le *Sasquatch* est légèrement différent dans les traditions des Premières Nations. Des créatures similaires existent dans pratiquement tous les pays forestiers du monde — ce qui pose la question de la universalité de la figure.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Bigfoot est devenu une icône culturelle américaine — sujet de films (*Harry and the Hendersons*, 1987), de séries télévisées, de marques commerciales, de festivals et de parcs à thème. Cette domestication commerciale coexiste avec des communautés de chercheurs sérieux. La réponse officielle de la science mainstream est le scepticisme — aucun specimen, aucun os, aucune preuve physique indiscutable.
+
+## ICONOGRAPHIE HISTORIQUE
+
+La vidéo Patterson-Gimlin (1967) est l'icône centrale — la silhouette feminine de la créature (nommée "Patty" par les chercheurs) est la référence visuelle principale. Des moulages d'empreintes sont conservés dans des collections. Des peintures rupestres de la côte nord-ouest représentent des êtres humanoïdes velus que certains interprètent comme des représentations de Bigfoot ancestral.
+
+## POUR ALLER PLUS LOIN
+
+Bigfoot est peut-être la créature folklorique qui dit le plus clairement quelque chose sur la modernité : nous avons cartographié chaque centimètre de la Terre par satellite, et pourtant nous persistons à croire qu'un grand primate inconnu se cache dans les forêts de l'Oregon. Ce désir — qu'il reste du mystère dans un monde entièrement connu — est peut-être la meilleure explication de la persistance du mythe.

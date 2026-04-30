@@ -1,0 +1,209 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Daels
+  Tradition : Caucase
+═══════════════════════════════════════════════
+
+
+# DAELS
+
+## SIGNIFICATION DU NOM
+
+Le terme *Daels* (forme plurielle ossete *daelta*) designe une categorie d'etres feminins surnaturels habitant les hauteurs du Caucase central, principalement dans les territoires ossetes et dans les regions limitrophes de Svanetie. Le mot est apparente — selon les linguistes des langues caucasiennes — au svane *Dali*, designant la grande deesse-protectrice des animaux sauvages, mais avec une evolution semantique propre a la langue ossete : la *Dali* svane a tendu vers une figure unique et quasi-divine, tandis que les *daels* ossetes sont restes une *classe d'etres* multiples et plus modestes, plus proches des fees et des sorcieres que des deesses.
+
+L'orthographe latine du terme varie selon les recensions : *daels*, *daeli*, *daelta*. Toutes ces formes designent la meme classe.
+
+## ORIGINE
+
+Les sagas Nartes, corpus epique central des Ossetes (mais partage avec d'autres peuples du Caucase central), evoquent les Daels comme des etres anciens, presents dans les montagnes avant l'arrivee des heros Nartes eux-memes. Leur origine n'est pas explicitement racontee : elles *sont* dans les hauteurs comme la neige est sur les sommets et les sources sont dans la roche.
+
+Une tradition recueillie en Ossetie du Nord les fait naitre du mariage primordial entre la montagne (entite feminine) et le brouillard (entite masculine evanescente). De cette union seraient nees les premieres Daels, suivies de leurs filles et petites-filles a travers les siecles.
+
+Une autre tradition, plus rare, en fait des descendantes de heroines Nartes qui auraient ete enlevees par les esprits des sommets et transformees en creatures intermediaires entre humanite et sauvagerie.
+
+## NATURE
+
+Les Daels sont *feminines exclusivement*. Aucun recit traditionnel n'evoque de Dael male. Cette unisexualite les distingue d'autres classes d'etres surnaturels caucasiens generalement bisexes.
+
+Elles sont *gardiennes des betes sauvages*. Leur fonction principale dans le systeme symbolique ossete consiste a proteger les animaux libres des montagnes — chamois, bouquetins, cerfs, ours, aigles — contre les chasseurs humains. Aucun animal sauvage n'est tue dans les hauteurs sans qu'une Dael l'ait permis ou fait obstacle.
+
+Elles sont *liminaires*. Elles habitent la zone entre la civilisation et le sauvage, entre la societe humaine et le monde des betes. Elles peuvent prendre forme humaine pour interagir avec les hommes, et forme animale (generalement de chevre ou de chamois) pour rejoindre leurs proteges.
+
+Elles sont *sexuellement ambivalentes* dans les recits : tantot elles seduisent les chasseurs, tantot elles les fuient. Cette ambivalence leur donne un statut narratif particulier — elles sont a la fois desirables et dangereuses, et leurs relations avec les heros Nartes oscillent entre amour et destruction.
+
+## HABITAT
+
+Les Daels habitent les *hauteurs inaccessibles* du Caucase central. Leurs lieux de predilection sont :
+
+Les *glaciers* et les *neves* eternelles. Plusieurs recits ossetes mentionnent la rencontre d'un chasseur avec une Dael au bord d'un glacier ou sur un nev. Ces zones gelees sont leur domicile principal pendant l'hiver.
+
+Les *grottes a flanc de falaise*, particulierement celles inaccessibles sans equipement de montagne. Les Daels y resident en groupes, formant des sortes de communautes de sorcieres-fees.
+
+Les *forets d'altitude*, particulierement les forets d'epicea et de sorbier qui couvrent les pentes superieures des montagnes ossetes. Elles s'y cachent durant les saisons douces.
+
+Les *lacs glaciaires* sont egalement frequentes par les Daels, qui s'y baignent dans les nuits de pleine lune. Un chasseur prudent qui surprend des Daels au bain peut s'emparer de leur peau de bete et les obliger a obeir — variante caucasienne du theme universel de la femme-cygne.
+
+## DESCRIPTION
+
+Les Daels apparaissent generalement sous forme de jeunes femmes d'une beaute saisissante. Les recits insistent sur :
+
+Leur *taille elancee*, plus grande que celle des femmes humaines ordinaires.
+
+Leur *peau extremement claire*, presque blanche comme la neige, parfois transparente au point qu'on devine les veines bleues sous l'epiderme.
+
+Leurs *cheveux* de couleur variable selon les Daels — certaines sont tres blondes presque blanches, d'autres tres brunes presque noires, mais aucune n'a les cheveux roux ou chataignes des femmes ordinaires. Ces cheveux sont generalement longs, descendant jusqu'aux pieds.
+
+Leurs *yeux* sont dans toutes les variantes decrits comme particulierement clairs — gris, bleus, ou verts d'eau profonde.
+
+Leur *vetement* est generalement decrit comme une robe blanche ou une cape de peau de bete sauvage. Certaines portent des bijoux d'os, d'autres des colliers de griffes d'ours.
+
+Sous forme animale, elles deviennent generalement *chamois* ou *bouquetins blancs*, plus rarement *aigles femelles*. Cette double forme est leur signature.
+
+Un signe permet de reconnaitre une Dael deguisee en femme humaine : elle ne projette aucune ombre meme en plein soleil, ou bien son ombre prend la forme d'un animal sauvage.
+
+## POUVOIRS
+
+Le *commandement des betes sauvages* est leur pouvoir fondamental. Les chamois obeissent a leur appel. Les ours s'arretent devant elles. Les aigles tournent dans le ciel a leur signal. Cette autorite leur donne un controle complet sur la chasse en montagne.
+
+La *transformation animale* leur permet de prendre forme de chamois, bouquetin, ou aigle femelle a volonte. Cette transformation peut etre subite, instantanee.
+
+La *seduction des chasseurs* est attestee dans de nombreux recits. Une Dael peut envouter un chasseur — generalement le meilleur, le plus brave, le plus jeune — et l'attirer dans les hauteurs, ou il devient son amant pour une nuit ou pour des annees.
+
+La *prophetie* est attribuee a certaines Daels anciennes. Elles connaissent l'avenir des chasseurs qui les rencontrent et peuvent leur reveler leur destin — souvent leur mort prochaine.
+
+La *maledictation* contre les chasseurs qui les offensent est redoutable. Un chasseur qui tue un chamois proteges par une Dael sans avoir obtenu sa permission rituelle peut etre frappe de paralysie, devenir aveugle, ou tomber d'une falaise sans cause apparente.
+
+## FAIBLESSES
+
+Les Daels possedent plusieurs vulnerabilites.
+
+Le *fer* les blesse. Une lame de fer touchee par une Dael cause une morsure douloureuse — particularite que partagent beaucoup de fees indo-europeennes.
+
+Le *sel*, lorsqu'il est jete sur leur peau, les contraint a reprendre leur forme animale et a fuir.
+
+Les *prieres chretiennes* prononcees correctement dans les regions chretianisees d'Ossetie du Nord (chretiens depuis le quatrieme siecle), peuvent les eloigner. Cette faiblesse n'est pas attestee dans les recits les plus anciens et constitue probablement une superposition tardive.
+
+Le *vol de leur peau de bete* (lorsqu'elle est sous forme animale) ou de leur cape de peau (lorsqu'elle est sous forme humaine) la prive de pouvoir et la met sous l'autorite de celui qui detient cet objet.
+
+Enfin, certaines Daels peuvent *mourir d'amour* lorsqu'un chasseur qu'elles ont seduit les abandonne pour retourner vers une femme humaine. Cette mort emotionnelle constitue une faiblesse psychologique attestee dans plusieurs recits.
+
+## COMPORTEMENT
+
+Les Daels alternent entre *protection* et *vengeance*. Envers les chasseurs respectueux qui suivent les regles rituelles — offrir une priere avant la chasse, ne pas tuer plus que necessaire, laisser les femelles gestantes — elles sont tolerantes et permettent la prise. Envers les chasseurs avides ou impies, elles tendent des pieges et causent leur perte.
+
+Elles vivent en *groupes* dans leurs grottes d'altitude, formant des societes feminines paralleles aux societes humaines des vallees. Au sein de ces groupes, des hierarchies existent — les Daels les plus anciennes commandant aux plus jeunes.
+
+Elles *seduisent* les chasseurs masculins pour des unions temporaires. Ces unions ne durent pas. La Dael finit toujours par retourner aux hauteurs, laissant le chasseur ou bien transforme (parfois rendu fou, parfois devenu lui-meme une figure intermediaire entre humanite et sauvage), ou bien condamne (mort en montagne peu apres).
+
+Devant un heros Narte, le comportement de la Dael est plus complexe. Plusieurs sagas mettent en scene un Narte amoureux d'une Dael, ou inversement une Dael protectrice d'un Narte. Ces relations sont generalement tragiques et constituent un motif recurrent du corpus epique.
+
+## RECITS TRADITIONNELS
+
+Les sagas Nartes, corpus oral compile a partir du dix-neuvieme siecle dans plusieurs recensions ossetes (mais aussi tcherkesses, abkhazes, balkares), font une place importante aux Daels.
+
+Un recit central concerne la rencontre du heros Soslan (l'un des plus grands Nartes) avec une Dael au bord d'un glacier. La Dael lui revele son avenir et lui prophetise sa mort. Soslan, devenant amoureux d'elle, refuse de partir. La Dael s'evapore au lever du soleil, laissant Soslan seul sur le glacier.
+
+Un autre recit met en scene un chasseur ordinaire qui suit imprudemment un chamois blanc dans les hauteurs et se trouve face a une assemblee de Daels nues au bord d'un lac. Il vole la cape de peau de chamois de la plus jeune. Il l'epouse, l'amene au village, vit avec elle plusieurs annees, en a des enfants. Mais la Dael finit par retrouver sa cape cachee, la revet, redevient chamois, et fuit vers les hauteurs en abandonnant ses enfants au village.
+
+Un troisieme recit, recueilli en Ossetie du Sud, raconte la guerre que les Nartes durent mener contre les Daels apres qu'un Narte ait tue impudiquement plusieurs chamois protegis. Les Daels se vengerent par des avalanches, des chutes de pierres, et la disparition de plusieurs Nartes. La paix ne fut retablie que par une ceremonie d'expiation au sommet d'une montagne sacree.
+
+## VARIANTES REGIONALES
+
+En *Ossetie du Nord*, les Daels sont restees relativement proches du substrat ancien — gardiennes des betes, seductrices ambivalentes, etres feminines multiples.
+
+En *Ossetie du Sud*, sous l'influence des traditions georgiennes voisines, les Daels se sont parfois confondues avec les *Dali* svanes — la frontiere entre les deux figures se brouillant dans les regions de contact.
+
+En *Svanetie* meme, la figure unique de la grande Dali a domine, et le pluriel a quasiment disparu — temoignant d'une evolution divergente dans la meme aire culturelle.
+
+Dans les regions *christianisees* d'Ossetie, les Daels ont parfois ete reduites a des figures de sorcieres maleficiques, perdant leur dimension de protection des animaux sauvages.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les Daels ne doivent pas etre confondues avec les *fees* des contes occidentaux. Bien qu'elles partagent avec elles certains traits (beaute, immortalite, magie, vulnerabilite au fer), leur fonction symbolique est specifique : elles ne sont pas des etres ludiques ou bienveillants des forets europeennes occidentales, mais des protectrices ferocement territoriales d'une faune montagnarde.
+
+Elles ne doivent pas non plus etre confondues avec les *vilas* slaves ou les *rusalkas*, malgre certains paralleles structurels. Les Daels sont strictement des etres de montagne, jamais des etres aquatiques.
+
+Elles ne doivent pas etre identifiees avec les *Dakini* tibetaines malgre la similitude phonetique du nom — il s'agit d'une coincidence sans rapport historique.
+
+L'image moderne des Daels dans la litterature ossete et russe contemporaine tend a romantiser ces figures en *belles montagnardes mystiques* — perdant la dimension dangereuse et ambivalente que conserve le folklore traditionnel.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les manuscrits Nartes recenses au dix-neuvieme et au vingtieme siecle dans les recensions ossetes, tcherkesses, et balkares ne sont pas illustres dans la tradition originelle (transmission orale). Les representations modernes des Daels datent du vingtieme siecle, dans le contexte du nationalisme culturel ossete et du regain d'interet pour l'epopee Narte.
+
+Les motifs traditionnels des tapis et des feutres ossetes presentent occasionnellement des silhouettes feminines stylisees parmi les motifs animaliers — silhouettes interpretees par certains specialistes comme des Daels.
+
+Les sculptures sur bois des poteaux totemiques sacres dans certains sanctuaires ossetes traditionnels (avant la reduction de ces sanctuaires sous le pouvoir sovietique) montraient parfois des figures feminines stylisees presumees etre des Daels.
+
+## POUR ALLER PLUS LOIN
+
+Les Daels appartiennent au substrat le plus ancien des croyances caucasiennes centrales. Leur parente avec la *Dali* svane atteste une origine commune precedant la differenciation des langues ossetes et svanes — soit avant la fin du premier millenaire avant notre ere.
+
+Leur etude offre un acces precieux a la mythologie ossete pre-chretienne, partiellement preservee malgre la christianisation tardive et la longue domination culturelle russe puis sovietique. Le corpus des sagas Nartes, compile principalement aux dix-neuvieme et vingtieme siecles, constitue la principale source pour leur connaissance.

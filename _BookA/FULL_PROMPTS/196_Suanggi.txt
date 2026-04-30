@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Suanggi
+  Tradition : Papouasie Melanesie
+═══════════════════════════════════════════════
+
+
+# SUANGGI
+
+## SIGNIFICATION DU NOM
+
+*Suanggi* est un terme issu du malais de Papouasie et des langues des Moluques désignant un être de sorcellerie nocturne — une personne ordinaire en apparence diurne dont l'esprit ou le corps sort la nuit pour attaquer, dévorer, et tuer des victimes à distance. En Tok Pisin (le créole de Papouasie-Nouvelle-Guinée), le terme équivalent est *sanguma* — qui désigne à la fois la pratique de sorcellerie meurtrière et l'être qui la pratique. Le Suanggi est à la fois une créature (l'être nocturne prédateur) et une catégorie de personne (quelqu'un qui est un Suanggi peut être identifié dans une communauté et en est craint).
+
+## ORIGINE
+
+Le Suanggi est documenté dans les traditions de nombreuses communautés de Papouasie-Nouvelle-Guinée et des îles voisines — des traditions des peuples des Highlands (Enga, Huli, Chimbu), des régions côtières (Sepik, Manus, Milne Bay), et des îles proches (Moluques, Timor). Des anthropologues australiens et papouasiens qui ont travaillé en PNG au XXe siècle ont documenté les croyances liées au *sanguma* et au *suanggi*. La figure est culturellement centrale dans de nombreuses communautés — des accusations de *sanguma* ont des conséquences sociales graves et sont documentées dans le contexte du droit coutumier papouasien.
+
+## NATURE
+
+Le Suanggi est ambivalent dans sa nature — c'est une personne humaine ordinaire qui possède ou qui est possédée par une capacité surnaturelle de prédation nocturne. Le Suanggi n'est pas nécessairement choisi volontairement dans son rôle — dans certaines traditions, la capacité de *sanguma* est héréditaire ou acquise involontairement. La nuit, le Suanggi quitte son corps (ou envoie un aspect de lui-même) pour attaquer des victimes — les touchant, les mordant invisiblement, leur dérobant des organes ou de l'énergie vitale. La victime développe une maladie dont les médecins ordinaires ne trouvent pas la cause.
+
+## HABITAT
+
+Le Suanggi vit dans la communauté — c'est une personne ordinaire le jour (souvent décrite comme quelqu'un de légèrement solitaire, d'excentrique, ou dont les regards sont différents). La nuit, son aspect prédateur se déplace dans la forêt, le long des chemins, ou s'approche des maisons des victimes. Des zones forestières isolées, des carrefours de sentiers, et les abords des habitations la nuit sont ses zones de chasse. Dans certaines traditions, le Suanggi se déplace sous forme animale (chat, oiseau de nuit, lumière flottante) pendant ses attaques nocturnes.
+
+## DESCRIPTION
+
+Le Suanggi en apparence diurne est une personne ordinaire — souvent identifiable a posteriori seulement, après qu'une communauté a établi une accusation. Dans son état nocturne prédateur, il peut apparaître comme une lumière flottante (comparable aux *min-min* australiens), comme un être lumineux vague, ou prendre une forme animale. Des descriptions des Highlands de PNG décrivent le *sanguma* comme un être dont les entrailles sont visibles (luminescentes) pendant les attaques nocturnes — une lueur dans la nuit révélant la présence d'un être dont la peau est devenue transparente pendant la prédation.
+
+## POUVOIRS
+
+Prédation nocturne invisible — le Suanggi peut attaquer des victimes sans laisser de marques visibles ; les maladies et les morts qu'il cause semblent naturelles aux médecins ordinaires. Dévoration d'organes — dans certaines traditions, le Suanggi prélève des organes (foie, rate, sang) qui sont ensuite remplacés par des substituts inopérants — la victime continue de vivre pendant un temps mais inéluctablement. Transmission de maladie par le toucher ou le regard. Capacité de prendre une forme animale ou lumineuse pendant les attaques. Dans des traditions des Highlands, le *sanguma* peut coopérer en groupes — plusieurs Suanggi attaquant une victime ensemble lors de "festins" nocturnes.
+
+## FAIBLESSES
+
+Des guérisseurs traditionnels (*glasman* ou *diviner* en Tok Pisin) peuvent diagnostiquer une attaque de Suanggi et identifier le Suanggi responsable. Des contre-mesures rituelles — des plantes protectrices, des formules, des barrières rituelles autour des maisons — peuvent protéger des attaques nocturnes. La lumière forte peut repousser ou révéler un Suanggi pendant ses activités nocturnes. L'exposition sociale — quand un Suanggi est identifié par la communauté, sa capacité de prédation est affectée par la conscience collective de sa nature. Dans des contextes contemporains, des accusations de sanguma entraînent parfois des violences communautaires — une réalité documentée et préoccupante en PNG.
+
+## COMPORTEMENT
+
+Le Suanggi dans sa vie diurne maintient une apparence de normalité — il/elle interagit dans la communauté comme tout le monde. Des signes pouvant le trahir : une légère étrangeté dans le regard, une tendance à être seul la nuit, une odeur particulière, ou des réactions inhabituelles à certaines situations rituelles. La nuit, le comportement prédateur s'enclenche — dans certaines traditions de façon involontaire (une possession), dans d'autres de façon délibérée. Des victimes peuvent rêver de rencontres nocturnes avec le Suanggi — rêves interprétés comme des contacts réels dans le cadre de la cosmologie mélanésienne.
+
+## RÉCITS TRADITIONNELS
+
+Un récit Sepik de PNG (compilé par des anthropologues au milieu du XXe siècle) : plusieurs membres d'un village développent successivement une maladie caractérisée par un amaigrissement rapide sans cause visible. Un *glasman* (devin guérisseur) est consulté — il identifie en rêve l'esprit d'une femme du village qui visite les malades la nuit et prélève de leur essence vitale. Il effectue des contre-rituels et indique à la famille de la femme que des mesures doivent être prises. La femme, confrontée, nie mais est mise sous surveillance communautaire. Les maladies cessent progressivement.
+
+## VARIANTES RÉGIONALES
+
+Le Suanggi s'inscrit dans un ensemble plus large de traditions mélanésiennes de sorcellerie nocturne — comparable à la *Leak* balinaise (déjà dans ce bestiaire), à des traditions de sorcellerie des *aitu* polynésiens, et à des pratiques de sorcellerie nocturne documentées dans de nombreuses cultures d'Afrique subsaharienne (les *ndoki* du Kongo, les *obayifo* akan). Dans le contexte mélanésien plus large, des êtres comparables existent dans les traditions des Îles Salomon, du Vanuatu, et des peuples Papous des lowlands. La figure du *sanguma* est une des formes de sorcellerie les plus documentées en Papouasie-Nouvelle-Guinée contemporaine.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Suanggi et le *sanguma* sont des figures vivantes et culturellement actives en Papouasie-Nouvelle-Guinée contemporaine — des accusations de *sanguma* ont des conséquences légales et sociales documentées. Le gouvernement papouasien et des ONG internationales travaillent à distinguer les croyances traditionnelles des violences communautaires liées aux accusations. Des journalistes et des anthropologues ont documenté des incidents de violence communautaire en PNG liés à des accusations de *sanguma* au XXIe siècle. La figure est présente dans des productions culturelles mélanésiennes contemporaines.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des masques et des sculptures rituels mélanésiens de Papouasie représentent des êtres de sorcellerie dont le Suanggi est une expression — des masques du Sépik, des objets rituels de la région de Milne Bay, et des sculptures des Highlands documentés dans des musées (Musée national de Port Moresby, musées australiens) constituent une iconographie de la sorcellerie mélanésienne. Des photographies ethnographiques de cérémonies liées à la sorcellerie en PNG au XXe siècle constituent une documentation visuelle.
+
+## POUR ALLER PLUS LOIN
+
+Le Suanggi illustre comment des systèmes de croyances surnaturels peuvent avoir des effets sociaux réels et contemporains — les accusations de *sanguma* en PNG ne sont pas des survivances historiques lointaines mais des pratiques vivantes avec des conséquences légales, médicales, et sociales documentées. La question de savoir comment respecter des systèmes culturels traditionnels tout en protégeant les individus des violences générées par des accusations de sorcellerie est un défi qui confronte les gouvernements, les anthropologues, et les communautés mélanésiennes contemporaines. La cosmologie du Suanggi est un système d'explication de la maladie et de la mort — toute mort soudaine inexpliquée peut avoir un Suanggi comme cause, ce qui génère une recherche de responsable dans la communauté.

@@ -1,0 +1,129 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cuelebre
+  Tradition : Iberique
+═══════════════════════════════════════════════
+
+
+# CUÉLEBRE
+
+## SIGNIFICATION DU NOM
+
+*Cuélebre* est un terme asturien et cantabre désignant ce serpent ailé — le terme est probablement dérivé du latin *colubra* (couleuvre, serpent) avec une évolution phonétique spécifique dans les dialectes asturiens et cantabres. Dans l'asturien traditionnel, le Cuélebre (parfois *Cuelebre* sans accent dans des transcriptions diverses) est un terme bien établi pour cette créature spécifique. La connexion étymologique avec *colubra* souligne que le Cuélebre est fondamentalement un serpent — mais amplifié et transformé en dragon ailé par la tradition mythologique.
+
+## ORIGINE
+
+Le Cuélebre est documenté dans la tradition orale asturienne et cantabre depuis au moins le XVIIIe siècle, avec des collectes systématiques au XIXe et début XXe siècle par des folkloristes des Asturies. Constantino Cabal (*La Mitología Asturiana*, 1925) et Aurelio de Llano Roza sont les références principales pour la documentation du Cuélebre. La créature s'inscrit dans un substrat mythologique ibérique pré-romain (celtique ibérique) syncrétisé avec des traditions romaines et médiévales.
+
+## NATURE
+
+Le Cuélebre est un serpent qui a vécu si longtemps qu'il a développé des ailes et une puissance surnaturelle — un thème de la serpent qui se transforme avec l'âge en dragon. Sa nature est fondamentalement prédatrice et possessive — il garde des trésors dans ses grottes et retient en captivité des *Xanas* (fées asturiennes) qui ne peuvent pas être libérées tant qu'il vit. La douleur et la fureur qui l'habitent viennent de sa peau qui ne peut plus muer — elle a durci et le comprime douloureusement, une source de souffrance permanente qui nourrit sa rage.
+
+## HABITAT
+
+Le Cuélebre vit dans des grottes et des cavernes profondes des montagnes asturiennes et cantabres — particulièrement des grottes proches de sources et de rivières souterraines. Il garde une entrée de grotte qui mène à ses trésors accumulés et aux chambres où il retient ses *Xanas* captives. Des zones de karst et de cavernes dans les Picos de Europa et les montagnes asturiennes sont traditionnellement associées aux Cuélebres.
+
+## DESCRIPTION
+
+Le Cuélebre est décrit comme un serpent de grande taille — parfois suffisamment grand pour s'enrouler autour d'une colline entière. Son corps est couvert d'écailles qui, avec l'âge, se sont durcies au point de ne plus pouvoir muer — cet arrêt de la mue est la source de sa souffrance et de sa rage. Il a développé des ailes de chauve-souris ou d'oiseau (selon les versions) qui lui permettent de voler. Son souffle peut être venimeux ou brûlant. Dans certaines versions, sa peau épaissie est pratiquement impénétrable aux armes ordinaires.
+
+## POUVOIRS
+
+Vol. Souffle venimeux ou brûlant. Garde de trésors et de captifs (Xanas). Résistance aux armes ordinaires — seule une arme spéciale ou une ruse peut pénétrer sa peau durcie. Dans des traditions régionales, il peut causer des inondations en bloquant des rivières souterraines. Sa durée de vie extrême lui confère une sagesse monstrueuse — il est difficile à tromper.
+
+## FAIBLESSES
+
+La nuit de Saint Jean (24 juin) — c'est la nuit où le Cuélebre est le plus vulnérable dans certaines traditions asturiennes : il sort de sa grotte pendant une brève période et peut être attaqué. Des armes bénies ou des armes rituellement préparées peuvent pénétrer ses écailles durcies. Dans d'autres traditions, lui offrir une calebasse remplie de son ou de sable qui le remplit mais ne le rassasie jamais distrait sa faim. Des charmes et des formules magiques prononcés par des *saludadores* (guérisseurs asturiens).
+
+## COMPORTEMENT
+
+Le Cuélebre est un être de fureur continue — sa peau qui ne peut plus muer le tient dans une souffrance permanente, et cette douleur se transforme en rage et en agressivité. Il ne tolère pas les approches humaines de son territoire et attaque tout intrus. La motivation de son comportement de gardien est double : la possession possessive des trésors accumulés et la retenue des Xanas. Des Xanas libérées par la mort du Cuélebre peuvent révéler l'emplacement de ses trésors.
+
+## RÉCITS TRADITIONNELS
+
+Un récit asturien classique : dans les montagnes des Asturies, un Cuélebre de grande taille réside dans une grotte profonde où il garde un trésor immense et plusieurs Xanas captives. Des villageois qui vivent à proximité trouvent du bétail manquant ou mort — tué par le Cuélebre lors de ses sorties nocturnes. Un jeune homme courageux, aidé par des conseils d'une sorcière locale, prépare une arme spéciale. La nuit de Saint Jean, quand le Cuélebre sort brièvement de sa grotte, le jeune homme l'attaque à l'endroit vulnérable (souvent sous la gorge ou une partie non durcie de son ventre). Le Cuélebre est tué. Des Xanas libérées guident le jeune homme vers le trésor.
+
+Un autre récit : une femme perd son chemin dans des montagnes asturiennes et tombe sur la grotte d'un Cuélebre. Elle entend à l'intérieur les pleurs des Xanas captives. Elle ne peut pas les libérer seule mais mémorise le chemin pour guider des guerriers. Une expédition est organisée — le Cuélebre est finalement tué après un long combat.
+
+## VARIANTES RÉGIONALES
+
+Des serpents ailés dragons qui gardent des trésors et des captifs existent dans de nombreuses traditions ibériques et européennes — des dragons de contes médiévaux européens, des *lindworms* nordiques, des *wurms* germaniques. Dans d'autres régions ibériques, des créatures comparables portent d'autres noms — le *Serpe* galicien, le *Sierpe* ibérique. La spécificité du Cuélebre asturien est son association précise avec les *Xanas* (fées asturiennes) comme captives et avec la douleur de la peau qui ne mue plus comme moteur de sa fureur.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Cuélebre est l'une des créatures les plus connues du folklore asturien — des festivals culturels asturiens incluent des représentations de Cuélebres. Des publications de l'Académie de la Langue Asturienne documentent les traditions du Cuélebre. Des artistes asturiens contemporains représentent le Cuélebre dans des œuvres inspirées du folklore régional. Des jeux de rôle et des jeux vidéo de fantasy ibérique incluent des Cuélebres comme créatures.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de serpents ailés et de dragons dans l'art roman et médiéval asturien — des sculptures dans des churches et des monastères des Asturies. Des enluminures de manuscrits médiévaux ibériques représentant des dragons comparables. Des représentations dans des arts populaires asturiens du XIXe et début XXe siècle.
+
+## POUR ALLER PLUS LOIN
+
+Le Cuélebre illustre le thème du gardien souffrant — un être dont la fureur prédatrice est alimentée par une douleur réelle (la peau qui ne peut plus muer). Cette nuance psychologique distingue le Cuélebre d'un monstre purement malveillant : il est un être en souffrance chronique dont la rage est une réponse à cette souffrance. Cette dimension pathétique ne justifie pas sa prédation mais la rend compréhensible. Dans la tradition asturienne, la mort du Cuélebre est ainsi une libération à plusieurs niveaux — la libération des Xanas captives, la libération du trésor, mais peut-être aussi la libération de la créature elle-même d'une vie de douleur.

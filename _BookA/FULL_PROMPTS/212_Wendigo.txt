@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Wendigo
+  Tradition : Amerindien Nord
+═══════════════════════════════════════════════
+
+
+# WENDIGO
+
+## SIGNIFICATION DU NOM
+
+*Wîhtikow* en algonquin désigne une entité maléfique associée à l'hiver et à la faim. La racine est liée à des termes signifiant "mauvais esprit" ou "esprit dévoreur". Les variantes orthographiques nombreuses reflètent la diversité des langues et dialectes algonquins, qui n'avaient pas de forme écrite standardisée avant le contact avec les Européens. Dans toutes ces langues, le mot désigne à la fois l'entité et le syndrome qui porte son nom.
+
+## ORIGINE
+
+Le Wendigo est attesté dans les traditions orales des peuples algonquins, ojibwés et cris depuis des siècles — il est l'une des figures les plus redoutées des forêts boréales nord-américaines. Sa relation avec la famine et le cannibalisme de survie reflète une réalité des hivers boréaux : les groupes de chasseurs isolés pouvaient mourir de faim, et certains se retrouvaient face à l'impensable choix de manger les morts ou de mourir. Le Wendigo personnifie le franchissement de cette limite.
+
+## NATURE
+
+Le Wendigo peut être soit une entité spirituelle préexistante — un esprit maléfique de l'hiver qui possède les humains — soit un humain transformé par le cannibalisme de survie. Les deux versions coexistent dans les traditions. Dans la version possession, le Wendigo prend le contrôle d'une personne qui commence à désirer la chair humaine. Dans la version transformation, l'acte de cannibalisme lui-même *crée* le Wendigo en transformant irréversiblement l'humain qui a transgressé l'interdit.
+
+## HABITAT
+
+Le Wendigo habite les forêts boréales profondes et les toundras du Grand Nord — son territoire est le territoire de la famine hivernale. Il est absent l'été, actif en hiver quand la neige coupe les communications et que les proies se raréfient. Il rôde autour des campements isolés, dans les zones forestières les plus denses, là où les humains peuvent se perdre sans retour.
+
+## DESCRIPTION
+
+Le Wendigo est humanoïde et gigantesque — plus grand qu'un homme, squelettique malgré son appétit insatiable. Sa peau est grise ou cendreuse, collée sur ses os proéminents. Son cœur est de glace — littéralement, dans certaines traditions : un cœur de glace qu'on doit faire fondre pour le tuer. Ses pieds sont disproportionnellement grands. Il dégage une odeur de putréfaction et de sang. Ses yeux brillent dans l'obscurité des forêts. Sa bouche est ensanglantée, ses lèvres consumées par sa propre faim — il se dévore lui-même par les extrémités.
+
+## POUVOIRS
+
+Le Wendigo se déplace plus vite que n'importe quel humain dans la neige — il court avec une aisance surnaturelle là où les humains peinent à avancer. Il contrôle les tempêtes de neige et peut faire tomber le froid extrême. Il crie d'une façon qui paralyse ou affole ses proies. Certaines traditions lui attribuent le pouvoir de grandir proportionnellement à ce qu'il dévore — plus il mange, plus il est grand, plus il a faim.
+
+## FAIBLESSES
+
+Un couteau ou une lance de métal enfoncé dans son cœur de glace peut le tuer. Certaines traditions mentionnent le feu comme capable de le détruire, en faisant fondre son cœur gelé. Les *medicine men* (praticiens spirituels) des communautés algonquines connaissaient des rituels pour traiter la "psychose Wendigo" — une condition documentée par les ethnologues où une personne affamée développe des désirs cannibales et se croit transformée.
+
+## COMPORTEMENT
+
+Le Wendigo est insatiable — sa faim ne peut jamais être satisfaite. Plus il mange, plus il est affamé. Cette faim infinie est son châtiment et sa nature. Il ne réfléchit pas, ne planifie pas — il traque et dévore. Il est incapable des émotions humaines normales. Des personnes transformées en Wendigo suppliaient parfois leurs proches de les tuer avant que la transformation soit complète.
+
+## RÉCITS TRADITIONNELS
+
+Les archives ethnologiques du XIXe et début XXe siècle rapportent des cas de "psychose Wendigo" chez les peuples algonquins — des individus qui, après une famine sévère, développaient une obsession cannibale et croyaient se transformer en Wendigo. Dans certains cas, ces individus demandaient eux-mêmes à être exécutés. Des "chasseurs de Wendigo" spécialisés existaient dans certaines communautés — des praticiens spirituels capables de traiter ou d'éliminer la menace.
+
+## VARIANTES RÉGIONALES
+
+Chez les Cris du nord du Québec, le Wendigo est plus clairement un esprit de possession que chez les Ojibwés du Michigan où il est davantage un monstre physique. Les traditions iroquoises proches ont leur propre figure de géant cannibale (*Stone Coat*) distincte mais comparable dans sa fonction.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture pop occidentale a fait du Wendigo un monstre de jeux d'horreur et de films — souvent représenté avec des bois de cerf. Cette iconographie (bois de cerf) n'existe pas dans les traditions algonquines originelles. La "psychose Wendigo" — syndrome documenté — est souvent ignorée au profit du monstre spectaculaire. L'appropriation de la figure par des créateurs non-autochtones est sensible dans les communautés concernées.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Il n'existe pas d'iconographie traditionnelle algonquine du Wendigo — les traditions orales ne produisaient pas de représentations visuelles canoniques. Les premières illustrations sont celles de magazines et livres occidentaux du XIXe-XXe siècle, qui ont standardisé une image largement déconnectée du folklore source.
+
+## POUR ALLER PLUS LOIN
+
+Le Wendigo dit quelque chose de fondamental sur la vie dans les forêts boréales : la famine est réelle, l'isolement tue, et le tabou du cannibalisme est la ligne qui sépare l'humain de ce qu'il ne doit pas devenir. La figure personnifie le danger le plus intime — pas le monstre extérieur, mais la transformation de soi en monstre sous la pression de la survie absolue.

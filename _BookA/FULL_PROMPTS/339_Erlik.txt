@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Erlik
+  Tradition : Siberien Arctique
+═══════════════════════════════════════════════
+
+
+# ERLIK
+
+## SIGNIFICATION DU NOM
+
+*Erlik* (Эрлик) dans les traditions altaïques et touvaines est le nom propre du seigneur du monde souterrain — analogue à Hadès, Osiris, ou Yama dans d'autres traditions, mais avec ses propres caractéristiques. Le terme est lié à une racine turco-mongole désignant un être puissant de l'au-delà. Dans les traditions bouddhistes tibétaines et mongolées qui ont influencé les chamanismes altaïque et touvain, Erlik est parfois synchrétisé avec Yama (le seigneur des morts indien). Dans les textes de Radloff (*Proben der Volksliteratur der türkischen Stämme*, 1866-1907), Erlik est décrit en détail dans des épopées chamaniques.
+
+## ORIGINE
+
+Erlik est documenté dans les épopées et les récits oraux des peuples altaïques — collectés par Wilhelm Radloff au XIXe siècle et par des ethnographes russes et soviétiques ultérieurs. Des chamans (*kam*) altaïques décrivaient leurs voyages dans le monde souterrain (*Alt Dünya*) où Erlik régnait. Des textes de l'écriture Orkhon (inscriptions turques runiques du VIIe-IXe siècles CE) mentionnent des êtres comparables. La figure est commune à de nombreux peuples turco-mongols — des variations du nom existent chez les Yakoutes, les Kirghizes, les Kazakshstan, les Bouriates, et d'autres.
+
+## NATURE
+
+Erlik est le roi du monde souterrain — une figure qui n'est pas simplement "le mal" dans un sens chrétien mais plutôt un antagoniste cosmique dont la puissance rivalise avec celle des dieux supérieurs. Dans la cosmologie à trois mondes des chamanismes altaïques (*Üst Dünya* — monde supérieur des dieux du ciel, *Orta Dünya* — monde du milieu des humains, *Alt Dünya* — monde inférieur d'Erlik), Erlik est le seigneur du tiers inférieur du cosmos. Son opposition aux dieux supérieurs génère la tension dramatique des épopées chamaniques.
+
+## HABITAT
+
+Erlik règne dans l'*Alt Dünya* (monde inférieur) — un espace souterrain avec ses propres palais, ses propres rivières, et ses propres sujets (les morts). Son palais est décrit dans des épopées comme une demeure sombre et magnifique. L'accès au monde d'Erlik est réservé aux chamans en transe — qui peuvent y descendre pour négocier la libération d'âmes captives ou pour obtenir des connaissances.
+
+## DESCRIPTION
+
+Erlik est un seigneur — une figure de dignité terrifiante plutôt qu'un monstre. Dans les descriptions épiques altaïques : un être d'une taille imposante, avec des crocs ou des dents proéminentes, une barbe noire ou grise descendant en filaments, des yeux de braise. Il peut être représenté sur un trône dans son palais souterrain, entouré d'assistants et de serviteurs. Dans les syncrétismes bouddhistes, des représentations iconographiques d'Erleg Khan (la forme mongolée) le montrent avec les attributs de Yama — un trône de jugement, des outils de pesée des âmes.
+
+## POUVOIRS
+
+Règne sur le tiers inférieur du cosmos. Contrôle des morts et des âmes capturées. Capacité de retenir les âmes des humains vivants dont il veut la mort. Commandement d'armées de démons et d'assistants infernaux. Dans des épopées altaïques, Erlik peut provoquer des maladies dans le monde du milieu en capturant l'âme d'un humain vivant — le chaman doit descendre pour négocier ou racheter l'âme.
+
+## FAIBLESSES
+
+Un chaman (*kam*) puissant peut descendre dans le monde d'Erlik et négocier — offrir des cadeaux rituels, des offrandes, et parfois sa propre énergie vitale comme rançon pour une âme captive. Erlik peut être trompé ou distrait par un chaman particulièrement habile. Des chants et des formules spécifiques transmis par des traditions chamaniques donnent les "mots de passe" pour naviguer dans son royaume. Des dieux supérieurs peuvent intervenir contre lui dans des contextes cosmiques.
+
+## COMPORTEMENT
+
+Erlik est un seigneur capricieux — il accueille les chamans qui descendent chez lui avec une hospitalité formelle mais hostile. Dans les épopées, il peut accepter des négociations et libérer des âmes contre des compensations. Il peut aussi refuser. Son comportement est celui d'un roi qui défend son territoire et ses droits — les âmes des morts lui appartiennent selon la loi cosmique, et il n'apprécie pas les intrusions.
+
+## RÉCITS TRADITIONNELS
+
+Un récit d'épopée chamanique altaïque collecté par Radloff : un chaman descend dans le monde d'Erlik pour récupérer l'âme d'un enfant malade. Après un voyage difficile à travers les neuf niveaux du monde souterrain, il arrive devant le palais d'Erlik. Il présente des offrandes — du tabac, de l'alcool fermenté de kumiss, des figurines rituelles. Erlik les examine avec condescendance. Il accepte finalement la libération de l'âme en échange d'une promesse future — le chaman devra lui donner un autre sacrifice lors de la prochaine grande cérémonie. L'enfant guérit. Un an plus tard, la cérémonie promise est accomplie.
+
+## VARIANTES RÉGIONALES
+
+Des seigneurs des morts comparables existent dans les traditions turco-mongoles de toute la Sibérie — *Erleg Khan* en Mongolie, versions yakoutes, kirghizes, et autres. Dans les traditions bouddhistes tibétaines et mongoles qui ont influencé le chamanisme altaïque, Erlik est synchrétisé avec Yama — le seigneur des morts bouddhiste indien. Des masques de danse *tsam* (équivalent mongol du *cham* tibétain) représentent Yama/Erleg Khan dans des danses rituelles monastiques.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Erlik est connu dans les études académiques du chamanisme altaïque et dans les études de mythologie turco-mongole. Dans la Turquie contemporaine, des mouvements néo-chamaniques s'intéressent à Erlik comme figure de la tradition pré-islamique turque. Dans la culture pop turque et mongole, Erlik est parfois représenté dans des jeux vidéo et des bandes dessinées inspirés de la mythologie turco-mongole ancienne. Dans des épopées turques reconstruites, Erlik apparaît comme antagoniste cosmique.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de seigneurs des morts dans des traditions mongoles et tibétaines bouddhistes (masques de *tsam*, thangkas) montrent Erleg Khan/Yama dans leurs aspects terrifiants. Des objets rituels chamaniques altaïques — tambours avec des représentations cosmologiques des trois mondes — peuvent inclure Erlik dans le registre inférieur. Des illustrations dans des publications ethnographiques russes du XIXe siècle (accompagnant les travaux de Radloff) représentent parfois des figures de l'au-delà altaïque.
+
+## POUR ALLER PLUS LOIN
+
+Erlik illustre une conception cosmologique dans laquelle le monde des morts n'est pas simplement un espace de punition ou de récompense mais un territoire régi par un seigneur qui peut être négocié. C'est une vision pragmatique de la mort — pas un jugement définitif mais un état dans lequel des transactions sont possibles. Le chaman qui descend chez Erlik avec des cadeaux et des formules fait une chose que des marchands font avec des rois difficiles : il négocie dans les termes que son interlocuteur peut comprendre. La mort elle-même devient une relation diplomatique, difficile mais possible.

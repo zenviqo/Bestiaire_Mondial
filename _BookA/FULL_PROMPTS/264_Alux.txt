@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Alux
+  Tradition : Maya
+═══════════════════════════════════════════════
+
+
+# ALUX
+
+## SIGNIFICATION DU NOM
+
+*Alux* (pluriel *Aluxob*) est un terme maya yucatèque d'étymologie incertaine — probablement lié à des racines désignant la petitesse, l'espièglerie, ou le caractère malicieux. Parfois traduit par "lutin" ou "duende" en espagnol mexicain, le terme n'a pas d'équivalent exact. L'Alux est une entité spécifiquement maya — distincte des concepts européens de lutin ou de fée — et son nom est intraduisible sans perdre sa spécificité écologique et rituelle.
+
+## ORIGINE
+
+Les Aluxob sont documentés dans les traditions mayas depuis la période préhispaniques — des figurines d'argile retrouvées dans des sites archéologiques du Yucatán (1er millénaire apr. J.-C.) sont interprétées comme des représentations d'Aluxob ou des objets destinés à les invoquer. La figure persiste dans les communautés mayas contemporaines du Yucatán, du Belize et du Petén guatémaltèque, où les pratiques de création et de contrôle d'Aluxob sont encore actives.
+
+## NATURE
+
+L'Alux est un esprit lié à la terre agricole — plus précisément à la *milpa*, le champ de maïs-haricots-courges caractéristique de l'agriculture maya. Il peut être créé délibérément par un agriculteur ou un chaman — une figurine d'argile est façonnée et activée par des rituels appropriés. Une fois activé, l'Alux garde le champ contre les voleurs, les animaux déprédateurs et les mauvais esprits. Sa nature est donc à mi-chemin entre l'esprit spontané de la nature et l'entité construite intentionnellement.
+
+## HABITAT
+
+L'Alux vit dans la milpa, les ruines mayas (considérées comme ses maisons ancestrales), la forêt tropicale dense, et les grottes du Yucatán (particulièrement importantes dans une géographie karstique sans rivières de surface). Les cénotes et les ruines sont des lieux d'Aluxob par excellence — le visiteur qui ne rend pas hommage risque de se perdre, de tomber malade, ou de voir ses plans contrariés.
+
+## DESCRIPTION
+
+Petit — de la taille d'un enfant de cinq ou six ans, parfois encore plus petit. Apparence humaine enfantine, souvent vêtu à la manière traditionnelle maya ancienne. Peau sombre, traits aplatis, parfois une tête déformée comme dans l'art maya classique. Il est généralement invisible à l'œil nu, sauf pour ceux qui ont le don de le voir ou dans des conditions particulières (clair de lune, crépuscule). Sa présence se manifeste surtout par ses actions et les petits bruits qu'il fait.
+
+## POUVOIRS
+
+Gardiennage du territoire — il peut effrayer, dérouter ou blesser les intrus. Capacité à faire tomber la pluie ou à la retenir. Contrôle de la croissance des plantes du champ qu'il garde. Communication avec le propriétaire du champ dans les rêves. Dans certains récits, il peut devenir dangereux si son contrat avec son créateur n'est pas respecté ou si la période de service n'a pas été proprement clôturée.
+
+## FAIBLESSES
+
+L'Alux est lié à un contrat — créé pour sept ans de service typiquement. À la fin de cette période, il doit être "éteint" par des rituels appropriés, sinon il devient incontrôlable. La lumière vive le chasse. Les prières appropriées et les offrandes rituelles (copal, nourriture, balché) le pacifient. Si son nom est connu, certains rituels peuvent le contrôler.
+
+## COMPORTEMENT
+
+L'Alux garde silencieusement — il observe, déroute les intrus, fait des bruits la nuit pour effrayer. Envers son propriétaire légitime, il est bienveillant — il avertit des dangers, aide aux récoltes, protège contre le vol. Il peut taquiner et jouer des tours aux visiteurs qui n'ont pas rendu hommage. Dans les zones touristiques du Yucatán, des guides mayas mentionnent encore les Aluxob comme étant actifs dans les sites archéologiques.
+
+## RÉCITS TRADITIONNELS
+
+Un récit du Yucatán contemporain : un agriculteur crée un Alux pour protéger son champ. L'Alux fait son travail pendant sept ans — aucun voleur, bonne récolte. Quand le contrat expire, l'agriculteur oublie de faire les rituels de clôture. L'Alux, libéré de son obligation, commence à terroriser les voisins, puis l'agriculteur lui-même. Il faut un chaman (*h-men*) pour le capturer et l'enfermer dans une caverne appropriée.
+
+## VARIANTES RÉGIONALES
+
+Au Belize, les Aluxob sont particulièrement associés aux ruines mayas de la forêt. Au Guatemala, des esprits comparables liés aux champs et aux lieux anciens existent dans les traditions kekchi et q'anjob'al. Dans toute la péninsule du Yucatán, les récits contemporains d'Aluxob sont extrêmement vivants — des chantiers de construction signalent régulièrement des incidents "inexpliqués" attribués aux Aluxob perturbés.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Alux est devenu un symbole culturel de la résistance maya à la modernisation — chaque fois qu'un projet de construction rencontre des obstacles inexpliqués dans le Yucatán, les Aluxob sont invoqués dans l'explication locale. Des panneaux touristiques autour de Chichen Itza et Tulum mentionnent les Aluxob. En 2007, la construction d'un pont routier au Yucatán a été interrompue officiellement pour que des rituels maya d'apaisement des Aluxob soient effectués.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des figurines d'argile creuses retrouvées dans des contextes funéraires et agricoles du Yucatán classique sont interprétées comme des représentations d'Aluxob. Les peintures murales de Bonampak et d'autres sites montrent parfois des êtres de petite taille dans des contextes rituels. L'iconographie contemporaine des artistes mayas du Yucatán représente régulièrement l'Alux comme un petit humain sombre en habits ancestraux.
+
+## POUR ALLER PLUS LOIN
+
+L'Alux illustre une conception maya de la relation entre humain et esprit fondée sur le contrat — pas l'adoration d'une divinité mais un accord pratique avec une entité locale. Cette relation contractuelle, avec ses obligations mutuelles, ses durées définies et ses rituels de clôture, révèle une façon de gérer le surnaturel profondément pragmatique : les esprits ne sont pas adorés mais embauchés, et licenciés proprement quand leur travail est terminé.

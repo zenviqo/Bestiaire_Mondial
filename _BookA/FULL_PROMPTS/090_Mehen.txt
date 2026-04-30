@@ -1,0 +1,211 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Mehen
+  Tradition : Egyptien
+═══════════════════════════════════════════════
+
+
+# MEHEN
+
+## SIGNIFICATION DU NOM
+
+Le nom *Mhn* dérive d'une racine égyptienne signifiant *enrouler, lover, ceindre, encercler*. Mehen est ainsi *l'enroulé*, *celui qui ceint*. Cette étymologie désigne immédiatement la fonction et la posture de la créature : un grand serpent dont la position défensive est l'enroulement, qui forme par son corps lové une protection autour de ce qu'il garde.
+
+La même racine donne son nom à un *jeu de société* égyptien — le jeu de Mehen — joué sur un plateau circulaire en spirale, image directe du serpent lové. Ce jeu, attesté depuis les toutes premières dynasties, témoigne de l'ancienneté du concept de l'enroulement protecteur dans l'imaginaire égyptien.
+
+Le grec n'a pas formé de nom propre pour Mehen. Les rares mentions des auteurs hellénistiques le rendent par approximation ou le confondent avec d'autres serpents cosmiques.
+
+## ORIGINE
+
+Mehen apparaît dans les textes les plus anciens. Le jeu de Mehen est attesté dès l'époque prédynastique tardive (vers 3000 avant l'ère commune), ce qui suggère que le concept du serpent enroulé protecteur précède la cristallisation des panthéons classiques.
+
+Dans les textes funéraires, Mehen apparaît à partir des Textes des Pyramides comme protecteur du roi défunt. Cette fonction se prolonge et s'amplifie dans les Textes des Sarcophages, puis culmine dans les grandes compositions funéraires du Nouvel Empire — *L'Amdouat*, *Le Livre des Portes*, *Le Livre des Cavernes* — où Mehen apparaît systématiquement enroulé autour de l'astre solaire ou de sa barque, traversant les heures du monde inférieur.
+
+Sa nature de serpent protecteur le distingue des serpents hostiles du monde inférieur, en particulier d'Apophis. Mehen et Apophis sont les deux faces opposées du même symbole serpentin : l'un protège la lumière, l'autre tente de la dévorer.
+
+## NATURE
+
+Mehen est *serpent gigantesque*, mais d'une taille qui défie toute mesure ophidienne ordinaire. Son corps est si long qu'il peut s'enrouler entièrement autour d'une barque solaire, formant plusieurs anneaux successifs.
+
+Sa nature est *protectrice*. Cette fonction le définit. Il n'apparaît jamais comme attaquant ; il est toujours en posture défensive, enroulé autour de ce qu'il garde.
+
+Sa nature est *cosmique*. Il participe au trajet quotidien du Soleil dans le monde inférieur. Sans lui, l'astre serait livré aux serpents hostiles, aux démons, aux régions où la lumière ne peut survivre seule.
+
+Sa nature est *liée aux seuils*. Mehen marque les transitions entre régions du monde inférieur, entre heures de la nuit, entre états de l'astre solaire. Son enroulement matérialise visuellement la frontière protégée.
+
+## HABITAT
+
+Mehen habite *la barque solaire de la nuit*. Il y est enroulé autour du dieu solaire qui voyage durant les douze heures nocturnes. Cette présence est continue : il ne quitte pas la barque tant que dure le voyage.
+
+Il habite plus précisément les *régions intermédiaires* du monde inférieur, où l'astre est le plus vulnérable — les heures où la barque traverse des espaces hostiles, où Apophis peut surgir, où les démons peuvent menacer.
+
+Dans certaines compositions, il habite également la *cabine* de la barque où Râ se trouve momentanément régénéré au cœur de la nuit. À cette heure cruciale, son enroulement enferme et protège l'opération secrète de régénération.
+
+Il habite enfin, par extension iconographique, les *plateaux du jeu de Mehen*, où sa figure spiraloïde organise l'espace ludique en parcours protecteur. Le jeu lui-même peut avoir eu une dimension funéraire à l'origine, en simulant le parcours protégé du défunt à travers le monde inférieur.
+
+## DESCRIPTION
+
+Mehen apparaît comme un *serpent gigantesque enroulé en plusieurs spires*. Le nombre d'anneaux varie selon les représentations — généralement quatre, cinq, ou sept.
+
+Sa *tête* émerge de l'enroulement, généralement levée et tournée vers l'extérieur, prête à mordre toute menace approchante. Cette tête présente parfois des cornes, parfois une crête, parfois simplement le museau ophidien classique.
+
+Son *corps* est massif. La largeur de chaque anneau dépasse celle d'un homme. Sur certaines représentations, des hiéroglyphes ou des symboles cosmiques sont gravés sur les écailles, indiquant que ce corps est lui-même un *texte* — chaque écaille porte un signe protecteur.
+
+Sa *couleur* est généralement sombre — vert foncé, noir, ou bleu nuit — avec parfois des touches d'or pour les détails. Cette palette nocturne souligne son association aux heures de l'obscurité.
+
+Au *centre* de son enroulement se trouve, selon les compositions, soit la figure du dieu solaire enfermé dans le coeur de la nuit, soit la barque entière, soit le défunt royal en cours de régénération. La figure intérieure est protégée par les multiples couches du corps serpentin.
+
+## POUVOIRS
+
+Mehen possède le *pouvoir de protection circulaire*. Son enroulement crée une barrière intransgressible. Aucune créature hostile ne peut franchir les anneaux.
+
+Il possède le *pouvoir de garde nocturne*. Pendant les douze heures de la nuit, il maintient sa vigilance ininterrompue. Aucun épuisement, aucun assoupissement, ne le relâche.
+
+Il possède le *pouvoir de purification spatiale*. Les régions où il est passé, ou autour desquelles il s'est enroulé, deviennent rituellement purifiées des présences hostiles.
+
+Il possède le *pouvoir de séparation des heures*. Son corps, à certaines transitions, marque la limite entre une heure et la suivante. Cette segmentation temporelle, doublée d'une séparation spatiale, structure le voyage nocturne en étapes successives protégées.
+
+Il possède le *pouvoir oraculaire potentiel*. Certaines traditions tardives suggèrent que Mehen pouvait être interrogé pour obtenir des indications sur le parcours du défunt. Ce trait reste marginal et faiblement documenté.
+
+## FAIBLESSES
+
+Mehen ne connaît pas de défaite individuelle. Il n'est pas un combattant, et aucun récit ne raconte qu'il aurait été vaincu.
+
+Sa seule limite tient à sa *fonction* : il protège ce qu'il enserre, mais il n'attaque pas hors de ses anneaux. Quand Apophis surgit pour menacer la barque solaire, ce ne sont pas Mehen qui combat — ce sont d'autres figures (parfois Seth, parfois la déesse-chatte, parfois le grand chat solaire) qui frappent l'agresseur. Mehen reste enroulé, ferme, protégeant le coeur de ce qui doit être protégé.
+
+Il n'a pas d'arme, pas de griffe, pas de pouvoir destructeur. Sa puissance est entièrement *contentive* — il contient, il enserre, il abrite. Cette fonction lui suffit ; les pouvoirs de combat sont délégués à d'autres figures du cortège solaire.
+
+## COMPORTEMENT
+
+Mehen est *immobile dans son enroulement*. Une fois lové, il ne se déplace que par déplacement de l'ensemble qu'il protège. Si la barque avance, il avance avec elle, mais sans rompre sa posture.
+
+Il est *vigilant*. Tête levée, regard porté vers l'extérieur, corps prêt à se resserrer si la menace s'approche.
+
+Il est *silencieux*. Aucun cri, aucun sifflement n'est rapporté. Sa présence est purement physique.
+
+Il est *attaché à sa fonction*. Il ne prend pas d'initiative étrangère à son rôle de protecteur. Il ne dialogue pas, ne se manifeste pas hors du contexte cosmique de la traversée solaire nocturne.
+
+## RÉCITS TRADITIONNELS
+
+Mehen apparaît dans les grandes compositions funéraires comme acteur récurrent du voyage solaire nocturne, sans constituer le sujet d'un récit autonome.
+
+Dans *L'Amdouat* (*Ce qui est dans le monde inférieur*), composition funéraire majeure du Nouvel Empire qui décrit les douze heures de la nuit traversées par la barque solaire, Mehen apparaît à plusieurs reprises. Sa présence dans la cabine du dieu solaire, lové autour de la figure intérieure, marque les heures les plus profondes — celles où l'astre régénère sa puissance avant de ressurgir à l'aube.
+
+Dans *Le Livre des Portes*, autre composition du Nouvel Empire qui décrit les portes successives du monde inférieur, Mehen apparaît comme gardien de certaines portes, son corps formant la barrière même que le défunt doit franchir en prononçant les formules appropriées.
+
+Une tradition iconographique particulière, la *cabine de Mehen*, montre le dieu solaire ou le défunt royal littéralement enfermé dans une structure formée par le corps serpentin. Cette représentation, fréquente dans les tombes royales thébaines, exprime visuellement la sécurité maximale offerte par le serpent enroulé.
+
+Le *jeu de Mehen* lui-même, dont les plateaux ont été retrouvés dans plusieurs tombes prédynastiques et de l'Ancien Empire, peut avoir constitué un récit ludique du parcours protégé. Les pions, sous forme de petits lions, parcouraient le serpent en spirale jusqu'à atteindre le centre — image stylisée du voyage du défunt vers le coeur protégé du monde inférieur.
+
+## VARIANTES RÉGIONALES
+
+À Memphis et dans la région menfite, Mehen est associé aux figures gardiennes des nécropoles royales. Les plateaux de jeu de Mehen y sont nombreux dans les tombes de l'Ancien Empire.
+
+À Thèbes, Mehen apparaît systématiquement dans les compositions funéraires des tombes royales de la Vallée des Rois. Son rôle dans *L'Amdouat* y est central et documenté en images sur les murs des chambres funéraires.
+
+À Abydos, son association à la régénération osirienne se développe à l'époque tardive — Mehen y est invoqué dans les rituels d'enroulement protecteur autour des reliques d'Osiris.
+
+Dans le Delta et à la Basse Époque, il apparaît sur des stèles privées en accompagnement des formules de protection contre les démons et les serpents hostiles.
+
+Aux époques ptolémaïque et romaine, son culte décline mais sa figure persiste dans les compositions funéraires et magiques jusqu'aux derniers siècles du paganisme.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'imaginaire moderne connaît mal Mehen, et les confusions sont fréquentes. Quelques précisions s'imposent :
+
+- Mehen n'est pas Apophis. Cette distinction est fondamentale. Apophis est le serpent hostile qui menace la lumière ; Mehen est le serpent protecteur qui défend le dieu solaire. Confondre les deux serpents inverse leur signification cosmique.
+
+- Mehen n'est pas un *dragon*. Les dragons appartiennent à d'autres traditions iconographiques. Mehen est strictement *serpent* — sans pattes, sans ailes, sans souffle de feu. Sa massivité ne le transforme pas en dragon.
+
+- Le *jeu de Mehen* n'est pas un simple divertissement enfantin. Il est probablement lié à des fonctions rituelles ou symboliques, et son ancienneté en fait l'un des plus anciens jeux de société documentés.
+
+- Le motif du serpent enroulé n'est pas universel ou banal. Il est spécifiquement égyptien dans cette forme et cette fonction. Les serpents protecteurs des autres traditions (kundalini hindoue, ouroboros gnostique, naga bouddhique) appartiennent à des constellations symboliques distinctes.
+
+- Mehen n'apparaît pas comme antagoniste. Aucune œuvre contemporaine qui le présente comme un monstre dangereux ne respecte sa fonction originelle. Il est toujours et exclusivement protecteur.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Mehen apparaît abondamment dans le corpus iconographique funéraire.
+
+Sur les parois des tombes royales thébaines (Vallée des Rois, dynasties dix-huitième à vingtième), il est figuré enroulé autour de la barque solaire ou du dieu solaire, dans les compositions de *L'Amdouat* et du *Livre des Portes*.
+
+Sur les sarcophages royaux et privés du Nouvel Empire et de la Basse Époque, son corps lové décore parfois les côtés intérieurs, formant une protection enveloppante autour de la momie.
+
+Sur les plateaux de jeu de Mehen retrouvés dans les tombes prédynastiques et de l'Ancien Empire, son corps spiraloïde organise le parcours ludique. Les pions sous forme de lionceaux et les billes en pierre semi-précieuse complètent ces ensembles.
+
+Sur les amulettes en faïence des époques tardives, son enroulement stylisé apparaît comme motif protecteur, porté ou déposé dans les bandelettes des momies.
+
+Sur les pectoraux royaux d'apparat, il peut former l'encadrement protecteur du nom du roi ou de son cartouche, signifiant que le souverain est enserré dans la garde du serpent.
+
+## POUR ALLER PLUS LOIN
+
+Mehen représente une figure majeure du panthéon des créatures protectrices égyptiennes. Sa présence depuis l'époque prédynastique jusqu'à la Basse Époque, sa stabilité fonctionnelle malgré l'évolution des cultes, sa diffusion à la fois dans les contextes royaux et privés, en font un témoin durable de la conception égyptienne de la protection cosmique.
+
+L'étude du jeu de Mehen, en particulier, ouvre une fenêtre sur les pratiques ludiques et rituelles des époques les plus anciennes de l'histoire pharaonique. La fonction exacte de ce jeu — divertissement, rituel funéraire, simulation cosmique — reste discutée et constitue un champ de recherche actif.

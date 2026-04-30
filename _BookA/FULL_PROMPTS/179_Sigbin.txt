@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Sigbin
+  Tradition : Philippines
+═══════════════════════════════════════════════
+
+
+# SIGBIN
+
+## SIGNIFICATION DU NOM
+
+*Sigbin* en visayan et en tagalog désigne une créature mystérieuse du folklore philippin — son étymologie précise n'est pas établie avec certitude. Le terme est lié dans les croyances populaires à sa façon de se nourrir : il suce le sang de ses victimes par leur ombre — une forme de vampirisme indirecte, opérant sur le double de l'être plutôt que sur son corps physique. Le Sigbin est parfois associé aux *aswang* (sorciers-vampires philippins) qui le gardent comme familier — un animal surnaturel domestiqué mis au service de la sorcellerie.
+
+## ORIGINE
+
+Le Sigbin est documenté dans le folklore des îles Visayas (Cebu, Bohol, Leyte, Samar) et de Mindanao, ainsi que dans des versions de Luzon. Il apparaît dans des collections de folklore philippin du début du XXe siècle par des chercheurs américains et philippins pendant la période coloniale américaine (1898-1946). Des récits contemporains dans les communautés rurales des Visayas maintiennent la croyance vivante. Le Sigbin appartient au même espace de croyances que les *aswang* et les *manananggal* — la richesse taxonomique du folklore philippin des créatures surnaturelles.
+
+## NATURE
+
+Le Sigbin est à la fois une créature autonome et un familier potentiel de sorciers. Sa nature est fondamentalement nocturne et parasite — il se nourrit de l'énergie vitale des humains par leur ombre. Dans les récits de sorcellerie, des familles d'*aswang* (sorciers philippins) gardent des Sigbin dans des pots — des êtres qui leur apportent de la richesse ou de la puissance en échange de soins. Sa nature n'est pas celle d'un prédateur classique — c'est un parasite subtil.
+
+## HABITAT
+
+Le Sigbin sort pendant la saison de Semaine Sainte (particulièrement dans les traditions Visayas) et lors des nuits sans lune. Il vit dans des endroits cachés et obscurs — sous les maisons, dans des bois denses, dans des antres rocheux. Les familles de sorciers (*aswang*) qui gardent des Sigbin les maintiennent dans des pots ou des jarres hermétiques dans leurs maisons. Le Sigbin évite la lumière directe et préfère les zones d'ombre épaisse.
+
+## DESCRIPTION
+
+La description du Sigbin est l'une des plus bizarres du folklore philippin : il marche à reculons, la tête entre les jambes. Il ressemble à un chien ou à un reptile sans écailles — avec de longues oreilles en éventail, une longue queue préhensile à pointes, et une peau parsemée de taches. Sa tête pointe vers le bas quand il marche, ses yeux regardant en arrière. Cette position inversée est à la fois sa posture naturelle et un signe de son inversion des choses normales. Il est généralement invisible ou difficile à percevoir directement.
+
+## POUVOIRS
+
+Succion de sang par l'ombre — il peut aspirer le sang d'une personne en mordant ou en touchant son ombre, sans toucher directement le corps. La victime dépérit sans raison apparente. Invisibilité ou semi-visibilité. Un Sigbin familier de sorcier peut apporter richesse et prospérité à son propriétaire. Dans certains récits, il peut causer des maladies par simple proximité. Sa queue à pointes peut être utilisée comme amulette de protection ou de nuisance selon le contexte rituel.
+
+## FAIBLESSES
+
+La lumière — il ne peut opérer que dans l'obscurité ou dans des zones d'ombre. Des talismans et des prières catholiques (*anting-anting* — amulettes philippes à syncrétisme catholique-animiste) peuvent le repousser. Le sel placé autour d'une maison crée une barrière. Des herbes spécifiques dans les traditions visayanes peuvent le détecter — elles réagissent à sa présence. Si son pot est brisé ou son propriétaire meurt sans lui trouver un successeur, le Sigbin domestiqué devient dangereux et errant.
+
+## COMPORTEMENT
+
+Le Sigbin erre la nuit à la recherche d'ombres humaines à parasiter. Il s'approche des maisons endormies et se place de façon à toucher l'ombre d'un dormeur. Dans les versions de familier de sorcier, il reçoit des ordres — attaquer des ennemis spécifiques, récolter de l'énergie pour son propriétaire, ou accomplir des tâches de reconnaissance. Il peut se fondre dans les ombres, rendant sa détection difficile même pour ceux qui le cherchent.
+
+## RÉCITS TRADITIONNELS
+
+Un récit visayan de Cebu : une famille remarque que sa fille dépérit — elle perd du poids, se fatigue, et pâlit sans cause médicale apparente. Un *albularyo* (guérisseur traditionnel philippin) est consulté. Il diagnostique une attaque de Sigbin — un voisin jaloux en possède un qu'il envoie la nuit. Il prépare un *anting-anting* spécial et trace du sel aux seuils et aux fenêtres. La nuit suivante, le guérisseur fait une veille. Il perçoit quelque chose près du lit de la fille. Il asperge la zone de sel bénit. Un cri bizarre dans l'obscurité. La fille commence à récupérer dès le lendemain.
+
+## VARIANTES RÉGIONALES
+
+Le Sigbin est présent dans différentes formes dans tout l'archipel philippin. Dans certaines traditions de Mindanao, il est décrit différemment — plus grand et plus agressif. Dans les traditions de Luzon, il peut avoir des caractéristiques différentes. Les *aswang* (sorciers-vampires) de certaines régions des Philippines gardent des familiers comparables sous d'autres noms. Des créatures de vampirisme d'ombre existent dans d'autres traditions d'Asie du Sud-Est — le monde surnaturel du Sigbin est lié aux traditions malaisiennes et indonésiennes voisines.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Sigbin est populaire dans la culture pop philippine — des films d'horreur, des séries télévisées, et des bandes dessinées philippines (komiks) l'ont représenté. Dans des discussions de cryptozoologie philippine, le Sigbin a été parfois associé à des avistamientos (observations) d'animaux inconnus. La position inversée de la créature — marchant à reculons, tête en bas — est visuellement mémorable et est devenue sa caractéristique iconographique la plus représentée dans les médias modernes.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les traditions artistiques philippines pré-coloniales ne produisaient pas d'iconographies formelles des créatures surnaturelles de la même façon que les traditions plus sédentaires. Des *baybayin* (écriture syllabique philippine précoloniale) sur des textes rituels pouvaient inclure des références aux Sigbin. Des ilustraciones dans des publications coloniales espagnoles et américaines représentent parfois des créatures du folklore philippin. L'iconographie moderne (komiks, films) a standardisé l'image du Sigbin marchant à reculons.
+
+## POUR ALLER PLUS LOIN
+
+Le Sigbin illustre une originalité taxonomique du folklore philippin — la distinction entre vampire qui touche le corps et parasite qui opère par l'ombre. Cette distinction est philosophiquement importante : l'ombre n'est pas le corps mais elle n'est pas non plus rien — c'est le double visible, le reflet projeté de l'être dans le monde physique. Attaquer l'ombre, c'est attaquer sans toucher — une violence invisible, indirecte, dont la victime ne comprend pas la cause. C'est une métaphore précise des dommages que la jalousie et la sorcellerie sociale infligent dans des communautés étroites.

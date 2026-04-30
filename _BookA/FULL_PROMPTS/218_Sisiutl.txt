@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Sisiutl
+  Tradition : Amerindien Nord
+═══════════════════════════════════════════════
+
+
+# SISIUTL
+
+## SIGNIFICATION DU NOM
+
+*Sisiutl* (Sísíutł) dans la langue kwakwaka'wakw désigne un serpent surnaturel à deux têtes — sa tête centrale est un visage humain, et les deux extrémités sont des têtes de serpent. Le terme n'a pas d'étymologie populaire simple — c'est un nom propre spécifique à la créature dans cette tradition. Le Sisiutl est l'une des figures surnaturelles les plus importantes de la mythologie Kwakwaka'wakw et de la côte nord-ouest du Pacifique — son image décore des masques, des couvertures Chilkat, des totem poles, et des canots de guerre.
+
+## ORIGINE
+
+Le Sisiutl est documenté dans les traditions orales Kwakwaka'wakw (anciennement appelés Kwakiutl) de la Colombie-Britannique — un peuple de la côte nord-ouest du Pacifique. Des ethnographes comme Franz Boas (*The Social Organization and the Secret Societies of the Kwakiutl Indians*, 1895) et d'autres chercheurs ont collecté des récits et des descriptions du Sisiutl dans les communautés Kwakwaka'wakw. Le Sisiutl apparaît dans les cérémonies *Hamatsa* (société secrète du Cannibal Bird) et dans d'autres rituels de la côte nord-ouest.
+
+## NATURE
+
+Le Sisiutl est un être de puissance absolue — à la fois dangereuse et potentiellement bénéfique selon comment on l'aborde. Sa nature est celle d'une force primordiale de métamorphose — il peut se transformer lui-même et transformer ceux qui le voient ou le touchent. Il est associé à la guerre et à la puissance chamanique — des guerriers qui obtiennent sa protection deviennent invincibles. Des chamans qui maîtrisent sa puissance acquièrent des pouvoirs extraordinaires. Son sang peut être utilisé comme médicament ou comme arme.
+
+## HABITAT
+
+Le Sisiutl habite les eaux — les mers de la côte Pacifique nord-ouest, les rivières profondes, et les lacs. Il peut se déplacer dans n'importe quel corps d'eau. Sur terre, il laisse des traces de mucus là où il a rampé — traces reconnaissables par ceux qui connaissent la tradition. Il peut aussi se manifester dans le ciel — certains récits le montrent traversant le ciel comme un être cosmique.
+
+## DESCRIPTION
+
+Un grand serpent dont le corps central a un visage humain — yeux et bouche distinctement humains au milieu du corps de serpent. Les deux extrémités sont des têtes de serpent avec leurs propres langues et yeux. La créature peut se plier et former un cercle — ses deux têtes se rencontrant. Dans l'iconographie formalisée Kwakwaka'wakw, le Sisiutl est représenté en vue frontale symétrique — un visage central entouré de deux corps de serpent terminés par des têtes. Il peut changer de taille — de la longueur d'un canot à plusieurs kilomètres.
+
+## POUVOIRS
+
+Quiconque voit le Sisiutl directement peut être pétrifié ou tué instantanément — sa vision non préparée est mortelle. Il peut se transformer lui-même en n'importe quelle forme. Il peut accorder la capacité de transformation aux guerriers ou aux chamans qui l'affrontent correctement. Son sang et ses mucosités ont des propriétés médicinales et magiques extraordinaires. Un guerrier qui porte une représentation du Sisiutl (sur son armure ou son bouclier) est protégé en combat. Il peut renverser un canot d'un mouvement de son corps.
+
+## FAIBLESSES
+
+Un guerrier qui connaît la méthode correcte peut affronter le Sisiutl — en le regardant dans les yeux à travers un miroir ou de façon latérale. Dans certains récits, lui dire son propre nom peut le paralyser. Des formules rituelles appropriées peuvent neutraliser ses effets. Un chaman particulièrement puissant peut lier le Sisiutl et l'utiliser comme bouclier ou arme. Le feu peut le repousser dans certaines versions.
+
+## COMPORTEMENT
+
+Le Sisiutl se déplace dans les eaux de la côte, attaquant les canots imprudents. Dans des récits mythologiques, il peut être envoyé par des êtres supérieurs (comme Bakwas ou d'autres entités) comme épreuve pour des héros. Il peut être apprivoisé par un guerrier suffisamment courageux et devenir son protecteur. Des chamans Kwakwaka'wakw utilisent des représentations du Sisiutl dans des rituels de guérison et de protection.
+
+## RÉCITS TRADITIONNELS
+
+Un récit Kwakwaka'wakw : un jeune guerrier cherche à acquérir le pouvoir du Sisiutl. Il se rend à une zone connue pour sa présence. Il attend. Le Sisiutl apparaît — ses deux têtes se déployant à travers l'eau. Le guerrier ne fuit pas et ne regarde pas directement — il se retourne et regarde son reflet dans l'eau. Le Sisiutl, voyant son propre reflet et se voyant lui-même, se plie en cercle — ses têtes se rejoignant. Dans ce moment de connexion, le guerrier touche le corps de la créature. Il reçoit le pouvoir de la transformation et l'invincibilité au combat. Le Sisiutl disparaît dans l'eau.
+
+## VARIANTES RÉGIONALES
+
+Des serpents à deux têtes existent dans les traditions de nombreux peuples de la côte nord-ouest — Haida (*Wasgo* — être loup-marin comparable), Tlingit, Tsimshian. Chaque tradition a ses propres variantes avec des noms et des caractéristiques légèrement différents. Des figures de doubles serpents existent dans d'autres traditions amérindiennes (notamment dans les traditions du sud-ouest américain). Les serpents à deux têtes ou à multiples têtes sont des figures symboliques communes dans de nombreuses traditions mondiales.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Sisiutl est reconnaissable dans l'art de la côte nord-ouest — ses représentations symétriques à deux têtes sont un motif iconographique formalisé depuis des siècles. Des artistes Kwakwaka'wakw contemporains (Bill Reid, Robert Davidson pour d'autres nations côtières) maintiennent cette tradition dans des œuvres d'art modernes. Des musées anthropologiques (Musée d'anthropologie de Vancouver, American Museum of Natural History) présentent des masques et des artefacts Sisiutl dans leurs collections permanentes.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des masques Sisiutl à trois faces (la face centrale humaine, les deux têtes de serpent aux extrémités) sont parmi les objets rituels les plus frappants de la côte nord-ouest. Des couvertures *Chilkat* (tissage cérémonie des nations Tlingit et Kwakwaka'wakw) représentent souvent le Sisiutl dans leur iconographie centrale. Des totem poles incluent souvent le Sisiutl dans leur composition. Des armes de guerre (boucliers, massues) portaient des représentations de Sisiutl pour leur puissance protectrice.
+
+## POUR ALLER PLUS LOIN
+
+Le Sisiutl illustre la logique de la puissance surnaturelle de la côte nord-ouest — quelque chose est mortel si on l'affronte incorrectement et source de puissance si on l'affronte correctement. Ce n'est pas une créature qu'on fuit ou qu'on détruit — c'est une créature qu'on apprend à affronter avec le courage et la technique appropriés. La vision directe est mortelle, le reflet est la médiation qui rend l'impossible possible. C'est une métaphore précise du rapport à la puissance : la vraie puissance ne peut jamais être regardée en face — elle doit être abordée latéralement, avec sagesse plutôt que courage brut.

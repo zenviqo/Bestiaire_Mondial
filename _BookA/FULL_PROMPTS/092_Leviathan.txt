@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Leviathan
+  Tradition : Cananeen Semitique
+═══════════════════════════════════════════════
+
+
+# LÉVIATHAN
+
+## SIGNIFICATION DU NOM
+
+*Livyatán* en hébreu est lié à la racine *lvh* (se tordre, s'enrouler) — il est le *Tordu*, le *Sinueux*, celui qui se contorsionne dans les profondeurs. Le texte d'Ésaïe (27:1) le nomme explicitement *le serpent fuyard, le serpent tortueux*. Le terme ougaritique *Lōtān* est linguistiquement identique — même consonnes, même image du serpent qui s'enroule sur lui-même. C'est l'un des rares cas où la continuité entre la mythologie cananéenne et la Bible hébraïque est aussi directement lisible dans le nom.
+
+## ORIGINE
+
+Le Léviathan préexiste à la Bible — il apparaît dans les textes ougaritiques (vers 1400 av. J.-C.) comme *Lōtān*, le serpent à sept têtes que le dieu Baal affronte et vainc dans un combat cosmique pour l'établissement de l'ordre. Quand les auteurs bibliques reprennent la figure, ils conservent l'image du monstre marin des abysses mais la réinterprètent : dans Job et les Psaumes, le Léviathan est une créature de Yahveh, pas son adversaire égal. Le conflit cosmique devient manifestation de la puissance divine.
+
+## NATURE
+
+Le Léviathan est la personnification du chaos des eaux — l'abîsse primordiale que l'ordre cosmique doit contenir. Il n'est pas maléfique au sens moral ; il est la puissance brute de ce qui résiste à la structure et à la forme. Dans les traditions rabbiniques, il attend la fin des temps — il sera tué lors du banquet eschatologique et sa chair nourrira les justes. Cette destinée finale l'inscrit dans une eschatologie, pas seulement dans une cosmogonie.
+
+## HABITAT
+
+Le Léviathan habite les abysses de la mer — *tehom* en hébreu, les eaux primordiales sous la création. Il règne sur les profondeurs que les humains ne peuvent atteindre. Certains textes le situent dans l'océan qui entoure le monde connu, là où la mer devient infinie et terrifiante.
+
+## DESCRIPTION
+
+Le livre de Job (40-41) contient la description la plus détaillée du Léviathan dans la Bible hébraïque — et l'une des plus impressionnantes de toute la littérature ancienne. Il exhale des flammes et de la fumée, ses écailles sont infranchissables, son cou est une puissance sans égale, il fait bouillir la mer comme une marmite. Ses dents sont terrifiantes. Son ventre est couvert de tessons. Il n'a pas de peur. Les traditions ougaritiques lui donnent sept têtes de serpent. L'iconographie ultérieure oscille entre le grand serpent marin à plusieurs têtes et le monstre marin indistinct.
+
+## POUVOIRS
+
+Le Léviathan souffle le feu et la fumée — il est le seul être des abysses à maîtriser le feu. Ses écailles forment une armure impénétrable aux armes des hommes. Il déchaîne les tempêtes et fait bouillir la mer. Dans les traditions rabbiniques, il est le roi absolu des poissons et des créatures marines. Sa taille est telle qu'il peut entourer la Terre entière de ses anneaux.
+
+## FAIBLESSES
+
+Le Léviathan n'a pas de faiblesse dans les textes bibliques — c'est précisément le point de Job : Job ne peut pas affronter le Léviathan, donc il ne peut pas affronter son créateur. La seule entité capable de le vaincre est Dieu lui-même. Dans les traditions ougaritiques, Baal le vainc avec l'aide de la déesse Anat. Dans l'eschatologie rabbinique, il sera vaincu à la fin des temps.
+
+## COMPORTEMENT
+
+Le Léviathan ne chasse pas les humains — il est trop grand pour s'intéresser à eux individuellement. Il existe à une échelle cosmique, incarnant la résistance des eaux primordiales à l'ordre. Il est décrit comme fier (*l'orgueilleux roi sur tous les fils de l'orgueil* — Job 41:34) — sa fierté est celle du chaos qui refuse de se soumettre.
+
+## RÉCITS TRADITIONNELS
+
+Job 40-41 est le récit-clé : Dieu parle à Job depuis le tourbillon et lui décrit le Léviathan comme preuve de sa puissance incompréhensible. Ésaïe 27:1 annonce le jour où *l'Éternel frappera de son épée dure, grande et forte, le Léviathan, serpent fuyard, le Léviathan, serpent tortueux*. Les Psaumes (74:14, 104:26) le montrent comme joujou de Dieu dans la mer. Les textes d'Ougarit montrent la victoire de Baal sur Lōtān.
+
+## VARIANTES RÉGIONALES
+
+La tradition kabbalistique identifie le Léviathan mâle et la Léviathan femelle — Dieu tua la femelle pour éviter que leur reproduction ne détruise le monde, en salant sa chair pour la conservation jusqu'au banquet eschatologique. Dans les traditions de la mer Rouge et du Golfe, des monstres marins similaires portent des noms apparentés dans la tradition islamique.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Léviathan de Hobbes (1651) — le monstre comme métaphore de l'État tout-puissant — a transformé la créature en concept politique abstrait. La culture pop l'utilise comme synonyme générique de "grand monstre marin". Ces usages effacent la dimension cosmologique précise de la figure originelle : le Léviathan n'est pas juste un grand monstre — c'est le chaos des eaux qui préexiste à la création.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les illustrations médiévales de Job montrent régulièrement le Léviathan — souvent comme dragon crachant des flammes. Les enluminures des Psautiers médiévaux le représentent comme poisson géant ou serpent de mer. William Blake a produit une représentation célèbre (vers 1825) du Léviathan comme masse tourbillonnante des abysses.
+
+## POUR ALLER PLUS LOIN
+
+Le Léviathan est l'une des créatures mythologiques les mieux documentées de l'Antiquité — présent dans des textes qui vont du XVe siècle avant notre ère aux traités de philosophie politique du XVIIe siècle. Sa longévité culturelle tient à ce qu'il représente quelque chose d'irréductible : la puissance des eaux profondes, le chaos que l'ordre ne peut que contenir, jamais vraiment vaincre.

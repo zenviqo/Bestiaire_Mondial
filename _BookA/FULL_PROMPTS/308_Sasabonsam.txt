@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Sasabonsam
+  Tradition : Africain
+═══════════════════════════════════════════════
+
+
+# SASABONSAM
+
+## SIGNIFICATION DU NOM
+
+*Sasabonsam* est un terme akan (Twi) désignant spécifiquement ce monstre forestier — le nom est traité dans les traditions orales comme un nom propre d'un type de créature plutôt que comme un terme décomposable. Dans les langues akan, *bonsa* peut évoquer une connotation de noirceur et de puissance maléfique. Le nom est également associé aux enchanteurs et sorciers *okomfo* dont certains invoquent le Sasabonsam comme source de pouvoir surnaturel.
+
+## ORIGINE
+
+Le Sasabonsam est documenté dans les traditions orales des peuples Akan — particulièrement les Ashanti — du Ghana actuel. R.S. Rattray, l'ethnographe britannique qui a travaillé intensivement avec les Ashanti dans les années 1920, documente le Sasabonsam dans ses travaux fondamentaux sur la religion et la culture ashanti. Des récits de chasseurs rencontrant le Sasabonsam dans la forêt dense de la ceinture forestière du Ghana constituent le corpus principal de la tradition.
+
+## NATURE
+
+Le Sasabonsam est un prédateur forestier surnaturel — un être qui vit dans la canopée des arbres géants de la forêt et qui capture des chasseurs et des voyageurs qui passent en dessous. Sa nature n'est pas celle d'un fantôme ou d'un esprit mais d'un être physique et tangible — il a un corps, il se nourrit, et il peut être tué dans des récits. Cette physicalité le distingue de nombreuses autres créatures de la tradition africaine. Il est parfois associé à des sorciers (*obeayifo*) qui ont établi des pactes avec lui.
+
+## HABITAT
+
+Le Sasabonsam vit dans la canopée des plus grands fromagers (*Ceiba pentandra*) et odum (*Chlorophora excelsa*) de la forêt tropicale dense du Ghana — des arbres dont la cime peut atteindre 50 à 60 mètres. Il s'y perche à la manière d'un oiseau de proie géant, les pieds accrochés aux branches supérieures, balançant ses longues jambes comme des tentacules pour attraper ce qui passe dessous. Il préfère les zones de forêt primaire non défrichée.
+
+## DESCRIPTION
+
+Le Sasabonsam est décrit avec des caractéristiques précises et distinctives : un corps humanoïde très grand et maigre avec une peau rouge sang ou brun-rouge ; des yeux rouges saillants ; une bouche pleine de dents pointues acérées ; et surtout des pieds en forme de crochets de fer — sa caractéristique la plus distinctive. Ces pieds-crochets lui permettent de s'accrocher à la canopée et de saisir ses victimes en les hissant vers lui. Ses jambes sont démesurément longues, pendant de la canopée comme des lianes vivantes.
+
+## POUVOIRS
+
+Capture depuis la canopée — ses pieds-crochets de fer peuvent saisir un être humain passant dessous et le hisser dans les arbres en quelques secondes. Résistance aux armes ordinaires dans certaines versions. Association avec la magie noire — des sorciers *obeayifo* peuvent obtenir des pouvoirs du Sasabonsam en échange de sacrifices. Terreur psychologique — la réputation du Sasabonsam modifie le comportement des chasseurs akan qui évitent certaines zones de forêt.
+
+## FAIBLESSES
+
+Des amulettes et fétiches protecteurs (*asuman*) fabriqués par des *okomfo* (prêtres-devins akan) protègent des attaques du Sasabonsam. Du fer — paradoxalement, bien que ses pieds soient de fer, du fer forgé rituel peut le blesser dans certaines versions. Des prières et des offrandes aux *abosom* (divinités/esprits du panthéon akan) peuvent neutraliser sa puissance. La lumière du feu — il préfère l'obscurité de la forêt dense.
+
+## COMPORTEMENT
+
+Le Sasabonsam est un chasseur patient qui attend dans la canopée — il ne poursuit pas ses proies mais les piège. Il s'accroche à la cime des fromagers géants et surveille les sentiers forestiers en dessous. Quand un chasseur seul passe, il étend ses longues jambes et ses pieds-crochets pour le capturer silencieusement depuis le haut. Des chasseurs disparus en forêt sans trace — sans corps retrouvé — sont souvent expliqués dans la tradition akan comme des victimes du Sasabonsam.
+
+## RÉCITS TRADITIONNELS
+
+Un récit akan classique documenté par Rattray : un chasseur part à la chasse dans la forêt profonde et ne revient pas. Des membres de sa famille consultent un *okomfo* (devin). Le devin révèle que le chasseur s'est approché d'un fromager géant dont le Sasabonsam avait fait sa demeure. La créature l'a saisi par les épaules avec ses pieds-crochets et hissé dans la canopée. Le devin effectue des rituels propitiatoires qui permettent au village de récupérer les restes du chasseur laissés au pied de l'arbre. Un autre récit : un *obeayifo* (sorcier) du village conclut un pacte avec le Sasabonsam, lui offrant des victimes humaines en échange de pouvoir. Quand le sorcier trahit sa parole, le Sasabonsam le dévore lui-même.
+
+## VARIANTES RÉGIONALES
+
+Des monstres forestiers à caractéristiques physiques particulières existent dans de nombreuses traditions africaines — le Ninki Nanka (Gambie — déjà dans ce bestiaire) est un grand reptile de la forêt, l'Eloko (Congo — déjà dans ce bestiaire) est un nain forestier. Dans d'autres traditions akan voisines, des créatures similaires habitent la forêt. La distinction du Sasabonsam est ses pieds-crochets de fer et sa vie dans la canopée — ce n'est pas un être du sol mais un prédateur de la haute forêt.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Sasabonsam est documenté dans des publications académiques d'anthropologie africaine et dans des travaux de folkloristes ghanéens contemporains. Des auteurs ghanéens de fantasy et d'horreur (notamment des auteurs de la scène littéraire d'Accra) utilisent le Sasabonsam dans leurs œuvres. Des communautés de la diaspora akan maintiennent la connaissance du Sasabonsam. Des jeux et des bandes dessinées de fantasy africaine (*Afrofuturism* et *African fantasy*) représentent le Sasabonsam.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des sculptures rituelles akan (*akuaba* et objets cultuels) peuvent représenter des formes démoniaques comparables au Sasabonsam. Des textiles *kente* et des *adinkra* akan ne représentent pas directement le Sasabonsam mais incluent des symboles associés aux forces de la forêt. Des illustrations dans les publications de R.S. Rattray dans les années 1920 sont parmi les premières représentations visuelles du Sasabonsam dans un contexte académique occidental.
+
+## POUR ALLER PLUS LOIN
+
+Le Sasabonsam illustre une logique de prédation verticale — plutôt que de chasser au sol comme la plupart des prédateurs symboliques des traditions mondiales, il chasse depuis la hauteur. Cette logique verticale reflète une réalité écologique de la forêt tropicale dense : la canopée est un monde séparé, invisible depuis le sol, peuplé de créatures que les hommes ordinaires ne voient jamais. Un prédateur qui vit dans ce monde invisible et inaccessible est particulièrement terrifiants parce qu'il ne peut pas être observé, suivi, ou anticipé. Le chasseur akan sait lire les traces au sol — mais contre un prédateur qui attaque depuis 50 mètres de hauteur, ses techniques habituelles sont inutiles. Le Sasabonsam encode l'humilité du chasseur face à une forêt plus grande et plus dangereuse que ses compétences ne peuvent maîtriser.

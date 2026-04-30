@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Manticore
+  Tradition : Iranien Perse
+═══════════════════════════════════════════════
+
+
+# MANTICORE
+
+## SIGNIFICATION DU NOM
+
+*Manticore* est une déformation du grec *Mantikhōras* (Μαντιχώρας) — lui-même une transcription du persan *Mardkhvār* (مردخوار) — "mangeur d'hommes" (*mard* — homme, *khvār* — mangeur). Le terme persan est donc directement descriptif de la nature de la créature. Ctésias de Cnide (médecin grec à la cour achéménide, ca. 398 AEC) a rapporté dans son *Indica* (un traité sur l'Inde et la Perse) une description détaillée du *Mantikhōras* d'après des témoignages perses — une créature de l'Inde ou des régions orientales.
+
+## ORIGINE
+
+Le Manticore est documenté principalement par Ctésias de Cnide (*Indica*, ca. 398 AEC) — un médecin grec qui vécut à la cour du roi perse Artaxerxès II et collecta des informations sur des animaux et des peuples des régions orientales. Sa description du Manticore était probablement basée sur des récits indirects de tigres ou de lions de l'Inde déformés par la transmission. Aristote cite Ctésias sceptiquement. Pline l'Ancien (*Naturalis Historia*, 77 CE) reprend la description et la répand dans la tradition naturaliste latine. Les bestiaires médiévaux européens (notamment le *Physiologus* et ses dérivés) ont maintenu et développé la figure.
+
+## NATURE
+
+Le Manticore est un prédateur pur — sa seule caractéristique est la capacité de dévorer les humains entiers, sans laisser de restes. Il combine la puissance du lion, la voix humaine capable de mimer des sons séduisants pour attirer des proies, et la queue de scorpion pour paralyser. Sa nature est celle d'un prédateur apex adapté spécifiquement à la chasse humaine — une créature qui a co-évolué avec l'humain comme proie préférée et exclusive.
+
+## HABITAT
+
+Le Manticore est décrit par Ctésias comme habitant l'Inde — les régions sauvages de la péninsule indienne (qui pour les Grecs incluait aussi les zones perses voisines). Il vit dans des forêts et des régions montagneuses éloignées. Dans les bestiaires médiévaux, il est généralement placé en Afrique ou en Orient — les zones non-explorées du monde méditerranéen.
+
+## DESCRIPTION
+
+Ctésias (*Indica* via Photius) : "Il a la face d'un homme, la taille d'un lion, une peau rouge sang, des yeux gris, trois rangées de dents dans chaque mâchoire, une queue terminée en aiguillons comme des dards de scorpion, une voix pareille à la syrinx mêlée à la trompette, une vitesse comparable à un cerf, et il aime par-dessus tout manger de la chair humaine." Les trois rangées de dents — un détail anatomiquement impossible — sont l'une des caractéristiques les plus distinctives. La queue de scorpion peut lancer ses dards comme des flèches.
+
+## POUVOIRS
+
+Vitesse extraordinaire — plus rapide qu'un cerf. Trois rangées de dents — peut broyer et avaler entièrement des humains. Dards de la queue lancés comme des projectiles — à distance, paralysants ou mortels. Voix imitant la syrinx (flûte de Pan) — une mélodie séduisante qui attire les humains vers lui. Sa peau rouge est protectrice. Il ne laisse jamais de restes — ses victimes sont avalées entières, os compris.
+
+## FAIBLESSES
+
+Ctésias note que les jeunes Manticores peuvent être capturés en écrasant leur queue de scorpion avec une pierre — les empêchant de se développer et de lancer des dards. Dans les bestiaires médiévaux, des vertus chrétiennes peuvent le repousser — mais ces interprétations sont médiévales et non-persanes. En dehors des mentions de jeunes capturables, le Manticore adulte est présenté comme pratiquement invincible dans les sources.
+
+## COMPORTEMENT
+
+Le Manticore chasse les humains activement — c'est sa proie préférée. Il utilise sa voix imitant la musique pour attirer des curieux dans son territoire. Il attaque et dévore ses victimes entières. Il vit solitairement — un prédateur de territoire avec une grande zone de chasse. Il ne stocke pas de nourriture et n'a pas de comportement de cache — il mange ce qu'il tue sur place.
+
+## RÉCITS TRADITIONNELS
+
+Ctésias d'après Photius : "Ctésias dit qu'en Inde il y a un animal sauvage nommé Mantikhōras. Il a la face d'un homme, les yeux gris-bleu, la grandeur d'un lion et une peau rouge sang. Il a trois rangées de dents. Son extrémité ressemble à une queue de scorpion. Il fait entendre sa voix pareille à la syrinx et à la trompette mêlées ensemble. Il court aussi vite que les cerfs. Il est sauvage et mange des hommes de préférence. Il saisit les hommes par sa queue et les frappe avec ses dards ; il lance les dards latéralement. Quand les habitants de l'Inde capturent ses petits, ils aplatissent leur queue avec une pierre, pour les empêcher de faire des dards."
+
+## VARIANTES RÉGIONALES
+
+Le Sphinx grec et égyptien (corps de lion, tête humaine) partage certains éléments avec le Manticore mais sans les dents multiples et la queue de scorpion. La *Sphinx* du mythe d'Œdipe est une figure similaire de créature humaine-lion mortelle. L'*Androsphinx* égyptien est comparable. Dans la tradition persane, le *Shadbahr* est une créature comparable mentionnée dans des textes médiévaux. Dans les bestiaires arabes médiévaux, des créatures comparables au Manticore sont décrites.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Manticore est une figure standard de la fantasy médiévale et contemporaine — présent dans des jeux de rôle (*Dungeons & Dragons*), des jeux vidéo, des films et des romans de fantasy. Sa description de Ctésias a été largement reprise et adaptée dans ces contextes. Dans les études naturalistes historiques, le Manticore est souvent discuté comme exemple de la façon dont des récits de voyageurs sur des animaux réels (tigres, lions) ont été déformés en créatures légendaires par la transmission.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des miniatures de bestiaires médiévaux représentent le Manticore — généralement comme un lion avec une tête humaine, une queue de scorpion, et parfois des ailes. Ces illustrations varient considérablement selon les manuscrits. Des représentations antiques — cylindres-sceaux et reliefs achéménides représentant des êtres composites lion-humain — peuvent être des influences sur la formation du concept. Des tapisseries médiévales et des enluminures de manuscrits en Europe du XIIe-XVe siècles représentent le Manticore dans des contextes de bestiaire.
+
+## POUR ALLER PLUS LOIN
+
+Le Manticore illustre la façon dont la transmission de récits sur des animaux inconnus crée des êtres composites impossibles. Ctésias, recevant des informations de seconde main de sources persanes sur des animaux de l'Inde, a probablement été confronté à des descriptions de tigres (proie préférentielle des tigres du Bengale : les humains) déformées par la transmission et l'ajout de détails. La voix "comme une syrinx" peut être le rugissement du tigre interprété musicalement. Les trois rangées de dents sont une exagération des dents de grand félin. Le Manticore est un tigre du Bengale vu à travers le filtre de la transmission orale à travers des cultures différentes — rendu légendaire par chaque étape de la transmission.

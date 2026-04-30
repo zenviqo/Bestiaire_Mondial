@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Mushhushshu
+  Tradition : Mesopotamien
+═══════════════════════════════════════════════
+
+
+# MUSHHUSHSHU
+
+## SIGNIFICATION DU NOM
+
+*Mušḫuššu* (𒈲𒍽𒍽𒍪) est un terme akkadien composé — *mušḫu* ou *mušḫuš* (serpent, serpent terrible) + *šu* (suffixe). Parfois traduit "serpent splendide" ou "dragon éblouissant". Dans des contextes religieux babyloniens, il est aussi appelé *Sirrush* — un terme d'origine peut-être sumérienne. La désignation "Dragon de Babylone" est d'origine grecque — les voyageurs hellénistiques qui visitaient Babylone après la conquête d'Alexandre reconnaissaient dans la porte d'Ishtar un animal qu'ils ne pouvaient identifier.
+
+## ORIGINE
+
+Le Mushhushshu est documenté dans des textes cunéiformes babyloniens depuis le IIe millénaire AEC, mais son attestation iconographique la plus célèbre est la porte d'Ishtar de Babylone — construite par Nabuchodonosor II (605-562 AEC), elle était ornée de briques émaillées représentant en alternance des aurochs (*rimi*) et des Mushhushshu. Des céramiques, des sceaux-cylindres, et d'autres objets rituels babyloniens représentent le Mushhushshu. Il est l'animal emblématique de Marduk, le dieu suprême de Babylone.
+
+## NATURE
+
+Le Mushhushshu est l'animal sacré de Marduk — un être mythologique qui n'appartient à aucune espèce naturelle identifiable mais qui est clairement distinct d'un simple serpent ou d'un simple dragon. Sa nature est celle d'un animal divin — il est au service des dieux, particulièrement de Marduk et de Nabu. Dans la cosmologie babylonienne, il n'est pas une menace mais un gardien et un symbole de puissance divine. Son association avec les portes de Babylone en fait un protecteur de la cité.
+
+## HABITAT
+
+Le Mushhushshu habite les domaines divins — les temples de Marduk (l'Esagila) et de Nabu à Babylone, ainsi que les zones d'entrée sacrées. La porte d'Ishtar est son habitat architecturel — il orne les murs de briques émaillées bleues avec une précision et une régularité qui en font un élément structurel de l'architecture sacrée. Dans des cosmologies plus larges, il peut habiter l'*Apsu* (l'océan primordial d'eau douce sous la terre).
+
+## DESCRIPTION
+
+Le Mushhushshu est un être hybride composite : il a le corps long et écailleux d'un serpent ou d'un grand lézard, les pattes avant d'un lion ou d'un félin, les pattes arrière d'un oiseau de proie (avec des serres), une longue queue de scorpion ou de serpent avec un aiguillon, et une tête de serpent avec une crête distinctive. Dans les représentations de la porte d'Ishtar, il est représenté de profil, marchant avec les deux pattes avant levées, la queue recourbée. Sa couleur dans les céramiques émaillées est un bleu vif et doré contre le fond bleu de la porte.
+
+## POUVOIRS
+
+Gardiannat sacré — il protège les entrées des temples et de la cité de Babylone. Association divine — en tant qu'animal de Marduk, il bénéficie de la puissance du dieu suprême de Babylone. Combinaison des attributs de plusieurs animaux puissants — la force du lion, la griffe de l'aigle, le venin du serpent et du scorpion. Dans des textes cunéiformes, le Mushhushshu est associé à la victoire de Marduk sur Tiamat dans l'*Enûma Eliš* (l'épopée de la Création babylonienne).
+
+## FAIBLESSES
+
+Le Mushhushshu n'a pas de vulnérabilités narratives dans les textes babyloniens — il est un être divin et non une créature combattue par des héros. Son existence est celle d'un serviteur des dieux plutôt que d'un adversaire. Dans des contextes narratifs rares, des êtres similaires peuvent être vaincus par des armes divines ou des héros divins.
+
+## COMPORTEMENT
+
+Le Mushhushshu est représenté dans une posture de marche formelle — calme, puissant, en service. Il ne manifeste pas de comportement de prédateur ou d'agressivité dans les sources primaires. Sa posture formelle sur la porte d'Ishtar est celle d'un animal en procession solennelle — aligné avec les aurochs, alternant dans une série répétée qui encode la puissance et la régularité. Son comportement est celui d'un gardien statique plutôt que d'une créature dynamique.
+
+## RÉCITS TRADITIONNELS
+
+Dans l'*Enûma Eliš* (épopée babylonienne de la Création, IIe millénaire AEC) : Tiamat, la déesse-océan primordiale, crée onze monstres pour combattre les dieux — parmi eux des serpents-dragons comparables au Mushhushshu. Marduk, le champion des dieux, les combat et les vainc. Après la victoire, ces créatures sont assimilées comme animaux divins au service de Marduk. Le Mushhushshu devient ainsi l'animal emblématique de la victoire de Marduk sur le chaos primordial. Dans des textes religieux babyloniens, le dieu Nabu hérite du Mushhushshu comme animal secondaire.
+
+## VARIANTES RÉGIONALES
+
+Le Sirrush/Mušḫuššu babylonien a influencé des représentations de dragons dans les traditions voisines — des représentations dans l'art assyrien, élamite, et achéménide montrent des influences iconographiques. Des questions de cryptozoologie ont été soulevées sur l'identité réelle de l'animal représenté sur la porte d'Ishtar — des propositions incluent une forme primitive de varanidé (lézard du genre Varanus) ou un dinosaure survivant. Ces hypothèses sont rejetées par les assyriologues qui y voient un composite mythologique clairement délibéré.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La porte d'Ishtar reconstruite au Musée de Pergame à Berlin est l'une des grandes attractions archéologiques mondiales — le Mushhushshu est visible par des millions de visiteurs. Des publications d'art mésopotamien incluent des analyses du Mushhushshu. Des jeux vidéo (notamment dans la franchise *Final Fantasy* où "Mushushu" est parfois un ennemi), des romans de fantasy, et des films utilisent la figure. Des discussions cryptozoologiques autour du "Dragon de la Bible" (Daniel 14 dans la Septante mentionne un dragon à Babylone comparable) sont encore actives.
+
+## ICONOGRAPHIE HISTORIQUE
+
+La porte d'Ishtar de Babylone (reconstruite au Musée de Pergame, Berlin — original construit vers 575 AEC par Nabuchodonosor II) avec ses briques émaillées représentant des Mushhushshu est l'iconographie centrale. Des sceaux-cylindres babyloniens représentant Marduk avec son Mushhushshu — des milliers d'exemplaires dans des collections muséales mondiales. Des stèles et des reliefs de temples babyloniens incluent le Mushhushshu dans des contextes religieux.
+
+## POUR ALLER PLUS LOIN
+
+Le Mushhushshu illustre comment un animal mythologique peut survivre à travers les millénaires dans l'iconographie — des représentations précises et cohérentes sur des siècles (de la période néo-babylonienne jusqu'à la période hellénistique) montrent un canon iconographique stable. Sa survie dans l'art est liée à sa fonction — il marque les espaces sacrés de Babylone et son image est immédiatement reconnaissable pour tous les visiteurs de la cité. C'est un "logo" religieux babylonien — une marque visuelle de la puissance de Marduk et de Babylone.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Makara
+  Tradition : Indien
+═══════════════════════════════════════════════
+
+
+# MAKARA
+
+## SIGNIFICATION DU NOM
+
+*Makara* (मकर) en sanskrit désigne une créature marine hybride — son étymologie est liée à des racines désignant "ce qui est de l'eau" ou peut-être à une racine proto-dravidienne. Le Makara est un être composite — combinant des éléments de crocodile, de dauphin, d'éléphant, et de poisson selon les contextes iconographiques. Il est le *vahana* (véhicule divin) de plusieurs divinités indiennes, notamment Gange (déesse du fleuve Gange), Varuna (dieu des eaux océaniques), et Kamadeva (dieu de l'amour). Dans l'astrologie indienne, Makara est le nom du signe du Capricorne.
+
+## ORIGINE
+
+Le Makara est documenté dans des textes sanskrit anciens — les *Puranas* (textes encyclopédiques hindous), le *Mahabharata*, et le *Ramayana* le mentionnent dans des contextes aquatiques et marins. Son iconographie est parmi les plus répandues de l'art indien classique — présente sur des temples, des sculptures, des bijoux, et des textiles depuis au moins le IIe siècle AEC. Des représentations de Makara ont été trouvées dans des contextes archéologiques de la civilisation de l'Indus (3000-1500 AEC), suggérant une très longue tradition.
+
+## NATURE
+
+Le Makara est une créature des eaux avec une nature ambivalente — potentiellement dangereuse (comme les crocodiles et les requins qu'il incarne symboliquement) mais aussi sacrée et associée aux divinités bienveillantes. En tant que *vahana* (véhicule) de Gange, il est associé au fleuve sacré lui-même. Il est aussi un gardien des seuils — des porches de temples hindous et bouddhistes sont souvent ornés de *makaras* crachant des guirlandes ou d'autres créatures depuis leurs bouches.
+
+## HABITAT
+
+Le Makara habite les eaux — les fleuves sacrés de l'Inde (Gange, Yamuna, Godavari), les mers entourant le sous-continent, et les eaux mythiques du cosmos hindou. Dans l'iconographie de temple, il marque les seuils entre l'espace sacré et l'espace profane — une présence aux portes comme gardien des transitions.
+
+## DESCRIPTION
+
+Le Makara est un être composite — et c'est précisément son caractère composite qui est sa définition. Selon les régions et les époques : corps de poisson avec tête de crocodile, trompe d'éléphant, pattes de lion, queue de dauphin ou de serpent. Des cornes dans certaines représentations. Des couleurs vives — vert, bleu, rouge — selon l'iconographie locale. La *makaravaktras* (bouche de Makara) est un motif architectural récurrent dans lequel des guirlandes, des fleurs, ou d'autres créatures semblent sortir de sa gueule ouverte.
+
+## POUVOIRS
+
+En tant que créature sacrée : protection des seuils, des temples, et des voies d'eau. Capacité de transporter des divinités comme *vahana*. Pouvoir sur les eaux et les pluies. Dans les textes mythologiques, des Makaras peuvent attaquer des plongeurs ou des pêcheurs imprudents — leur côté dangereux est maintenu même dans leur rôle sacré. Leur gueule ouverte d'où sortent des choses est un pouvoir de manifestation — une bouche cosmique depuis laquelle le monde émerge.
+
+## FAIBLESSES
+
+Comme véhicule divin, le Makara est sous l'autorité de la divinité qu'il porte — il est puissant mais subordonné. Des mantras et des prières aux divinités aquatiques peuvent l'apaiser. Les rituels de respect aux fleuves sacrés (offrandes d'eau, de fleurs, de beurre clarifié) maintiennent une relation correcte avec les êtres qui y résident.
+
+## COMPORTEMENT
+
+Le Makara dans les textes mythologiques peut se comporter comme un animal aquatique ordinaire (chassant, habitant les profondeurs) ou comme une entité surnaturelle (transportant des dieux, gardant des temples). Sa présence sur les temples est apotropaïque — il protège les espaces sacrés par sa présence menaçante à leurs seuils. Dans certains récits, des héros doivent traverser des eaux infestées de Makaras pour atteindre un objectif mythologique.
+
+## RÉCITS TRADITIONNELS
+
+Le *Mahabharata* mentionne des Makaras dans des passages décrivant les océans et les rivières sacrées. Des passages des *Puranas* décrivent des batailles entre des dieux et des Makaras des profondeurs marines. Le *Devi Bhagavata Purana* décrit la déesse Gange montée sur son Makara. Dans le bouddhisme, des Makaras gardent les accès aux lieux sacrés et sont représentés sur des *toranas* (arcs de triomphe) de stupa bouddhistes.
+
+## VARIANTES RÉGIONALES
+
+Le Makara s'est diffusé avec l'expansion du bouddhisme et de l'hindouisme dans toute l'Asie du Sud-Est — en Thaïlande (*Makar*), au Cambodge (*Macchin* / motif de temple angkorien), en Indonésie (*Makara* sur les temples hindou-bouddhistes de Prambanan et Borobudur), au Népal, et au Tibet. Chaque tradition locale a adapté la forme du Makara selon ses propres références visuelles — le Makara indonésien est différent du Makara de l'Inde du Nord. En Corée et au Japon, des influences comparables ont produit des figures analogues.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Makara est une figure largement représentée dans l'art indien classique et est visible dans des musées du monde entier (British Museum, Louvre, Metropolitan Museum) dans des sculptures et des reliefs de temple. Le nom Makara est connu dans les études d'art indien et de mythologie hindoue. Dans l'astrologie hindoue moderne, Makara est utilisé quotidiennement comme nom du Capricorne. Des bijoux indiens contemporains représentent parfois le Makara dans des ornements de mariage et de temple.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des sculptures de Makaras sur des temples hindous et bouddhistes à travers l'Inde, le Népal, et l'Asie du Sud-Est constituent l'iconographie principale — des milliers d'exemples depuis le Ier siècle AEC. Des *makara-torana* (arcs de portail ornés de Makara) sur des stupas et des temples — comme à Sanchi (IIe siècle AEC), à Borobudur (IXe siècle CE), et à Angkor (XIe-XIIe siècles CE). Des bijoux anciens en or incluent des motifs de Makara.
+
+## POUR ALLER PLUS LOIN
+
+Le Makara illustre comment un être composite peut devenir un symbole architectural fondamental — sa bouche ouverte depuis laquelle surgissent des fleurs, des guirlandes, ou d'autres créatures est une métaphore de la création elle-même, de l'émergence de la multiplicité depuis une source unique. Le Makara aux seuils des temples dit : "Ici commence un espace différent — une zone de puissance sacrée — et j'en garde le seuil." C'est une créature-seuil, définie non par ce qu'elle *est* mais par où elle *se place* : entre le profane et le sacré, entre la mer du chaos et le temple de l'ordre.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Behemoth
+  Tradition : Cananeen Semitique
+═══════════════════════════════════════════════
+
+
+# BEHEMOTH
+
+## SIGNIFICATION DU NOM
+
+*Behemoth* (hébreu *בְּהֵמוֹת*) est un pluriel de majesté de *behema* (bête, animal) — "la Grande Bête" ou "le monstre animal par excellence". Ce pluriel hébreu de majesté intensifie l'ordinaire jusqu'à l'extraordinaire : *behema* est le mot ordinaire pour "animal", et *Behemoth* est "l'Animal au-delà de tous les animaux". Dans le *Livre de Job*, Dieu présente Behemoth à Job comme la première de ses œuvres — une créature si puissante qu'elle illustre la puissance divine au-delà de toute compréhension humaine.
+
+## ORIGINE
+
+Behemoth est documenté principalement dans le *Livre de Job* (40:15-24) — un texte hébreu daté de la période postexilique (VIe-Ve siècle AEC) dont les sources sont peut-être plus anciennes. Dans des textes parabibliques juifs — notamment *4 Esdras* (II:3, Ier siècle CE) et *1 Hénoch* (60:7-8) — Behemoth et le Léviathan sont décrits comme des créatures primordiales créées au cinquième jour et séparées pour éviter qu'ils ne se reproduisent. Dans des traditions eschatologiques juives, ils sont réservés pour le festin des justes à la fin des temps — leur chair sera le banquet des élus.
+
+## NATURE
+
+Behemoth est la contrepartie terrestre du Léviathan — si le Léviathan est la bête des eaux, Behemoth est la bête de la terre. Sa nature est celle d'une créature primordiale qui existe à l'interface entre le naturel et le surnaturel — suffisamment réelle pour être décrite en termes anatomiques précis dans le *Livre de Job*, mais d'une taille et d'une puissance qui dépassent toute réalité zoologique ordinaire. Son existence illustre la toute-puissance divine : si Dieu peut créer une telle créature, qui est l'homme pour remettre en question les desseins divins ?
+
+## HABITAT
+
+Dans le *Livre de Job*, Behemoth est décrit comme habitant dans des zones de roseaux et de marécages — il se couche à l'ombre des lotus dans les marais, les saules et les peupliers de la rivière le cachent. Dans des traditions parabibliques, Behemoth habite un lieu appelé *Dendayn* (ou *Duidain*) — un désert vaste à l'est du Jardin d'Éden. Il est séparé du Léviathan (qui habite les profondeurs marines) pour éviter que les deux monstres ne se détruisent mutuellement.
+
+## DESCRIPTION
+
+Le *Livre de Job* décrit Behemoth en termes semi-zoologiques : "Sa force est dans ses reins, sa vigueur dans les muscles de son ventre. Sa queue est rigide comme un cèdre, les nerfs de ses cuisses sont entrelacés. Ses os sont des tubes d'airain, ses membres sont comme des barres de fer." Des commentateurs anciens et modernes ont proposé diverses identifications — l'hippopotame (l'interprétation la plus commune), l'éléphant, le rhinocéros, ou un animal entièrement mythologique. La description de la "queue comme un cèdre" pose problème pour l'hippopotame réel — ce qui suggère une réalité mythologique au-delà de l'animal ordinaire.
+
+## POUVOIRS
+
+Force prodigieuse dans les reins et le ventre — une puissance physique incomparable. Résistance à toutes les armes humaines — le *Livre de Job* dit que "ses os sont des tubes d'airain, ses membres sont des barres de fer". Capacité de boire un fleuve entier sans être ému — "il peut absorber un fleuve sans se précipiter". Imperméabilité au regard direct de Dieu — Behemoth est présenté comme une œuvre divine qui échappe à la compréhension humaine. Dans des traditions eschatologiques, Behemoth survit jusqu'à la fin des temps.
+
+## FAIBLESSES
+
+Dans le *Livre de Job*, seul Dieu peut approcher Behemoth — "qui peut le saisir par les yeux et le percer le nez par des crochets ?" Sa faiblesse est eschatologique : dans des traditions juives apocalyptiques (*4 Esdras*), à la fin des temps, Behemoth et le Léviathan se détruiront mutuellement dans un combat cosmique — leur chair alimentant le festin eschatologique des justes. Cette destinée finale est sa seule vulnérabilité.
+
+## COMPORTEMENT
+
+Dans le *Livre de Job*, Behemoth est décrit comme un être paisible dans son habitat naturel — se reposant dans les marécages, laissant les rivières couler sans trouble. Son comportement ordinaire n'est pas prédateur ou menaçant mais pastoral : il broute de l'herbe comme un bœuf, se couche sous les lotus. Sa menace est son existence même — une puissance qui dépasse toute maîtrise humaine. Dans des traditions apocalyptiques, Behemoth et le Léviathan représentent les forces du chaos que Dieu a maîtrisées mais non détruites, réservées pour l'acte final de la création.
+
+## RÉCITS TRADITIONNELS
+
+*Livre de Job* (40:15-24, traduction de la Bible de Jérusalem) : "Voici Behémoth, que j'ai fait comme toi ; il mange de l'herbe comme le bœuf. Regarde donc sa force dans ses reins, sa vigueur dans les muscles de son ventre. Il raidit sa queue comme un cèdre, les tendons de ses cuisses sont enlacés. Ses membres sont des tubes d'airain, ses membres comme des barres de fer. C'est la première des œuvres de Dieu ; c'est pour régner sur ses semblables qu'il a été fait. [...] Peut-on le prendre à l'hameçon, ou percer son nez d'un crochet ?" Le discours de Dieu à Job utilise Behemoth pour illustrer que les desseins divins dépassent l'entendement humain.
+
+## VARIANTES RÉGIONALES
+
+Des bêtes terrestres colossales existent dans de nombreuses traditions cosmologiques — l'*Akupara* hindou (tortue cosmique qui supporte la Terre), l'*Irminsul* germanique (arbre-monde qui supporte le cosmos), des bœufs primordiaux dans des traditions indo-européennes. La triade hébraïque Léviathan/Behemoth/Ziz est spécifique dans son articulation des trois domaines (eau, terre, air) en monstres primordiaux réservés pour un banquet eschatologique. Dans des traditions islamiques médiévales, *Bahamut* (dérivé phonétiquement de *Behemoth*) est un immense poisson qui supporte la Terre dans la cosmologie islamique populaire.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Behemoth est entré dans la langue anglaise courante comme terme désignant une chose d'une taille ou d'une puissance immense ("a behemoth corporation"). Dans la tradition chrétienne médiévale, Behemoth a été réinterprété comme un démon — notamment dans des oeuvres sur les démonologies médiévales. Le *Maître et Marguerite* de Boulgakov inclut un "Béhémoth" (sous forme de chat géant parlant). Des jeux vidéo (*Final Fantasy*, *Monster Hunter*) utilisent Behemoth comme créature.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations médiévales chrétiennes du Behemoth comme démon (illustration des vices ou des puissances infernales) dans des manuscrits enluminés. Des représentations de l'hippopotame dans des contextes bibliques illustrés. Des gravures de William Blake (*Illustrations of the Book of Job*, 1825) représentent un Behemoth d'une puissance primordiale. Des illustrations du XIXe siècle d'éditions de la Bible représentent Behemoth dans différents styles.
+
+## POUR ALLER PLUS LOIN
+
+Behemoth illustre une utilisation théologique remarquable du monstre — la créature n'est pas un ennemi ou une menace dans le *Livre de Job* mais un argument théologique. Dieu n'utilise pas Behemoth pour punir Job mais pour lui montrer la limite de son entendement : si tu ne comprends pas Behemoth que j'ai créé, comment peux-tu remettre en question mes desseins ? C'est le monstre comme preuve de l'incompréhensibilité divine — non pas un être à craindre mais un être dont l'existence même est une leçon d'humilité cosmologique.

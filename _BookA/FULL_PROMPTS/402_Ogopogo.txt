@@ -1,0 +1,167 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Ogopogo
+  Tradition : Cryptides Contemporains
+═══════════════════════════════════════════════
+
+
+# OGOPOGO
+
+## SIGNIFICATION DU NOM
+
+Le nom *Ogopogo* est d'origine relativement récente : il fut popularisé en 1924 par une chanson humoristique britannique reprise localement, qui mentionnait une créature mythique imaginaire portant ce nom palindrome. La population de la vallée de l'Okanagan, en Colombie-Britannique, adopta ce mot accrocheur pour désigner la créature qui hantait depuis longtemps son lac, supplantant progressivement les désignations antérieures dans l'usage courant.
+
+L'appellation autochtone, infiniment plus ancienne, est *N'ha-a-itk* dans la langue du peuple Syilx (Okanagan) — terme également transcrit *Naitaka* dans les sources anglophones. Cette désignation traditionnelle se traduirait approximativement par *l'esprit du lac* ou *le démon de l'eau*. Pour le peuple Syilx, il ne s'agissait pas à l'origine d'un cryptide à observer, mais d'une entité spirituelle puissante à respecter et à apaiser.
+
+## ORIGINE
+
+Les traditions du peuple Syilx, qui habite la vallée de l'Okanagan depuis des millénaires, font état d'une entité aquatique surnaturelle qui résiderait dans une grotte sous-marine située sous Rattlesnake Island, au large de Peachland. Cette entité exigeait, selon les récits anciens, des offrandes de la part de quiconque traverserait le lac — typiquement un petit animal vivant jeté à l'eau pour assurer un passage sûr.
+
+Les colons européens, arrivés au XIXe siècle dans la région, héritèrent de ces récits et commencèrent à rapporter leurs propres observations. Le premier témoignage colonial documenté date des années 1870 : une fermière qui faisait traverser ses chevaux par bateau aurait aperçu une grande forme serpentine émerger près du rivage. Au XXe siècle, les observations se sont multipliées avec l'urbanisation des rives et la fréquentation touristique du lac.
+
+## NATURE
+
+Pour la tradition autochtone Syilx, *N'ha-a-itk* est une *entité spirituelle puissante* — non un animal, mais une force du lac qui demande respect et offrandes. Cette nature spirituelle n'est pas réductible à la zoologie : la créature appartient à l'ordre des esprits qui peuplent les eaux, comparables à ceux d'autres traditions amérindiennes du Nord-Ouest.
+
+Pour la tradition cryptozoologique moderne, Ogopogo est classé parmi les *monstres lacustres de type plésiosaure* — long cou, bosses dorsales, corps fusiforme. Ces deux interprétations, traditionnelle et moderne, coexistent dans les récits contemporains, parfois en tension.
+
+## HABITAT
+
+Le lac Okanagan, profond, long de cent trente-cinq kilomètres et large par endroits de cinq kilomètres, atteint des profondeurs supérieures à deux cent trente mètres dans certaines zones. Ses eaux froides et ses vastes zones inexplorées en font, comme le lac Champlain ou le lac Ness, un habitat théoriquement compatible avec la présence durable d'une grande créature discrète.
+
+La tradition Syilx localise précisément la demeure de la créature : une grotte sous-marine située sous Rattlesnake Island, au large de Peachland, dans la partie centrale du lac. Les observations modernes se concentrent dans cette zone et dans plusieurs baies au nord et au sud — Mission Creek, Squally Point, Whiteman's Creek.
+
+## DESCRIPTION
+
+Ogopogo est décrit comme une créature longue de douze à vingt mètres environ. Son corps est sombre — vert olive, brun-noir, parfois gris ardoise — avec une surface décrite par les témoins comme rappelant celle d'une baleine plus que celle d'un poisson : peau lisse, légèrement luisante, sans écailles visibles.
+
+Le cou est long, dressé occasionnellement hors de l'eau sur une hauteur qu'on estime entre un et trois mètres. La tête est petite par rapport au cou, qualifiée par les témoins de *chevaline*, *de mouton*, ou *de serpent*. Certains rapportent des yeux noirs et expressifs, d'autres des protubérances cornues mineures.
+
+Le dos présente plusieurs *bosses* visibles à la surface, en succession régulière, comme un train d'arches. Une longue queue serpentine est parfois aperçue, propulsant la créature par mouvements latéraux ou verticaux selon les récits — détail important, car un mouvement vertical suggère un mammifère, un mouvement latéral un reptile ou un poisson.
+
+## POUVOIRS
+
+La *vitesse* est notable : plusieurs témoins, dont certains munis de barques motorisées, ont rapporté que la créature pouvait se déplacer plus vite que leur embarcation, laissant un sillage substantiel.
+
+L'*immersion prolongée* explique sa rareté apparente. Ogopogo passe la majorité de son temps en profondeur, ne remontant que brièvement.
+
+La *capacité de produire des vagues* est régulièrement mentionnée. Par calme plat, le passage d'Ogopogo près de la surface génère une série de vagues régulières qui traversent les baies, parfois sur plusieurs centaines de mètres.
+
+Pour la tradition Syilx, le pouvoir essentiel de N'ha-a-itk est *spirituel* : capacité de provoquer des tempêtes, de retourner des canoës, de noyer ceux qui le manquent de respect — pouvoir associé à l'autorité spirituelle du lac, non à une simple force animale.
+
+## FAIBLESSES
+
+La tradition Syilx ne parle pas de *faiblesse* : on ne combat pas N'ha-a-itk, on l'apaise. Une offrande appropriée — petit animal vivant, plume, tabac — assurait un passage sûr. Le manque d'offrande ou le manque de respect pouvait être fatal.
+
+Pour la tradition cryptozoologique moderne, aucune faiblesse spécifique n'est attestée. La créature est protégée depuis 1989 par un statut juridique provincial qui en interdit la capture ou la perturbation.
+
+## COMPORTEMENT
+
+Le comportement décrit est principalement *évasif*. Ogopogo s'approche rarement des embarcations, plonge rapidement quand il est repéré, et n'a jamais été associé de manière confirmée à une attaque sur un humain dans la période moderne.
+
+Dans les récits Syilx anciens, en revanche, N'ha-a-itk était considéré comme *capable d'agression* envers ceux qui traversaient le lac sans offrande. Plusieurs récits parlent de canoës soudainement retournés, de nageurs disparus, attribués à la colère de l'esprit.
+
+Une caractéristique récurrente des observations modernes est le *suivi parallèle* : la créature longerait parfois la côte ou une embarcation pendant plusieurs minutes, à distance respectueuse, avant de plonger.
+
+## RÉCITS TRADITIONNELS
+
+Le récit Syilx fondateur raconte qu'à l'origine, l'esprit du lac était un homme — un chef ou un sorcier — qui commit un meurtre grave et fut transformé par les esprits supérieurs en serpent aquatique, condamné à hanter les eaux pour expier son crime. Cette transformation explique pourquoi N'ha-a-itk possède un caractère *moral* — il punit les irrespectueux, exige des offrandes, manifeste une volonté.
+
+Un récit de la fin du XIXe siècle, devenu emblématique, raconte qu'une fermière, faisant traverser le lac à ses chevaux attachés à un radeau, vit l'eau se troubler et une grande forme noire s'enrouler autour des chevaux pour les entraîner sous la surface. Elle parvint à couper les cordes et regagna la rive sans ses bêtes.
+
+Une vague d'observations dans les années 1920 et 1930, alimentée par la chanson qui donna son nom à la créature, vit des dizaines de témoins — pêcheurs, baigneurs, automobilistes longeant le lac — rapporter des apparitions. Plusieurs descriptions concordent : une créature serpentine de douze à dix-huit mètres, plusieurs bosses, mouvement rapide.
+
+Les enregistrements vidéo des dernières décennies, dont plusieurs captures réalisées depuis les rives ou depuis des bateaux de plaisance, montrent des formes allongées dans l'eau dont l'identification reste débattue — certaines attribuées à des bancs de poissons, à des troncs flottants, à des otaries fluviales, mais d'autres restent inexpliquées.
+
+## VARIANTES RÉGIONALES
+
+La région des Rocheuses canadiennes et du Plateau intérieur compte plusieurs cryptides lacustres apparentés : *Manipogo* dans le lac Manitoba, *Igopogo* dans le lac Simcoe en Ontario, *Cadborosaurus* dans les eaux côtières de la Colombie-Britannique. Ces créatures partagent avec Ogopogo un schéma morphologique similaire — long cou, bosses dorsales, mouvement serpentin — qui constitue un type cryptozoologique nord-ouest cohérent.
+
+À l'intérieur même du peuple Syilx, plusieurs sous-traditions racontent des récits légèrement variants — certaines évoquent plusieurs créatures plutôt qu'une seule, d'autres distinguent N'ha-a-itk d'autres esprits aquatiques mineurs du lac.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture touristique de Kelowna et des autres villes riveraines a transformé Ogopogo en mascotte sympathique, représentée sur des statues, des peluches et des panneaux publicitaires sous une forme caricaturalement amicale. Cette image contraste fortement avec :
+
+- La gravité des récits Syilx originaux, où N'ha-a-itk est une entité dangereuse exigeant respect.
+- Les descriptions sobres des témoignages d'observation modernes, qui décrivent une créature impressionnante mais ni mignonne ni grotesque.
+- L'absence, dans la tradition réelle, de tout caractère anthropomorphisé, parlant ou exprimant des émotions humaines.
+
+L'industrie cinématographique et les jeux vidéo représentent souvent Ogopogo comme un dragon d'eau crachant du feu ou un kraken multi-tentaculaire — éléments qui n'ont aucun fondement dans les récits traditionnels ou contemporains.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Plusieurs pétroglyphes du peuple Syilx, peints à l'ocre rouge sur des falaises de la vallée de l'Okanagan, représentent des créatures aquatiques allongées que la tradition autochtone identifie à N'ha-a-itk. Ces peintures rupestres, dont la datation précise est incertaine mais qui précèdent largement le contact européen, constituent l'iconographie historique principale.
+
+Les illustrations européennes apparaissent au XIXe siècle dans la presse régionale, et se multiplient au XXe siècle avec la médiatisation cryptozoologique de la créature.
+
+## POUR ALLER PLUS LOIN
+
+Ogopogo est, avec son cousin écossais, l'un des cryptides lacustres les plus médiatisés au monde. Le lac Okanagan a fait l'objet de plusieurs expéditions sonar et acoustiques depuis les années 1980, qui ont enregistré des cibles non identifiées de grande taille à des profondeurs significatives. La créature jouit d'un statut juridique de protection en Colombie-Britannique. La tradition Syilx demeure vivante, et les détenteurs traditionnels du savoir continuent de transmettre les récits de N'ha-a-itk distinctement de la cryptozoologie touristique.

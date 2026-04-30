@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Samjoko
+  Tradition : Coreen
+═══════════════════════════════════════════════
+
+
+# SAMJOKO
+
+## SIGNIFICATION DU NOM
+
+*Samjoko* (삼족오 / 三足烏) est composé de trois éléments en hanja : *sam* (三 — trois), *jok* (足 — patte), et *o* (烏 — corbeau). Le nom signifie simplement "corbeau à trois pattes" — une description anatomique directe de la créature. Dans le système symbolique coréen et est-asiatique, ce corbeau à trois pattes habite le disque solaire et personnifie l'énergie du soleil. L'élément trois n'est pas accidentel — le chiffre trois est associé aux forces célestes dans les numérologies asiatiques classiques.
+
+## ORIGINE
+
+Le Samjoko est attesté dans les peintures murales des tombes du royaume de Goguryeo (삼족오, IVe-VIIe siècle CE) — des représentations du corbeau à trois pattes à l'intérieur d'un disque solaire rouge ou or sont visibles dans plusieurs tombes. Des tombes comme la tombe de Gangseo (江西大墓) et la tombe aux Chasseurs comprennent des représentations du Samjoko. Ces tombes, classées au Patrimoine Mondial de l'UNESCO en 2004, constituent le témoignage iconographique principal. Des traditions parallèles existent en Chine (le corbeau solaire dans les mythes de Yi l'Archer abattant neuf soleils) et au Japon (Yatagarasu, le corbeau-messager divin).
+
+## NATURE
+
+Le Samjoko est un corbeau surnaturel qui habite le soleil — il est l'esprit vivant du soleil lui-même, ou le gardien et le véhicule de l'énergie solaire. Sa nature est celle d'un être céleste positif — il transporte la chaleur et la lumière solaire vers la Terre, guide les armées victorieuses, et symbolise la vitalité cosmique. Sa troisième patte le distingue des corbeaux ordinaires et signale son statut surnaturel — il appartient à une catégorie différente du monde naturel, celle des êtres du ciel.
+
+## HABITAT
+
+Le Samjoko habite le disque solaire — c'est son domaine naturel et exclusif. Dans la cosmologie du Goguryeo, il est représenté à l'intérieur du soleil, parfois entouré de flammes ou de rayons lumineux. Quand il quitte le soleil pour porter des messages ou escorter des héros, il traverse le ciel entre le domaine céleste et la Terre. Les peintures murales le montrent dans des compositions cosmologiques aux côtés d'autres êtres célestes — le dragon azur de l'Est, le tigre blanc de l'Ouest, la tortue noire du Nord, le phénix rouge du Sud.
+
+## DESCRIPTION
+
+Le Samjoko est un grand corbeau noir à trois pattes — son corps est celui d'un corbeau ordinaire mais de taille plus grande et avec trois pattes au lieu de deux. Il est généralement représenté en silhouette noire à l'intérieur d'un disque rouge ou or représentant le soleil. Dans certaines représentations, ses plumes ont des nuances irisées ou des reflets dorés. Ses trois pattes sont dessinées en éventail, clairement visibles, constituant le signe distinctif de son identité surnaturelle.
+
+## POUVOIRS
+
+Personnification de l'énergie solaire — il transporte et manifeste la chaleur et la lumière du soleil. Présage de victoire — dans des traditions militaires coréennes, l'apparition d'un corbeau à trois pattes est un signe favorable aux armées. Guidage céleste — il peut guider des héros ou des âmes dans les domaines célestes. Présence dans le soleil — il voit tout ce qui se passe sur Terre depuis sa position dans le disque solaire. Dans des traditions parallèles chinoises, les corbeaux solaires sont reliés aux cycles du temps et aux dix soleils primordiaux.
+
+## FAIBLESSES
+
+Le Samjoko, en tant qu'habitant du soleil, est vulnérable aux forces qui s'opposent à la lumière — la nuit, les éclipses, les puissances obscures. Dans des cosmologies comparées, des corbeaux solaires peuvent être abattus — le mythe chinois de Yi l'Archer qui abat neuf des dix soleils (et leurs corbeaux) est un parallèle direct, bien que le Samjoko coréen n'ait pas de récit d'abattage équivalent documenté. Sa puissance est liée à la santé du soleil — une éclipse affaiblit temporairement sa nature.
+
+## COMPORTEMENT
+
+Le Samjoko est représenté dans une posture statique dans les peintures murales — posé à l'intérieur du disque solaire, ailes légèrement déployées ou repliées, les trois pattes visibles. Son comportement actif dans des récits n'est pas aussi documenté que sa présence iconographique — il est davantage un symbole vivant qu'un personnage narratif dans la tradition coréenne conservée. Dans des traditions parallèles est-asiatiques, les corbeaux solaires sont des messagers entre le ciel et la Terre, guidant des rois et des héros dans des décisions importantes.
+
+## RÉCITS TRADITIONNELS
+
+Les principaux témoignages du Samjoko sont iconographiques plutôt que narratifs — les peintures murales des tombes de Goguryeo le montrent dans des compositions cosmologiques aux côtés du dieu solaire et des quatre gardiens directionnels (四神 — dragon azur, tigre blanc, tortue noire, phénix rouge). Une tradition relie le Samjoko au fondateur légendaire de Goguryeo — le roi Dongmyeong (동명왕), considéré comme d'ascendance divine, aurait été guidé dans ses conquêtes par des présages célestes dont le corbeau solaire. Des récits de pèlerinage coréens médiévaux évoquent des corbeaux aux origines solaires comme guides de voyageurs égarés.
+
+## VARIANTES RÉGIONALES
+
+Le Yatagarasu japonais (八咫烏) est un corbeau à trois pattes qui guide l'Empereur Jinmu dans sa conquête des îles japonaises — une tradition directement parallèle au Samjoko, et probablement historiquement reliée via les échanges culturels entre Goguryeo et le Japon. Le corbeau solaire dans la mythologie chinoise (金烏 *Jīn Wū* — "corbeau d'or") est le corbeau solaire des dix soleils primordiaux. L'Oiseau-Soleil dans diverses traditions amérindiennes est un parallèle fonctionnel sans lien historique. La spécificité du Samjoko coréen est son identification iconographique précise dans l'art de Goguryeo et son intégration dans la cosmologie des quatre gardiens directionnels.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Samjoko est un symbole culturel coréen contemporain — il figure sur l'emblème de la Korean Football Association (Fédération coréenne de football) et sur des logos officiels coréens. Des séries historiques coréennes (*dramas* historiques) incluent parfois des références au Samjoko. Des œuvres d'art contemporaines coréennes explorent la figure. Dans des jeux vidéo coréens et des manhwa (bandes dessinées), le Samjoko apparaît comme créature ou symbole de puissance solaire.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les peintures murales des tombes de Goguryeo (IVe-VIIe siècle CE) dans la région de Pyongyang et de la province de Hwanghae (Corée du Nord actuelle) sont les sources principales — le Samjoko y est peint à l'intérieur d'un disque solaire dans des compositions aux quatre coins des plafonds ou des murs. Ces tombes sont inscrites au Patrimoine Mondial de l'UNESCO (2004). Des reproductions et des études de ces peintures murales sont disponibles dans des musées coréens (Musée National de Corée à Séoul). Des tuiles et des objets en bronze de la période Goguryeo incluent des représentations du corbeau solaire.
+
+## POUR ALLER PLUS LOIN
+
+Le Samjoko illustre comment un symbole cosmologique peut traverser des millénaires et des frontières culturelles — de Goguryeo au VIIe siècle, le corbeau solaire à trois pattes est passé en emblème sportif national au XXIe siècle. Cette continuité n'est pas anodine : le Samjoko est l'un des rares symboles coréens préhistoriques (antérieur au bouddhisme et au confucianisme coréens) qui reste visible dans la culture contemporaine. Son adoption par la fédération de football est un choix de revendiquer une identité coréenne antérieure aux influences continentales — un corbeau primordial comme emblème d'une nation moderne.

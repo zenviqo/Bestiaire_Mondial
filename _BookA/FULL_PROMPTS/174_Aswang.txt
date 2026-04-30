@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Aswang
+  Tradition : Philippines
+═══════════════════════════════════════════════
+
+
+# ASWANG
+
+## SIGNIFICATION DU NOM
+
+*Aswang* est d'étymologie complexe — les analyses proposent une origine sanscrite via le malais (*asura* → *asuang* → *aswang*), liant la créature aux *Asuras* (entités anti-divines de la mythologie indienne). Cette étymologie est débattue. Ce qui est certain : l'Aswang est le terme générique pour la créature surnaturelle la plus redoutée de la mythologie philippine — il peut désigner une famille entière de créatures ou une entité spécifique selon le contexte régional.
+
+## ORIGINE
+
+L'Aswang est attesté dans les chroniques espagnoles de la colonisation des Philippines dès le XVIe siècle — les frères missionnaires décrivent des croyances locales à des vampires-sorciers. Sa présence dans les traditions précoloniales est donc établie. Les traditions visayanes (région du centre des Philippines) en ont fait la figure centrale de leur mythologie de la peur, avec une documentation particulièrement riche.
+
+## NATURE
+
+L'Aswang est une personne — toujours une personne, généralement une femme — qui peut se transformer en créature prédatrice la nuit. Le jour, c'est une voisine ordinaire, souvent décrite comme timide ou solitaire. La nuit, elle se transforme pour voler l'énergie des vivants, boire le sang des dormeurs, manger des fœtus dans l'utérus de femmes enceintes. Cette dualité jour-nuit est au cœur de son identité.
+
+## HABITAT
+
+L'Aswang vit dans les communautés rurales des Philippines. Elle habite généralement dans les zones forestières ou semi-rurales, à la périphérie des villages. Elle fréquente les maisons où dorment des femmes enceintes et les maisons en deuil (elle peut manger les corps des récents décédés).
+
+## DESCRIPTION
+
+Sous forme humaine : femme d'apparence ordinaire, souvent mince, avec parfois des yeux rouges ou des pupilles inversées (révélées si on les regarde dans un miroir). Sous forme transformée : elle peut devenir un chien noir, un cochon, un oiseau ou une grande chauve-souris — formes spécifiques selon la région. Sa caractéristique physique la plus documentée : sa langue est tubulaire et extensible, capable d'aspirer à distance à travers les planches des maisons.
+
+## POUVOIRS
+
+Transformation en multiple formes animales. Langue tubulaire aspirant sang et fœtus à travers les matériaux. Détection des femmes enceintes et des mourants à distance. Vol sous forme d'oiseau ou de chauve-souris. Déplacement rapide et silencieux. Certaines variantes lui attribuent la capacité de se dupliquer — laisser une copie d'elle-même dans son lit pendant qu'elle rôde.
+
+## FAIBLESSES
+
+La lumière du soleil l'oblige à reprendre forme humaine. L'ail, le sel, et les feuilles d'ail déposés autour de la maison et dans les vêtements des femmes enceintes la tiennent à l'écart. Un couteau ou des ciseaux sous l'oreiller protège. Dans les traditions visayanes, regarder par-dessus son épaule gauche vers une Aswang peut révéler sa vraie nature. Un *galing* (remède-fétiche) peut la repousser.
+
+## COMPORTEMENT
+
+L'Aswang est socialement fonctionnelle le jour — elle peut être marchande, guérisseuse, belle-sœur. Elle est méticuleuse et discrète dans ses attaques nocturnes. Certaines traditions montrent des Aswangs qui transmettent leur condition — une femme peut "donner" son état à une fille ou à une belle-fille. Cette dimension héréditaire ou transmissible renforce l'anxiété sociale : n'importe qui dans la communauté peut potentiellement l'être.
+
+## RÉCITS TRADITIONNELS
+
+Le récit classique des Visayas : une femme accouche dans la maison familiale. Le lendemain, le bébé semble vide, inexplicablement affaibli, puis meurt. La sage-femme est suspectée — quelqu'un remarque que pendant la nuit, un bruit de succion venait du dessous du plancher. Une Aswang avait aspiré la vie du bébé à travers les lames du plancher avec sa langue tubulaire. La sage-femme, confrontée, révèle des traits anormaux et prend la fuite.
+
+## VARIANTES RÉGIONALES
+
+Les Philippines comptent plus de 7000 îles et plus de 180 langues — les variantes de l'Aswang sont nombreuses. La *Manananggal* (qui se sépare en deux, déjà documentée dans le bestiaire) est techniquement une variante d'Aswang. Le *Wakwak* est une Aswang-oiseau. Le *Tik-Tik* (nommé d'après le son qu'il fait en volant) est une autre variante. Chaque région philippine a ses spécificités.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Aswang est devenu une figure majeure du cinéma d'horreur philippin depuis les années 1950 — des centaines de films ont été produits. Cette production cinématographique massive a en retour renforcé et standardisé les croyances populaires. Le gouvernement philippin a, dans les années 1980, utilisé la peur des Aswangs dans des opérations psychologiques contre les guérillas communistes dans les Visayas — épisode documenté et controversé montrant l'influence réelle de la figure.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations artistiques de l'Aswang sont surtout cinématographiques et contemporaines. Les traditions précoloniales n'avaient pas d'iconographie canonique. Certains objets rituels des *babaylan* (chamans philippins précoloniaux) représentaient des entités similaires, mais la connexion directe avec l'Aswang est difficile à établir.
+
+## POUR ALLER PLUS LOIN
+
+L'Aswang est une figure sociale autant que surnaturelle. Elle cristallise les anxiétés sur les étrangers, les marginaux, les femmes qui vivent seules — les personnes désignées comme Aswangs sont systématiquement celles qui dévient des normes sociales. Sa persistance dans les croyances contemporaines philippines — y compris dans les zones urbaines — montre que les mécanismes folkloriques de désignation des boucs émissaires traversent la modernité.

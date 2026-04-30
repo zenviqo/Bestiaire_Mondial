@@ -1,0 +1,185 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Mohan
+  Tradition : Andes
+═══════════════════════════════════════════════
+
+
+# MOHAN
+
+## SIGNIFICATION DU NOM
+
+Le nom *Mohán* dérive très probablement d'un terme de la langue muisca ou panche, langues précolombiennes parlées dans la vallée du Magdalena avant la conquête espagnole. Plusieurs hypothèses linguistiques ont été avancées par les chroniqueurs coloniaux : certains rapprochent le terme d'une racine désignant *l'homme sauvage* ou *le sorcier*, d'autres y voient un emprunt à un mot signifiant *celui qui se cache dans l'eau*. La forme *Muán* est attestée dans les régions plus méridionales du Tolima et du Huila, tandis que *Moján* apparaît dans les vallées plus septentrionales.
+
+L'usage colonial a fixé l'orthographe *Mohán*, bien que la forme orale conserve souvent une nasalisation finale qui rappelle l'origine indigène du terme. Le mot est devenu, dans certaines régions de Colombie, un terme générique pour désigner toute créature masculine et velue habitant les eaux courantes.
+
+## ORIGINE
+
+Le Mohán appartient à un substrat folklorique pré-hispanique réinterprété et transmis durant la période coloniale. Avant l'arrivée des Espagnols, les peuples du Magdalena — Muiscas, Panches, Pijaos — vénéraient ou redoutaient des entités liées aux fleuves, gardiennes des points de pêche et des passages dangereux. La conquête a christianisé cette mémoire en transformant ces gardiens en figures ambiguës, ni démons complets ni saints, mais créatures persistantes du paysage.
+
+Les chroniques coloniales mentionnent dès le XVIIe siècle des récits de pêcheurs espagnols et métis évoquant un *hombre del río* qui dérangeait leurs activités. Au XIXe siècle, le Mohán s'est consolidé comme figure centrale du folklore des berges du Magdalena moyen, accompagnant l'expansion des activités de batellerie et de pêche fluviale.
+
+## NATURE
+
+Le Mohán est un *esprit fluvial masculin*, mi-humain mi-bête, intermédiaire entre l'ancien gardien indigène des eaux et le diable créole de la tradition catholique. Il n'est ni purement maléfique ni simple démon — il agit selon une logique propre, mêlant séduction, espièglerie et violence selon les circonstances.
+
+Sa nature combine plusieurs traits :
+
+- une *anthropomorphie partielle*, qui lui permet de se présenter sous des traits reconnaissables d'homme barbu et velu ;
+- une *appartenance fondamentale à l'eau*, dont il ne peut se séparer durablement ;
+- une *intelligence rusée*, qui lui permet de parler, de négocier, de tromper.
+
+## HABITAT
+
+Le Mohán habite les fleuves et rivières de la cordillère orientale colombienne, particulièrement le grand fleuve Magdalena et ses affluents — le Saldaña, le Coello, le Sumapaz, la Plata. Il fréquente surtout les *charcos* — bassins profonds où le courant ralentit — et les grottes immergées creusées dans les berges rocheuses. Il préfère les zones où la végétation surplombe l'eau, formant des tunnels d'ombre où la pénombre rend sa silhouette presque invisible.
+
+On signale également sa présence près des chutes d'eau modestes, dans les méandres où les pêcheurs lancent leurs *atarrayas* (filets jetés à la main), et près des passages de gués anciens utilisés depuis l'époque précolombienne.
+
+## DESCRIPTION
+
+Le Mohán apparaît comme un homme de petite à moyenne taille, robuste, à la peau brune ou cuivrée, recouvert d'une *pilosité abondante*. Sa chevelure est longue, noire, emmêlée, descendant souvent jusqu'à la taille. Sa barbe également est longue, fournie, parfois rougeâtre. Les ongles de ses mains et de ses pieds sont longs comme des griffes, et ses dents éclatantes contrastent avec son visage sombre.
+
+Il fume continuellement un cigare ou un *tabaco* roulé, dont la lueur est parfois aperçue de loin par les pêcheurs nocturnes. Ses yeux brillent dans l'obscurité comme des braises. Certaines descriptions ajoutent qu'il porte au cou ou aux poignets des ornements dorés — bracelets, médaillons, parures rappelant les anciens trésors muiscas.
+
+Sa posture habituelle, lorsqu'on l'aperçoit, est celle d'un homme assis sur un rocher au milieu du fleuve, peignant lentement ses cheveux avec un peigne d'or.
+
+## POUVOIRS
+
+Le Mohán manifeste une *capacité de séduction* particulièrement redoutée envers les jeunes femmes. Lorsqu'il jette son dévolu sur une lavandière ou une porteuse d'eau, il l'attire progressivement vers la rivière, par des chants, des apparitions répétées, parfois par des dons de fruits ou de bijoux. Les victimes finissent souvent par disparaître dans les eaux profondes.
+
+Il possède le pouvoir de *brouiller les filets de pêche*, de faire fuir les poissons, d'emmêler les lignes — sanction infligée aux pêcheurs qui pénètrent ses bassins favoris sans respect.
+
+Il dispose également d'une *force surnaturelle* lui permettant de retourner les *champanes* (longues barques fluviales) et d'entraîner les imprudents au fond du fleuve.
+
+Le Mohán pratique enfin la *transformation* : il peut prendre l'apparence d'un parent, d'un voisin, voire d'un prêtre, pour tromper ceux qui le rencontrent. Cette capacité explique de nombreuses anecdotes de pêcheurs ayant cru reconnaître un proche au bord du fleuve avant de comprendre, trop tard, leur erreur.
+
+## FAIBLESSES
+
+Le Mohán craint plusieurs choses, que la sagesse populaire des berges du Magdalena a codifiées :
+
+- le *tabac fort* offert en don, qui l'apaise et le détourne des mauvaises intentions ;
+- l'*eau-de-vie* (*aguardiente*) versée dans le fleuve avant la pêche, qui l'incline à la bienveillance ;
+- les *images saintes* portées sur le corps, particulièrement les médailles de la Vierge du Carmen, patronne des bateliers ;
+- le *signe de la croix* tracé dans l'air ou dans l'eau ;
+- l'*ail* porté dans la poche, ainsi que les feuilles de *ruda* (rue fétide) cousues dans les vêtements.
+
+Il est dit qu'il fuit également les femmes en période menstruelle — détail récurrent dans le folklore qui inverse de manière intéressante la peur masculine traditionnelle.
+
+## COMPORTEMENT
+
+Le Mohán manifeste un comportement ambivalent. Il peut, lorsqu'il est respecté, *favoriser la pêche* en concentrant les poissons dans certains bassins, ou *prévenir des crues* par des signes mystérieux. Les vieux pêcheurs disent qu'on peut établir avec lui une forme de pacte — laisser systématiquement une part de la prise sur la berge, offrir un cigare avant de jeter le filet, prononcer une salutation respectueuse en approchant de son bassin.
+
+Lorsqu'il est offensé — par un pêcheur cupide, par une jeune femme moqueuse, par un voyageur impie — son comportement bascule vers la malice, puis vers la violence. Il peut alors voler les outils, déchirer les filets, envoyer des cauchemars, jeter des sorts qui plongent ses victimes dans une langueur incurable.
+
+## RÉCITS TRADITIONNELS
+
+Plusieurs récits-types circulent depuis longtemps sur les berges du Magdalena.
+
+Un premier récit, particulièrement répandu dans le Tolima, concerne une jeune lavandière qui, jour après jour, voyait apparaître sur l'autre rive un bel homme barbu qui lui souriait. Elle finit par s'aventurer à le rejoindre en barque, contre l'avis de sa mère. Elle ne revint jamais. On dit qu'elle vit désormais dans une grotte sous-fluviale, mère d'enfants velus jamais aperçus.
+
+Un second récit, fréquent dans le Huila, raconte qu'un pêcheur orgueilleux refusa d'offrir le tabac coutumier au bassin où il pêchait depuis des années. Il prit ce jour-là une capture extraordinaire, mais quand il rentra, il trouva sa maison vide — femme et enfants disparus, et son nom effacé des registres du village comme s'il n'avait jamais existé.
+
+Un troisième récit, lié au passage en *champán* sur le Magdalena moyen, évoque le sauvetage inverse : un Mohán aurait protégé une barque transportant un enfant malade en route vers un guérisseur, calmant les eaux et écartant les caïmans. La famille déposa par la suite, à chaque passage, un cigare et un verre d'eau-de-vie sur le rocher où l'esprit avait été aperçu.
+
+## VARIANTES RÉGIONALES
+
+Dans le département du **Tolima**, le Mohán est plus volontiers décrit comme un séducteur et un voleur de jeunes femmes. La tradition orale locale lui prête une chevelure presque rousse et des dents écartées.
+
+Dans le **Huila**, il prend des traits plus sombres et plus inquiétants — créature franchement effrayante, plus proche du démon, vivant dans les chutes du Magdalena supérieur. Le terme *Muán* y est privilégié.
+
+Dans le **Cundinamarca** rural, près de la confluence avec le Bogotá, il apparaît comme une figure plus paternelle, gardien des bons pêcheurs et punisseur des mauvais — son côté bénéfique l'emporte parfois.
+
+Dans la région du **Magdalena Medio** (Antioquia, Santander), il fusionne partiellement avec d'autres esprits fluviaux, et certaines descriptions le rapprochent du *Hojarasquín* forestier voisin.
+
+Une variante intéressante apparaît dans certaines communautés afro-descendantes des berges, où le Mohán se mêle à des figures africaines de génies des eaux ramenées par les ancêtres esclavagisés.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs confusions doivent être levées concernant le Mohán :
+
+- Le Mohán n'est *pas* un *duende* (lutin générique), bien que les bandes dessinées colombiennes du XXe siècle l'aient parfois représenté comme tel. Sa taille est humaine, parfois même supérieure, et sa fonction folklorique est distincte.
+
+- Il n'est *pas* l'équivalent d'un satyre antique ni d'un faune. Bien que certains illustrateurs modernes lui aient ajouté des cornes ou des sabots, ces éléments sont absents de la tradition orale authentique.
+
+- Le Mohán n'est *pas* un démon catholique strict. Sa nature pré-hispanique persiste sous le vernis chrétien, et le folklore vivant lui prête des comportements bénéfiques inconcevables pour un démon de la dogmatique.
+
+- L'identification du Mohán avec le *Patasola* (autre créature du folklore colombien) ou avec le *Tunda* afro-colombien est erronée — ces trois figures coexistent et conservent des fonctions distinctes.
+
+- Les représentations folkloriques modernes qui le montrent comme un *hippie aquatique* à la chevelure flottante évoquent davantage l'esthétique des années 1970 que la tradition coloniale, où le Mohán est plus inquiétant que pittoresque.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie ancienne du Mohán est rare. Quelques *retablos* populaires colombiens du XIXe siècle, peints sur étain ou sur bois pour orner les chapelles fluviales, le représentent comme une silhouette barbue émergeant de l'eau. Les *carnavales* de Honda et de Neiva intègrent depuis la fin du XIXe siècle des masques de Mohán, fabriqués en *totumo* (calebasse) avec des fibres végétales pour la chevelure et la barbe.
+
+Quelques pétroglyphes du Magdalena moyen, antérieurs à la conquête, représentent des figures masculines hirsutes au bord de gravures fluviales — figures que la tradition locale identifie depuis longtemps au Mohán, sans qu'on puisse certifier la continuité directe entre ces représentations précolombiennes et le folklore actuel.
+
+## POUR ALLER PLUS LOIN
+
+Le Mohán constitue l'une des figures centrales du folklore colombien, étudié par les ethnographes nationaux depuis le XIXe siècle. Il appartient à un complexe folklorique fluvial qui inclut également la *Madremonte* (esprit forestier), le *Hojarasquín del Monte*, et la *Patasola*. Son enracinement dans les berges du Magdalena en fait un témoin privilégié du métissage culturel pré-hispanique, espagnol et afro-descendant qui caractérise les vallées intérieures de la Colombie.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Ochokochi
+  Tradition : Caucase
+═══════════════════════════════════════════════
+
+
+# OCHOKOCHI
+
+## SIGNIFICATION DU NOM
+
+*Ochokochi* (ოჩოქოჩი) est un terme géorgien dont l'étymologie est liée à "homme poilu" ou "homme sauvage de la forêt" — une désignation descriptive de l'être. Dans différentes régions de Géorgie, des termes comparables existent — *Tkashi-Mapa* dans certaines zones, d'autres désignations dans les langues régionales de Géorgie (mingrélien, svane, lazique). L'Ochokochi appartient à la catégorie des "hommes sauvages" que le Caucase partage avec de nombreuses traditions — des êtres hirsutes qui habitent les zones forestières inaccessibles.
+
+## ORIGINE
+
+L'Ochokochi est documenté dans les traditions orales géorgiennes — des récits collectés dans des régions de Mingrélieie, de Svanie, et d'autres zones forestières de Géorgie. Des chercheurs géorgiens du folklore (notamment dans le cadre de l'Académie des Sciences géorgienne) ont collecté des témoignages sur l'Ochokochi. La figure s'inscrit dans un ensemble caucasien plus large d'hommes sauvages — le *Almasti* ou *Almas* azerbaïdjanais et géorgien est un parallèle proche.
+
+## NATURE
+
+L'Ochokochi est un être à la frontière entre l'humain et l'animal — hirsute comme un animal, bipède comme un humain, avec une intelligence perceptible mais non articulée comme la nôtre. Sa nature est sauvage et territoriale — il habite les forêts profondes du Caucase et réagit à l'intrusion humaine. Dans des récits, il n'est pas fondamentalement malveillant mais il peut être dangereux quand il se sent menacé. Dans des versions où il interagit avec des humains, il peut manifester des émotions reconnaissables — peur, curiosité, attachement.
+
+## HABITAT
+
+L'Ochokochi habite les forêts denses et montagneuses du Caucase géorgien — les forêts de hêtres et de chênes du Caucase occidental, les forêts de Mingrélieie, les zones forestières de Svanie dans les hautes montagnes. Des zones inaccessibles aux humains ordinaires — des gorges profondes, des forêts denses au-delà des zones de chasse habituelles — sont ses demeures. Il peut aussi fréquenter des zones de montagne alpine où la végétation forestière cède à la toundra alpine.
+
+## DESCRIPTION
+
+L'Ochokochi est décrit comme un être humanoïde de taille supérieure à la moyenne humaine — plus grand qu'un homme ordinaire, plus large, avec des muscles puissants. Son corps est entièrement couvert d'une épaisse fourrure sombre. Son visage est partiellement humanoïde — un crâne plat, un front fuyant, des yeux sombres. Il se déplace sur deux pattes mais peut aussi se déplacer à quatre pattes quand il se presse. Ses mains sont larges et puissantes. Il n'a pas de langage articulé mais émet des vocalisations — des grognements, des cris, des sons comparables à une voix humaine.
+
+## POUVOIRS
+
+Force physique exceptionnelle — il peut déraciner des arbres et soulever des rochers. Connaissance parfaite du terrain forestier — il se déplace dans la forêt sans bruit et peut disparaître rapidement. Capacité de courir à une vitesse surprenante sur des terrains difficiles. Résistance aux conditions climatiques extrêmes — il survit dans les hivers caucasiens sans abri construit. Dans des récits, il peut sembler comprendre les intentions humaines — fuir quand des chasseurs approchent, approcher quand des humains sans armes sont présents.
+
+## FAIBLESSES
+
+La peur du feu — des feux allumés par des campeurs ou des chasseurs le font fuir. Des chiens — les chiens de berger du Caucase (les grands chiens de montagne géorgiens) peuvent le repousser ou alerter des humains. Des groupes d'humains — il évite généralement les groupes de personnes et préfère approcher des individus seuls. Son attachement émotionnel documenté dans certains récits peut le rendre prévisible.
+
+## COMPORTEMENT
+
+L'Ochokochi observe les humains depuis une distance — dissimulé dans la végétation, il peut rester des heures à regarder un campement humain. Il vole de la nourriture dans des villages proches de la forêt — des stocks de nourriture, des animaux de ferme — mais évite le contact direct. Dans des récits plus rares, il a interagi directement avec des humains — des bergers qui passent des nuits en montagne rapportent avoir entendu et parfois vu l'Ochokochi. Dans des versions extraordinaires, il peut montrer de la curiosité pour des enfants ou des personnes seules.
+
+## RÉCITS TRADITIONNELS
+
+Un récit de Mingrélieie : un chasseur seul dans la forêt s'endort sous un arbre. Il se réveille au milieu de la nuit sentant une présence. À quelques mètres, un grand être poilu assis l'observe — l'Ochokochi. Les deux se regardent dans les yeux pendant de longues minutes. Puis l'être se lève lentement et s'enfonce dans la forêt sans bruit. Le chasseur rentre au village et décrit l'observation — les anciens reconnaissent l'Ochokochi et disent qu'il n'attaque pas les humains qui restent calmes. Un autre récit : des paysans retrouvent un stock de mais dévasté — les traces laissées sont trop grandes pour un ours et ressemblent à des pieds humains géants. Ils attribuent le vol à l'Ochokochi.
+
+## VARIANTES RÉGIONALES
+
+L'Almas ou Almasti caucasien et centrasiatique est un parallèle direct — un être anthropoïde poilu documenté dans des témoignages de plusieurs régions du Caucase (Géorgie, Azerbaïdjan, Arménie, Russie du Caucase). L'Almas a été étudié par des chercheurs soviétiques comme Boris Porshnev dans des contextes de cryptozoologie académique. Des hommes sauvages dans des traditions de toute la chaîne caucasienne — Tchétchénie, Ossétie, Kabardino-Balkarie — sont des parallèles régionaux. Dans le contexte caucasien plus large, des esprits de la forêt comparables sont présents dans les traditions géorgiennes (*Tqepili* — esprit des arbres), abkhaziennes, et ossétiennes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Ochokochi s'inscrit dans un ensemble de traditions d'hommes sauvages du Caucase qui ont attiré l'attention de chercheurs en cryptozoologie — des études soviétiques des années 1950-1970 ont systématisé des témoignages sur des anthropoïdes inconnus dans le Caucase. Des recherches contemporaines de zoologues et d'anthropologues géorgiens documentent la tradition. Des musées régionaux de Géorgie incluent des informations sur l'Ochokochi dans leurs collections d'ethnographie locale.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des sculptures et des décorations architecturales géorgiennes médiévales incluent parfois des figures d'hommes sauvages ou de créatures de la forêt. Des miniatures de manuscrits géorgiens médiévaux (la tradition de l'art géorgien chrétien médiéval est riche) incluent parfois des créatures des forêts caucasiennes. Des arts populaires géorgiens (broderies, arts textiles) représentent des esprits de la forêt dans des styles régionaux.
+
+## POUR ALLER PLUS LOIN
+
+L'Ochokochi illustre la catégorie anthropologique des "hommes sauvages" — des êtres à la frontière de l'humain et de l'animal que l'on retrouve dans presque toutes les cultures humaines (Bigfoot, Yéti, Yowie, Almas, Sasquatch). Le Caucase, avec ses forêts denses, ses gorges inaccessibles, et sa faune riche, est un environnement où un animal inconnu de grande taille pourrait théoriquement survivre. Mais au-delà de la cryptozoologie, l'Ochokochi remplit une fonction culturelle : il est la version géorgienne de la frontière entre le civilisé et le sauvage, une frontière que les sociétés humaines ont toujours besoin de peupler d'êtres qui la gardent.

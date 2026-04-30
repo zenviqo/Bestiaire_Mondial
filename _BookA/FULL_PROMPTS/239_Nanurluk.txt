@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Nanurluk
+  Tradition : Inuit Arctique Americain
+═══════════════════════════════════════════════
+
+
+# NANURLUK
+
+## SIGNIFICATION DU NOM
+
+*Nanurluk* est formé en inuktitut de *nanuq* (ours polaire) + le suffixe augmentatif *-luk* — "le très grand ours polaire", "l'ours polaire extraordinaire". Le suffixe *-luk* dans les langues inuites signale quelque chose de démesurement grand ou d'extraordinairement puissant — il transforme un terme ordinaire en terme surnaturel. Ainsi *Nanurluk* est l'ours polaire élevé à la puissance mythologique — l'ours au-delà de tous les ours, le maître de l'espèce.
+
+## ORIGINE
+
+Le Nanurluk s'inscrit dans la cosmologie inuite de l'ours polaire sacré — *Nanuk* est l'un des animaux les plus sacrés et les plus respectés dans toutes les traditions inuites. L'ours polaire est considéré comme un *inua* — un être avec un esprit intérieur — et les chasseurs inuits observent des protocoles rituels stricts lors de la chasse à l'ours. Des récits de grands ours surnaturels, beaucoup plus grands que les ours ordinaires, sont documentés dans des collections ethnographiques de Knud Rasmussen et d'autres chercheurs du début du XXe siècle. Le Nanurluk représente la forme surnaturelle maximale de l'ours polaire.
+
+## NATURE
+
+Le Nanurluk est un ours polaire d'une taille surnaturelle — bien au-delà des dimensions d'un ours réel — avec une intelligence et des capacités qui transcendent celles de l'animal ordinaire. Il est le "maître des ours" dans certaines traditions — un être qui règne sur les ours polaires ordinaires et dont l'approbation conditionne la réussite de la chasse. Dans des récits, le Nanurluk peut prendre forme humaine ou communiquer avec des chamans. Sa nature n'est pas fondamentalement malveillante — il est dangereux en raison de sa puissance, pas de son intention.
+
+## HABITAT
+
+Le Nanurluk habite la banquise et les régions arctiques les plus inhospitalières — les glaces dérivantes, les polynies (zones d'eau libre dans la banquise), les zones de glace épaisse que même les chasseurs expérimentés évitent. Dans des traditions orales, il habite des régions arctiques éloignées et inconnues. Certains récits le placent sous la banquise, dans un monde sous-marin — une zone intermédiaire entre le monde polaire et les profondeurs.
+
+## DESCRIPTION
+
+Le Nanurluk est décrit comme un ours polaire de taille prodigieuse — certains récits le décrivent comme aussi grand qu'un iceberg ou capable de barrer le passage entre deux falaises de glace. Sa fourrure est d'un blanc brillant qui peut aveugler dans la lumière arctique. Ses griffes et ses dents sont d'une taille et d'une puissance extraordinaires. Ses yeux sont d'un bleu glacial ou dorés — inhabituel pour un ours ordinaire. Dans des versions shamaniques, sa forme peut fluctuer entre l'ours et l'humain.
+
+## POUVOIRS
+
+Puissance physique absolue — sa masse et sa force dépassent tout ce qui peut leur être opposé par la force ordinaire. Communication avec les chamans — il peut apparaître en rêve ou en vision pour transmettre des messages. Contrôle des ours ordinaires — dans des traditions où il est le "maître des ours", l'accord ou le désaccord du Nanurluk influence le comportement des ours ordinaires et la réussite de la chasse. Résistance aux armes ordinaires — dans des récits, seules des armes spéciales ou des techniques chamaniques permettent de le blesser. Capacité de prédire les tempêtes et les conditions de la banquise.
+
+## FAIBLESSES
+
+Le respect rituel — les chasseurs qui observent scrupuleusement les protocoles rituels de respect de l'ours (enterrement des os, remerciements post-chasse, interdits alimentaires) n'attirent pas la colère du Nanurluk. Dans des récits chamaniques, un *angakkuq* (chaman inuit) qualifié peut négocier avec le Nanurluk ou même voyager vers lui en transe pour demander son aide. Des violations des tabous de chasse peuvent provoquer sa colère — un comportement irrespectueux envers les ours ordinaires peut attirer l'attention punitive du Nanurluk.
+
+## COMPORTEMENT
+
+Le Nanurluk n'est pas un prédateur actif des humains dans la plupart des récits — il est plutôt un être souverain dont le territoire est respecté. Des chasseurs qui s'aventurent trop loin dans ses zones peuvent le rencontrer et cette rencontre est une épreuve existentielle. Dans des récits chamanique, le Nanurluk peut être un auxiliaire puissant — un esprit allié du chaman après une rencontre transformatrice. Dans des récits de danger, il attaque des chasseurs qui ont violé des tabous.
+
+## RÉCITS TRADITIONNELS
+
+Un récit inuit collecté par Rasmussen (Fifth Thule Expedition, 1921-1924) : un chasseur s'éloigne seul sur la banquise et rencontre une piste d'ours d'une taille impossible — des empreintes aussi grandes que celles d'un *umiak* (grand bateau). Il suit la piste par curiosité. Il trouve l'ours qui dort — un animal dont le corps couvre une étendue de banquise. Trop effrayé pour tirer, il rentre au camp. Le lendemain, un chaman lui explique qu'il a vu le Nanurluk et que le fait d'avoir choisi de ne pas tirer était la décision correcte — tirer sur un Nanurluk serait une folie. En remerciement de sa sagesse, la chasse sera bonne pour son clan pendant toute la saison.
+
+## VARIANTES RÉGIONALES
+
+Des ours surnaturels colossal existent dans de nombreuses traditions circumpolaires et nord-américaines — des esprits d'ours dans les traditions des Premières Nations (ours chamanique chez de nombreux peuples nord-américains), des maîtres des ours dans des traditions finlandaises et scandinaves (le grand ours *Karhu* dans le *Kalevala*). Des traditions sibériennes (Nénètse, Khanty) ont également des ours sacrés maîtres de l'espèce. La spécificité du Nanurluk inuit est sa connexion directe avec l'ours polaire réel — l'animal le plus puissant de l'Arctique qui inspire déjà un respect naturel et qui est simplement amplifié jusqu'aux dimensions surnaturelles.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Des recherches scientifiques sur les ours polaires géants préhistoriques (*Ursus maritimus tyrannus*, une sous-espèce éteinte de plus grande taille) ont parfois été reliées aux traditions du Nanurluk. Des publications sur la relation entre les Inuit et l'ours polaire incluent des dimensions mythologiques. Des artistes inuit contemporains (Kenojuak Ashevak, Simon Tookoome, et d'autres dans la tradition de l'art de Cape Dorset) représentent des ours polaires surnaturels dans leurs gravures et leurs sérigraphies.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'art inuit traditionnel — gravures sur os et ivoire de morse (*scrimshaw* arctique), sculptures en pierre à savon (*stéatite*) — représente abondamment l'ours polaire. Des chamans (*angakkuit*) inuits portaient des costumes incluant des éléments d'ours polaire. Des amulettes en griffes et en dents d'ours polaire avaient une puissance protectrice. Des gravures sur pierre de Cape Dorset et de Baker Lake (art inuit contemporain du XXe siècle) incluent des représentations d'ours polaires surnaturels.
+
+## POUR ALLER PLUS LOIN
+
+Le Nanurluk illustre comment une culture de chasseurs amplifie l'animal le plus redoutable de son environnement jusqu'aux dimensions du mythe. L'ours polaire réel est déjà le plus grand prédateur terrestre de l'Arctique — imprévisible, puissant, et capable de tuer un humain adulte en un seul coup de patte. Le Nanurluk est cet ours vu depuis l'intérieur de la relation de chasse — amplifié jusqu'à devenir une puissance surnaturelle qui demande du respect, de la prudence, et des rituels appropriés. C'est une manière de gérer la réalité d'une relation avec un prédateur dominant — non pas en le diabolisant mais en lui accordant une dignité surnaturelle qui commande le respect.

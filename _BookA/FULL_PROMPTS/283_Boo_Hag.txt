@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Boo_Hag
+  Tradition : Afro Americain Syncretique
+═══════════════════════════════════════════════
+
+
+# BOO HAG
+
+## SIGNIFICATION DU NOM
+
+*Boo Hag* est un terme de la langue gullah geechee — le créole des Sea Islands de la Caroline du Sud et de la Géorgie, parlé par les descendants d'esclaves africains isolés sur ces îles. *Hag* vient du vieil anglais *haegtesse* (sorcière) mais dans le contexte gullah, il désigne spécifiquement ce vampire de souffle. *Boo* est un préfixe gullah signifiant la peur, le surnaturel, le mauvais esprit. La combinaison désigne une entité qui provoque la terreur — l'expression *hagriding* (être chevauchée par la hag) décrit l'expérience de la victime.
+
+## ORIGINE
+
+Le Boo Hag est né de la fusion de plusieurs traditions africaines — principalement yoruba et bantou — avec des éléments du folklore européen rencontrés en Amérique du Nord. Les Africains déportés aux Sea Islands ont développé la culture gullah, profondément isolée et préservée jusqu'au XXe siècle. Le Boo Hag illustre parfaitement la synthèse syncrétique : des traditions africaines de sorcières qui retirent leur peau se combinent avec des concepts européens de cauchemar (le *mara*, le *nightmare*) pour créer une figure distinctement gullah.
+
+## NATURE
+
+Le Boo Hag est un humain qui a vendu son âme pour le pouvoir d'enlever sa propre peau. Sans sa peau, il devient rouge et brillant — pure chair vivante sans enveloppe extérieure. Dans cet état, il peut s'insinuer à travers les moindres fissures d'une maison et monter sur la poitrine de ses victimes endormies pour leur dérober leur souffle et leur énergie vitale. La victime se réveille épuisée, oppressée, parfois malade — elle a été "chevauchée" (*ridden*) pendant la nuit.
+
+## HABITAT
+
+Le Boo Hag opère dans les maisons humaines la nuit. Le jour, il vit parmi la communauté sous une apparence normale — peau remise, personne apparemment ordinaire. Il fréquente particulièrement les habitations aux nombreuses fissures, aux fenêtres défectueuses, aux portes mal jointées. La géographie des Sea Islands — îles basses, marécages, forêts de chênes chargés de mousse espagnole — constitue son cadre naturel.
+
+## DESCRIPTION
+
+Sous sa peau : un être de chair rouge vif, brillant comme du sang, d'une minceur extrême, capable de se plier et de se glisser dans les fentes les plus étroites. Sous sa peau humaine : un individu d'apparence tout à fait normale, vivant dans la communauté. La peau retirée doit être conservée soigneusement — elle est l'objet le plus précieux du Boo Hag.
+
+## POUVOIRS
+
+Retrait et remise de la peau à volonté. Capacité de se glisser à travers les fissures sous forme de chair nue. Vol de souffle et d'énergie vitale sur les dormeurs. Résistance physique surnaturelle sans sa peau. Dans certains récits, elle peut également voler temporairement la peau d'une victime pour se déplacer en plein jour.
+
+## FAIBLESSES
+
+La méthode classique de protection : placer un tamis ou une passoire devant la porte ou la cheminée — le Boo Hag doit compter chaque trou avant de pouvoir entrer, et le jour la surprend pendant ce comptage (motif universel de protection contre les vampires). Répandre du sel ou du poivre bloque également son passage. Si quelqu'un trouve sa peau et la saupoudre de sel ou de poivre, elle ne peut plus la remettre — elle brûle à l'aube.
+
+## COMPORTEMENT
+
+Le Boo Hag cible des individus spécifiques, souvent pendant plusieurs nuits consécutives. Sa victime récurrente développe des symptômes : fatigue chronique, oppression nocturne, insomnie paradoxale (s'endormir épuisé mais se réveiller plus épuisé encore). La paralysie du sommeil — expérience neurologique universelle — est interprétée dans la culture gullah comme une attaque de Boo Hag en cours. Le Boo Hag préfère les endormis profonds et ne tue pas — il se nourrit de façon durable.
+
+## RÉCITS TRADITIONNELS
+
+Un récit gullah classique : une famille remarque que la grand-mère perd des forces chaque nuit malgré un sommeil en apparence normal. Un voisin suggère le Boo Hag. On place des passoires devant toutes les ouvertures. Cette nuit-là, la Boo Hag est bloquée en train de compter les trous jusqu'à l'aube. Surprise par la lumière, elle est identifiée — c'est une voisine ordinaire. Sans sa peau qu'elle avait cachée sous un chêne, elle est rendue inoffensive.
+
+## VARIANTES RÉGIONALES
+
+Des figures comparables existent dans les traditions caribéennes — la *Hag* de la Barbade et de Trinité est très proche. Dans le hoodoo des États du Sud, l'*Old Hag* est une figure plus génériquement européenne de cauchemar. La variante gullah du Boo Hag est la plus spécifique et la mieux documentée ethnographiquement — les travaux de Zora Neale Hurston et les collections Gullah Heritage Project la documentent depuis les années 1930.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La paralysie du sommeil (*sleep paralysis*) est une expérience neurologique bien documentée — sensation d'oppression et d'impossibilité de bouger lors de l'endormissement ou du réveil. La culture gullah geechee l'interprète comme le Boo Hag. Des études anthropologiques modernes ont documenté la persistance de cette croyance dans les communautés des Sea Islands jusqu'au XXIe siècle. La culture gullah est inscrite au patrimoine culturel immatériel de l'UNESCO.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Il n'existe pas d'iconographie traditionnelle formelle du Boo Hag — la tradition gullah est orale. Les illustrations modernes dans les livres de folklore des Sea Islands et dans l'art contemporain gullah représentent souvent la figure comme une silhouette rouge brillante se glissant dans une fenêtre de chalet côtier de Caroline du Sud.
+
+## POUR ALLER PLUS LOIN
+
+Le Boo Hag illustre la façon dont des cultures déportées et traumatisées préservent et transforment leurs traditions. Isolés sur des îles côtières, les Gullah ont maintenu une culture africaine-américaine d'une extraordinaire cohérence. Les créatures qu'ils ont créées — dont le Boo Hag — sont des synthèses de plusieurs traditions africaines, transformées par l'expérience américaine, et profondément localisées dans les marécages et les forêts de chênes des Sea Islands.

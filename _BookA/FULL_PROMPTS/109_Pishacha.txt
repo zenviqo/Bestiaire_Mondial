@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Pishacha
+  Tradition : Indien
+═══════════════════════════════════════════════
+
+
+# PISHACHA
+
+## SIGNIFICATION DU NOM
+
+*Piśāca* (पिशाच en sanskrit) est dérivé de la racine *piś* (chair, viande crue) avec le suffixe agentif *-āca* — "celui qui mange de la chair" ou "dévoreur de chair". Le terme désigne une classe entière de démons dans la cosmologie védique et hindoue — les Pishachas sont une catégorie parmi les êtres malveillants (*asura* dans le sens large, distinct des Asuras proprement dits). Ils sont particulièrement associés aux cimetières, aux corps des morts, et à la possession des vivants.
+
+## ORIGINE
+
+Les Pishachas sont documentés depuis les textes védiques anciens — l'*Atharva Veda* (vers 1000-500 AEC) mentionne les Pishachas parmi les êtres maléfiques contre lesquels des formules magiques de protection sont prescrites. Dans la cosmologie puranéenne (Puranas, 300-1200 CE), ils sont classifiés dans la hiérarchie des êtres surnaturels aux côtés des Rakshasas (démons nobles) et des Yakshas (esprits naturels). Les Pishachas occupent la position la plus basse dans cette hiérarchie — les plus dégénérés des êtres surnaturels.
+
+## NATURE
+
+Les Pishachas sont des êtres de la sphère des démons — ils s'alimentent de chair humaine, de sang, et des cadavres. Ils peuvent également posséder les humains vivants, causant des maladies mentales, des comportements déviants, et des états dissociatifs. Dans la médecine ayurvédique, une maladie *pishâcha* désigne un état de possession qui ressemble à une psychose. Les Pishachas se développent dans les lieux de mort, de décomposition, et de pollution rituelle.
+
+## HABITAT
+
+Les Pishachas habitent les cimetières, les champs de crémation (*shamshan ghat*), les ruines de maisons abandonnées, et les zones de forêt dense où des crimes ont été commis. Ils sont particulièrement actifs la nuit et lors des périodes de transition (minuit, crépuscule). Dans les traditions tantriques, les *shamshan* (champs de crémation) sont des zones de puissance spirituelle maximale — et donc des zones de présence maximale des Pishachas, que les tantrikas apprennent à contrôler ou à éviter.
+
+## DESCRIPTION
+
+Les Pishachas sont décrits comme des créatures difformes et répugnantes — peau sombre, yeux rouges ou jaunes, langue pendante, corps maigre et famélique malgré leur voracité. Dans certaines descriptions, leur peau est d'un rouge sombre, leurs veines visibles, leurs ongles longs et crochus. Ils puent la décomposition. Certains peuvent prendre une apparence humaine temporairement pour approcher leurs victimes, mais toujours avec un détail qui les trahit (ombre absente, reflet anormal, odeur persistante).
+
+## POUVOIRS
+
+Possession des corps humains — leur pouvoir le plus caractéristique. Consommation de chair et de sang. Capacité à rendre les humains fous ou malades par leur seul contact. Transformation temporaire en apparence humaine. Dans les traditions tantriques, des Pishachas maîtrisés par un praticien puissant peuvent lui servir d'agents — accomplit des tâches spécifiques, transmettent des informations des morts, protègent contre d'autres entités maléfiques.
+
+## FAIBLESSES
+
+Des mantras védiques spécifiques (notamment de l'Atharva Veda) peuvent les repousser. Des herbes protectrices (*tulsi*, *neem*), des fumigations rituelles, et des amulettes peuvent les tenir à distance. Les lieux bénits (temples, zones où des rituels sont régulièrement accomplis) sont infranchissables pour eux. Les tantrikas qui ont accompli certaines sâdhanâs (pratiques ascétiques spécifiques) peuvent les contrôler. La lumière directe du soleil les affaiblit.
+
+## COMPORTEMENT
+
+Les Pishachas rôdent dans les cimetières, attaquant les corps fraîchement inhumés ou incinérés pour les consommer. Dans les villages, ils peuvent s'introduire dans les maisons pour attaquer les dormeurs. Une personne "touchée" par un Pishacha développe des comportements erratiques — parlant à voix haute à des présences invisibles, consommant de la nourriture impure, s'éloignant des lieux sacrés. Les guérisseurs traditionnels (*ojha*, *vaidya*) diagnostiquent cette condition et procèdent à l'exorcisme.
+
+## RÉCITS TRADITIONNELS
+
+Un récit puranéen : un brahmane séjourne près d'un champ de crémation. La nuit, il entend des voix et voit des lumières dansantes. Un Pishacha s'approche, prend l'apparence d'un vieux brahmane, et lui demande l'hospitalité. Le brahmane, méfiant, récite l'Atharva Veda. Le Pishacha ne peut pas entrer dans son espace protégé par les mantras. Furieux, il déclare sa vraie nature — peau sombre, yeux rouges, odeur de mort — et part chercher une proie moins préparée.
+
+## VARIANTES RÉGIONALES
+
+Les Pishachas ont des parallèles dans tout l'espace indien et dans les traditions bouddhistes de l'Asie du Sud et du Sud-Est. Le *Preta* bouddhiste (fantôme affamé — déjà dans ce bestiaire) est une figure comparable dans sa faim intense. Les *Vetala* (esprits des cadavres — déjà dans ce bestiaire) sont proches par leurs habitats. Au Sri Lanka, les traditions Bali incluent des entités similaires. Dans les traditions tantriques tibétaines, des démons comparables sont documentés.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les Pishachas sont présents dans les pratiques de possession/exorcisme contemporaines en Inde rurale — des cas de "pishâcha-graha" (possession par un Pishacha) sont régulièrement diagnostiqués et traités par des guérisseurs traditionnels. Dans le cinéma de Bollywood et les films d'horreur indiens, les Pishachas apparaissent fréquemment comme antagonistes. Les textes sanskrits de demonologie (Grahayamalatantra, etc.) les documentent avec précision dans les études académiques de la religion indienne.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les sculptures de temples hindous représentent des Pishachas dans des positions subordonnées aux grandes divinités — comme des entités monstrueuses du rang inférieur de la hiérarchie cosmique. Des représentations de Shiva entouré de Pishachas dans les champs de crémation sont une iconographie classique du shivaïsme tantrique. Des miniatures mogholes représentent parfois des scènes de possession et d'exorcisme.
+
+## POUR ALLER PLUS LOIN
+
+Le Pishacha illustre comment les craintes liées à la mort, à la décomposition, et aux maladies mentales sont unifiées dans une figure démoniaque unique. Le mangeur de cadavres qui cause aussi la folie — ces deux fonctions sont liées dans la cosmologie indienne par la notion de pollution rituelle (*ashaucha*). Ce qui pollue rituellement (le cadavre, la chair) est aussi ce qui rend fou — parce que la frontière entre le monde des morts et celui des vivants, quand elle est franchie de façon non contrôlée, brise l'esprit autant que le corps.

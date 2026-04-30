@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Supay
+  Tradition : Inca
+═══════════════════════════════════════════════
+
+
+# SUPAY
+
+## SIGNIFICATION DU NOM
+
+*Supay* en quechua désignait originellement une catégorie d'esprits — les esprits des morts, les entités de l'*Ukhu Pacha* (monde souterrain, troisième des trois couches cosmiques quechuas). Après la Conquête espagnole (XVIe siècle), les missionnaires catholiques ont utilisé le terme *Supay* pour désigner le diable chrétien — une superposition qui a profondément modifié le concept. Dans les traditions andines contemporaines, le *Supay* est une figure syncrétique — à la fois l'entité quechua pré-coloniale et le démon catholique, les deux niveaux coexistant dans un syncrétisme qui n'a pas choisi entre eux.
+
+## ORIGINE
+
+Le Supay pré-colonial est documenté dans des sources coloniales — des chroniqueurs comme Felipe Guaman Poma de Ayala (*Nueva Corónica y Buen Gobierno*, 1615) et Bernabé Cobo (*Historia del Nuevo Mundo*, 1653) mentionnent les Supay dans le contexte de l'au-delà quechua. Des traditions orales andines contemporaines maintiennent des récits de Supay. La figure synchrétisée (Supay = diable catholique) est présente dans les traditions de carnaval andin — notamment dans le *Diablada* bolivienne de l'Oruro, où des danseurs en costumes de diables représentent des Supay christianisés.
+
+## NATURE
+
+Le Supay originel est une catégorie d'entités — des esprits qui résident dans l'*Ukhu Pacha*, le monde d'en dessous. Ce monde est habité par les morts, les huacas (lieux et êtres sacrés souterrains), et des forces chthoniennes. Ce n'est pas un enfer dans le sens chrétien — c'est une couche cosmique avec ses propres règles et ses propres habitants. Le Supay syncrétisé incorpore des éléments du diable chrétien — une malveillance intentionnelle et une opposition aux humains qui n'était pas nécessairement présente dans le concept original.
+
+## HABITAT
+
+Le Supay habite l'*Ukhu Pacha* — le monde souterrain andin. Il est aussi associé aux mines — dans les traditions andines contemporaines, le *Tío* ("Oncle") vénéré dans les mines de Bolivie et du Pérou est une figure de Supay syncrétisé. Des statues du Tío (un être cornu, avec des oreilles et une bouche large) sont placées dans les galeries minières et reçoivent des offrandes de coca, d'alcool, et de cigarettes par les mineurs — pour assurer leur protection dans les profondeurs.
+
+## DESCRIPTION
+
+Le Supay pré-colonial n'a pas une description physique fixe dans les sources — il est plutôt une catégorie d'êtres. Le Supay syncrétisé post-colonial a adopté l'iconographie du diable chrétien — cornes, queue, pied fourchu — mais avec des éléments andins : couleurs de fête du carnaval, masques élaborés, corps de danseur. Le *Tío* des mines boliviennes est sa représentation la plus concrète — une face humanoïde déformée avec des traits exagérés et une expression entre le sourire et le rictus.
+
+## POUVOIRS
+
+Contrôle de l'*Ukhu Pacha* et de ses ressources — dans la cosmologie andine, les minéraux et les richesses souterraines appartiennent au Supay/Tío. Il peut accorder ou refuser l'accès à ces richesses. Il peut provoquer des accidents dans les mines si ses offrandes sont négligées. Dans les traditions de carnaval, les Supay/danseurs-diables représentent des forces chaotiques qui doivent être intégrées et non rejetées pour maintenir l'équilibre cosmique. Il peut posséder des humains ou les attirer dans le monde souterrain.
+
+## FAIBLESSES
+
+Les offrandes rituelles — coca (*akulliku*), alcool (*chicha* ou *cañazo*), cigarettes, et parfois du sang animal — apaisent le Supay/Tío. Des cérémonies d'*apacheta* (offrandes aux cols de montagne et aux entrées souterraines) maintiennent la relation correcte avec les entités de l'Ukhu Pacha. Des rituels catholiques syncrétisés (bénédictions, processions du carnaval) permettent de "dompter" les Supay dans le contexte de la Diablada bolivienne. L'eau bénite et les formules catholiques peuvent repousser le Supay dans son aspect syncrétisé démonique.
+
+## COMPORTEMENT
+
+Le Supay/Tío dans les mines est une entité qui doit être respectée par les mineurs — des rituels hebdomadaires d'offrandes lui sont dédiés. Des mineurs qui ont respecté le rituel des offrandes rapportent une protection dans leurs travaux. Des mines où les rituels ont été négligés connaissent des accidents plus fréquents — selon la croyance des mineurs boliviens et péruviens. Dans les fêtes de carnaval, les Supay (représentés par des danseurs) se comportent de façon chaotique et festive — leur intégration dans la fête est une domestication symbolique de leurs forces.
+
+## RÉCITS TRADITIONNELS
+
+Un récit de mineur bolivien d'Oruro : "Avant d'entrer dans la mine, on doit toujours saluer le Tío. On lui donne de la coca, on lui allume une cigarette. Si on ne le fait pas — je le sais de mon expérience — quelque chose va mal. Pas forcément un accident grave, mais quelque chose. Un outil qui casse au mauvais moment, une galerie qui s'effondre légèrement là où tu venais de passer. Le Tío est là. Il est le maître de ce qui est en dessous. On travaille sur son territoire. On lui demande la permission."
+
+## VARIANTES RÉGIONALES
+
+Le *Tío* (Oncle) des mines est la manifestation la plus vivante du Supay contemporain — présent dans les mines de Potosí (Bolivie), d'Oruro, et dans les mines péruviennes. La *Diablada* de l'Oruro (carnaval bolivien classé Patrimoine immatériel de l'UNESCO) est l'expression festive la plus spectaculaire du Supay synchrétisé. En Équateur et au Pérou, des figures comparables de maîtres du monde souterrain existent dans les traditions andines locales.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Supay/Tío est vivant et activement vénéré dans les mines boliviennes et péruviennes — ce n'est pas un folklore archivé mais une pratique quotidienne. Des documentaires sur les mines de Potosí (*The Devil's Miner*, 2005, de Kief Davidson et Richard Ladkani) ont montré les rituels d'offrandes au Tío à un public international. La Diablada bolivienne est l'un des carnavals les plus spectaculaires d'Amérique du Sud — ses masques et costumes de Supay sont exportés dans le monde entier.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des illustrations dans les chroniques coloniales (Guaman Poma de Ayala, 1615) représentent des scènes de rituels andins incluant des références aux Supay. Des céramiques coloniales andines de la période d'hybridation (XVIIe-XVIIIe siècles) incluent parfois des figures hybrides catholiques-andines comparables. Les masques et costumes de la Diablada d'Oruro — avec leurs Supay cornus aux yeux exorbités — sont l'iconographie la plus frappante de la figure : un art artisanal bolivien de grande qualité, réalisé par des maîtres mascareros.
+
+## POUR ALLER PLUS LOIN
+
+Le Supay illustre une des transformations les plus profondes du contact colonial — la superposition d'un concept catholique (le diable) sur un concept andin préexistant (les esprits souterrains). Ce qui est remarquable n'est pas simplement la survie du Supay malgré la colonisation — c'est que la figure résultante est plus riche que chacune de ses sources. Le Tío des mines n'est ni le Supay précolonial ni le diable catholique — il est quelque chose de nouveau, andin et catholique simultanément, une entité de la modernité coloniale qui continue de répondre aux besoins spirituels de communautés dont la survie dépend des profondeurs de la Terre.

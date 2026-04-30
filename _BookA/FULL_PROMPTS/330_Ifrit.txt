@@ -1,0 +1,212 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Ifrit
+  Tradition : Maghreb
+═══════════════════════════════════════════════
+
+
+# IFRIT
+
+## SIGNIFICATION DU NOM
+
+Le mot ʿifrīt provient de la racine arabe ʿ-f-r, dont le sens premier renvoie à la *poussière*, à la *terre soulevée*, et par extension à ce qui est *vif*, *roulé dans la poussière*, *vigoureux*. Le verbe ʿafara signifie aussi *frotter contre la poussière*, *renverser*, *terrasser* — image du combattant qui jette son adversaire au sol. De là, l'adjectif ʿifr désigne dans la langue ancienne un être *malin*, *rusé*, *redoutable au combat*.
+
+Le suffixe en -īt accentue la qualité, donne au terme une charge superlative et déformante. Un ʿifrīt n'est pas seulement rusé : il est *l'extrême du rusé*, le vif jusqu'à la perversité, la puissance arrachée à la terre comme on arrache la poussière au vent du désert. Le pluriel ʿafārīt désigne collectivement cette catégorie d'êtres.
+
+Dans les dialectes maghrébins, le terme s'est aplati en *afrit* ou *lafrit* (avec article agglutiné), conservant la pleine charge inquiétante du mot original.
+
+## ORIGINE
+
+Les ʿafārīt appartiennent à la cosmologie arabe *préislamique*. Avant la révélation coranique, les peuples de la péninsule, du Yémen au Hedjaz, et plus largement les populations sémitiques du Proche-Orient, croyaient à une foule d'esprits invisibles, peuplant les ruines abandonnées, les puits asséchés, les vallées hantées, les vents tournants du désert. Ces esprits formaient une catégorie ouverte, sans hiérarchie fixe : djinns, shayāṭīn, ghouls, hinns, banū al-jānn cohabitaient dans l'imaginaire des poètes et des conteurs anté-islamiques.
+
+L'islam, en s'imposant, n'élimina pas cette population invisible. Il l'intégra. La cosmologie coranique reconnut explicitement l'existence des jinns comme troisième race créée par Dieu — distincte des anges (créés de lumière) et des humains (créés d'argile). Les jinns furent dits *créés du feu*. Au sein de cette population, les ʿafārīt furent retenus comme *catégorie supérieure*, particulièrement puissante et hostile, mentionnée nommément dans le texte sacré.
+
+Une scène coranique fameuse, dans la sourate dite *de la Fourmi*, montre Salomon réunissant sa cour. Le roi-prophète demande qui pourra lui rapporter le trône d'une lointaine reine avant qu'elle ne se présente devant lui. Un ʿifrīt parmi les jinns offre de l'apporter avant que Salomon ne se lève de son siège. Cette mention scelle le statut canonique du ʿifrīt comme jinn d'élite, capable de prouesses dépassant celles des jinns ordinaires.
+
+## NATURE
+
+Le ʿifrīt est créé du *feu sans fumée*, ou plus précisément, selon la formulation traditionnelle, du *feu d'un vent brûlant* — distinct de la lumière dont sont faits les anges, distinct de l'argile dont est faite la chair humaine. Il est donc une *créature spirituelle de combustion*, sans corps stable, capable de prendre forme à volonté.
+
+Au sein de la hiérarchie des jinns telle qu'elle s'est progressivement codifiée dans la tradition savante musulmane et dans les manuels de magie populaire, l'ordre habituellement retenu place au sommet le *mārid* (le rebelle, le titanesque, lié aux mers et aux eaux profondes), suivi du *ʿifrīt* (puissant, lié au feu et aux ruines), puis du *shayṭān* (démon proprement dit, lié à la tentation), puis du *jinn* ordinaire, et enfin de catégories mineures comme le *jānn*. Cette hiérarchie n'est pas universellement fixée — certaines traditions inversent ʿifrīt et shayṭān, d'autres rangent à part les ghouls — mais elle représente le schéma le plus largement attesté.
+
+Le ʿifrīt est *sexué* : il existe des ʿafārīt mâles et femelles, capables d'union entre eux et, selon certains récits, capables aussi d'unions illicites avec des humains, dont naissent des êtres hybrides aux pouvoirs étranges.
+
+Il est *mortel* à l'échelle de sa propre temporalité — c'est-à-dire qu'il vit immensément plus longtemps qu'un humain, parfois des siècles, mais peut être tué.
+
+## HABITAT
+
+Les ʿafārīt hantent des lieux précis, que la tradition arabo-maghrébine identifie avec une constance remarquable :
+
+- les *ruines abandonnées* — vestiges de cités mortes, palais effondrés, villages désertés
+- les *cimetières*, particulièrement la nuit
+- les *hammams* après leur fermeture nocturne, surtout les vieux établissements
+- les *puits* secs ou abandonnés
+- les *carrefours déserts* en pleine campagne ou en plein désert
+- les *vallées* arides où retentit l'écho
+- les *seuils* des maisons inhabitées
+- les *latrines* et lieux d'aisance, considérés comme spirituellement vulnérables
+- les zones où s'accomplissent des *éclipses* de soleil ou de lune
+
+Dans le Maghreb spécifiquement, les *ksour* en ruine du présaharien, les vestiges romains de l'Atlas, les marabouts profanés, les vieux moulins à grain isolés sont des sites traditionnellement associés à la présence d'afārīt.
+
+## DESCRIPTION
+
+Le ʿifrīt n'a pas de forme propre. Sa nature ignée le rend *protéiforme*. Il prend l'apparence qu'il choisit pour les besoins de sa rencontre avec les humains.
+
+Sous sa forme préférée, il apparaît comme un *colosse* — silhouette humanoïde de taille démesurée, jusqu'à dépasser la cime des palmiers, peau noire ou rougeoyante, yeux brûlant comme des braises, voix tonnante. Ses cheveux et sa barbe sont décrits comme des fumées épaisses, parfois comme des flammes vivantes. Quand il marche, le sol résonne ; quand il rit, les pierres se fendent.
+
+Sous d'autres formes, il peut paraître :
+
+- en vieillard décharné rencontré au crépuscule sur un chemin
+- en magnifique cavalier monté sur un cheval noir aux yeux rouges
+- en serpent gigantesque enroulé autour des piliers d'une ruine
+- en chat noir aux yeux luisants
+- en tourbillon de poussière qui se forme et se déforme dans le désert
+- en bel étranger venu courtiser une femme dont l'époux est absent
+
+Cette polymorphie rend l'identification incertaine — c'est précisément ce qui le rend dangereux. La tradition maghrébine recommande de toujours examiner les pieds des inconnus rencontrés en lieu suspect : le ʿifrīt, comme bien des entités du folklore arabe, peine souvent à dissimuler des pieds non humains (sabots, pattes d'animal, pieds inversés).
+
+## POUVOIRS
+
+Les pouvoirs des ʿafārīt sont vastes, codifiés par la tradition savante autant que par le folklore :
+
+- *Vol* : ils se déplacent dans les airs avec une rapidité fulgurante. Le ʿifrīt coranique propose à Salomon d'apporter le trône avant qu'il ne se lève — quelques instants, donc, pour traverser un royaume entier.
+- *Métamorphose* : ils prennent toute forme animale, humaine, ou abstraite (vent, fumée, lumière).
+- *Possession* (al-mass, al-junūn) : ils peuvent entrer dans le corps d'un humain, s'emparer de ses gestes, de sa voix, de ses pensées. La folie subite, l'épilepsie, certaines paralysies sont traditionnellement attribuées à une emprise d'afrīt.
+- *Illusion* (al-takhyīl) : ils créent des mirages persistants — palais somptueux dans les ruines, festins dans le désert, voix de proches appelant le voyageur dans la mauvaise direction.
+- *Connaissance des trésors* enfouis. Les ʿafārīt sont traditionnellement gardiens de richesses cachées, et nombre de talismans maghrébins visent à les contraindre à révéler l'emplacement d'un trésor.
+- *Force physique* écrasante.
+- *Longévité* sur plusieurs siècles voire millénaires.
+
+## FAIBLESSES
+
+Plusieurs protections sont reconnues par la tradition :
+
+- *Récitation des versets coraniques* spécifiques, en particulier le *Verset du Trône* (āyat al-kursī) et les deux dernières sourates dites *protectrices* (al-Falaq, an-Nās). Cette récitation, faite à voix haute et avec intention, repousse l'ʿifrīt qui ne peut supporter la parole sacrée.
+- *Invocation du Nom divin* sous diverses formes (basmala prononcée à l'entrée d'un seuil, bismillāh avant chaque acte, dhikr).
+- *Fer* et acier. L'ʿifrīt, comme nombre de jinns, ne supporte pas le contact ou la proximité du fer. Un couteau placé sous l'oreiller, des clous fichés au seuil, une lame portée sur soi suffisent à éloigner les présences d'afārīt mineurs.
+- *Sel*, dispersé en cercle ou jeté dans l'eau d'ablution.
+- *Sceau de Salomon* (khātam Sulaymān), figuré comme étoile à cinq branches (pentagramme) ou à six branches selon les écoles. Salomon, dans la tradition islamique, reçut de Dieu une bague portant le Nom suprême, lui permettant de commander à tous les jinns. Ce sceau, reproduit sur talismans, amulettes, gravures de portes, conserve une vertu protectrice et contraignante.
+- *Carrés magiques* (awfāq) inscrits selon les règles de la science traditionnelle des lettres et des nombres.
+- *Encens* — bois d'aloès, benjoin, harmel brûlé sur braises, particulièrement utilisé au Maghreb.
+- *Lumière*. Comme la plupart des entités liées aux ruines et à la nuit, l'ʿifrīt redoute les flambeaux et les feux allumés rituellement.
+
+## COMPORTEMENT
+
+L'ʿifrīt est *vindicatif*. Plus qu'aucune autre catégorie de jinn, il poursuit une logique de représailles. Si un humain — sans le savoir — l'a offensé en jetant de l'eau bouillante dans des latrines, en frappant à la pierre d'un seuil, en piétinant la couche d'un tourbillon de poussière, l'ʿifrīt offensé peut engager une persécution patiente s'étalant sur des années.
+
+Il est aussi *attaché*. Lorsqu'un ʿifrīt s'éprend d'un humain, ou inversement décide de le hanter, ce lien tient. La tradition maghrébine reconnaît des cas de femmes ou d'hommes *épousés par un ʿifrīt* — incapables dès lors de mariage humain, fréquentant en rêve leur conjoint invisible, parfois enceintés d'enfants qui ne naîtront jamais visiblement.
+
+Il peut être *contraint*. La magie traditionnelle (sihr) prétend asservir les afārīt par invocations rituelles, jeûnes prolongés, fumigations et talismans. Cette pratique, condamnée par l'orthodoxie, demeure vivace dans les marges du folklore maghrébin et égyptien.
+
+Il *parle*. Contrairement à des esprits muets, l'ʿifrīt argumente, négocie, ment, prête serment, se parjure. Beaucoup de récits le mettent en scène en interlocuteur — souvent retors, souvent vaincu par plus rusé que lui.
+
+## RÉCITS TRADITIONNELS
+
+Le récit coranique le plus connu, déjà mentionné, place l'ʿifrīt à la cour de Salomon, offrant de transporter en un clin d'œil le trône d'une reine lointaine. Un autre membre de la cour, possesseur d'une science écrite supérieure, accomplit la chose plus vite encore — montrant que la puissance brute du ʿifrīt cède devant la science sacrée.
+
+Les *Mille et Une Nuits*, vaste compilation issue de matériaux persans, indo-arabes, égyptiens et maghrébins agrégés à partir du IXe siècle, accordent aux ʿafārīt une place centrale. L'histoire du *pêcheur et du ʿifrīt* est célèbre : un pauvre pêcheur tire de la mer une fiole de cuivre scellée du sceau de Salomon. En l'ouvrant, il libère un ʿifrīt furieux, prisonnier depuis des siècles, qui jure de le tuer. Le pêcheur, par ruse, convainc le ʿifrīt qu'il ne croit pas qu'un être si grand ait pu tenir dans une si petite fiole. Le ʿifrīt, vaniteux, retourne dans la fiole pour en faire la démonstration. Le pêcheur referme aussitôt et la rejette à la mer. Cette structure narrative — ʿifrīt enfermé, ʿifrīt libéré, ʿifrīt repiégé par sa propre vanité — court sous d'innombrables variantes du conte arabe.
+
+Le récit d'*Aladdin*, dans sa version originale entrée tardivement dans les *Mille et Une Nuits* par la plume du traducteur français Antoine Galland (XVIIIe siècle), à partir d'un récit oral syrien, met en scène un *jinn de la lampe* qui dans le texte arabe est explicitement appelé un ʿifrīt — créature redoutable, au service involontaire du porteur de la lampe scellée par le sceau de Salomon. Le récit s'inscrit dans la veine traditionnelle des conjurations magiques par sceaux et formules, dont les manuscrits salomoniens arabes (les *Asrār Sulaymān*) conservent les protocoles techniques.
+
+Au Maghreb, d'innombrables récits oraux mettent en scène un ʿifrīt gardien d'un ksar abandonné, d'un trésor enfoui dans les ruines romaines, d'un puits du désert, d'un palais englouti. Le héros — souvent un orphelin pauvre, parfois un savant taleb porteur de talismans — affronte la créature, la trompe ou la contraint, et obtient son dû.
+
+## VARIANTES RÉGIONALES
+
+- *Maghrébine* (Maroc, Algérie, Tunisie, Libye) : l'afrit s'inscrit dans une cosmologie populaire dense où il côtoie les *jnoun* ordinaires, les *Aïcha Kandicha*, les *Bou Jeloud* du carnaval, les *ghouls* du désert. La protection s'opère par sourates, sel, fer, et talismans portant le sceau salomonien.
+- *Égyptienne* : l'ʿafrīt égyptien est particulièrement associé aux esprits de morts violentes — assassinés, suicidés, noyés — qui se transformeraient en afārīt hantant le lieu de leur mort. Cette spécificité égyptienne (l'afrīt comme *revenant transformé*) est moins marquée ailleurs, où le ʿifrīt reste une créature jinnique indépendante de toute mort humaine.
+- *Golfe arabique* : la tradition péninsulaire conserve une terminologie plus proche du Coran, distinguant rigoureusement ʿifrīt et mārid, ce dernier associé aux profondeurs marines.
+- *Persane* : les efrits de la tradition iranienne se mêlent aux *dīv* de l'imaginaire préislamique zoroastrien, créatures démoniaques massives et hideuses, parfois cornues, parfois tachetées, gardiennes de royaumes souterrains. Le Shâh Nâmeh persan abonde en combats héroïques contre les dīv, dont les afrits arabes héritent partiellement.
+- *Turque ottomane* : l'ifrit turc, importé du persan et de l'arabe, conserve sa charge maléfique mais s'aplatit parfois en simple synonyme de *démon*, *diable*, sans la précision hiérarchique des traditions arabes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'image populaire occidentale du *djinn*, et par extension de l'ʿifrīt, a été massivement déformée par la culture commerciale du XXe siècle — adaptations cinématographiques, dessins animés, jeux vidéo, romans de fantasy.
+
+- Le *djinn de bouteille bleu, bouffon et serviable* popularisé par certaines productions d'animation est une caricature triple. D'abord, ce n'est pas une bouteille mais une *fiole scellée du sceau de Salomon* dans le récit traditionnel, et la fiole emprisonne un ʿifrīt précis comme punition divine — pas un assistant volontaire. Ensuite, le ʿifrīt traditionnel n'est *pas serviable* : il sert sous contrainte et ne rêve que de sa libération pour exercer sa vengeance. Enfin, sa couleur n'est pas conventionnellement bleue — la tradition iconographique le peint le plus souvent noir, rouge ou couleur de feu.
+- L'idée d'un *quota fixe de trois vœux* relève d'une convention narrative occidentale empruntée aux contes de fées européens et plaquée artificiellement sur la matière arabe. La tradition coranique et les *Mille et Une Nuits* ignorent ce dispositif. Le ʿifrīt sous contrainte sert sans limite numérique tant que dure le sceau qui le tient, ou peut au contraire ne servir qu'une seule fois.
+- L'image de l'ʿifrīt comme *créature comique* est étrangère à la tradition. Le ʿifrīt est une figure de *terreur*. Les contes arabes le présentent comme un colosse furieux, vengeur, dont la rencontre nocturne tue de peur les voyageurs au cœur fragile.
+- L'assimilation moderne fantasy entre ʿifrīt et *élémentaire de feu* gomme la dimension proprement spirituelle et démoniaque du personnage. L'ʿifrīt n'est pas un esprit naturel neutre. Il est une *créature douée de raison*, jugée à la fin des temps comme les humains, capable d'islam ou d'incroyance, capable de péché ou de salut.
+- La confusion entre *ʿifrīt* et *jinn* tout court efface la hiérarchie traditionnelle. Un jinn ordinaire et un ʿifrīt ne sont pas équivalents — la différence de puissance est aussi grande qu'entre un soldat de pied et un général.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Plusieurs supports anciens transmettent une iconographie du ʿifrīt :
+
+- Les *miniatures persanes*, particulièrement celles illustrant le Shâh Nâmeh ou les recueils de merveilles (ʿAjāʾib al-makhlūqāt), montrent les efrits-dīv comme des géants à peau tachetée (rouge, blanc, vert), cornes de bélier ou de bouc, défenses saillantes, queues simiesques, attributs hybrides empruntés à la fois au démon zoroastrien et au jinn arabe. Les manuscrits du XIVe et XVe siècles persans en livrent les exemples les plus aboutis.
+- Les *talismans maghrébins* — bijoux d'argent berbères, plaques de cuivre, parchemins enroulés portés en amulette (ḥerz) — portent fréquemment le sceau salomonien (étoile à cinq ou six branches) entouré de carrés magiques et d'inscriptions coraniques. Ces objets ne représentent pas l'ʿifrīt directement mais visent à le tenir en respect.
+- Les *manuscrits salomoniens arabes* (Shams al-maʿārif d'al-Būnī au XIIIe siècle, et compilations dérivées) contiennent des figures rituelles, sceaux de chacun des grands afārīt nommés, et tableaux d'invocation. Ces manuscrits, transmis dans des cercles initiatiques restreints, demeurent une source majeure pour l'iconographie magique de la tradition.
+- Les *peintures murales* de certaines confréries soufies maghrébines, et les portes anciennes des médinas (Fès, Marrakech, Tlemcen), portent des motifs apotropaïques destinés à barrer la route aux afārīt aux seuils des maisons.
+
+## POUR ALLER PLUS LOIN
+
+L'ʿifrīt occupe une position centrale dans la cosmologie populaire arabo-maghrébine. Sa présence dans le Coran lui donne une légitimité dogmatique qu'aucune autre créature folklorique du Maghreb ne possède au même degré. Sa présence dans les *Mille et Une Nuits* en a fait, dès la traduction française du XVIIIe siècle, un fonds inépuisable de l'imaginaire occidental, au prix de déformations considérables.
+
+L'étude sérieuse du personnage suppose la lecture conjointe de sources hétérogènes : tafsīr coraniques pour le statut dogmatique, recueils de hadiths pour les précisions prophétiques, manuscrits de sihr pour les techniques d'invocation et de contrainte, recueils de contes oraux maghrébins, égyptiens, syriens et iraniens pour la matière narrative populaire, et traités de démonologie comparée pour la mise en perspective.

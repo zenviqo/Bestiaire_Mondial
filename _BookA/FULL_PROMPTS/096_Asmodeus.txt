@@ -1,0 +1,203 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Asmodeus
+  Tradition : Cananeen Semitique
+═══════════════════════════════════════════════
+
+
+# ASMODEUS
+
+## SIGNIFICATION DU NOM
+
+L'étymologie la plus solidement défendue dans la philologie sémitique remonte au persan avestique *Aēšma-daēva*, littéralement *le démon de la fureur*. *Aēšma* désigne dans l'imaginaire zoroastrien la passion violente, la rage qui désorganise le juste comportement, l'emportement destructeur ; *daēva* nomme la classe d'entités malfaisantes opposées aux puissances de la lumière. La forme aurait été reçue dans l'aire judéenne durant la période achéménide, époque de longs contacts entre le monde juif babylonien et les théologies iraniennes, et naturalisée en *Ashmedai* par adaptation phonétique aux structures hébraïques et araméennes.
+
+Une étymologie populaire interne, secondaire mais bien attestée dans la tradition rabbinique, rattache le nom à la racine sémitique *š-m-d* signifiant *détruire, exterminer*. Selon cette lecture, Ashmedai serait *le destructeur* — interprétation qui a durablement coloré la perception du démon dans les communautés juives médiévales. Les transmissions grecque (*Asmodaios*) et latine (*Asmodaeus*) ont conservé la forme avec des variations minimes.
+
+## ORIGINE
+
+Asmodeus n'est pas un dieu déchu, ni une figure issue d'un panthéon antérieur dégradé en démon par polémique. Il appartient en propre à la classe des *shedim* — entités intermédiaires de la démonologie juive postexilique, inférieures aux anges mais supérieures aux esprits ordinaires, dotées d'une volonté propre et d'une intelligence autonome.
+
+Sa généalogie varie selon les corpus. Certaines traditions tardives le font naître de l'union d'un esprit nocturne et d'un être humain — proche par cette ascendance des récits qui prêtent à Lilith, sa contrepartie féminine dans certaines spéculations cabalistiques, une descendance démoniaque innombrable. D'autres traditions le présentent simplement comme le plus puissant des shedim, sans préciser d'origine biologique : il *est*, à la tête de son peuple, comme un roi est à la tête de son royaume.
+
+L'arrière-plan persan reste lisible. La période où Asmodeus apparaît textuellement de manière nette dans les sources juives — autour des derniers siècles avant l'ère commune — correspond à la phase où la démonologie juive s'organise en hiérarchies structurées sous influence iranienne. Asmodeus est l'un des marqueurs de cette importation théologique, naturalisée si profondément qu'elle deviendra indissociable du legs juif.
+
+## NATURE
+
+Asmodeus est *roi*. Cette qualification, rare dans la démonologie juive, le distingue de la masse des shedim ordinaires. Il commande, il juge entre ses pairs, il dispose d'une autorité reconnue. Les récits le montrent capable de réunir autour de lui les autres démons, de leur imposer des décisions, de les envoyer accomplir des missions. Il est donc moins une force impersonnelle qu'une figure politique du monde invisible.
+
+Sa nature est *spirituelle mais incarnable*. À la différence des esprits purement immatériels, Asmodeus peut prendre corps, manger, boire, se fatiguer, dormir. Il franchit ainsi le seuil entre les ordres de l'existence selon les nécessités de l'instant — invisible quand il veut l'être, palpable quand il choisit de l'être.
+
+Sa nature est enfin *ambiguë moralement*. Asmodeus n'est pas une figure de mal pur. Les récits anciens lui prêtent une connaissance véritable, parfois une justice particulière, parfois même une obéissance forcée à des décrets supérieurs. Il est destructeur des unions, possesseur des chambres nuptiales, séducteur des femmes — mais il est aussi, lorsqu'il est contraint, révélateur de secrets, bâtisseur, exécutant de tâches que les hommes ne sauraient mener seuls.
+
+## HABITAT
+
+Plusieurs lieux sont associés à la résidence d'Asmodeus dans les traditions.
+
+Les *montagnes lointaines* constituent son premier domaine. Les récits anciens le situent dans une région reculée, au-delà des terres habitées, où il vit dans une forteresse souterraine ou montagnarde gardée par les autres shedim. C'est de là que les exorcistes ou les sages contraints de l'invoquer doivent l'extraire.
+
+La *mer Rouge* et plus largement les *grandes étendues d'eau salée* lui sont également attribuées, notamment dans les corpus liés à la vie de Salomon où il apparaît capable d'arracher des objets enfouis dans les profondeurs marines. Les eaux profondes — espaces opposés à la terre habitée et à la lumière — figurent l'un de ses territoires naturels.
+
+Les *chambres nuptiales* et plus généralement les lieux de l'intimité conjugale sont son terrain d'action. C'est là qu'il intervient dans le récit le plus célèbre du livre de Tobie, où il s'attache à une jeune femme et tue successivement ses sept époux la nuit de leurs noces.
+
+Enfin, l'*air* lui-même, en tant que strate entre la terre et les cieux, lui appartient comme à tous les shedim — il s'y meut avec aisance et y accomplit ses déplacements rapides d'un point à l'autre du monde habité.
+
+## DESCRIPTION
+
+L'apparence d'Asmodeus varie considérablement selon les sources, ce qui constitue en soi un trait notable : sa nature démoniaque comprend la capacité de revêtir des formes diverses selon les nécessités.
+
+Une tradition iconographique tardive, transmise par certains corpus magiques, lui prête *trois têtes* : une tête de taureau, une tête d'homme, une tête de bélier — chacune représentant un aspect de sa puissance (l'animalité brutale, l'intelligence rusée, la fertilité dévoyée). Cette tricéphalie plonge ses racines dans des spéculations anciennes sur la composition multiple des grands démons.
+
+Une autre tradition, plus discrète, lui attribue des *pattes de coq* — détail qui le rattache à un substrat folklorique vaste où l'oiseau du matin ambivalent sert de marqueur démoniaque. Ses pieds le trahissent même lorsque le reste de son corps prend une apparence humaine.
+
+Sous sa forme humaine d'apparence, il est généralement décrit comme un homme adulte, parfois beau, parfois terrifiant, doté d'une stature imposante et d'un regard qui glace.
+
+## POUVOIRS
+
+La *séduction* est l'un de ses attributs majeurs. Asmodeus possède un charme surnaturel qui agit aussi bien sur les femmes que sur les hommes, et qui peut s'exercer même à distance. Il est dans plusieurs récits l'amant invisible, jaloux, qui s'attache à une femme humaine et empêche tout autre union.
+
+La *possession* lui est attribuée — capacité d'entrer dans le corps ou la chambre d'un humain, de s'y fixer, d'y déterminer les événements. Cette possession diffère de la possession démoniaque chrétienne ultérieure : elle est plus discrète, plus territoriale, parfois invisible aux humains qui en sont victimes.
+
+Le *savoir cosmique* le caractérise aussi. Asmodeus connaît les secrets de la profondeur des eaux, l'emplacement des trésors enfouis, les noms cachés des choses, les structures du monde invisible. Lorsqu'il est contraint de parler, il révèle.
+
+Le *contrôle des shedim* fait de lui le pivot du peuple démoniaque : quiconque parvient à le soumettre accède par lui au peuple démoniaque entier. Enfin, la *force physique surhumaine* lui permet d'accomplir des travaux qu'aucun humain ne pourrait mener — déplacer des pierres colossales, arracher des objets aux profondeurs, parcourir en un instant des distances considérables.
+
+## FAIBLESSES
+
+Le *sceau de Salomon* — anneau gravé du nom ineffable et porté par le grand roi — constitue la principale arme contre Asmodeus dans les corpus. Tout démon, fût-il roi des shedim, est contraint à l'obéissance lorsqu'on lui présente l'anneau. Le récit le plus célèbre du Talmud babylonien rapporte comment Salomon parvint à capturer Asmodeus précisément par ce moyen, en envoyant un envoyé porteur de l'anneau et d'une chaîne gravée du même nom, qui surprit le démon endormi.
+
+Les *formules mystiques*, prononcées correctement par un sage instruit ou par un ange, contraignent également Asmodeus. Le nom propre du démon, dûment articulé avec les invocations adéquates, le révèle, le fixe, le force à se manifester ou à se retirer.
+
+La *fumigation rituelle*, héritée d'usages très anciens, agit sur lui — notamment, dans le récit de Tobie, la combustion du cœur et du foie d'un poisson particulier, qui force Asmodeus à fuir loin de la chambre nuptiale.
+
+La *foi du juste* et la *prière sincère* peuvent suffire à éloigner Asmodeus même sans formule explicite — dimension plus tardive et plus spirituelle qui atténue progressivement le caractère mécanique des techniques anciennes. L'attachement de l'ange messager qui le lie et l'emmène loin, au-delà des frontières du monde habité, dans une région reculée d'où il ne saurait revenir avant de longues durées, constitue dans le récit deutérocanonique de Tobie la solution finale.
+
+## COMPORTEMENT
+
+Asmodeus est *jaloux et possessif*. Lorsqu'il s'attache à une femme, il tue tout autre prétendant qui prétendrait s'unir à elle. Cette jalousie n'est pas amour — elle est revendication territoriale exercée sur un être humain comme sur un domaine.
+
+Il est *rusé et dissimulateur*. Il choisit ses moments, change d'apparence, se retire devant la force et revient devant la faiblesse. Il calcule.
+
+Il est *colérique* — fidèle à l'étymologie persane qui le donne pour démon de la fureur. Provoqué, contraint, humilié, il libère une violence qui peut détruire les structures matérielles et anéantir les faibles. Lorsqu'il est *contraint et dompté*, son comportement bascule : soumis à un maître légitime — le roi sage, l'ange envoyé, le sage du peuple — il peut servir avec une efficacité prodigieuse, exécutant des tâches surhumaines, révélant des secrets, transportant des charges colossales. Cette capacité de soumission intelligente le distingue des démons purement instinctifs.
+
+## RÉCITS TRADITIONNELS
+
+Quatre grands ensembles narratifs portent la figure d'Asmodeus dans le corpus juif et apparenté.
+
+Le premier est le *récit de Tobie*, conservé dans la version deutérocanonique du livre du même nom. Une jeune femme nommée Sara est habitée par Asmodeus, qui s'est attaché à elle et a tué successivement ses sept maris la nuit même de leurs noces, avant qu'aucun n'ait pu la connaître. Tobie, jeune homme accompagné d'un compagnon mystérieux qui se révélera être un ange, épouse Sara. Suivant les instructions du compagnon, il fait brûler dans la chambre nuptiale le cœur et le foie d'un poisson capturé en route. La fumée chasse Asmodeus, qui s'enfuit jusqu'aux confins du monde habité, où l'ange le lie. Le mariage est ainsi sauvé.
+
+Le deuxième ensemble est le *cycle de Salomon*, transmis principalement par le Talmud babylonien — notamment dans le traité Gittin. Salomon, voulant édifier le grand sanctuaire sans recourir à des outils de fer, a besoin d'une pierre légendaire que seul Asmodeus connaît. Il envoie son officier capturer le démon. Celui-ci suit un puits dans la montagne reculée d'Asmodeus, le surprend pendant son absence, vide le puits, le remplit de vin, et attend. Asmodeus revient, boit, s'endort. L'officier lui passe au cou la chaîne gravée du nom ineffable et le ramène captif. Asmodeus, conduit à Salomon, accomplit la tâche demandée. Mais une seconde phase du récit rapporte qu'Asmodeus, ayant un jour obtenu temporairement l'anneau de Salomon, prend l'apparence du roi, le précipite au loin, et règne à sa place plusieurs années — jusqu'à ce que la fraude soit découverte et que Salomon retrouve son trône.
+
+Le troisième ensemble est le *Testament de Salomon*, corpus pseudépigraphe d'époque tardive (probablement gréco-romaine) qui développe extensivement les pouvoirs d'Asmodeus. Le démon y est interrogé par Salomon, contraint de révéler ses noms, ses pouvoirs, l'ange qui le contrarie, l'étoile qu'il habite. Ce texte fixe pour les siècles suivants la liste des connaissances qu'Asmodeus est censé posséder.
+
+Le quatrième ensemble appartient au folklore plus tardif — notamment l'*Alphabet de Ben Sira*, texte médiéval qui rassemble plusieurs traditions narratives juives. Asmodeus y apparaît tantôt comme partenaire de Lilith dans la procréation démoniaque, tantôt comme figure ambivalente susceptible d'être instrumentalisée par le sage.
+
+## VARIANTES RÉGIONALES
+
+La tradition *juive babylonienne* est la matrice principale du personnage. C'est dans le Talmud babylonien que se développe le cycle de Salomon, dans les textes deutérocanoniques compilés ou conservés en Mésopotamie que prend forme le récit de Tobie. Asmodeus y est roi des démons à part entière, figure structurée et politique du monde invisible.
+
+La tradition *juive séfarade*, héritière des cabales ibériques médiévales, intègre Asmodeus dans des spéculations cosmologiques élaborées. Il y apparaît parfois comme époux ou consort de Lilith, parfois comme l'une des figures centrales des écorces — ces enveloppes obscures qui entourent la lumière divine. Les amulettes séfarades pour la protection des chambres nuptiales et des nourrissons portent fréquemment des formules destinées à éloigner Asmodeus en particulier.
+
+La tradition *juive ashkénaze*, plus austère dans son rapport au démoniaque mais riche en récits populaires, conserve le personnage surtout par le canal des compilations talmudiques, du commentaire rabbinique, et de la littérature pieuse médiévale. Les adaptations folkloriques d'Europe centrale, où le démon prend parfois des couleurs nouvelles au contact des superstitions locales, restent secondaires par rapport au noyau classique transmis par les textes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Asmodeus contemporain — celui des jeux vidéo, des séries de fantasy, des romans, des œuvres horrifiques — diffère substantiellement du personnage des traditions juives anciennes. Plusieurs traits modernes ne trouvent aucune racine ou n'en trouvent qu'une racine très indirecte dans les corpus originaux :
+
+- La position d'Asmodeus comme *prince ou duc des Enfers* dans les classifications démonologiques chrétiennes tardives, hiérarchiques et bureaucratiques (les soixante-douze démons, les ordres infernaux, les correspondances zodiacales) est une construction de la goétie chrétienne médiévale et de ses prolongements occultistes modernes. La tradition juive ancienne le connaît comme roi des shedim, sans système hiérarchique chrétien.
+
+- Son attribution comme *démon de la luxure* dans la classification des sept péchés capitaux est une assignation chrétienne, étrangère à la lecture juive originelle où Asmodeus est avant tout un démon *destructeur des unions* et figure de la fureur — la luxure n'est qu'un de ses traits, non son essence.
+
+- Les *représentations bestiales caricaturales* — démon rouge à cornes spiralées, queue de scorpion, brandissant trident ou armes infernales — sont des compositions iconographiques de la chrétienté médiévale et moderne, étrangères au substrat hébraïque où Asmodeus apparaît plutôt comme figure ambiguë, parfois belle, parfois multiple, parfois dissimulée sous les traits humains.
+
+- Son rôle de *maître des Neuf Enfers* ou de *seigneur dévoreur d'âmes* dans certains jeux de rôle et univers vidéoludiques contemporains est une invention de fantasy, qui agrège des éléments de plusieurs démonologies pour produire un personnage de fiction sans rapport direct avec aucune tradition historique.
+
+- L'*Asmodée des grimoires occultistes modernes* — porteur d'attributs précis, d'un sceau spécifique, d'horaires d'invocation, d'orientations cardinales — relève d'une littérature ésotérique qui reformule librement les traditions anciennes au service d'une pratique magique distincte. Ces traits ne sont pas attestés dans les récits juifs originaux.
+
+L'Asmodeus authentique des traditions juives est plus subtil que ses avatars modernes : roi politique du peuple démoniaque, intelligent et capable de soumission, jaloux possesseur des chambres nuptiales, savant des profondeurs, contraignable par le nom et le sceau du juste — figure ambiguë où la destruction et la connaissance se côtoient sans se confondre.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations *visuelles* d'Asmodeus dans les traditions juives originales sont rares, conformément à la prudence rabbinique sur la figuration des entités du monde invisible. Néanmoins plusieurs supports en conservent la trace.
+
+Les *bols d'incantation* araméens découverts en Mésopotamie, datés des premiers siècles de l'ère commune, portent fréquemment le nom d'Ashmedai inscrit en spirales concentriques avec d'autres noms démoniaques. Ces bols, enterrés à l'envers sous le seuil ou dans les fondations des maisons, étaient destinés à piéger les démons qui chercheraient à pénétrer dans la demeure. Au centre du bol figure parfois une silhouette schématique d'un démon entravé.
+
+Les *amulettes cabalistiques* hébraïques médiévales et modernes destinées à la protection des accouchements et des nuits de noces invoquent fréquemment Asmodeus pour le tenir à distance. Elles portent des formules en hébreu, parfois accompagnées de petits signes graphiques abstraits ou de listes de noms — sans représentation figurative explicite.
+
+Les *manuscrits hébraïques médiévaux* contenant des traités magiques ou démonologiques évoquent rarement le démon par l'image : le texte prime sur la figure. Lorsqu'un schéma apparaît, il s'agit le plus souvent de cercles, de carrés magiques, de combinaisons de lettres — non de figures anthropomorphes ou théromorphes.
+
+Les *gravures chrétiennes médiévales et modernes* dérivées, notamment dans les démonologies chrétiennes pseudo-savantes, ont produit en revanche d'abondantes représentations figuratives d'Asmodée — héritées non de la tradition juive originelle mais de sa réception occidentale ultérieure. Ces images, bien qu'historiquement intéressantes, ne reflètent pas l'imaginaire juif premier.
+
+## POUR ALLER PLUS LOIN
+
+Asmodeus est l'une des figures les plus structurées de la démonologie juive. Les sources principales le concernant se répartissent entre le livre deutérocanonique de Tobie, le Talmud babylonien (notamment dans les traités relatifs aux questions matrimoniales et au pouvoir royal de Salomon), le Testament de Salomon (corpus pseudépigraphe gréco-romain), les compilations midrashiques tardives et les corpus cabalistiques médiévaux.
+
+L'arrière-plan iranien — *Aēšma-daēva* du zoroastrisme — éclaire l'origine du nom et reste l'un des dossiers les plus discutés de l'histoire des emprunts entre démonologies sémitique et iranienne durant la période achéménide.
+
+Les bols d'incantation araméens, conservés aujourd'hui dans plusieurs grandes collections muséales, fournissent par ailleurs un témoignage matériel précieux sur la persistance du nom d'Ashmedai dans les pratiques apotropaïques juives mésopotamiennes.

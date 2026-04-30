@@ -1,0 +1,137 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Likho_Odnoglazoe
+  Tradition : Slave
+═══════════════════════════════════════════════
+
+
+# LIKHO ODNOGLAZOE
+
+## SIGNIFICATION DU NOM
+
+*Likho* signifie « le malheur » en russe — racine *likh-* (mauvais, désastreux). *Odnoglazoe* signifie « borgne » — de *odno* (un) + *glaz* (œil). Likho Odnoglazoe est donc littéralement « le Malheur à un œil ». Cette figure combine la personnification abstraite du malheur (comme *Licho*, *Nedolya*, *Goryye*) avec un aspect de monstre concret : le cyclope. Ce croisement entre personnification et monstre physique est caractéristique du folklore russe.
+
+## ORIGINE
+
+Likho Odnoglazoe apparaît dans plusieurs contes russes documentés par Afanasiev. Sa forme de cyclope est clairement une réminiscence du Cyclope d'Homère (Polyphème), transmise peut-être via les contacts byzantins et les traductions de textes grecs en slavon. Mais sa personnification du malheur comme destin négatif est une fonction purement slave — l'absorption d'une structure narrative grecque dans un cadre sémantique slave.
+
+## NATURE
+
+Likho est une figure hybride — à la fois entité abstraite (le malheur personnifié) et monstre physique (le cyclope). Quand le héros du conte rencontre Likho, il ne rencontre pas seulement un monstre à fuir mais le Malheur lui-même dans sa forme incarnée. Vaincre Likho serait vaincre le malheur — tâche impossible, d'où les fins de contes où le héros s'en échappe mais perd quelque chose.
+
+## HABITAT
+
+La forêt profonde — Likho habite une isba isolée dans la forêt obscure. Ce lieu correspond à la zone mythologique dangereuse du folklore russe : entre le monde humain et le domaine de l'inframonde.
+
+## DESCRIPTION
+
+Une créature de très grande taille — ogre ou géant. Un seul œil au milieu du front (cyclope). Maigre, décharnée dans certaines versions — sa maigreur encode le malheur qui épuise. Dans certains contes : c'est une vieille femme géante à un œil, ce qui la rapproche de Baba Yaga. Dans d'autres : un être indéfini de genre. Ses mouvements sont lents mais puissants.
+
+## POUVOIRS
+
+- Personnification du malheur — sa rencontre apporte le malheur par définition
+- Force physique de géant
+- Pouvoir de lier le malheur aux objets — dans certains contes, le héros qui sort de chez Likho emporte une hache ou un objet qui s'avère être Likho collé à lui, impossible à se débarrasser
+- Connexion avec le destin négatif — elle est la force cosmique du mauvais sort incarnée
+
+## FAIBLESSES
+
+- Ruse — comme le Cyclope d'Homère, Likho peut être trompée par un héros intelligent
+- La fuite — le héros typique s'en échappe par la ruse, sans vaincre (vaincre le malheur est impossible)
+- Les objets qui coupent la connexion — dans certains contes, le héros qui colle à Likho doit couper sa propre main pour se libérer
+
+## COMPORTEMENT
+
+Likho est prédatrice mais passive — elle attend dans sa maison forestière. Les voyageurs qui y arrivent sont pris. Dans la structure du conte, Likho fonctionne comme un test : le héros sage s'en échappe, l'imprudent est détruit. Elle dévore les visiteurs dans les versions les plus proches du Cyclope original.
+
+## RÉCITS TRADITIONNELS
+
+Conte d'Afanasiev (*Likho Odnoglazoe*) : Deux compagnons cherchent le Malheur en se demandant s'il existe vraiment. Ils arrivent à une isba forestière — une vieille femme borgne de grande taille les accueille. Elle dévore l'un. Le survivant la trompe en lui tendant une hache — elle s'y colle (le Malheur colle aux objets). Il lui laisse l'hache et s'enfuit. En traversant une rivière, il entend Likho (la hache) lui crier qu'il ne s'en tire pas si vite — elle lui a fait perdre son compagnon.
+
+Morale : on peut fuir le Malheur mais il faut laisser quelque chose derrière soi.
+
+## VARIANTES RÉGIONALES
+
+*Licho* (forme russe plus abstraite) — sans les caractéristiques de cyclope. *Beда* (Beda, le fléau) — personnification similaire. En Pologne : *Bida* — personnification de la misère comme être surnaturel qui colle à son porteur. La structure cyclope-malheur est spécifique à la tradition russe.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Likho Odnoglazoe a fait une apparition notable dans la fantasy slave — le Witcher de Sapkowski en inclut une version. La distinction essentielle : dans le folklore original, Likho ne peut pas être vraiment vaincue — elle est le Malheur lui-même, et le héros peut seulement fuir en sacrifiant quelque chose. La logique narrative des jeux de rôle et de la fantasy (vaincre le monstre, gagner) contredit la logique du conte (le Malheur est invincible).
+
+## ICONOGRAPHIE HISTORIQUE
+
+Pas d'iconographie médiévale directe. Les illustrations d'Afanasiev du XIXe siècle représentent une vieille femme géante borgne dans une isba forestière, clairement inspirée par les traditions de Baba Yaga et du Cyclope. Cette iconographie a peu évolué — Bilibin et d'autres illustrateurs reprennent la vieille femme borgne géante.
+
+## POUR ALLER PLUS LOIN
+
+- Alexander Afanasiev, *Narodnye russkie skazki* (1855-1863) — conte de Likho Odnoglazoe
+- Vladimir Propp, *Morphologie du conte* (1928) — Likho comme fonction du malheur personnifié
+- B. A. Rybakov, *Yazychestvo drevnikh slavian* (1981)
+- Comparaison avec Polyphème d'Homère via la byzantinologie

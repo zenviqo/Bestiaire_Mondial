@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Trasgo
+  Tradition : Iberique
+═══════════════════════════════════════════════
+
+
+# TRASGO
+
+## SIGNIFICATION DU NOM
+
+*Trasgo* est un terme ibérique dont l'étymologie est débattue. Les hypothèses incluent une dérivation du latin *trans* (au-delà, de l'autre côté) suggérant un être de l'autre côté, ou un lien avec l'arabe *tariq* (chemin de nuit), ou encore des substrats préromans. En Galice, le *Trasno* est le même être avec une phonétique légèrement différente. Le mot désigne universellement dans les langues ibériques un esprit domestique malicieux, espiègle, et difficile à se débarrasser.
+
+## ORIGINE
+
+Le Trasgo est l'une des figures les plus représentatives du folklore du nord de l'Espagne — Asturies, Cantabrie, Galice, Castille. Les attestations dans des textes remontent au XVIe siècle, mais la tradition orale est probablement beaucoup plus ancienne. Des figures similaires existent dans tout l'espace celto-romain de la péninsule ibérique, suggérant des origines préromanes ou romanes anciennes.
+
+## NATURE
+
+Le Trasgo est un lutin domestique — pas vraiment malveillant, mais constant dans son espièglerie. Il s'attache aux maisons et aux familles qui l'hébergent (souvent malgré eux) et manifeste une présence à la fois nuisible et paradoxalement affectueuse. Il ne quitte pas facilement — les tentatives pour s'en débarrasser sont souvent vaines et parfois contrôlées par lui-même.
+
+## HABITAT
+
+Le Trasgo vit dans les maisons — sous les escaliers, dans les greniers, dans les recoins sombres des maisons rurales asturiennes et galiciennes. Il peut être associé à une maison spécifique depuis des générations. Si la famille déménage, le Trasgo suit — ce qui rend les tentatives de l'abandonner particulièrement inefficaces.
+
+## DESCRIPTION
+
+Le Trasgo est petit — la taille d'un enfant ou moins. Il est hirsute, poilu, de peau sombre. Son vêtement favori est un bonnet rouge qu'il porte constamment. Il a parfois un trou dans la main gauche — cette main percée est sa marque distinctive dans de nombreuses traditions. Il peut être laid ou simplement étrange, mais pas menaçant dans son apparence.
+
+## POUVOIRS
+
+Invisibilité à volonté. Déplacement rapide et silencieux. Imitation de voix et de bruits. Capacité à déplacer des objets, à faire du bruit dans la nuit, à pincer les dormeurs. Dans certaines traditions, il peut interagir avec les animaux domestiques et affecter les récoltes ou le bétail.
+
+## FAIBLESSES
+
+La tâche impossible est la méthode d'épuisement classique — lui demander de compter des grains de millet renversés ou de transporter de l'eau dans un panier peut le garder occupé toute la nuit. Mais il revient. Lui confier une tâche réellement utile peut parfois transformer sa relation à la maison. Certains disent qu'il s'attache plus si on lui donne des vêtements — dans ce cas, il part (logique similaire aux lutins d'autres cultures).
+
+## COMPORTEMENT
+
+Le Trasgo déplace les objets, cache les affaires des habitants, fait des bruits la nuit, pinche les dormeurs, renverse les pots et les casseroles. Il peut aussi parfois aider — des maisons avec des Trasgo "apprivoisés" profitent parfois d'une aide à des tâches nocturnes. Sa personnalité est celle d'un enfant turbulent perpétuellement présent : il cherche l'attention et réagit au traitement qu'on lui réserve.
+
+## RÉCITS TRADITIONNELS
+
+Un conte asturien classique : une famille exaspérée par son Trasgo décide de déménager dans une maison plus loin. Elle charge ses meubles sur une charrette. Au moment de partir, le Trasgo sort de sa cachette dans un tonneau et dit joyeusement "¡Nos mudamos!" (On déménage !). Constatant qu'il suit, la famille renonce à fuir et tente une coexistence. Ce schéma — le Trasgo qui suit malgré tout — est parmi les plus répandus.
+
+## VARIANTES RÉGIONALES
+
+En Galice, le *Trasno* est identique mais sa tradition orale est particulièrement riche — la Galice a un folklore des esprits très développé. L'*Iratxo* basque est une figure similaire. Le *Duende* (terme plus général) recouvre parfois le même espace sémantique. Les traditions de chaque province du nord de l'Espagne ont leur nom et leurs détails particuliers.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Trasgo est connu dans la culture populaire espagnole et galicienne, apparaissant dans des productions littéraires pour enfants, dans des récits régionaux, et dans les évocations du folklore local. Le terme *Duende* — popularisé par Federico García Lorca dans son sens d'inspiration artistique ineffable — est lié mais distinct.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations du Trasgo sont surtout modernes — illustrations de livres de folklore du XIXe-XXe siècle. La tradition ne produisait pas d'images canoniques. Des sculptures et des céramiques contemporaines dans les régions du nord de l'Espagne représentent la figure, souvent avec le bonnet rouge caractéristique.
+
+## POUR ALLER PLUS LOIN
+
+Le Trasgo est un esprit domestique — une figure universelle dans les folklores du monde (lutin, kobold, brownie, domovoy). Ces lutins domestiques reflètent une relation ancestrale avec l'espace de la maison comme territoire habité non seulement par les humains mais aussi par des présences invisibles qui participent à la vie du foyer. Leur traitement — avec respect, avec humour, avec des offrandes — code une relation au sacré du quotidien que la modernité a largement perdue.

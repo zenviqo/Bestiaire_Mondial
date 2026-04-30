@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Pesanta
+  Tradition : Iberique
+═══════════════════════════════════════════════
+
+
+# PESANTA
+
+## SIGNIFICATION DU NOM
+
+*Pesanta* est dérivé du catalan *pesar* (peser, être lourd) + suffixe *-anta* — "celle qui pèse" ou "la pesante". Le nom encode directement la manifestation physique de la créature — un poids sur la poitrine des dormeurs qui cause oppression, difficultés respiratoires, et cauchemars. C'est un nom phénoménologique : il décrit l'expérience vécue par les victimes plutôt que la nature de l'être. En catalan, *pesanta* est aussi utilisé comme adjectif pour désigner quelque chose de très lourd ou pesant.
+
+## ORIGINE
+
+La Pesanta est documentée dans le folklore catalan depuis le Moyen Âge — des témoignages de "quelque chose de lourd sur la poitrine la nuit" sont répandus dans les traditions populaires de l'ensemble du monde méditerranéen et indo-européen (l'oppression nocturne est un phénomène universel connu aujourd'hui sous le nom de "paralysie du sommeil"). La version catalane spécifique est systématisée dans les études folkloriques de Joan Amades (*Costumari Català*, 5 volumes, 1950-1956) — l'œuvre fondamentale du folklore catalan. Des variantes existent dans toute la Catalogne et dans les zones pyrénéennes de France.
+
+## NATURE
+
+La Pesanta est un être nocturne qui se pose sur la poitrine des dormeurs — typiquement sous la forme d'un grand animal noir (un chien, un chat, un porc dans les versions les plus fréquentes) — causant une oppression physique, des difficultés à respirer, et des cauchemars intenses. Sa nature est celle d'un être liminal qui habite l'espace entre le sommeil et l'éveil — une zone où les humains sont particulièrement vulnérables. Elle ne nourrit pas de sang comme un vampire mais de l'énergie vitale et du souffle des dormeurs.
+
+## HABITAT
+
+La Pesanta hante les maisons — particulièrement les chambres à coucher, les greniers, et les espaces sous les lits. Elle entre par des ouvertures (fenêtres, trous dans les murs) la nuit. Des maisons isolées, des auberges de montagne, et des demeures avec des associations malheureuses (morts récentes, malédictions) sont ses lieux de prédilection. Elle peut aussi rôder dans des zones rurales la nuit et entrer dans des maisons au hasard.
+
+## DESCRIPTION
+
+La Pesanta est le plus souvent décrite comme un grand animal noir — un chien noir, un chat noir, ou un porc noir de taille normale ou légèrement supérieure à la normale. Dans des versions anthropomorphes, elle peut apparaître comme une vieille femme ou une silhouette sombre et informe. Dans tous les cas, son poids est disproportionné à sa taille — elle pèse comme si elle était en plomb. Elle a parfois des trous à la place des narines (dans des descriptions qui suggèrent qu'elle n'est pas entièrement corporelle) et peut être invisible à son approche.
+
+## POUVOIRS
+
+Oppression nocturne — elle se pose sur la poitrine avec un poids impossible à soulever. Induction de cauchemars — sa présence génère des rêves intenses et terrifiants. Paralysie — les victimes ne peuvent pas bouger pendant son oppression. Aspiration du souffle — dans certaines versions, elle aspire l'air de la bouche des dormeurs, causant une sensation d'étouffement. Invisibilité à l'approche — on ne la voit généralement pas arriver, seulement sentir son poids.
+
+## FAIBLESSES
+
+Des herbes spécifiques dont l'odeur la repousse — la rue (*ruda* — *Ruta graveolens*), le romarin, ou d'autres herbes aromatiques placées près du lit. Des objets percés d'un seul trou (une passoire, un colander) placés au pied du lit — la Pesanta, comme de nombreux esprits catalans, est obligée de compter les trous et ne peut repartir avant d'avoir terminé, mais comme elle ne peut pas compter correctement, elle reste bloquée jusqu'à l'aube. Des prières et des formules religieuses catholiques. Dormir sur le ventre (elle ne peut pas se poser sur le dos d'un dormeur face contre terre). Ne pas manger trop le soir.
+
+## COMPORTEMENT
+
+La Pesanta entre dans les maisons la nuit par des ouvertures, se déplace silencieusement vers la chambre à coucher, et se pose sur la poitrine du dormeur. Sa présence provoque immédiatement l'oppression et le cauchemar. Dans la tradition catalane, la Pesanta visite les mêmes victimes nuit après nuit si aucune protection n'est mise en place — elle reconnaît ses victimes favorites. Des personnes faibles ou malades sont ses cibles préférées. Sa visite peut durer quelques minutes ou toute la nuit.
+
+## RÉCITS TRADITIONNELS
+
+Un récit catalan classique (documenté par Amades) : un homme de Barcelone ou d'une ville catalane se plaint à un prêtre de ne plus pouvoir dormir — chaque nuit, quelque chose de lourd comme une pierre se pose sur sa poitrine et il se retrouve incapable de bouger, respirant avec difficulté, en proie à des cauchemars terrifiants. Le prêtre reconnaît la Pesanta et lui donne des instructions : placer une passoire avec des trous sous le lit, mettre un bouquet de rue sous l'oreiller, et réciter une prière avant de dormir. La première nuit suivante, l'homme entend gratter et compter — la Pesanta, bloquée par la passoire, reste jusqu'à l'aube. Les nuits suivantes, elle cesse de venir — trop de difficultés pour trop peu de récompense.
+
+## VARIANTES RÉGIONALES
+
+Des êtres qui oppriment les dormeurs existent dans presque toutes les cultures — le *Nightmare* anglais (littéralement "jument de la nuit"), le *Cauchemar* français (de *caucher* — fouler aux pieds, et *mare* — jument), la *Mara* nordique, le *Mahr* germanique, la *Kokobäs* arménienne. Cette universalité reflète le phénomène physiologique de la paralysie du sommeil. La spécificité catalane de la Pesanta est sa forme animale noire distincte (plutôt qu'une jument ou une vieille femme) et la méthode de protection par la passoire-comptage.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Pesanta est documentée dans des études catalanes de folklore et de culture populaire. Des auteurs catalans contemporains utilisent la figure dans des romans et des nouvelles de genre fantastique catalan. Des expositions d'art catalan contemporain ont représenté la Pesanta. Des publications sur la paralysie du sommeil en Catalogne mentionnent la Pesanta comme explication traditionnelle du phénomène.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des illustrations de manuscrits catalans médiévaux et de la période moderne représentent des oppresseurs nocturnes. Des gravures du XVIIIe et du XIXe siècle représentent des êtres similaires dans des contextes fantastiques catalans. Des œuvres de Ramón Casas (peintre moderniste catalan) et d'autres artistes catalans ont représenté des figures de rêve et de cauchemar comparables à la Pesanta dans des styles symbolistes.
+
+## POUR ALLER PLUS LOIN
+
+La Pesanta illustre parfaitement comment un phénomène physiologique universel — la paralysie du sommeil, avec ses hallucinations hypnagogiques d'une présence oppressante — est transformé en tradition folklorique locale avec ses propres protections et ses propres règles. Le phénomène lui-même (incapacité à bouger au réveil, sensation de poids sur la poitrine, hallucinations) est documenté médicalement et touche entre 8% et 50% de la population mondiale selon les études. Chaque culture a développé une figure qui l'explique et des protections qui permettent de le gérer. La Pesanta catalane, avec sa passoire et sa rue aromatique, est la version catalane d'une gestion culturelle très ancienne d'une expérience physiologique très réelle.

@@ -1,0 +1,249 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Yeak
+  Tradition : Sud Est Asiatique
+═══════════════════════════════════════════════
+
+
+# YEAK
+
+## SIGNIFICATION DU NOM
+
+*Yeak* est l'adaptation khmère du terme sanskrit *yaksa* (féminin *yaksini*), via le pâli *yakkha*. Le terme désignait à l'origine, dans la mythologie indienne, une catégorie d'esprits-gardiens semi-divins, attachés aux trésors souterrains, aux arbres sacrés et aux frontières des mondes. Sous l'influence du brahmanisme puis du bouddhisme, ces esprits ont été progressivement requalifiés tantôt en gardiens bienveillants, tantôt en démons grotesques, selon les contextes narratifs.
+
+Au Cambodge, *Yeak* a pris une coloration spécifique : tout en conservant la fonction gardienne, il s'est ancré dans une morphologie d'*ogre géant* aux traits monstrueux. Le terme est entré dans la vie courante au-delà de la sphère religieuse pour désigner toute entité géante, féroce, à apparence humanoïde monstrueuse.
+
+En thaï, *Yak* (forme légèrement raccourcie) désigne la même figure et orne les frontons et entrées de presque tous les temples bouddhiques. Au Laos, *Nhak* présente une forme phonétique adaptée. Les variantes birmanes (*bilu*) constituent une famille parente mais sont traitées séparément dans le folklore birman.
+
+## ORIGINE
+
+Le Yeak descend du *yaksa* indien importé en Asie du Sud-Est avec le brahmanisme puis le bouddhisme theravada, à partir des premiers siècles de notre ère. Cette importation s'est accomplie via les marchands maritimes, les missionnaires bouddhiques et l'élite culturelle des royaumes indianisés (Funan, Chenla, puis Angkor au Cambodge ; Dvaravati, Sukhothai puis Ayutthaya en Thaïlande).
+
+Le Yeak, en tant que figure khmère, prend sa forme classique durant la période angkorienne (IXe-XVe siècles). Les bas-reliefs d'Angkor Wat, du Bayon, de Banteay Srei et d'autres temples présentent des Yeak géants soit en gardiens, soit en adversaires des dieux et héros lors des grandes scènes mythologiques (notamment la *barattage de la mer de lait*, où des Yeak tirent le serpent Vasuki d'un côté tandis que les Devata tirent de l'autre).
+
+Cette figure s'est ensuite diffusée vers l'Ouest (Thaïlande, Laos) et a connu son intégration définitive dans le bouddhisme theravada — où le Yeak peut être à la fois adversaire dans certains récits et gardien-protecteur du dharma dans d'autres.
+
+L'origine populaire khmère ajoute une dimension propre : les Yeak sont parfois présentés comme des âmes humaines transformées en ogres géants par accumulation de mauvais karma, particulièrement par avidité, gourmandise excessive et violence. Cette interprétation karmique les apparente partiellement aux Phi Pret tout en gardant leur dimension monumentale.
+
+## NATURE
+
+Le Yeak est un *ogre géant à dimension religieuse*. Sa nature combine plusieurs strates :
+
+*Strate divine ancienne* : il est un yaksa, esprit-gardien d'origine pré-bouddhique, attaché aux trésors, aux frontières et aux sites sacrés.
+
+*Strate démoniaque* : il est un être de grande puissance, capable de violence, doté d'appétits dévorants — la tradition lui prête un goût pour la chair humaine, particulièrement celle des femmes et des enfants.
+
+*Strate protectrice* : il est gardien des temples bouddhiques, dressé en sentinelle aux portes, repoussant les esprits malveillants qui voudraient profaner les sanctuaires.
+
+*Strate karmique* : selon certaines interprétations, il est une âme humaine en condition de renaissance dégradée, payant des fautes passées dans une apparence monstrueuse mais pouvant gagner mérite par sa fonction de gardien.
+
+Cette polyvalence fait du Yeak l'une des figures les plus complexes du panthéon créatural khmer-thaï-lao : ni démon pur, ni divinité, ni simple monstre, mais entité ambivalente intégrée à un système religieux élaboré.
+
+## HABITAT
+
+Le Yeak habite traditionnellement des lieux *liminaires et grandioses*. Sa résidence privilégiée se situe :
+
+- Dans les *forêts profondes* de l'arrière-pays khmer et thaï, particulièrement les massifs des Cardamomes et des Dangrek, où l'on dit qu'ils chassent les voyageurs imprudents.
+- Aux *abords des temples* bouddhiques, où ils sont représentés en sentinelles dressées de chaque côté des portes d'enceinte.
+- Dans des *cités souterraines* — palais cachés sous les collines, où les Yeak résident avec leurs propres rois et reines, formant des sociétés parallèles à celles des humains.
+- Sur les *îles inhabitées* des grands lacs (notamment le Tonlé Sap au Cambodge), où ils règnent sans contestation.
+- Dans les *montagnes mythiques* — particulièrement le mont Sumeru, considéré dans la cosmologie indo-bouddhique comme l'axe du monde, peuplé d'êtres surnaturels dont les Yeak.
+
+Aux temples, leur image en pierre ou en peinture a une fonction concrète de protection : elle repousse les esprits malveillants par sa propre nature monumentale et féroce, fonctionnant comme un *épouvantail spirituel* dirigé contre tout intrus de basse extraction surnaturelle.
+
+## DESCRIPTION
+
+Le Yeak a une apparence saisissante et hautement codifiée par l'iconographie khmère et thaïe.
+
+*Stature* : il est *gigantesque*. Les traditions lui prêtent une taille de plusieurs mètres, parfois jusqu'à dix ou douze pour les Yeak royaux. Sa silhouette domine toujours les humains alentour.
+
+*Visage* : il est *monstrueux mais ritualisé*. Le visage du Yeak comporte plusieurs traits distinctifs codifiés :
+- Une *bouche large*, ouverte généralement en rugissement, révélant deux *crocs proéminents* recourbés vers le haut depuis la mâchoire inférieure (parfois aussi vers le bas depuis la mâchoire supérieure).
+- Des *yeux exorbités*, ronds, écarquillés, soulignés de cernes sombres ou de motifs flammés.
+- Un *nez large et plat*, parfois retroussé.
+- Des *sourcils arqués* en spirale, soulignant l'expression féroce.
+
+*Couleur de peau* : selon les Yeak individuels, elle peut être verte, blanche, rouge sombre, noire, ou polychrome. Cette couleur n'est pas anatomique mais symbolique — chaque grande figure de Yeak nommée dans la tradition (notamment ceux du *Reamker*, version khmère du *Ramayana*) a sa couleur propre.
+
+*Vêtements et parure* : le Yeak, malgré sa nature sauvage, est habillé en *prince guerrier*. Il porte un *sampot* (étoffe drapée), une cuirasse ouvragée, des bijoux cérémoniels — colliers, bracelets, ceintures dorées. Sur sa tête, une *couronne royale* élaborée souvent à plusieurs étages, parfois flammée.
+
+*Armes* : il porte généralement une *massue* monumentale (*kradong*), parfois une épée ou un trident. L'arme est elle-même surdimensionnée, souvent ornementée.
+
+*Mains et corps* : la peau peut être lisse ou écailleuse selon les traditions. Les ongles sont longs et acérés, parfois représentés comme des griffes.
+
+Dans certaines traditions populaires, les Yeak peuvent prendre forme humaine pour fréquenter les villages incognito — apparaissant alors comme des hommes ou femmes d'une taille à peine supérieure à la normale, dont les traits trahissent leur origine seulement dans certains détails (ongles trop longs, yeux trop brillants, voix trop grave).
+
+## POUVOIRS
+
+Le Yeak possède des pouvoirs étendus, à la mesure de sa stature.
+
+Il possède la *force colossale*. Capable d'arracher des arbres entiers, de soulever des rochers, de défoncer des murs, sa puissance physique dépasse considérablement celle de tout humain et de la plupart des autres créatures.
+
+Il possède la *capacité de transformation*. Plusieurs récits lui prêtent le pouvoir de prendre forme humaine, animale (généralement grand prédateur — tigre, sanglier géant), ou même de se rendre invisible.
+
+Il possède la *maîtrise de certaines magies*. Particulièrement les magies de combat, d'enchantement de la chair, de transformation des adversaires en pierre ou en végétaux.
+
+Il possède la *longévité extraordinaire*. Les Yeak vivent plusieurs siècles, parfois plusieurs millénaires selon les traditions.
+
+Il possède des *connaissances cachées*. Plusieurs récits les présentent comme dépositaires de savoirs anciens — particulièrement sur les trésors enfouis, les itinéraires secrets entre les mondes, les formules magiques perdues.
+
+Il peut, lorsqu'il est en colère, *générer des tremblements de terre*, des tempêtes localisées, ou des ouragans courts. Cette capacité météorologique reste cependant moins développée que celle des Phaya Nak.
+
+## FAIBLESSES
+
+Le Yeak, malgré sa puissance, possède des faiblesses précises.
+
+Il est *vulnérable aux héros porteurs d'armes magiques*. Les grands récits du *Reamker* (Ramayana khmer) montrent les Yeak vaincus par des héros divins armés d'arcs ou d'épées d'origine céleste.
+
+Il est *vulnérable au dharma*. Devant un moine d'une grande sainteté, devant la récitation de soutras puissants, devant un Bouddha consacré, le Yeak ne peut pas pleinement déployer sa puissance et doit se soumettre. Cette soumission au dharma est l'un des thèmes récurrents de l'iconographie temple : Yeak rendus silencieux face au sanctuaire qu'ils gardent pourtant.
+
+Il est *vulnérable à la ruse*. Plusieurs contes folkloriques montrent un Yeak vaincu par un humain plus rusé que fort — généralement par une promesse impossible, une devinette, ou un piège ingénieux. Cette vulnérabilité à l'intelligence humaine constitue le motif central de plusieurs contes pour enfants où le héros enfantin trompe l'ogre.
+
+Il est *vulnérable à certaines pierres ou cristaux* selon les traditions populaires — notamment le *cristal de quartz béni* (souvent porté en amulette), qui repousse les Yeak.
+
+Il est *contraint par sa propre nature gardienne*. Un Yeak attaché à un temple ne peut quitter son poste sans devenir lui-même persécuté par d'autres puissances surnaturelles.
+
+## COMPORTEMENT
+
+Le comportement du Yeak varie selon le contexte et l'individu — c'est l'une des caractéristiques de la figure.
+
+*En tant que gardien de temple* : il est immobile, silencieux, vigilant. Sa fonction est purement défensive contre les esprits malveillants. Il ne touche pas aux humains pieux qui visitent le sanctuaire.
+
+*En tant qu'adversaire dans les récits mythologiques* : il est belliqueux, orgueilleux, jaloux des dieux et des héros. Il enlève les femmes nobles, accumule les trésors, défie les héros. Cette dimension est centrale dans le *Reamker* où le Yeak Ravana (en version khmère) enlève la princesse Sita.
+
+*En tant qu'ogre forestier* : il est prédateur. Il chasse les voyageurs, capture les enfants imprudents, dévore les animaux et parfois les humains. Cette dimension domine dans les contes populaires destinés à mettre en garde les enfants contre les forêts profondes.
+
+*En tant qu'âme transformée par karma* : il est tourmenté par sa propre apparence et par ses appétits dévorants. Plusieurs récits le décrivent capable de prendre conscience de sa condition, de chercher la rédemption auprès de moines, de se convertir au dharma.
+
+Plusieurs récits décrivent des Yeak particulièrement vénérables, devenus *gardiens-protecteurs* au-delà de leur fonction iconographique — intervenant pour défendre des villages contre des bandits, pour aider des moines en danger, pour signaler aux voyageurs des dangers en chemin.
+
+## RÉCITS TRADITIONNELS
+
+Plusieurs récits transmettent la figure du Yeak.
+
+Le *Reamker*, version khmère du *Ramayana*, met en scène le grand Yeak Reab (Ravana) — roi de Lanka, doté de dix têtes, qui enlève la princesse Sita et est combattu par le héros Reames (Rama). Ce récit massif, peint sur les murs du Palais Royal de Phnom Penh et sculpté à Angkor Wat, constitue l'une des sources iconographiques majeures du Yeak khmer.
+
+Un cycle de récits cambodgiens raconte les *Yeak du Tonlé Sap* — population entière de géants vivant dans une cité souterraine sous le grand lac, intervenant occasionnellement dans les affaires humaines. Plusieurs villages riverains attribuent aux Yeak la fertilité des poissons et la régularité des crues, en échange d'offrandes aux temples.
+
+Les *contes populaires khmers* abondent en récits d'ogres Yeak vaincus par des héros enfantins ou des sages. L'un des plus célèbres raconte l'histoire d'un orphelin qui, capturé par un Yeak, lui propose une devinette impossible. Le Yeak, vexé de ne pouvoir répondre, accepte le pari : si le garçon trouve la réponse à la même devinette, il sera libéré. L'orphelin, qui connaissait la réponse depuis le début, échappe ainsi à l'ogre.
+
+Un récit thaï raconte la *conversion d'un Yeak forestier* qui, ayant terrorisé une région pendant des siècles, fut visité par un grand moine. Le moine, sans peur, lui exposa les enseignements du Bouddha. Le Yeak, ému, abandonna sa carrière prédatrice et devint gardien d'un temple voisin où il demeure en pierre depuis lors.
+
+Un cycle birman-thaï met en scène les *Yeak amoureux d'humaines*. Plusieurs versions racontent l'histoire d'un Yeak qui prend forme humaine pour épouser une jeune fille, dissimulant sa nature pendant des mois ou des années, jusqu'à ce que sa femme découvre la vérité — généralement par une transformation involontaire durant le sommeil ou la colère du Yeak. La résolution varie : tragédie, séparation forcée, ou — dans les versions les plus moralisées — conversion du Yeak au dharma sous l'influence de l'amour humain.
+
+## VARIANTES RÉGIONALES
+
+Au Cambodge, le Yeak conserve sa forme la plus pleinement développée, en raison de la richesse iconographique angkorienne et de la centralité du *Reamker* dans la culture nationale.
+
+En Thaïlande, le Yak (forme thaïe) est massivement présent dans l'iconographie temple — gardiens géants devant Wat Pho, Wat Phra Kaeo, et d'innombrables autres sanctuaires. Le Yak thaï a tendance à être davantage codifié dans les couleurs et les paires (Yak vert et Yak blanc en gardiens jumeaux).
+
+Au Laos, le Nhak présente des variantes locales légèrement différentes, intégrant parfois des éléments du folklore animiste lao.
+
+Au Myanmar, des figures parentes existent sous le nom de *Bilu*, mais la tradition birmane les a particularisées au point qu'elles méritent un traitement séparé.
+
+Au Vietnam, des figures parentes existent sous le nom de *Quỷ Dạ-xoa* (transcription vietnamienne du *yaksa* indien), mais avec une présence moindre dans le folklore populaire — la figure étant restée plus livresque que vivante.
+
+Une variante régionale du Sud-Est cambodgien (vers la frontière vietnamienne) décrit des Yeak insulaires vivant sur des îles de la mer de Chine méridionale, intégrant des éléments du folklore vietnamien.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs distinctions importent.
+
+Le Yeak n'est pas un *ogre générique* du conte de fées européen. Sa fonction religieuse-iconographique, son intégration au système karmique bouddhique, et sa stature de figure mythologique majeure le distinguent fondamentalement de l'ogre du folklore occidental.
+
+Il n'est pas un *démon pur* à abattre. Sa polyvalence — gardien, adversaire, créature en voie de rédemption — interdit toute lecture monolithique. Plusieurs Yeak sont *vénérables*, et leurs représentations aux portes des temples les classent parmi les protecteurs et non parmi les ennemis.
+
+Il n'est pas un *géant viking* ou un *cyclope grec*. Bien que des parallèles typologiques existent, la spécificité culturelle du Yeak (couronne princière, sampot, fonction temple-gardienne, intégration au dharma) le distingue radicalement des géants des autres traditions.
+
+L'image moderne du Yeak dans certains films d'horreur ou de fantasy a parfois transformé la figure en pure créature monstrueuse, gommant sa dimension religieuse. La tradition originale insiste sur sa *dignité de prince guerrier* même dans la monstruosité.
+
+L'identification parfois opérée avec le *Garuda* ou avec d'autres figures iconiques khmères est une erreur — le Yeak est une catégorie distincte.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le Yeak constitue l'une des figures les plus représentées dans l'art khmer-thaï-lao.
+
+À *Angkor Wat*, les bas-reliefs des galeries présentent des Yeak monumentaux dans la scène de la *barattage de la mer de lait* — quatre-vingt-huit Yeak tirant le serpent Vasuki sur une face, opposés à quatre-vingt-douze Devata sur l'autre. Cette scène, longue de plusieurs dizaines de mètres, constitue l'expression iconographique la plus aboutie du Yeak khmer.
+
+Au *Bayon* (Angkor Thom), les ponts d'accès au temple sont flanqués de Yeak géants tenant le serpent. Ces Yeak, sculptés en pierre, montrent toutes les caractéristiques iconographiques classiques : crocs proéminents, yeux exorbités, couronne royale, vêtements de prince.
+
+Au Cambodge moderne, presque toutes les pagodes (*wat*) érigent à leurs entrées des statues de Yeak sentinelles. Au Wat Phnom de Phnom Penh, à la pagode d'argent du Palais Royal, et dans d'innombrables temples ruraux, ces gardiens monumentaux veillent.
+
+En Thaïlande, le *Wat Phra Kaeo* (Bangkok) est célèbre pour ses gardiens Yak géants, recouverts de céramique colorée, hauts de plusieurs mètres, dressés en paires.
+
+Les *peintures murales* des viharas khmers et thaïs abondent en scènes mettant en scène des Yeak — combats avec des héros, scènes du *Reamker*, scènes de la vie du Bouddha incluant des conversions de Yeak.
+
+Les *manuscrits sur feuilles de palme* (Cambodge) et les illustrations des *Traiphum* (Thaïlande) représentent les Yeak dans leurs cosmologies respectives.
+
+Le *théâtre dansé khmer* (*Robam*) et le *Khon thaï* (théâtre masqué) intègrent les Yeak comme personnages majeurs dans leurs répertoires basés sur le *Reamker*. Les masques de Yeak, hautement codifiés, constituent un patrimoine artistique distinct.
+
+## POUR ALLER PLUS LOIN
+
+Le Yeak occupe une position centrale dans l'imaginaire culturel khmer, thaï et lao, à l'intersection de la mythologie indienne importée, de l'animisme local pré-existant, du bouddhisme theravada et de la culture royale. Sa figure persiste pleinement vivante dans l'iconographie religieuse contemporaine, dans le théâtre traditionnel, dans le folklore populaire, et dans les arts visuels. Elle constitue l'un des emblèmes les plus reconnaissables de la culture culturelle d'Asie du Sud-Est continentale.

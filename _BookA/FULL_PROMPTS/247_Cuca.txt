@@ -1,0 +1,198 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cuca
+  Tradition : Amazonien
+═══════════════════════════════════════════════
+
+
+# CUCA
+
+## SIGNIFICATION DU NOM
+
+*Cuca* est l'évolution brésilienne du portugais ibérique *Coca*, qui désignait au Moyen Âge une créature dragonesque féminine, parfois représentée comme un grand reptile, parfois comme une vieille femme à tête de monstre. Le mot dérive selon les hypothèses linguistiques d'une racine commune avec le castillan *Coco*, ogre nocturne, mais à travers une féminisation propre à la péninsule ibérique.
+
+Au Brésil, le mot s'est *créolisé* — la voyelle ouverte du portugais ancien s'est fermée, *Coca* devenant *Cuca*, et la créature elle-même s'est transformée. Elle a perdu la nature de dragon processionnel des fêtes ibériques pour devenir une *vieille sorcière à tête d'alligator ou de tortue*, proche d'une figure d'ogresse ridée, hantant les nuits des enfants brésiliens.
+
+L'expression *Velha Cuca*, *vieille Cuca*, est répandue dans tout le Brésil rural.
+
+## ORIGINE
+
+L'origine est ibérique. Au Portugal médiéval, la *Coca* est une effigie processionnelle de la fête du Corpus Christi : un dragon de bois et de tissu, manipulé par des hommes cachés sous lui, qui défile dans les rues et que les enfants doivent affronter symboliquement. Cette figure festive a été apportée au Brésil par les colons.
+
+À mesure qu'elle s'éloignait du contexte processionnel, la Coca s'est métamorphosée en *menace nocturne* : la créature qui vient prendre les enfants qui ne dorment pas. La berceuse traditionnelle brésilienne *Nana, neném, que a Cuca vem pegar* — *dors, petit, sinon la Cuca viendra te prendre* — date probablement du XVIIIe siècle et constitue le véhicule principal de la transmission populaire de la créature.
+
+Au contact des forêts amazoniennes, la Cuca a hérité d'attributs locaux : tête d'alligator, écailles, cri rauque proche de celui de certains animaux fluviaux.
+
+## NATURE
+
+La Cuca est une *sorcière monstrueuse*. Elle n'est pas un fantôme, ni un esprit de la nature : elle est une vieille femme magicienne dotée d'une apparence reptilienne et d'une longévité quasi immortelle. Sa nature combine :
+
+- *humanité résiduelle* — elle parle, comprend, ruse,
+- *animalité reptilienne* — tête d'alligator ou de tortue, écailles, sang froid,
+- *pouvoir magique* — elle connaît les sortilèges, les philtres, les transformations.
+
+Elle est dite *dormir tous les sept ans* et se réveiller dès lors avec une faim renouvelée d'enfants.
+
+## HABITAT
+
+La Cuca habite :
+
+- des *cavernes* en lisière de forêt,
+- des *vieilles cabanes* abandonnées dans les bananeraies,
+- des *creux d'arbre fromager* particulièrement vastes,
+- les *rives des igarapés* dans la version amazonienne, où elle se confond presque avec un alligator ancien.
+
+Elle préfère les lieux ombragés, humides, où poussent les fougères et où les enfants ne s'aventurent pas seuls.
+
+## DESCRIPTION
+
+La Cuca est invariablement décrite comme *vieille*. Elle est petite, voûtée, ridée. Son corps est celui d'une vieille femme aux mains crochues et aux ongles longs et jaunes.
+
+Sa tête, en revanche, est *reptilienne*. Selon les régions, elle est :
+
+- *tête d'alligator (jacaré)* — museau allongé, dents triangulaires, yeux globuleux,
+- *tête de tortue* — bec corné, peau granuleuse, cou plissé,
+- *tête de lézard géant* — langue bifide, écailles vertes.
+
+La transition entre le corps humanoïde et la tête animale est marquée par un *col de plis épais* couvert de petites écailles.
+
+Ses cheveux longs et clairsemés, parfois décrits comme blancs, parfois comme jaunes-paillé, retombent sur ses épaules courbées. Elle porte presque toujours un *vêtement noir* en lambeaux, parfois un châle.
+
+Ses yeux sont rouges ou jaunes, *dépourvus de paupières*. Elle ne dort jamais avec les yeux fermés, sauf lors de son grand sommeil septennal.
+
+## POUVOIRS
+
+La *capture des enfants* est sa fonction principale. Elle entre par la fenêtre, par le toit de chaume, par le seuil non béni, et emporte l'enfant qui ne dort pas, qui pleure trop, qui désobéit. Les enfants sont conduits à sa caverne et, selon les versions, mangés, transformés en serviteurs, ou retenus jusqu'à oubli.
+
+La *magie de transformation* lui permet de changer brièvement d'apparence — souvent en vieille mendiante quémandant un peu d'eau, sous laquelle elle entre dans la maison pour y apercevoir l'enfant à enlever.
+
+L'*insomnie permanente* fait partie de ses pouvoirs. Elle veille, ne dort pas, sait à tout instant quel enfant pleure dans le voisinage. Cette insomnie, brisée seulement tous les sept ans, est ce qui la rend redoutable.
+
+La *résistance physique* est attestée : aucun coup de bâton, aucune flèche n'entame ses écailles de cou ou son crâne reptilien.
+
+## FAIBLESSES
+
+Trois faiblesses sont attestées.
+
+D'abord, la Cuca *ne peut entrer dans une maison où une croix est posée sur le seuil* et où l'enfant est endormi en chemise blanche. La berceuse elle-même fait office de protection, en endormant l'enfant assez vite pour que la Cuca, arrivée au seuil, doive repartir bredouille.
+
+Ensuite, son grand sommeil septennal la rend totalement vulnérable. Pendant cette période, on peut la tuer en plantant un pieu de bois dur dans son ventre. Mais nul ne sait où sa caverne se trouve durant ces sept années.
+
+Enfin, son *nom prononcé à voix haute* la met en colère mais, paradoxalement, l'oblige à se cacher : elle hait être nommée. La berceuse l'utilise comme menace et comme conjuration.
+
+## COMPORTEMENT
+
+La Cuca rôde la nuit. Elle se déplace lentement, avec une démarche traînante, cognant ses ongles contre les parois de palissade, frottant son ventre contre la terre humide.
+
+Elle écoute. Quand un enfant pleure ou refuse de dormir, elle se rapproche.
+
+Elle ne s'attaque pas aux adultes. Elle n'a aucun pouvoir contre eux. Sa malédiction est tout entière concentrée sur les enfants — particulièrement ceux entre trois et sept ans.
+
+Elle parle peu. Lorsqu'elle parle, c'est pour demander à entrer, sous une fausse identité — vieille mendiante, voisine âgée, marraine inconnue. La règle traditionnelle veut qu'on ne réponde jamais à une voix qu'on ne reconnaît pas la nuit.
+
+## RÉCITS TRADITIONNELS
+
+Un récit du Nordeste raconte qu'une mère, voulant punir son fils désobéissant, le menaça de la Cuca. La nuit même, des grattements résonnèrent à la fenêtre. La mère, terrifiée, accourut, plaça un crucifix sur le rebord, et entendit des pas s'éloigner dans la boue. Au matin, on trouva sur le sol des empreintes de griffes de jacaré.
+
+Un récit amazonien évoque une vieille femme qui visitait un village au crépuscule, demandant l'aumône d'eau. Une jeune mère lui donna sa cruche. La vieille, en rendant la cruche, regarda longuement le berceau de l'enfant. La nuit même, l'enfant disparut. On trouva près de la fenêtre des écailles vertes.
+
+Un récit du Pará raconte qu'un seringueiro chassant le tatou pénétra par mégarde dans une caverne et y trouva, endormie, une vieille femme à tête de tortue énorme. Il s'enfuit sans la blesser, par terreur sacrée. Sept ans plus tard, des enfants commencèrent à disparaître dans le canton.
+
+## VARIANTES RÉGIONALES
+
+Dans le Sud (São Paulo, Minas), la Cuca est représentée plutôt comme une sorcière à tête d'alligator vert vif. C'est cette image qui a nourri les versions populaires modernes.
+
+Dans le Nordeste, elle est tête de tortue ou tête de lézard, et se confond parfois avec une figure de *bruxa* commune.
+
+Dans la zone amazonienne, elle est plus reptilienne encore, parfois presque indistincte d'un alligator géant à corps de femme. Elle est associée aux igarapés, aux mares stagnantes, aux marais saisonniers.
+
+Dans certaines régions de l'intérieur, on parle d'une *Cuca-velha-do-rio*, une Cuca des fleuves, qui aurait progressivement absorbé des traits d'autres entités aquatiques.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+- La Cuca de la culture populaire moderne brésilienne, popularisée par certaines œuvres de littérature jeunesse du XXe siècle, est *édulcorée* : sorcière verte presque sympathique, parfois grand-mère excentrique. La tradition rurale la considère comme une véritable menace, croque-enfants effectivement redoutée.
+
+- L'identification de la Cuca avec une simple *grenouille* ou un crapaud anthropomorphe est une simplification graphique moderne. La tradition lui donne une tête d'alligator ou de tortue, jamais d'amphibien.
+
+- L'idée que la Cuca serait *immortelle absolue* est inexacte : la tradition lui prête un cycle septennal, donc une vulnérabilité périodique.
+
+- La confusion avec le *Bicho-Papão* est fréquente. Le Bicho-Papão est un croque-mitaine masculin et indéterminé ; la Cuca est précisément féminine, vieille, et reptilienne.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les processions ibériques médiévales et coloniales représentaient la Coca par une effigie de bois articulée à tête de dragon, manœuvrée pendant les fêtes du Corpus Christi. Au Brésil colonial, plusieurs gravures populaires illustrent ces effigies.
+
+Les xylographies de cordel du Nordeste, dès le XIXe siècle, ont représenté la Cuca-sorcière dans sa forme brésilienne : vieille femme à tête d'alligator devant un berceau ouvert.
+
+Plusieurs ex-voto peints sur bois rendent grâce de la délivrance d'un enfant par l'intercession d'un saint contre la Cuca.
+
+## POUR ALLER PLUS LOIN
+
+La Cuca est un cas exemplaire de la *transformation transatlantique* d'un motif folklorique. Le dragon processionnel ibérique devient au Brésil sorcière nocturne ; la créature publique et festive devient privée et inquiétante ; le motif chrétien (combat du dragon) se sécularise en menace pour les enfants désobéissants. Son étude doit articuler folklore portugais médiéval, contexte colonial brésilien, et adaptation au bestiaire amazonien (alligators, tortues fluviales).

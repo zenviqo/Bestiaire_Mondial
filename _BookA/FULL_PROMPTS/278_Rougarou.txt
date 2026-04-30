@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Rougarou
+  Tradition : Afro Americain Syncretique
+═══════════════════════════════════════════════
+
+
+# ROUGAROU
+
+## SIGNIFICATION DU NOM
+
+*Rougarou* est une déformation phonétique cajun de *loup-garou* — le terme français désignant le lycanthrope. Les colons acadiens (Cajuns) venus en Louisiane au XVIIIe siècle après la déportation du Grand Dérangement (1755-1763) ont apporté avec eux le folklore du loup-garou normand et breton, qui s'est transformé dans les bayous en Rougarou. La prononciation cajun a fusionné les deux mots du composé en un seul terme. Le résultat est une figure distincte de son ancêtre français — adaptée aux marais de Louisiane, au syncrétisme catholique-africain-amérindien de la région, et aux conditions spécifiques des bayous.
+
+## ORIGINE
+
+Le Rougarou est né de la rencontre de plusieurs traditions dans les bayous louisianais : le *loup-garou* normand-breton des colons acadiens, des éléments de folklore africain-américain apportés par les esclaves, et des influences amérindiennes locales (Chitimachas, Houmas). La tradition a été collectée et documentée par des ethnographes louisianais au XXe siècle — notamment dans les paroisses de Terrebonne et Lafourche, au cœur du pays cajun. Le Rougarou est aujourd'hui une figure identitaire forte de la culture cajun de Louisiane.
+
+## NATURE
+
+Le Rougarou louisianais a des caractéristiques distinctes du loup-garou européen. Il est souvent présenté comme la conséquence d'une malédiction catholique — une personne qui ne respecte pas le carême pendant 101 jours consécutifs peut se transformer en Rougarou. Il peut aussi être une malédiction transmise : si un Rougarou mord quelqu'un et que ce quelqu'un le dit à quelqu'un d'autre avant 101 jours, la malédiction est transmise au mordu. Le Rougarou est ainsi à la fois une créature et un mécanisme de contrôle social religieux.
+
+## HABITAT
+
+Le Rougarou rôde dans les bayous et les marais de Louisiane — particulièrement dans les zones marécageuses de la côte du Golfe (paroisses de Terrebonne, Lafourche, St. Mary). Il est actif la nuit dans les zones humides, les forêts de cyprès, et les rives des bayous. Des localités spécifiques comme Houma, Thibodaux, et les zones marécageuses du Delta du Mississippi ont des traditions fortes de Rougarou local.
+
+## DESCRIPTION
+
+La forme la plus commune : corps humain avec tête de chien ou de loup, souvent de grande taille (plus de deux mètres). Des variantes régionales lui donnent parfois une tête de cochon, une tête de chat, ou d'autres animaux — le Rougarou est plus flexible que le loup-garou européen dans ses formes. Yeux rouges brillant dans l'obscurité. Il peut être nu ou en vêtements déchirés. Il court à quatre pattes ou debout selon les récits. Certaines descriptions le donnent couvert de poils noirs.
+
+## POUVOIRS
+
+Transformation — en loup-garou ou en une version hybride humain-animal. Force physique surnaturelle. Vitesse en terrain marécageux — il se déplace dans les bayous plus vite que tout être humain. Dans certains récits, il peut traverser les plans d'eau sans difficulté. Sa morsure transmet la malédiction (sous condition de silence). Il est actif principalement en Louisiane — mais selon certains récits, un Rougarou peut voyager loin de son territoire d'origine.
+
+## FAIBLESSES
+
+La malédiction peut être transférée — si on fait saigner un Rougarou, la malédiction lui est retirée et passe sur la personne qui a provoqué le saignement. Mais la personne qui a subi la morsure du Rougarou ne doit surtout pas parler de l'incident pendant 101 jours — si elle le fait, la malédiction lui revient. Le respect du carême catholique peut prévenir la transformation. Dans certains récits, des amulettes de protection créoles (gris-gris) peuvent repousser le Rougarou.
+
+## COMPORTEMENT
+
+Le Rougarou rôde dans les marais la nuit. Il s'attaque aux humains qui s'aventurent dans les bayous la nuit, aux enfants indisciplinés, et aux mauvais catholiques. Il est utilisé dans les familles cajunes comme outil pédagogique — les grands-parents avertissent les enfants que le Rougarou attrape les enfants qui ne sont pas sages ou qui ne respectent pas leurs obligations religieuses. Dans certains récits, le Rougarou est plus pitoyable que terrifiant — c'est une personne ordinaire sous malédiction qui souffre de sa condition.
+
+## RÉCITS TRADITIONNELS
+
+Un récit cajun de la paroisse de Terrebonne : un pêcheur rentre tard un soir de son bayou. Il entend du bruit dans les roseaux. Il voit deux yeux rouges. Sa barque est attaquée. Il attrape une rame et frappe — du sang. Il rentre chez lui sans dire un mot à personne. Le lendemain, son voisin arrive avec un pansement à l'épaule, honteux. Ils se regardent. Ils savent. Le voisin dit : "Cent un jours." Ils ne parlent jamais de cette nuit. Cent deux jours plus tard, ils en parlent enfin — le voisin a passé cent un nuits à lutter.
+
+## VARIANTES RÉGIONALES
+
+Le *Loup-Garou Créole* (déjà dans ce bestiaire pour la tradition afro-américaine syncrétique) est une figure proche mais avec des nuances différentes. Le Rugaru des communautés Métis du Canada (Dakota du Nord, Manitoba) est une autre transformation du loup-garou français en Amérique du Nord — avec des influences amérindiennes différentes. Des *skinwalkers* amérindiens et des lycanthropes haïtiens contribuent à l'espace symbolique cajun des êtres-changeurs.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Rougarou est aujourd'hui une figure identitaire et touristique de la Louisiane cajun — des festivals (Rougarou Fest à Houma, Louisiane) célèbrent la créature chaque automne. Des brasseries, des restaurants, et des équipes sportives louisianaises portent son nom. Il a été représenté dans des séries télévisées (*True Blood*, *Supernatural*), des jeux vidéo, et des films d'horreur. Malgré sa commercialisation, il reste une figure de la transmission culturelle cajun — des grands-parents continuent d'effrayer leurs petits-enfants avec le Rougarou.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le Rougarou n'a pas d'iconographie ancienne formelle — c'est une tradition orale qui n'a pas produit de représentations picturales pré-modernes connues. Les premières représentations visuelles apparaissent dans des journaux et des publications louisianaises du XIXe-XXe siècles. L'iconographie contemporaine (affiches de festivals, art cajun) le représente généralement comme un humain à tête de loup dans les bayous louisianais. Des peintures et des sculptures d'artistes cajuns contemporains ont développé une iconographie propre.
+
+## POUR ALLER PLUS LOIN
+
+Le Rougarou illustre comment la figure européenne du loup-garou s'est adaptée à un environnement radicalement différent — les bayous de Louisiane — et s'est syncrétisée avec des éléments catholiques, africains-américains, et amérindiens pour produire quelque chose de distinct. La malédiction du carême catholique est particulièrement intéressante : elle fait du respect des obligations religieuses une question de survie physique, pas seulement spirituelle. C'est le moralisme religieux transformé en créature folklorique — une façon de donner un corps concret et terrifiant aux conséquences de l'indiscipline spirituelle.

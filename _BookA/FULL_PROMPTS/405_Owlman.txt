@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Owlman
+  Tradition : Cryptides Contemporains
+═══════════════════════════════════════════════
+
+
+# OWLMAN
+
+## SIGNIFICATION DU NOM
+
+*Owlman* est une désignation directe en anglais — "homme-hibou" — formée sur le modèle d'autres dénominations de cryptides (Mothman, Dogman, etc.). La désignation est apparue après les premières observations de 1976 près de l'église de Mawnan Smith en Cornouailles, et a été popularisée par les rapports de Tony Shiels qui a recueilli et publié les premiers témoignages. Le nom complet *Owlman of Mawnan* ancre géographiquement la créature dans son site d'apparition principal.
+
+## ORIGINE
+
+L'Owlman fait son apparition documentée en avril 1976 : deux jeunes filles, June et Vicky Melling, auraient observé une grande créature ailée au-dessus de l'église de Mawnan Smith (Cornwall) pendant des vacances familiales de Pâques. Leur père, Don Melling, rapporte l'observation au chercheur du paranormal Tony "Doc" Shiels. D'autres observations suivent en juillet 1976, puis en 1978 et sporadiquement jusqu'aux années 1990 et 2000. L'association entre l'Owlman et l'emplacement de l'église de Mawnan (construite sur un site pré-chrétien celtique) a alimenté des théories sur la nature géographique du phénomène.
+
+## NATURE
+
+L'Owlman est décrit par ses observateurs comme une entité physiquement présente — pas une apparition ou un rêve, mais un être visible en pleine lumière. Sa nature est contestée entre des interprétations cryptozoologiques (une espèce animale inconnue ou un grand rapace mal identifié) et paranormales (une entité liée au lieu ou à des conditions psychiques particulières). Les comparaisons avec le Mothman américain suggèrent un phénomène parallèle — une entité humanoïde-aviaire associée à un lieu spécifique et apparaissant à des témoins en nombre limité.
+
+## HABITAT
+
+L'Owlman est associé spécifiquement à l'église St. Mawnan and St. Stephen (Mawnan Smith, Cornwall) et à ses environs immédiats — un vallon boisé au-dessus de l'estuaire du Helford. Des observations se concentrent dans les bois entourant l'église, à des hauteurs variables — de la cime des arbres jusqu'au niveau du sol. L'emplacement est à l'écart du village principal, dans une zone forestière semi-isolée de la côte sud cornouaillaise.
+
+## DESCRIPTION
+
+Les observateurs décrivent l'Owlman comme un être de grande taille (environ 1,5 à 2 mètres), humanoïde dans sa silhouette générale, avec de grandes ailes ressemblant à celles d'un hibou ou d'une chouette, de grandes pattes à pinces, des yeux rouges lumineux, et une tête large avec des oreilles pointues comparables aux aigrettes d'un grand-duc. Dans les observations les plus détaillées, sa couleur est décrite comme gris-argenté ou gris-brun. Des témoins ont rapporté qu'il regardait en direction de l'église ou planait au-dessus de la tour de l'église.
+
+## POUVOIRS
+
+Grande agilité aérienne — les témoins décrivent une créature capable de vol stationnaire et de mouvements silencieux dans les arbres. Discrétion — il disparaît rapidement dans la végétation. Yeux lumineux visibles dans l'obscurité. Des témoins décrivent une sensation de malaise ou de peur intense en sa présence, indépendamment de sa taille — une qualité psychologique qui va au-delà de sa présence physique.
+
+## FAIBLESSES
+
+Comme la plupart des cryptides contemporains, l'Owlman ne manifeste pas de comportement agressif direct envers les témoins — il observe plutôt qu'il n'attaque. Ses faiblesses sont documentaires plutôt que narratives : les conditions d'observation (bonne lumière, durée d'observation, proximité) qui permettraient une identification définitive ne se sont pas encore produites.
+
+## COMPORTEMENT
+
+L'Owlman est observé comme un être discret qui réagit à la présence humaine en s'éloignant ou en se dissimulant dans la végétation. Ses apparitions sont courtes — de quelques secondes à quelques minutes — et suivies d'une disparition rapide. Il semble associé à l'église et à ses environs immédiats plutôt qu'à une zone plus étendue. Des témoins rapportent qu'il les regardait de manière soutenue avant de disparaître. Aucun récit d'attaque directe n'est documenté.
+
+## RÉCITS TRADITIONNELS
+
+Le premier récit documenté (Pâques 1976) : June et Vicky Melling, deux filles de 9 et 12 ans en vacances en Cornouailles, observent une grande créature ailée planant au-dessus de la tour de l'église de Mawnan. Elles en sont suffisamment perturbées pour que leurs vacances soient écourtées. Leur père rapporte le cas à Tony Shiels. En juillet 1976, deux jeunes femmes (Sally Chapman et Barbara Perry) rapportent avoir observé une grande créature humanoïde avec des yeux rouges et de grandes ailes dans les bois autour de l'église. En 1978, deux autres témoins rapportent une observation similaire. Des observations ponctuelles sont rapportées en 1989, 1995, et dans les années 2000.
+
+## VARIANTES RÉGIONALES
+
+Le parallèle le plus souvent cité est le Mothman américain de Point Pleasant (Virginie-Occidentale, 1966-1967 — déjà dans ce bestiaire) — une entité humanoïde ailée aux yeux rouges associée à un lieu spécifique et précédant un événement catastrophique (l'effondrement du Silver Bridge). Des créatures similaires sont documentées dans d'autres régions — le *Garuda* de l'Asie du Sud-Est, le *Thunderbird* amérindien, des entités hibou dans des traditions amérindiennes. Le Homme-Oiseau de Point Pleasant et l'Owlman de Mawnan présentent suffisamment de similitudes pour que des chercheurs du paranormal aient proposé une phénoménologie unifiée des cryptides humanoides-aviaires.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Owlman est devenu l'une des créatures régionales les plus connues du folklore contemporain britannique. Des chercheurs du paranormal (Jonathan Downes du Centre for Fortean Zoology, basé en Devon) ont documenté et investigué les observations de l'Owlman extensivement depuis les années 1990. Des publications de cryptozoologie incluent l'Owlman dans leurs catalogues de créatures inconnues. Le tourisme de mystère autour de l'église de Mawnan Smith attire des visiteurs cherchant à apercevoir la créature. Des romans de fantasy britannique contemporaine incluent des références à l'Owlman.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des illustrations dans les publications de Tony Shiels (*Monstrum! A Wizard's Tale*, 1990) sont les premières représentations publiées de l'Owlman. Des dessins de témoins recueillis par des chercheurs du paranormal montrent la créature telle qu'elle a été vue. Des photographies du site de l'église de Mawnan documentent l'environnement des observations.
+
+## POUR ALLER PLUS LOIN
+
+L'Owlman illustre la géographie du phénomène cryptide — la concentration des observations autour d'un site unique, associé à un patrimoine préhistorique et médiéval (l'église construite sur un site celtique pré-chrétien), génère une narrativité localisée. Contrairement à des cryptides comme Bigfoot qui couvrent des milliers de kilomètres carrés, l'Owlman est territorial dans un rayon de quelques centaines de mètres autour de l'église de Mawnan. Cette précision géographique génère des questions : est-ce un biais de confirmation (les gens cherchant à voir l'Owlman près de l'église) ou un phénomène réellement lié au lieu ? La comparaison avec le Mothman, également associé à un lieu précis (Point Pleasant) et à un événement traumatique (l'effondrement du pont), ouvre des questions sur le rapport entre psychologie collective, lieux chargés d'histoire, et émergence de phénomènes visuels collectifs.

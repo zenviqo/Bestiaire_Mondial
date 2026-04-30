@@ -1,0 +1,217 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Ucumar
+  Tradition : Andes
+═══════════════════════════════════════════════
+
+
+# UCUMAR
+
+## SIGNIFICATION DU NOM
+
+Le nom *Ucumar* dérive directement du quechua *ukumari*, terme désignant l'*ours à lunettes* (*Tremarctos ornatus*), seule espèce d'ours encore vivante en Amérique du Sud, présente dans les forêts de nuage des Andes orientales depuis le Venezuela jusqu'au nord-ouest argentin et à la Bolivie centrale. La forme *Ukuku*, légèrement différente, est attestée dans certaines régions péruviennes et boliviennes.
+
+L'usage andin a fixé le terme avec une orthographe espagnole. Dans l'usage folklorique, *Ucumar* désigne *non pas l'animal réel*, mais une *créature surnaturelle* qui en partage l'apparence — distinction importante que la tradition orale a toujours conservée. L'ours à lunettes véritable est rare et discret ; l'Ucumar du folklore est une figure imaginaire chargée d'une fonction symbolique propre.
+
+## ORIGINE
+
+L'Ucumar appartient au folklore des *yungas* — forêts de nuage des contreforts andins orientaux — du nord-ouest argentin et du sud bolivien. Il est attesté dans les régions suivantes :
+
+- *Salta* (vallées de Calchaquí, valles del Andean foothills)
+- *Jujuy* (yungas)
+- *Tucumán* (sierras de Aconquija)
+- *Tarija* bolivienne
+- *Chuquisaca* bolivienne
+
+Sa figure résulte d'un substrat indigène quechua-aymara très ancien, qui pré-existait à la conquête espagnole. Le motif de l'*homme-ours* — créature hybride née d'une union entre un ours et une femme humaine — est attesté dans les contes oraux andins depuis au moins l'époque coloniale, et possiblement bien avant. Au XIXe et XXe siècles, ces récits ont été recueillis par les ethnographes argentins et boliviens, formant un corpus important de la littérature orale andine.
+
+## NATURE
+
+L'Ucumar est une *créature hybride homme-ours*, généralement issue (selon la trame narrative la plus fréquente) de l'union entre un ours mâle et une femme humaine enlevée par lui. Sa nature combine plusieurs dimensions :
+
+- *animale* — il a la taille, la force et la pilosité d'un ours ;
+- *humaine* — il a une capacité de raisonnement, une posture parfois bipède, et la faculté du langage ;
+- *liminaire* — il appartient autant à la forêt qu'au monde des hommes, sans pouvoir s'intégrer pleinement à l'un ou à l'autre ;
+- *destinale* — sa biographie suit une trajectoire codifiée par la tradition, allant de sa naissance dans la forêt jusqu'à sa réintégration ratée dans le monde humain.
+
+Sa nature combine ainsi *force physique* et *intelligence partielle*. Cette combinaison — caractéristique des *créatures liminaires* — fait de l'Ucumar une figure particulièrement riche pour l'imaginaire andin.
+
+## HABITAT
+
+L'Ucumar habite les *yungas* — forêts de nuage des contreforts andins orientaux, particulièrement entre 1500 et 3000 mètres d'altitude. Il fréquente :
+
+- les *bosques de nubes* densément boisés ;
+- les *quebradas* étroites et humides ;
+- les *cuevas* (grottes) creusées dans les falaises forestières ;
+- les abords des *cultures de maïs* en lisière de forêt — qu'il pille parfois.
+
+Sa demeure est généralement décrite comme une *grotte profonde* au cœur de la forêt, où il garde sa famille humaine séquestrée dans certaines variantes du récit.
+
+Il évite les villages permanents et les zones de pâturages dégagées. Il ne descend dans les *valles bajos* qu'en cas de famine ou pour enlever une femme.
+
+## DESCRIPTION
+
+L'Ucumar a la *taille d'un ours adulte* (environ deux mètres debout), parfois plus grand. Sa pilosité est dense, brun-noir, avec des marques claires autour des yeux et sur la poitrine — réminiscences de l'ours à lunettes réel.
+
+Sa *posture* alterne entre quadrupède (pour les déplacements rapides) et bipède (pour les interactions complexes). Ses bras sont longs et puissants, ses griffes acérées.
+
+Son *visage* combine traits ursins et traits humains. Le museau est plus court qu'un ours ordinaire. Les yeux sont plus expressifs, parfois décrits comme étrangement humains. La bouche peut articuler des mots.
+
+Il porte parfois des *haillons humains* — vestiges des vêtements qu'il a connus sur les femmes enlevées, ou simples étoffes ramassées dans des incursions vers les villages.
+
+Sa *force* est extraordinaire — il peut soulever des pierres énormes, déraciner de jeunes arbres, fracasser des troncs.
+
+## POUVOIRS
+
+L'Ucumar dispose de plusieurs pouvoirs caractéristiques :
+
+La *force surnaturelle* — capacité à soulever des poids considérables, à déraciner des arbres, à briser des pierres.
+
+La *capacité d'enlèvement* — il enlève les femmes qui s'aventurent seules dans les yungas, les emmène dans sa grotte, et les y maintient prisonnières jusqu'à ce qu'elles lui donnent des enfants hybrides.
+
+L'*odorat surdéveloppé* — il peut suivre la trace d'une proie ou d'un fugitif sur de très grandes distances.
+
+Le *raisonnement partiel* — il peut élaborer des stratégies simples, comprendre certains mots, mais reste limité par sa nature animale dominante.
+
+La *transmission de force aux descendants* — les enfants hybrides nés de ses unions avec des femmes humaines sont *exceptionnellement forts*, deux à trois fois plus puissants qu'un homme ordinaire dès leur jeune âge. Cette force est héréditaire et constitue le moteur narratif principal de nombreuses variantes du récit.
+
+## FAIBLESSES
+
+L'Ucumar présente plusieurs *faiblesses* exploitables :
+
+- il *peut être trompé par la ruse* — sa nature partiellement animale le rend susceptible de croire des apparences (ses victimes humaines parviennent souvent à s'évader par des stratagèmes simples) ;
+- il *fuit le feu intense*, particulièrement les feux de torches multiples ;
+- il *peut être tué par des armes humaines bien employées* — il n'est pas invulnérable comme certaines créatures plus surnaturelles ;
+- il *est sensible aux odeurs de fumée d'encens*, et particulièrement aux fumigations rituelles utilisées par les *machis* andins ;
+- il *est limité dans ses déplacements* — il ne s'aventure jamais loin de la forêt humide qui lui est nécessaire.
+
+Le récit traditionnel insiste également sur la *trahison fréquente par sa propre descendance* — les enfants hybrides nés de ses unions, élevés en partie par leur mère humaine, finissent souvent par tuer leur père Ucumar pour libérer leur mère et regagner les villages humains.
+
+## COMPORTEMENT
+
+L'Ucumar manifeste un comportement combinant traits animaux et traits humains.
+
+Ses *enlèvements de femmes* constituent l'épisode central de presque toutes les versions du récit. Il guette les jeunes femmes qui s'aventurent dans la forêt — chercher de l'eau, ramasser du bois, cueillir des fruits sauvages. Il les saisit, les emporte à grande vitesse jusqu'à sa grotte, et les y séquestre.
+
+Sa *vie domestique* avec les femmes enlevées est étrangement codifiée. Il les nourrit, leur apporte du miel et des fruits, mais bouche l'entrée de la grotte avec une pierre énorme qu'elles ne peuvent déplacer. Il les contraint à devenir mères des enfants hybrides.
+
+Son *éducation des enfants* hybrides est ambivalente. Il leur apprend la chasse, la force, la connaissance de la forêt. Mais ils grandissent partagés entre la culture humaine de leur mère et l'animalité de leur père.
+
+Sa *relation avec les villages humains* est essentiellement *prédatrice* — pillages occasionnels de cultures, enlèvements de femmes, intimidations. Il évite cependant les confrontations directes avec les chasseurs en groupe.
+
+Sa *fin* est presque toujours violente. Il est tué soit par les villageois en représailles, soit par son propre fils hybride dans le récit-type le plus fréquent.
+
+## RÉCITS TRADITIONNELS
+
+Le folklore argentino-bolivien des yungas a conservé un récit-type particulièrement riche, attesté dans de nombreuses variantes locales sous forme de *cuento* oral.
+
+Le récit-type peut se résumer ainsi : Une jeune fille s'aventure seule en forêt et est enlevée par un Ucumar. Il l'emmène dans sa grotte profonde et bouche l'entrée avec une pierre énorme. Il lui apporte chaque jour de la nourriture — miel, fruits, viande. La jeune fille devient mère d'un enfant — moitié humain, moitié ours — qui grandit *anormalement vite*. Dès l'âge de trois ans, l'enfant a la force d'un homme adulte. À cinq ans, il peut soulever la pierre qui bouche l'entrée. Il s'évade avec sa mère pendant que l'Ucumar est en chasse. Lorsque l'Ucumar revient et constate la fuite, il poursuit. La mère et l'enfant atteignent le village. Les villageois, voyant l'Ucumar approcher, l'attaquent en masse. Le fils hybride combat son propre père et finit par le tuer. Le fils, ensuite, ne peut s'intégrer pleinement au village — sa nature mi-animale le condamne à un destin marginal. Dans certaines variantes, il s'engage dans l'armée et devient un soldat héroïque ; dans d'autres, il retourne en forêt et devient lui-même un nouvel Ucumar.
+
+Plusieurs *variantes locales* développent particulièrement le destin du fils hybride — appelé *Juan del Oso*, *Juan Oso*, *Juan Ucumari*, ou *Hijo del Oso* selon les régions. Ces récits constituent l'un des cycles narratifs les plus riches du folklore andin oriental.
+
+## VARIANTES RÉGIONALES
+
+Dans le **Salta** argentin, l'Ucumar est principalement décrit comme un ravisseur de femmes, et le récit insiste particulièrement sur la dimension du *Hijo del Oso*.
+
+Dans le **Jujuy** et au **Tucumán**, l'Ucumar prend des traits plus zoologiques — proche de l'ours à lunettes réel —, et le récit insiste davantage sur les pillages de cultures.
+
+Dans le **Tarija** bolivien, le récit-type devient particulièrement long et codifié, transmis lors des veillées comme un véritable *conte populaire* à plusieurs épisodes.
+
+Dans le **Chuquisaca** bolivien, des variantes existent où l'Ucumar acquiert une dimension presque dynastique — plusieurs Ucumars d'une même région formant une famille élargie qui se transmet le territoire de génération en génération.
+
+Une *variante particulière* concerne le *Ucumar femelle* — figure plus rare, qui enlèverait des hommes humains au lieu de femmes, mais cette variante reste minoritaire dans le corpus.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs distinctions s'imposent :
+
+- L'Ucumar n'est *pas* simplement l'*ours à lunettes* (*Tremarctos ornatus*) réel, malgré le nom partagé. La créature folklorique a une dimension *anthropomorphe et surnaturelle* absente de l'animal zoologique.
+
+- Il n'est *pas* un *Bigfoot* andin. Bien que certaines descriptions modernes l'aient assimilé à une créature de cryptozoologie, sa fonction folklorique est *narrative et morale*, non zoologique.
+
+- L'identification de l'Ucumar avec le *Mapinguari* amazonien est erronée — bien que les deux figures partagent certains traits (créature ourse-homme géante), elles appartiennent à des aires culturelles distinctes (yungas andins vs. Amazonie) et conservent des fonctions narratives différentes.
+
+- Le récit du *Hijo del Oso* a parfois été rapproché du conte européen *Jean l'Ours* ou *Hans der Bär*. Cette parenté typologique est réelle mais ne signifie pas que l'Ucumar dérive du conte européen — au contraire, le motif est probablement antérieur dans les Andes et a pu rencontrer le motif européen pour former les variantes hybrides actuelles.
+
+- Les représentations modernes pour enfants, qui simplifient l'Ucumar en sympathique ours folklorique, dénaturent sa fonction réelle, qui inclut une dimension de *prédation sexuelle* essentielle au récit.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie traditionnelle de l'Ucumar est principalement orale et théâtrale. Les *carnavales* andins du nord-ouest argentin et du sud bolivien intègrent depuis le XIXe siècle des personnages déguisés en Ucumar — costumes de toison animale (peaux de mouton ou de lama), masques en bois sculpté à museau d'ours.
+
+Les *danzas del oso* (danses de l'ours), pratiquées notamment lors des fêtes de Tilcara (Jujuy) et dans certaines communautés boliviennes (Cochabamba, Tarija), mettent en scène des Ucumars dansants qui enlèvent symboliquement des jeunes femmes du public — survivance ritualisée du récit-type.
+
+Quelques *retablos* andins du XIXe siècle représentent des scènes du récit du *Hijo del Oso* — l'enfant hybride combattant son père dans une grotte, ou la mère délivrée arrivant au village.
+
+L'art rupestre des contreforts andins comporte plusieurs représentations d'ours qui pourraient être rattachées à un substrat ancien du folklore de l'Ucumar, mais cette filiation directe ne peut être démontrée avec certitude.
+
+## POUR ALLER PLUS LOIN
+
+L'Ucumar appartient au complexe folklorique andin oriental qui inclut le Yastay, le Coquena, et plusieurs figures sylvestres mineures. Il a été étudié depuis la fin du XIXe siècle par les ethnographes argentins et boliviens, et fait l'objet d'une littérature savante abondante consacrée notamment au cycle du *Hijo del Oso*. Son enracinement dans la tradition orale vivante des yungas, sa fonction narrative complexe, et son rayonnement dans les folklores de l'aire andine en font une figure majeure du patrimoine immatériel de l'Argentine et de la Bolivie andines.

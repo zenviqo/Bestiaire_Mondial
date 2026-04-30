@@ -1,0 +1,189 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cwn_Annwn
+  Tradition : Celtique
+═══════════════════════════════════════════════
+
+
+# CŴN ANNWN
+
+## SIGNIFICATION DU NOM
+
+L'expression *Cŵn Annwn* se compose de deux éléments gallois : *cŵn*, le pluriel de *ci*, qui désigne le chien, et *Annwn*, nom propre que la tradition galloise donne au monde d'en bas, au royaume invisible parallèle au monde des humains. La traduction littérale donne donc *les chiens d'Annwn*, c'est-à-dire les chiens appartenant à ce royaume autre, gouverné par un seigneur dont les récits anciens ont préservé le nom.
+
+Les conteurs gallois leur ont également attribué d'autres appellations. *Cŵn Wybr* signifie *chiens du ciel*, par allusion à leur passage aérien lorsque la meute traverse la nuit au-dessus des collines. *Cŵn Bendith y Mamau* — formule à peu près intraduisible mais qui peut se rendre par *chiens des bénédictions des mères* — désigne par euphémisme prudent les peuples féeriques dont ces chiens forment la meute, sous le nom apaisant qu'on préfère leur donner pour ne pas les offenser.
+
+Le nom *Annwn* lui-même reste d'étymologie débattue. Certains l'analysent comme *an-dwfn*, *le très profond*, d'autres comme désignant *l'autre monde* dans un sens neutre, sans connotation infernale. Cette ambiguïté est essentielle : Annwn n'est pas un enfer chrétien mais un royaume parallèle, lieu de séjour des morts, des entités féeriques, et de leurs maîtres surnaturels.
+
+## ORIGINE
+
+Les Cŵn Annwn appartiennent en propre à la tradition brittonique galloise, distincte des traditions gaéliques d'Irlande et d'Écosse. Leur première mention textuelle d'importance figure dans la première branche du Mabinogi, où le seigneur d'Annwn rencontre un prince humain au cours d'une chasse mémorable. La meute spectrale apparaît alors comme l'attribut royal du souverain de l'autre monde, comparable à l'attelage d'un grand seigneur terrestre, mais transposé dans un registre surnaturel.
+
+Cette filiation textuelle ancienne est complétée par un riche corpus de traditions orales préservées dans les vallées et les collines galloises jusqu'à la modernité tardive. Les paysans, les bergers, les voyageurs nocturnes ont rapporté pendant des siècles avoir entendu ou aperçu la meute traverser le ciel ou suivre les crêtes, toujours dans des circonstances liées à l'imminence d'une mort prochaine.
+
+Une figure complémentaire accompagne parfois la meute dans les récits les plus tardifs : une femme effrayante surnommée *Mallt-y-Nos*, *Mathilde de la Nuit*, qui chasse aux côtés des chiens et dont le hurlement répond aux leurs.
+
+## NATURE
+
+Les Cŵn Annwn sont des *chiens spectraux* — entités dont la matérialité fluctue entre la pleine présence visible et la pure manifestation sonore. Ils ne sont pas des chiens ordinaires que la mort aurait rendus fantomatiques, mais des créatures originaires d'Annwn, dont la nature même appartient au royaume des morts plutôt qu'à celui des vivants.
+
+Leur fonction est *psychopompe et annonciatrice*. Ils ne tuent pas eux-mêmes. Ils précèdent la mort, l'annoncent, escortent peut-être les âmes vers le royaume dont ils émanent. Cette fonction les rend redoutés sans les rendre malfaisants au sens strict. Celui qui les entend sait que la fin approche pour quelqu'un — soi-même ou un proche — sans que les chiens portent eux-mêmes l'instrument du trépas.
+
+Ils forment une *meute organisée*, jamais aperçue isolément. La tradition leur attribue toujours une chasse collective, sous l'autorité d'un maître invisible, suivant une proie que les humains ne distinguent pas. Cette structure de chasse seigneuriale les distingue des chiens errants ou abandonnés des folklores ordinaires.
+
+## HABITAT
+
+Les Cŵn Annwn habitent en propre le royaume d'Annwn, situé selon les traditions sous la surface de la terre, ou bien superposé invisiblement au monde humain, ou encore atteint par certains lacs et certaines collines tenues pour seuils du royaume autre. Le mont Cadair Idris, dont la silhouette préside à une partie du Pays de Galles, passe pour l'une des entrées vers leur monde.
+
+Lorsqu'ils chassent, les Cŵn Annwn parcourent l'air au-dessus des collines galloises, suivent les crêtes, traversent les vallées en hauteur. Leur passage est toujours nocturne. Les nuits de tempête, de brume épaisse, de vents violents leur sont les plus propices. Certaines régions affirment qu'ils ne quittent leur royaume que durant les périodes liminaires de l'année — la nuit qui précède la Toussaint, les douze nuits qui suivent le solstice d'hiver, les seuils où les frontières entre les mondes s'amincissent.
+
+Ils ne s'attardent jamais en un lieu précis. Leur passage est par définition transitoire — on les entend approcher, on les entend s'éloigner, on ne les voit jamais s'arrêter.
+
+## DESCRIPTION
+
+L'apparence des Cŵn Annwn présente des traits remarquablement constants à travers les variantes régionales. Ils sont décrits comme des chiens de grande taille, dépassant nettement les proportions canines ordinaires. Leur pelage est d'une blancheur éclatante, parfois comparée à la neige fraîchement tombée. Cette blancheur est rendue plus saisissante encore par le contraste avec leurs oreilles, qui sont d'un rouge vif, profond, qui semble briller dans la nuit comme du sang frais.
+
+Cette association du blanc et du rouge — qui n'est pas spécifique aux Cŵn Annwn mais marque dans le folklore brittonique l'appartenance au monde féerique — suffit à identifier la nature surnaturelle de la meute. Aucun chien terrestre ne porte ces couleurs, et leur apparition désigne sans ambiguïté l'origine extérieure des bêtes.
+
+Leurs yeux brillent d'un éclat rougeoyant. Certaines descriptions ajoutent que leur passage laisse une trace lumineuse, comme une faible phosphorescence visible un instant après qu'ils ont disparu.
+
+Une particularité acoustique caractérise leur cri : le hurlement de la meute paraît plus fort lorsqu'elle est éloignée, et s'adoucit progressivement à mesure qu'elle s'approche. Cette inversion des règles ordinaires de l'acoustique signale leur appartenance à un autre ordre de réalité. L'auditeur qui entend un appel lointain et fort doit savoir que la meute approche ; le murmure presque chuchoté indique au contraire qu'elle est sur lui.
+
+## POUVOIRS
+
+Le pouvoir principal des Cŵn Annwn est *l'annonce de la mort*. Quiconque entend leur passage sait que quelqu'un de son entourage proche, ou lui-même, doit mourir dans un délai bref. Cette annonce n'est pas conditionnelle : elle se réalise.
+
+Ils possèdent la *traversée des airs*, qui leur permet de couvrir des distances considérables au-dessus du paysage sans contrainte topographique. Aucune muraille, aucun obstacle naturel ne ralentit leur passage.
+
+Leur *audibilité paradoxale* — l'inversion entre distance et intensité sonore — constitue un attribut surnaturel à part entière, qui rend impossible toute défense par anticipation. Lorsqu'on les entend faiblement, il est déjà trop tard pour s'écarter de leur trajet.
+
+Ils manifestent une *invisibilité partielle* à volonté. Tantôt aperçus distinctement, tantôt présents seulement par leur cri sans qu'aucun corps ne se montre, ils règlent leur visibilité selon des modalités qui échappent à la compréhension humaine.
+
+## FAIBLESSES
+
+La tradition n'attribue aux Cŵn Annwn aucun véritable point faible exploitable. Ils ne peuvent être ni combattus, ni détournés, ni apaisés par des offrandes. Leur passage est inéluctable.
+
+Toutefois, plusieurs précautions traditionnelles ont été conservées par les vallées galloises pour limiter le danger associé à leur rencontre. Se mettre à l'abri sous un toit avant que la meute ne passe au-dessus de la maison réduit, dit-on, la portée de l'annonce funeste. Se signer ou prononcer une bénédiction lorsqu'on les entend approcher est une pratique attestée, particulièrement après l'introduction du christianisme. Garder le silence et ne pas chercher à les voir constitue une autre prudence : celui qui aperçoit la meute distinctement aurait moins de chance que celui qui se contente de l'entendre.
+
+Surtout, les Cŵn Annwn ne se laissent jamais provoquer. Imiter leur cri pour s'en moquer, les défier ou les insulter, expose immédiatement le coupable à devenir lui-même la proie annoncée par la chasse suivante.
+
+## COMPORTEMENT
+
+Les Cŵn Annwn obéissent à un comportement de meute disciplinée. Ils ne dispersent pas, ne s'égarent pas, ne s'attaquent pas aux animaux ordinaires des fermes. Leur poursuite vise une cible précise — l'âme dont la mort est imminente — que les humains ne perçoivent pas mais que les chiens, eux, suivent avec une certitude infaillible.
+
+Ils ne déchirent pas leurs proies au sens physique. Le récit traditionnel les présente plutôt comme des escortes ou des annonciateurs : la mort suit leur passage, mais n'est pas infligée par leurs crocs. Cette dimension psychopompe distingue radicalement les Cŵn Annwn des meutes infernales d'autres traditions, où les chiens dévorent réellement les damnés.
+
+Leur attitude envers les humains qui les croisent est d'indifférence apparente, à moins que ces humains ne les défient ou ne les molestent. Le voyageur prudent qui s'écarte du chemin et se signe peut espérer survivre à la rencontre. Celui qui s'oppose à la chasse, en revanche, devient sa proie.
+
+## RÉCITS TRADITIONNELS
+
+Le récit fondateur figure dans la première branche du Mabinogi. Un prince du sud du Pays de Galles, parti chasser dans une forêt, aperçoit dans une clairière une meute de chiens d'une étrange beauté — pelage blanc rayonnant, oreilles rouges éclatantes — qui vient de mettre à mort un cerf. Le prince, par avidité ou par étourderie, chasse les chiens étrangers et fait dévorer la proie par sa propre meute. Aussitôt apparaît un seigneur monté, vêtu de gris, qui révèle être le maître des chiens chassés et le souverain d'Annwn. Cette rencontre engage les deux princes — l'humain et le surnaturel — dans un échange de royaumes pour une année et un jour, au terme duquel le prince humain devra affronter en combat singulier l'ennemi du seigneur d'Annwn. L'épisode établit pour toute la tradition postérieure que les chiens à oreilles rouges appartiennent en propre au seigneur du royaume autre.
+
+Les traditions orales tardives ont multiplié les récits de témoins. Un berger gardant ses moutons sur une crête entend, par une nuit de tempête, le cri lointain d'une meute. Le cri grandit en intensité à mesure qu'il croit la meute s'éloigner — puis il comprend qu'elle approche au contraire, et s'aplatit dans un fossé. La meute passe au-dessus de lui sans le toucher. Au matin, on lui apprend qu'un voisin du village est mort dans la nuit.
+
+Un voyageur attardé sur un sentier de montagne aperçoit, en contre-jour de la lune, une silhouette canine immense qui le précède sur le chemin. Il presse le pas, l'animal accélère. Il ralentit, l'animal ralentit. Il atteint enfin sa demeure, claque la porte, et entend toute la nuit aboyer la meute autour de la maison. Au matin, son père agonisant est trouvé mort.
+
+Une variante particulièrement répandue raconte qu'un blasphémateur, ayant juré qu'il braverait la meute si jamais il l'entendait, fut entendu par les chiens, qui se détournèrent de leur cible initiale pour le poursuivre. On retrouva le corps de l'homme à l'aube, au milieu d'un champ, sans blessure visible, mais le visage figé dans une expression d'épouvante.
+
+## VARIANTES RÉGIONALES
+
+Le folklore brittonique a développé plusieurs déclinaisons de la meute spectrale. Au Pays de Galles, le seigneur de la chasse est tantôt identifié au roi d'Annwn de la première branche du Mabinogi, tantôt à un autre souverain surnaturel dont le nom signifie *blanc, fils de la nuée*. Cette double attribution reflète la longue évolution de la tradition entre haut Moyen Âge et folklore moderne.
+
+En Cornouaille, des chiens spectraux comparables sont connus sous le nom des *chiens dansants du diable*, parcourant les landes la nuit sous la conduite d'un meneur diabolisé par l'influence chrétienne.
+
+Dans certaines régions galloises, la meute n'est pas conduite par un seigneur mais par la figure inquiétante de *Mallt-y-Nos*, dont le rire couvre parfois le hurlement des chiens. Cette femme est tantôt présentée comme reine de la chasse, tantôt comme âme damnée condamnée à courir éternellement avec la meute en punition d'un blasphème ancien.
+
+Une variante du nord du Pays de Galles décrit les Cŵn Annwn comme volant si haut dans le ciel qu'on ne les distingue pas, et ne percevant que leur cri à travers les nuées — d'où le surnom de *chiens du ciel*.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture contemporaine a souvent confondu les Cŵn Annwn avec d'autres figures de chiens spectraux européens, en gommant leurs spécificités. Plusieurs erreurs récurrentes méritent d'être signalées.
+
+Les Cŵn Annwn ne sont pas des *chiens infernaux* au sens chrétien du terme. Le royaume d'Annwn est un autre monde, non un enfer de damnation. La traduction *Hellhounds of Wales* qu'on rencontre parfois est un anachronisme christianisant qui masque la nature plus complexe — féerique, psychopompe, parallèle — de ces chiens.
+
+Ils ne dévorent pas leurs proies. Contrairement aux représentations modernes qui les confondent avec les chiens dévoreurs des enfers grecs ou germaniques, les Cŵn Annwn annoncent la mort sans la donner physiquement. Leur fonction est celle d'un présage, non d'un exécuteur.
+
+Ils ne sont pas noirs. La tradition galloise est unanime sur leur pelage blanc et leurs oreilles rouges. Les œuvres modernes qui les représentent comme des bêtes noires aux yeux rouges fusionnent abusivement leur figure avec celle des *black dogs* britanniques (Black Shuck, Barghest, Padfoot), qui appartiennent à des traditions distinctes.
+
+Ils ne forment pas une meute permanente du diable. La fusion avec la *Wilde Jagd* germanique, où la meute du chasseur damné court éternellement les nuits d'orage, est une assimilation comparative tardive. La tradition galloise originale rattache la meute à un seigneur féerique du royaume d'Annwn, non à une figure chrétienne de damnation.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie médiévale galloise n'a guère préservé de représentations explicites des Cŵn Annwn, le folklore les concernant ayant longtemps relevé de la tradition orale plutôt que de la commande monumentale. Les manuscrits médiévaux conservant les branches du Mabinogi sont par ailleurs peu illustrés.
+
+À partir du dix-neuvième siècle, lorsque les collecteurs de folklore et les illustrateurs romantiques se sont intéressés aux légendes celtiques, plusieurs gravures et peintures ont représenté la chasse spectrale traversant le ciel gallois — meute blanche aux oreilles rouges suivant un seigneur monté à travers les nuées de tempête au-dessus des montagnes. Ces représentations modernes, bien que postérieures à la tradition orale qu'elles illustrent, témoignent de la persistance vive de l'image dans l'imaginaire gallois.
+
+Certains reliquats archéologiques antérieurs — figurations de meutes de chasse sur stèles ou objets gravés — ont parfois été rapprochés du thème des Cŵn Annwn, mais sans certitude d'identification.
+
+## POUR ALLER PLUS LOIN
+
+La figure des Cŵn Annwn appartient au noyau dur du corpus mythologique gallois. Elle apparaît au seuil même du Mabinogi, dont la première branche s'ouvre par leur rencontre avec le prince humain. Les triades galloises et plusieurs poèmes médiévaux attribués aux bardes anciens font également mention du seigneur d'Annwn et de sa meute.
+
+La tradition orale galloise, collectée systématiquement aux dix-neuvième et vingtième siècles dans les vallées et les collines, a préservé un grand nombre de récits régionaux qui prolongent et enrichissent le motif textuel ancien.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Tuyul
+  Tradition : Indonesie
+═══════════════════════════════════════════════
+
+
+# TUYUL
+
+## SIGNIFICATION DU NOM
+
+*Tuyul* (ou *Toyol* en Malaisie) est un terme javanais et malais désignant cet esprit-enfant. L'étymologie exacte est débattue — certaines sources le relient à des termes désignant des êtres de petite taille ou des enfants non encore nés. Le terme est utilisé comme nom propre de la catégorie — tout Tuyul est appelé *tuyul* mais chaque propriétaire le nomme souvent différemment en privé. La spécificité du Tuyul est qu'il n'est pas simplement un esprit mais un esprit *esclave* — capturé, fabriqué, ou acheté par un propriétaire humain qui l'utilise comme outil pour voler.
+
+## ORIGINE
+
+Le Tuyul est documenté dans les traditions de sorcellerie javanaises et malaises depuis au moins l'époque coloniale néerlandaise — des références apparaissent dans des descriptions coloniales hollandaises des pratiques magiques javanaises du XIXe siècle. Des ethnographes et des anthropologues comme Clifford Geertz (dans *The Religion of Java*, 1960) ont documenté des pratiques de magie populaire javanaise incluant des esprits familiers. La figure est vivante dans les cultures populaires d'Indonésie et de Malaisie contemporaines — des articles de presse signalent régulièrement des affaires liées à des présumés Tuyul.
+
+## NATURE
+
+Le Tuyul est un esprit-esclave — son existence est définie par sa relation à son propriétaire humain. Il est créé ou capturé à partir d'un fœtus mort-né ou d'un enfant mort jeune dont l'âme n'a pas pu partir normalement — une des pratiques les plus sombres du folklore de sorcellerie d'Asie du Sud-Est. Son propriétaire le nourrit (de son propre sang ou lait dans certaines versions), l'héberge dans une bouteille ou une boîte, et en échange il effectue des vols nocturnes. Sa nature est pathétique autant que sinistre — un être réduit à l'esclavage surnaturel.
+
+## HABITAT
+
+Le Tuyul est gardé par son propriétaire — dans une bouteille scellée, une boîte en bois, ou un pot en argile dans la maison du sorcier. La nuit, il est libéré pour effectuer ses missions de vol. Pendant la journée, il retourne chez son propriétaire. Des propriétaires particulièrement imprudents ou négligents peuvent perdre le contrôle de leur Tuyul — un Tuyul libéré sans propriétaire peut errer et causer des nuisances aléatoires.
+
+## DESCRIPTION
+
+Le Tuyul est décrit uniformément comme un petit enfant chauve ou à la chevelure très clairsemée, de la taille d'un bébé ou d'un petit enfant — entre 30 et 60 centimètres. Sa peau est souvent grise, verte, ou d'une couleur anormale. Ses yeux sont grands et lumineux dans l'obscurité. Il peut être nu ou vêtu de lambeaux. Son visage est celui d'un enfant mais son expression révèle quelque chose d'ancien et de non-enfantin — une gravité ou une vide qui trahit sa nature d'esprit. Il se déplace rapidement et silencieusement, souvent à quatre pattes.
+
+## POUVOIRS
+
+Vol nocturne invisible — le Tuyul peut entrer dans des maisons fermées et voler de l'argent ou des objets de valeur sans se faire voir ni laisser de trace d'effraction. Vitesse et agilité surnaturelles. Capacité de se glisser par de très petits espaces. Dans certaines versions, il peut rendre les habitants d'une maison momentanément endormis plus profondément pour voler sans interruption. Il peut déplacer de l'argent d'une maison à une autre, enrichissant son propriétaire au détriment de victimes qui ne comprennent pas pourquoi leurs économies disparaissent.
+
+## FAIBLESSES
+
+Des *dukun* (guérisseurs-sorciers indonésiens) peuvent détecter, capturer, et neutraliser un Tuyul. Des marques spécifiques à l'entrée des maisons — certains motifs, certains matériaux — peuvent l'empêcher d'entrer. Un Tuyul perd son pouvoir si son propriétaire meurt sans transmettre le contrat de propriété. Des formules islamiques (*basmallah*, versets du Coran) peuvent le repousser. Si on répand des grains (riz, sésame) devant une porte, le Tuyul doit les compter un à un avant d'entrer — ce qui le retarde jusqu'à l'aube.
+
+## COMPORTEMENT
+
+Le Tuyul obéit aux instructions de son propriétaire — il n'a pas de volonté propre dans les versions les plus courantes. Il effectue ses vols la nuit, retourne chez son propriétaire avant l'aube, et est nourri (de sang ou de lait, selon les versions) en échange de ses services. Un Tuyul mal nourri ou maltraité peut se retourner contre son propriétaire — commencer à voler dans la maison même de celui-ci ou refuser d'obéir. La relation propriétaire/Tuyul est une forme de contrat qui requiert le respect de ses termes.
+
+## RÉCITS TRADITIONNELS
+
+Un récit javanais contemporain (recueilli dans des communautés périurbaines) : une famille remarque que ses économies dans la maison diminuent mystérieusement — quelques billets disparaissent chaque semaine sans explication. Un voisin avec un mode de vie soudainement plus aisé est suspecté. Un *dukun* est consulté. Il confirme par divination la présence d'un Tuyul et prépare des contre-mesures — des marques à l'entrée de la maison et une formule qui révèle le Tuyul à son propriétaire. Le voisin, honteux, restitue les sommes volées. Le contrat avec le Tuyul est finalement rompu lors d'une cérémonie.
+
+## VARIANTES RÉGIONALES
+
+Le *Toyol* malaisien est essentiellement identique au Tuyul javanais — même apparence, mêmes fonctions, mêmes méthodes d'acquisition. Dans les traditions balinaises, des familiers comparables sont liés aux pratiques de sorcellerie (*leak* — déjà dans ce bestiaire — est la figure principale de la sorcellerie balinaise). En Thaïlande, des êtres comparables (*kuman thong* — "enfant-d'or") existent dans des contextes similaires. La figure d'un esprit-enfant esclave utilisé pour le vol est remarquablement stable à travers l'Asie du Sud-Est continentale et insulaire.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Tuyul est une figure très vivante dans la culture populaire indonésienne et malaisienne. Des émissions de télévision populaires (*acara mistis*) en Indonésie traitent régulièrement de cas présumés de Tuyul — des faits divers impliquant des vols inexpliqués attribués à des Tuyul apparaissent dans des journaux locaux. Des films d'horreur indonésiens et malaisiens représentent le Tuyul régulièrement. Des marchés d'objets rituels (*pasar mistis*) vendent des objets liés à la domestication ou à la protection contre les Tuyul.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de petits esprits-enfants dans l'art javanais traditionnel — wayang kulit (théâtre d'ombres) et sculpture de temple — incluent des figures de petits êtres surnaturels. Des illustrations dans des publications populaires indonésiennes (*majalah mistis*) depuis les années 1970-1980 représentent le Tuyul — petit enfant chauve à la peau grise — dans des contextes de récits d'horreur populaires. Des figurines de Tuyul vendues dans des marchés rituels indonésiens constituent une iconographie matérielle contemporaine.
+
+## POUR ALLER PLUS LOIN
+
+Le Tuyul illustre l'ambivalence de la richesse soudaine dans les cultures javanaises et malaises — un enrichissement rapide et inexpliqué est une anomalie morale qui requiert une explication. Si quelqu'un devient riche trop vite, c'est forcément qu'il a utilisé des moyens illicites — et le Tuyul est le mécanisme surnaturel de ces moyens illicites. C'est un système de contrôle social de la cupidité déguisé en croyance folklorique : la richesse acquise par le Tuyul est illégitime, pollue moralement son propriétaire, et sera finalement perdue. L'esprit-esclave est aussi une punition pour celui qui l'emploie.

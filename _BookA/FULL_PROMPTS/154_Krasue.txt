@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Krasue
+  Tradition : Sud Est Asiatique
+═══════════════════════════════════════════════
+
+
+# KRASUE
+
+## SIGNIFICATION DU NOM
+
+*Krasue* (กระสือ) est un terme thaï d'étymologie incertaine — peut-être lié à une racine désignant la brûlure, la lumière nocturne, ou l'état de hantise. Dans les traditions khmères du Cambodge, la figure s'appelle *Ap* (អប) — terme désignant une femme possédée par une entité maléfique qui lui prend le contrôle la nuit. La diversité des noms à travers l'Asie du Sud-Est continentale (Thaïlande, Cambodge, Laos, Birmanie) témoigne de l'ancienneté et de la diffusion de la figure.
+
+## ORIGINE
+
+Le Krasue est attesté dans les traditions orales et les textes de sorcellerie des cultures de l'Asie du Sud-Est continentale depuis des siècles. Les premières mentions écrites dans les contextes européens datent du XVIIIe-XIXe siècle (chroniques coloniales françaises du Cambodge et britanniques de Birmanie). La figure précède manifestement ces textes et s'inscrit dans un système de croyances animistes pré-bouddhiques qui a survécu à la bouddhisation de ces sociétés.
+
+## NATURE
+
+Le Krasue est une tête de femme qui flotte la nuit, séparée de son corps, entourée d'un halo phosphorescent, avec ses organes internes (œsophage, estomac, intestins) pendant sous elle. Le jour, la tête rejoint un corps normal et la femme vit comme une personne ordinaire. La nuit, la tête quitte le corps et part se nourrir. Elle peut être une sorcière qui a délibérément acquis ce pouvoir, ou une femme victime d'une malédiction ou d'une possession.
+
+## HABITAT
+
+Le Krasue est particulièrement actif autour des maisons où viennent de naître des enfants, des fermes avec des animaux, et des espaces ruraux la nuit. Elle vole au-dessus des arbres, son halo la rendant visible. Elle s'approche des habitations pour voler du sang, des foetus, ou des animaux domestiques. Dans les zones rurales de Thaïlande et du Cambodge, les Krasue sont encore des références vivantes pour expliquer des morts inexpliquées d'animaux.
+
+## DESCRIPTION
+
+La nuit : une tête féminine flottante, entourée d'une lumière phosphorescente bleutée ou blanche, avec les organes internes pendant en dessous (visible parfois comme un amas de viscères luminescents). Yeux brillants et grands. Les cheveux peuvent être dressés ou flottants. Le jour : une femme ordinaire, ne révélant rien de sa nature nocturne si elle prend soin de réunir sa tête et son corps avant l'aube.
+
+## POUVOIRS
+
+Vol de sang sur des personnes dormantes. Consommation de foetus et de nouveau-nés. Dans les traditions khmères, l'*Ap* peut posséder d'autres femmes et leur transférer sa condition. Luminosité naturelle qui peut attirer ou repousser selon le contexte. Capacité de se rendre très silencieuse malgré les organes qui pendent — dans les films thaïs d'horreur, on entend les viscères faire des sons caractéristiques, mais dans la tradition, elle est silencieuse.
+
+## FAIBLESSES
+
+Si quelqu'un trouve le corps du Krasue pendant la nuit et y place des épines (*thorn branches*) ou le retourne, la tête ne peut plus le rejoindre et brûle à l'aube. Des plantes épineuses (notamment certains arbustes locaux) lui barrent le passage — elle ne peut pas traverser une haie d'épines. La lumière du matin la détruit si elle n'a pas réuni tête et corps. Des mantras et pratiques de sorcellerie appropriées peuvent aussi la capturer.
+
+## COMPORTEMENT
+
+Le Krasue est actif principalement autour des naissances — les femmes enceintes et les nouveau-nés sont ses cibles privilégiées. Elle peut aussi voler du sang sur des dormeurs. Dans les traditions khmères, l'*Ap* peut être transmise — une femme infectée peut communiquer sa condition à une autre femme, créant une lignée de Krasue au sein d'une famille ou d'un village. Un village peut donc compter plusieurs Krasue simultanément.
+
+## RÉCITS TRADITIONNELS
+
+Un récit thaï : des villageois remarquent qu'une lumière flottante apparaît chaque nuit et que les poulets meurent. Un homme décide de surveiller. Il voit la tête flottante entrer dans le poulailler. Il court à la maison de la femme qu'il soupçonne et y trouve le corps sans tête. Il place des épines autour du corps. À l'aube, la tête revient mais ne peut pas rejoindre le corps — elle brûle dans la lumière du matin.
+
+## VARIANTES RÉGIONALES
+
+La *Penanggalan* malaise et indonésienne est une variante — également une tête flottante avec des organes, mais avec des caractéristiques distinctes (acide dans les viscères, usage du vinaigre dans le rituel de réattachement). La *Leyak* balinaise (déjà documentée comme *Leak* dans le bestiaire) présente des caractéristiques comparables. La figure pan-asiatique-du-Sud-Est de la tête flottante à viscères est une des plus cohérentes et des plus répandues de la région.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Krasue est l'une des figures les plus présentes dans le cinéma d'horreur thaïlandais — qui est parmi les plus prolifiques d'Asie. Des dizaines de films ont exploré le Krasue depuis les années 1970 (*Krasue Sao*, 1973 est un classique). Cette popularité cinématographique a diffusé la figure dans toute l'Asie du Sud-Est et dans les communautés de fans de cinéma d'horreur asiatique mondial.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les premières représentations visuelles du Krasue dans les sources accessibles apparaissent dans des illustrations de manuscripts thaïs et khmers relatifs aux esprits et à la sorcellerie. Des peintures murales dans des temples bouddhiques thaïs représentent parfois des êtres surnaturels qui peuvent inclure des Krasue dans les registres de l'enfer ou des esprits malfaisants. L'iconographie cinématographique du XXe siècle a standardisé l'image.
+
+## POUR ALLER PLUS LOIN
+
+Le Krasue illustre un motif commun à toute l'Asie du Sud-Est — la séparation du corps et de la tête, permise ou subie par des femmes, comme expression d'une puissance surnaturelle fondamentalement féminine et nocturne. Dans ces sociétés, la nuit est le moment où les femmes dotées de ces pouvoirs se libèrent de leurs contraintes diurnes — la Krasue, pendant la nuit, n'est pas une épouse ou une mère mais une tête libre qui vole et se nourrit. Cette liberté nocturne du corps féminin libéré de son corps social dit quelque chose sur les contraintes de genre dans ces sociétés.

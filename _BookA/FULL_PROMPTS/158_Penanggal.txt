@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Penanggal
+  Tradition : Sud Est Asiatique
+═══════════════════════════════════════════════
+
+
+# PENANGGAL
+
+## SIGNIFICATION DU NOM
+
+*Penanggal* (ou *Penanggalan*) vient du malais *tanggal* (se détacher, se séparer) — désignant la caractéristique définitoire de la créature : sa tête et ses viscères se détachent de son corps. Le nom décrit le processus plutôt que l'être lui-même — "ce qui se détache". Dans certaines régions, le terme *hantu Penanggal* ("esprit Penanggal") est utilisé pour distinguer clairement qu'il s'agit d'une catégorie d'esprit maléfique (*hantu*) et non d'un animal ou d'une personne.
+
+## ORIGINE
+
+La Penanggal est documentée dans les traditions orales malaises de la péninsule malaise depuis au moins l'époque coloniale britannique — des références apparaissent dans des publications britanniques sur le folklore malais du XIXe siècle, notamment dans les travaux de Walter William Skeat (*Malay Magic*, 1900). La figure est profondément ancrée dans le folklore de la péninsule malaise et est l'une des créatures les plus redoutées des traditions malaises. Elle est distincte de la *Manananggal* philippine (déjà dans ce bestiaire) malgré des similitudes superficielles.
+
+## NATURE
+
+La Penanggal est l'esprit d'une femme morte dans des circonstances particulières — souvent en couches, ou une femme qui a fait un pacte avec des forces surnaturelles pour acquérir des pouvoirs de *pawang* (guérisseuse-chaman) mais dont le contrat s'est retourné contre elle. La nuit, sa tête et ses organes abdominaux se détachent de son corps, formant une tête volante avec des intestins et des organes dégouttants. Elle cherche du sang — particulièrement le sang des femmes en travail et celui des nouveau-nés.
+
+## HABITAT
+
+La Penanggal habite des zones de végétation dense — des jardins, des haies, des arbres *mengkuang* (pandanus). Le jour, son corps sans tête repose dans des zones cachées — sous des maisons sur pilotis, dans des zones forestières. La nuit, sa tête vole librement. Elle est attirée par les maisons où des femmes accouchent — la présence d'une femme en travail l'attire irrésistiblement. Des zones de village isolées sont ses territoires de prédilection.
+
+## DESCRIPTION
+
+La Penanggal est représentée comme une tête de femme relativement normale — parfois belle — flottant dans l'air, avec de longs cheveux défaits. Sous la tête pendent les organes abdominaux complets — estomac, intestins, poumons — dégouttants de sang et de liquides organiques. La nuit, ces organes brillent parfois d'une lueur phosphorescente dans l'obscurité — un avertissement visible pour ceux qui connaissent le signe. Pendant la journée, elle fait tremper ses viscères dans du vinaigre (*cuka*) pour les contracter suffisamment pour les réintégrer dans son corps humain.
+
+## POUVOIRS
+
+Vol nocturne avec une grande agilité malgré les viscères pendants. Capacité de détecter les maisons où des femmes accouchent à grande distance. Attaque des femmes en travail — son contact peut causer des complications mortelles. Prédation des nouveau-nés — elle peut atteindre des bébés par des fissures dans les murs ou des ouvertures sous les portes. Dans certaines versions, son regard peut paralyser temporairement les gardiennes autour d'une parturiente.
+
+## FAIBLESSES
+
+Des épines d'*mengkuang* (pandanus) ou d'*jerangau* placées autour des ouvertures d'une maison — ses viscères pendants s'accrochent dans les épines et l'empêchent d'entrer. Des fleurs de *lantana* et des herbes à odeur forte. Des formules et des versets du Coran (dans les traditions malaises islamiques) peuvent la repousser. Des *pawang* (guérisseurs) spécialisés peuvent la traquer et localiser son corps sans tête — détruisant le corps empêche la tête de se réintégrer et la détruit définitivement.
+
+## COMPORTEMENT
+
+La Penanggal est nocturne et ciblée — elle ne s'attaque pas au hasard mais cherche spécifiquement des femmes enceintes ou en travail. Elle peut observer une maison pendant plusieurs nuits avant d'attaquer — testant les protections. Son besoin de vinaigre pour contracter ses viscères crée une vulnérabilité pratique : des jarres de vinaigre stockées de façon inhabituelle dans une maison peuvent révéler la présence d'une Penanggal (vivant sous forme humaine dans le voisinage). Elle retourne à son corps avant l'aube.
+
+## RÉCITS TRADITIONNELS
+
+Un récit malais de la péninsule (Johor) : une sage-femme traditionnelle (*bidan*) remarque qu'une nouvelle voisine commande de grandes quantités de vinaigre et s'absente la nuit. Elle suspecte une Penanggal. Avant de se rendre à un accouchement, elle place des branches d'*mengkuang* épineuses à toutes les ouvertures de la maison de la parturiente. La nuit, une tête flottante est trouvée le matin coincée dans les épines de la haie — ses viscères enchevêtrés dans les épines l'empêchant de fuir. Le corps est localisé et détruit. La Penanggal périt.
+
+## VARIANTES RÉGIONALES
+
+La *Krasue* thaïlandaise (déjà dans ce bestiaire comme tradition du Sud-Est asiatique) est une figure parallèle — tête flottante avec viscères, même nuit de prédation, mêmes méthodes de protection. La *Manananggal* philippine (déjà dans ce bestiaire) partage le concept de la division du corps mais est plus anthropomorphe. La *Leyak* balinaise (déjà comme Leak dans ce bestiaire) est comparable dans sa forme de tête flottante. Des têtes volantes avec viscères sont présentes dans les traditions du Cambodge, du Laos, et de la Thaïlande — une famille de créatures caractéristique de l'Asie du Sud-Est continentale et insulaire.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Penanggal est l'une des créatures du folklore malais les plus connues internationalement — mentionnée dans des études de folklore asiatique et dans des guides culturels sur la Malaisie. Des films d'horreur malaisiens et des séries télévisées malaisiennes représentent fréquemment la Penanggal. Des jeux de rôle (*Pathfinder*, *D&D*) ont inclus la Penanggal dans leurs bestiaires de monstres. Dans les communautés malaises contemporaines, des pratiques de protection des maternités persistant dans des contextes ruraux sont liées à des croyances sur la Penanggal.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de la Penanggal dans des publications malaises et coloniales britanniques du XIXe et début XXe siècle (notamment *Malay Magic* de Skeat et ses illustrations) constituent l'iconographie de référence historique. Des affiches de films malaisiens et des illustrations dans des publications populaires malaisiennes contemporaines représentent la Penanggal dans des styles d'illustration d'horreur populaire. Des sculptures de bois et des ornements de protection (en forme de créature à tête volante) peuvent être trouvés dans des contextes de protection rituelle dans des villages malais.
+
+## POUR ALLER PLUS LOIN
+
+La Penanggal illustre la logique viscérale de la peur — la tête qui vole avec des organes pendants est une image de la dissociation du corps humain poussée à l'extrême. L'horreur n'est pas simplement celle d'une créature monstrueuse mais celle de la familiarité décomposée — c'est une tête humaine, reconnaissable, mais séparée de ce qui devrait la relier au monde. La pratique du vinaigre qui contracte les viscères est peut-être le détail le plus mémorable : une créature de cauchemar absolu qui a besoin de condiments culinaires pour maintenir son existence. Cette combinaison d'horreur cosmique et de détail domestique banal est caractéristique du meilleur folklore d'horreur.

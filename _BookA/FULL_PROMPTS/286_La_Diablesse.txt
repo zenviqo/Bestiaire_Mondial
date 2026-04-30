@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : La_Diablesse
+  Tradition : Caraibes
+═══════════════════════════════════════════════
+
+
+# LA DIABLESSE
+
+## SIGNIFICATION DU NOM
+
+*La Diablesse* (prononcé "la dyah-BLESS" en créole) signifie simplement "la femme-diable" — *la* (article féminin français) + *diablesse* (femme du diable, féminin de *diable*). Le nom est transparent dans sa signification : elle est explicitement identifiée comme une servante ou une manifestation du diable dans le cadre syncrétique afro-catholique des Caraïbes. Ce nom chrétien-français habille une figure qui est probablement plus ancienne dans ses racines africaines — une séductrice mortelle des carrefours dont les origines pré-chrétiennes subsistent sous le vernis catholique.
+
+## ORIGINE
+
+La Diablesse est documentée dans les traditions créoles des Antilles françaises et anglophones — Trinidad, Martinique, Guadeloupe, Sainte-Lucie, Dominique. Sa tradition est le résultat du syncrétisme entre les croyances africaines apportées par la traite négrière (particulièrement Yoruba, Fon, et Akan) et le catholicisme colonial français. Elle appartient à la même famille que d'autres séductrices caribéennes — la Soucouyant qui se retrouve dans 38_Caraibes — mais avec une nature plus clairement liée à la route et au carrefour.
+
+## NATURE
+
+La Diablesse est une séductrice démoniaque — une femme morte qui est revenue (ou une femme qui a vendu son âme) pour attirer les hommes vers leur mort. Sa méthode : elle apparaît sur des routes de campagne ou des carrefours la nuit, d'une beauté irrésistible, et attire les hommes qui la voient à la suivre. Elle les mène hors des chemins ordinaires, dans des ravines, des falaises, ou des zones dangereuses, et les laisse mourir ou les abandonne après leur avoir volé leur âme ou leur esprit.
+
+## HABITAT
+
+La Diablesse est une créature des carrefours et des routes de campagne nocturnes — les zones de transition entre les espaces habitués et la nature sauvage. Elle apparaît préférentiellement dans des endroits isolés après la tombée de la nuit — sur des chemins peu fréquentés, aux croisements de routes, à l'orée des bois. Elle est particulièrement active lors des fêtes et des célébrations quand des hommes rentrent seuls tard la nuit.
+
+## DESCRIPTION
+
+En apparence : une belle femme vêtue d'une grande robe à crinolines victorienne (le vêtement colonial de l'élite créole du XIXe siècle), avec un grand chapeau qui ombrage son visage. Sa beauté est extraordinaire — ses vêtements sont parfaits, ses mouvements gracieux. Un seul détail trahit sa nature surnaturelle : sous la longue robe, un pied est un sabot de vache ou un pied d'animal. Ce pied est toujours caché par la jupe. Elle exhale une odeur de *plumeria* (fleurs funèbres tropicales). Son visage, dans l'ombre de son chapeau, est celui d'un mort.
+
+## POUVOIRS
+
+Beauté et séduction irrésistibles pour les hommes. Capacité de brouiller l'orientation des hommes qui la suivent — ils se retrouvent perdus dans des zones qu'ils connaissent pourtant bien. Disparition soudaine — à un moment donné, elle n'est plus là et l'homme se retrouve seul au bord d'une falaise ou dans des marécages. Dans certains récits, elle peut voler l'âme ou l'esprit de sa victime — l'homme survit mais devient fou ou perd toute volonté. Son odeur de fleurs peut hypnotiser.
+
+## FAIBLESSES
+
+La méthode de protection la plus connue : marcher à la croix. Quand on suspecte que la femme qu'on suit est une Diablesse, on met ses vêtements à l'envers ou on fait le signe de la croix en regardant vers le bas — et le pied de vache devient visible sous la jupe. La Diablesse ne peut pas traverser les lieux bénits. La prière peut la chasser. Des aînés qui connaissent sa nature peuvent l'identifier et avertir les jeunes hommes.
+
+## COMPORTEMENT
+
+La Diablesse fonctionne sur la séduction — elle ne force personne. Elle apparaît, se montre, et attend que l'homme vienne vers elle. Elle engage une conversation charmante et mène un flirt innocent qui attire graduellement l'homme loin du chemin sûr. Elle ne révèle jamais sa nature de son propre chef. Elle agit principalement sur des hommes qui rentrent seuls la nuit après avoir bu — état de vulnérabilité maximale dans les traditions créoles.
+
+## RÉCITS TRADITIONNELS
+
+Un récit de Trinidad : un jeune homme rentrant d'une fête dans un village voisin voit une femme magnifique assise au bord du chemin sous la lune. Il l'aborde. Elle est charmante. Ils marchent ensemble. Il remarque après un moment que la femme a changé de direction sans qu'il s'en aperçoive — il ne reconnaît plus le chemin. Il regarde ses pieds dans la lumière de la lune : un sabot de vache dépasse sous l'ourlet de la robe. Il comprend, récite une prière, et ferme les yeux. Quand il les rouvre, la femme a disparu. Il est au bord d'une falaise, à un pas du vide. Il rentre sain et sauf, mais plus jamais il ne rentre seul la nuit.
+
+## VARIANTES RÉGIONALES
+
+La Diablesse est spécifique aux Antilles francophones et à Trinidad — mais des séductrices comparables existent dans toute la zone Caraïbes-Amérique Latine. La *Llorona* mexicaine (femme errante et pleurante) a une nature différente mais une structure comparable. La *Madama* de certaines traditions afro-brésiliennes peut présenter des éléments proches. Dans la tradition africaine yoruba, des *ajé* (entités féminines puissantes liées aux carrefours) ont des caractéristiques qui peuvent être les ancêtres africains de la Diablesse.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Diablesse est une figure centrale de la littérature créole caribéenne — des auteurs martiniquais, guadeloupéens et trinidadiens l'ont intégrée dans leurs œuvres. Le roman de Jean Rhys (*Wide Sargasso Sea*, 1966) évoque une atmosphère proche. Des pièces de théâtre folk créoles mettent régulièrement en scène la Diablesse. Dans le carnaval de Trinidad, elle est un costume traditionnel — la "La Diablesse" représentée par des danseuses en robes à crinolines avec un masque de mort.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des illustrations de presse des Antilles françaises du XIXe siècle représentent parfois la Diablesse dans des publications populaires. Des gravures coloniales montrant les "superstitions" des populations antillaises peuvent inclure sa figure. L'iconographie du carnaval de Trinidad — robes victoriennes, grand chapeau, visage de mort — est la représentation visuellement la plus standardisée. Des peintres caribéens contemporains représentent régulièrement la Diablesse dans un style expressionniste local.
+
+## POUR ALLER PLUS LOIN
+
+La Diablesse illustre comment les peurs sociales des communautés créoles caribéennes sont exprimées dans une figure féminine fatale. Elle concentre plusieurs anxiétés : la peur de l'alcool et du comportement masculin irresponsable (les victimes sont toujours des hommes seuls rentrant de fêtes), la méfiance envers les femmes trop belles et trop disponibles, la dimension surnaturelle des carrefours comme zones de danger. Mais elle dit aussi quelque chose sur la violence coloniale — la femme en robe victorienne avec un sabot d'animal est une image de la beauté coloniale imposée qui cache une nature animale, une figure de l'Autre que la société coloniale a à la fois esthétisé et diabolisé.

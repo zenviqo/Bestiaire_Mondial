@@ -1,0 +1,129 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Tengu
+  Tradition : Japonais
+═══════════════════════════════════════════════
+
+
+# TENGU
+
+## SIGNIFICATION DU NOM
+
+*Tengu* s'écrit 天狗 — *ten* (ciel) et *gu* (chien). Le nom est emprunté au chinois *tiangou*, un chien céleste dévoreur d'éclipses, mais la créature japonaise a évolué vers quelque chose de radicalement différent. Les Tengu japonais n'ont rien du chien — ils sont des êtres ailés, mi-humains mi-oiseaux, guerriers et esprits des hauteurs. Le nom reste, la nature a changé.
+
+## ORIGINE
+
+Le Tengu apparaît dans les textes japonais dès le VIIe siècle — les *Nihon Shoki* mentionnent une "étoile filante ressemblant à un Tengu". Sa forme iconographique se stabilise progressivement entre les périodes Heian et Kamakura (IXe-XIVe siècle), influencée par le bouddhisme ésotérique qui associe ces êtres à l'orgueil spirituel — les moines arrogants seraient condamnés à se réincarner en Tengu. Cette origine bouddhiste explique leur ambivalence profonde.
+
+## NATURE
+
+Le Tengu est une entité profondément ambivalente. Dangereux — il enlève des humains, entraîne les guerriers à la folie, s'empare des enfants et des moines. Bienveillant — il transmet les arts martiaux à des êtres d'exception, protège les forêts sacrées et les sanctuaires montagnards, guide les pratiquants sincères sur le chemin spirituel. La tradition distingue les Tengu supérieurs (*Dai-Tengu*) — sages et puissants — des Tengu inférieurs (*Ko-Tengu*) — facétieux et dangereux.
+
+## HABITAT
+
+Les Tengu habitent les montagnes — plus précisément les forêts profondes des sommets, les parois rocheuses inaccessibles, les pins et les cryptomérias anciens. Chaque grande montagne japonaise possède ses Tengu. Les forêts de l'ère Edo associent des montagnes précises à des Tengu nommés : le mont Kurama à Sōjōbō, le mont Atago à Tarō-Bō, le mont Hiei à ses propres gardiens ailés.
+
+## DESCRIPTION
+
+Deux formes distinctes. Le *Ko-Tengu* ou *Karasu-Tengu* a un corps entièrement aviaire — ailes et plumes noires de corbeau, bec d'oiseau, serres. Il est le Tengu primitif, plus proche de l'animal. Le *Dai-Tengu* ou *Hanataka-Tengu* est humanoïde — corps d'homme, ailes de rapace dans le dos, teint rouge, expression sévère, et surtout un nez prodigieusement long. Ce nez démesurément allongé est devenu l'icône universelle de la figure.
+
+Le Dai-Tengu porte souvent les vêtements d'un moine montagnard *yamabushi* — veste à pompons, toque noire, éventail de plumes. Il est armé d'un bâton ou d'une épée.
+
+## POUVOIRS
+
+Les Tengu maîtrisent les arts martiaux à un niveau qui dépasse les meilleurs humains. Ils volent librement et se déplacent avec une vitesse surnaturelle. Ils peuvent se métamorphoser — prendre l'apparence d'humains, de moines, de femmes pour tromper. Ils manipulent les illusions (*genjutsu*) et peuvent induire des états de transe ou de folie. Certains contrôlent les vents de montagne et les phénomènes atmosphériques des hauteurs.
+
+## FAIBLESSES
+
+Les Tengu supérieurs sont gouvernés par un code d'honneur qui limite leurs actions impulsives. Ils peuvent être trompés ou déjoués par la sincérité spirituelle authentique — un pratiquant véritablement humble peut les désarçonner. Certaines sources leur attribuent une sensibilité au *mochi* (gâteau de riz) offert sincèrement.
+
+## COMPORTEMENT
+
+Le Dai-Tengu observe les humains avec une curiosité mêlée de mépris. Il n'intervient que lorsqu'il estime l'humain digne d'attention — soit pour le former, soit pour le châtier. Sa relation avec le bouddhisme est complexe : il incarne l'orgueil spirituel, mais il est aussi le gardien des espaces sacrés où cette fierté doit être brisée. Certains récits montrent des Tengu repentants, reconnaissant que leur orgueil les a conduits dans cette condition.
+
+## RÉCITS TRADITIONNELS
+
+La légende la plus célèbre implique Minamoto no Yoshitsune, le grand guerrier du XIIe siècle. Enfant, il aurait été enlevé par le Tengu Sōjōbō du mont Kurama, qui l'entraîna pendant des années aux arts martiaux et à l'usage de l'épée. Cet apprentissage surnaturel expliquerait les facultés guerrières extraordinaires que les chroniques historiques attribuent à Yoshitsune. La figure du Tengu-maître d'armes est centrale dans la culture guerrière japonaise.
+
+## VARIANTES RÉGIONALES
+
+Dans le Kantō, les Tengu sont davantage associés aux sanctuaires *Fudō Myōō*. Dans les Alpes japonaises, ils sont liés aux pratiques *shugendo* (ascèse montagnarde). Certaines régions distinguent les Tengu bienveillants des protecteurs locaux et les Tengu malveillants venus d'ailleurs.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture pop japonaise a produit des Tengu aux profils très variés — de la mascotte folklorique au personnage de manga guerrier. La complexité originelle — un être qui représente à la fois le danger spirituel de l'orgueil et la source des arts martiaux les plus élevés — est souvent aplatie en simple "yokai ailé badass". Le nez long est devenu logo, effaçant la profondeur symbolique.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les Tengu sont représentés dans les *emakimono* (rouleaux illustrés) dès la période Kamakura. Les masques de Tengu — nez rouge exagéré, expression sévère — sont des éléments constants du théâtre Noh et Kyogen depuis le XIVe siècle. Des sculptures de Tengu gardent l'entrée de nombreux sanctuaires montagnards dans tout le Japon.
+
+## POUR ALLER PLUS LOIN
+
+Le Tengu est une figure-miroir du bouddhisme japonais : ce que l'on devient lorsque la pratique spirituelle tourne à l'orgueil. Sa longévité culturelle — treize siècles de présence continue dans l'imaginaire japonais — tient à cette ambivalence irréductible. Ni monstre pur, ni guide bienveillant, le Tengu est la créature de la zone grise spirituelle.

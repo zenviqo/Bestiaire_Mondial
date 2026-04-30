@@ -1,0 +1,212 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Caleuche
+  Tradition : Andes
+═══════════════════════════════════════════════
+
+
+# CALEUCHE
+
+## SIGNIFICATION DU NOM
+
+Le nom *Caleuche* dérive du mapudungun, langue des peuples mapuche et huilliche. La racine *kalewtun* ou *caleutun* signifie *transformer*, *changer*, *devenir autre*. Le Caleuche est ainsi étymologiquement *celui qui se transforme*, *celui qui change d'apparence* — qualité qui constitue précisément l'un des traits centraux de la créature : un navire qui apparaît tantôt comme un magnifique vaisseau illuminé, tantôt comme un simple écueil rocheux, tantôt comme une masse d'algues flottantes.
+
+L'usage chilote a fixé le terme avec une orthographe espagnole, mais la prononciation conserve souvent une résonance indigène. La désignation alternative *Buque de Arte* (vaisseau de l'art, dans le sens de *vaisseau de la magie*) est attestée dès le XIXe siècle.
+
+## ORIGINE
+
+Le Caleuche appartient au folklore maritime de l'archipel de Chiloé, ensemble d'îles situé au sud du Chili continental. Sa figure résulte d'un syncrétisme entre :
+
+- les croyances huilliche concernant les esprits collectifs des morts en mer ;
+- les traditions européennes du *vaisseau-fantôme* introduites par les marins espagnols et les pêcheurs européens fréquentant les côtes chilotes ;
+- les peurs maritimes propres aux populations de l'archipel, exposées aux naufrages dans des eaux particulièrement dangereuses.
+
+Les premières mentions écrites du Caleuche apparaissent dans les chroniques jésuites du XVIIIe siècle, qui rapportent les récits des pêcheurs locaux. Au XIXe siècle, la figure se trouve consolidée dans l'ensemble du folklore chilote, et au XXe siècle elle devient l'une des figures les plus emblématiques du patrimoine immatériel de l'archipel.
+
+## NATURE
+
+Le Caleuche est un *vaisseau-fantôme magique*, à la fois navire et entité animée, qui parcourt les eaux de l'archipel de Chiloé selon des trajectoires inconnues des humains. Sa nature est triple :
+
+- *physique* — il s'agit d'un véritable navire, magnifiquement construit, dont la structure répond à des lois qui dépassent celles des navires ordinaires ;
+- *spirituelle* — son équipage est composé d'âmes de marins disparus en mer, qui continuent leurs activités sous une forme spectrale ;
+- *collective* — il fonctionne comme une *société invisible*, gouvernée par ses propres lois, recrutant ses membres parmi ceux qui répondent à certaines conditions.
+
+Le Caleuche n'est pas, à proprement parler, *maléfique*. Il est *autre* — appartenant à un ordre parallèle de l'existence qui croise occasionnellement le monde humain.
+
+## HABITAT
+
+Le Caleuche parcourt les eaux de l'archipel de Chiloé et, plus largement, les côtes du sud du Chili. Il fréquente particulièrement :
+
+- les *canales* (chenaux étroits) entre les îles de l'archipel ;
+- les *brumes du matin*, qui constituent son moment d'apparition privilégié ;
+- les *récifs* et zones de *bajo* (haut-fond) où des navires ont sombré ;
+- les *cuevas marinas* (grottes marines) creusées dans les falaises insulaires.
+
+Il navigue *sans répondre aux vents naturels* — il peut avancer contre la brise, par mer plate, ou même demeurer immobile dans une tempête.
+
+Sa demeure permanente, lorsqu'il n'est pas visible aux humains, est dite être située dans une grotte marine immense aux eaux calmes, accessible seulement à l'équipage et à ses initiés.
+
+## DESCRIPTION
+
+Le Caleuche apparaît, lorsqu'il choisit de se montrer, comme un *magnifique trois-mâts* (parfois quatre-mâts) richement décoré et pavoisé. Sa coque est sombre, parfois noire, parfois d'un bois précieux à reflets cuivrés. Ses voiles sont blanches, mais paraissent légèrement luminescentes, comme si elles brillaient de leur propre lumière dans la nuit.
+
+Tout le navire est *illuminé*, comme s'il était l'objet d'une fête perpétuelle — lanternes accrochées aux mâts, bougies aux hublots, lumières dansantes sur le pont. De cette illumination émane une lumière particulière, *trop chaude pour être ordinaire*, parfois décrite comme dorée ou cuivrée.
+
+De son intérieur s'élèvent en permanence des *bruits de fête* — musique, chants, rires, claquements de bottes, tintements de verres. Ces sons traversent l'eau et peuvent être entendus à grande distance par les pêcheurs.
+
+Son *équipage*, lorsqu'il est aperçu, présente des particularités étranges : leurs vêtements sont riches, parfois anciens (modes du XVIIe ou XVIIIe siècle), et leurs corps sont parfois marqués de difformités cachées — pieds inversés, têtes tournées de l'autre côté, membres absents que la magie cache aux regards distraits.
+
+À son approche d'un navire humain, le Caleuche peut se *transformer* — devenir un récif, une masse d'algues, ou simplement disparaître dans la brume.
+
+## POUVOIRS
+
+Le Caleuche dispose de pouvoirs considérables :
+
+La *navigation libre* — il se déplace sans tenir compte des vents, des courants, ni des conditions atmosphériques. Il peut avancer en marche arrière, naviguer en surface puis plonger sous l'eau, traverser des zones où les navires ordinaires ne peuvent pas passer.
+
+La *transformation d'apparence* — il peut prendre la forme d'un récif, d'un tronc à la dérive, d'une nappe de brume, pour échapper aux regards des navires humains.
+
+La *capacité d'enrichir ses alliés* — les marins ou les pêcheurs qui acceptent de servir l'équipage du Caleuche reçoivent en retour une *prospérité miraculeuse* : leurs filets se remplissent toujours, leurs voyages aboutissent, leurs entreprises commerciales prospèrent.
+
+Le *pouvoir de châtier* — ceux qui le voient et qui ne savent pas se taire perdent l'usage de la parole, deviennent fous, voient leur visage tordu en grimace permanente, ou disparaissent en mer dans des circonstances inexplicables.
+
+L'*invisibilité sélective* — le Caleuche est invisible à ceux qui ne sont pas autorisés à le voir, et visible à ceux qu'il choisit d'attirer.
+
+## FAIBLESSES
+
+Le Caleuche, malgré sa puissance, présente certaines limites :
+
+- il *ne s'approche pas des côtes consacrées* par des chapelles bénies — particulièrement les célèbres *iglesias de Chiloé* construites en bois ;
+- il *évite les processions maritimes* organisées par la communauté avec présence de prêtres ;
+- il *fuit les eaux bénites* projetées sur les vagues lors de certaines cérémonies ;
+- il *est repoussé par certaines plantes locales* — particulièrement la *quintral* et la *romaza* portées en bouquet à la proue d'une barque ;
+- il *ne peut emporter de force* un humain qui n'a pas accepté un pacte — son recrutement est volontaire (du moins formellement).
+
+Certaines invocations en mapudungun sont également dites efficaces — formules transmises de père en fils dans les familles de pêcheurs chilotes.
+
+## COMPORTEMENT
+
+Le Caleuche manifeste plusieurs comportements caractéristiques :
+
+Sa *navigation festive* nocturne : il apparaît au large, illuminé, avec des sons de musique et de fête, comme un défi joyeux à la solitude des marins humains.
+
+Son *recrutement actif* : il propose à certains pêcheurs ou marins, soit en rêve soit lors d'apparitions répétées, de le rejoindre — soit comme membre permanent (transformation en marin spectral), soit comme allié extérieur (richesse en échange de services).
+
+Sa *protection des élus* : ceux qui ont conclu un pacte avec le Caleuche bénéficient de filets toujours pleins, de traversées sans encombre, d'une prospérité commerciale parfois embarrassante par son ampleur.
+
+Son *châtiment des indiscrets* : ceux qui prétendent l'avoir vu sans en avoir le droit, ou qui révèlent imprudemment ce qu'ils ont vu, sont sévèrement punis — folie, mutisme, paralysie partielle, disparition en mer.
+
+Son *évitement de l'humanité ordinaire* : la plupart des Chilotes ne verront jamais le Caleuche, qui choisit ses témoins avec soin.
+
+## RÉCITS TRADITIONNELS
+
+Plusieurs récits-types circulent dans le folklore chilote.
+
+Un récit fréquent concerne un pêcheur de Quemchi qui, par une nuit calme, vit au large un grand navire illuminé d'où provenaient musique et rires. Il rentra immédiatement raconter sa vision à sa femme. Le lendemain matin, son visage était figé en une grimace tordue qu'il conserva jusqu'à sa mort. Il ne put plus jamais parler clairement.
+
+Un autre récit, plus rare et plus complexe, raconte qu'un commerçant d'Achao, soudainement enrichi sans cause apparente, fut soupçonné par ses voisins d'avoir pacté avec le Caleuche. Il niait. Mais à sa mort, on découvrit dans sa cave un coffre rempli de monnaies anciennes que personne dans la région n'aurait pu posséder légitimement. Sa famille subit ensuite une série de malheurs jusqu'à l'extinction.
+
+Un troisième récit, transmis par les pêcheurs de Castro, évoque un jeune marin qui accepta de monter à bord du Caleuche après avoir été appelé par une voix dans la brume. Il y resta sept ans. Lorsqu'il revint enfin sur terre, sept jours s'étaient écoulés selon ses proches, mais lui avait vieilli de plusieurs décennies. Il mourut en quelques semaines.
+
+## VARIANTES RÉGIONALES
+
+Sur l'**île principale de Chiloé**, le Caleuche est uniformément décrit comme un grand navire illuminé naviguant la nuit dans les chenaux.
+
+Dans les **îles secondaires de l'archipel**, certaines variantes le présentent sous forme de *flotte* — plusieurs Caleuches naviguant ensemble dans certains chenaux particulièrement reculés.
+
+Dans la **région continentale voisine** (Llanquihue, Osorno), des récits parallèles existent mais avec des navires de moindre dimension et un folklore moins développé.
+
+Une variante particulière, attestée dans certaines familles de pêcheurs de Quinchao, identifie *trois sœurs marines* — la *Pincoya*, la *Sirena Chilota* et la *Huenchula* — comme parentes du Caleuche, formant avec lui un complexe folklorique cohérent du monde marin chilote.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs distinctions s'imposent :
+
+- Le Caleuche n'est *pas* le *Hollandais Volant* européen, malgré une parenté thématique. Le Hollandais est maudit pour avoir défié Dieu ; le Caleuche est un navire d'esprits collectifs sans dimension de malédiction divine.
+
+- Il n'est *pas* simplement un *vaisseau-fantôme* au sens littéraire moderne. Sa fonction sociale — recrutement, pacte, prospérité, châtiment — est plus complexe que la simple errance marine du vaisseau-fantôme classique.
+
+- L'identification du Caleuche avec d'autres figures chilotes (*Trauco*, *Camahueto*, *Pincoya*) est erronée. Toutes ces figures appartiennent au folklore chilote mais conservent des fonctions distinctes.
+
+- La représentation moderne touristique du Caleuche, qui le réduit à une attraction folklorique pittoresque, simplifie sa fonction folklorique réelle, bien plus ambivalente.
+
+- Le Caleuche n'est *pas* l'œuvre d'un auteur identifié — il appartient à un substrat folklorique authentiquement collectif et anonyme, transmis depuis au moins le XVIIIe siècle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie traditionnelle du Caleuche est riche dans le contexte chilote. Plusieurs sculptures populaires en bois, vendues dans les marchés de Castro, Ancud et Dalcahue depuis la fin du XIXe siècle, le représentent comme un trois-mâts illuminé. Ces sculptures, parfois associées à un socle représentant les vagues ou des rochers, transmettent une iconographie relativement stable.
+
+Les *iglesias de Chiloé*, classées au patrimoine mondial pour leur architecture en bois, n'incorporent pas directement de représentations du Caleuche (en raison de leur nature consacrée), mais les *cuadros votivos* (tableaux votifs) déposés par les pêcheurs sauvés du naufrage représentent parfois des silhouettes lointaines de navires lumineux, identifiés à des Caleuches aperçus durant le sauvetage.
+
+Quelques estampes populaires chiliennes du XXe siècle représentent le Caleuche comme un grand voilier illuminé fendant la brume — image devenue emblématique de Chiloé.
+
+## POUR ALLER PLUS LOIN
+
+Le Caleuche constitue l'une des figures centrales du folklore chilote, qui est lui-même l'un des ensembles folkloriques les mieux préservés d'Amérique latine. Étudié depuis le XIXe siècle par les ethnographes chiliens, il a fait l'objet de monographies spécifiques et d'une littérature abondante. Sa présence dans les chansons populaires (*payadas* chilotes), sa réutilisation dans la littérature chilienne moderne, et son rayonnement culturel au-delà de l'archipel en font une figure majeure du patrimoine immatériel chilien.

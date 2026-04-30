@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Nuno_sa_Punso
+  Tradition : Philippines
+═══════════════════════════════════════════════
+
+
+# NUNO SA PUNSO
+
+## SIGNIFICATION DU NOM
+
+*Nuno sa Punso* se traduit littéralement par "grand-père de la termitière" ou "vieil homme de la butte" — *nuno* (grand-père, ancêtre, vieil homme — terme de respect) et *punso* (termitière, butte de terre, monticule). Le titre *nuno* souligne que cet être est traité avec le respect dû aux anciens — non comme un monstre à combattre mais comme un esprit ancien à respecter. La termitière (*punso*) est son domicile reconnaissable — de petits monticules de terre rouge présents dans les campagnes et les jardins philippins sont ses résidences potentielles.
+
+## ORIGINE
+
+Le Nuno sa Punso est documenté dans les traditions orales philippines depuis au moins l'époque coloniale espagnole — des chroniques des XVIe-XVIIe siècles mentionnent des croyances philippines sur des esprits habitant les formations naturelles. Des ethnographes comme Fay-Cooper Cole et des folkloristes philippins du XXe siècle ont documenté la figure. Le Nuno sa Punso est l'une des figures les plus universellement connues du folklore philippin — pratiquement tous les Philippins connaissent la formule de politesse à prononcer devant une termitière.
+
+## NATURE
+
+Le Nuno sa Punso est un esprit territorial — il n'est pas fondamentalement malveillant mais il est facilement offensé par les perturbations de son domicile ou le manque de respect. Sa nature est celle d'un gardien d'espace — chaque termitière (ou monticule de terre) peut être habitée par un Nuno, et perturber cette structure sans demander permission déclenche sa colère. Les maladies causées par le Nuno ne sont pas punitions de péché moral mais conséquences d'un manque de respect territorial — une logique de perturbation/sanction plus que de moralité.
+
+## HABITAT
+
+Le Nuno sa Punso habite les termitières (*punso*) et les monticules de terre dans les campagnes, les jardins, et même dans des zones urbaines où de petites buttes de terre persistent. Des arbres anciens et des formations rocheuses peuvent aussi être ses domiciles dans certaines variantes. En zones rurales, des champs, des jardins, et des zones de transition entre habitations et espaces naturels sont particulièrement peuplés de Nunos. Dans les villes, des monticules de terre ou des termitières dans des terrains vagues peuvent aussi héberger des Nunos selon les croyances populaires.
+
+## DESCRIPTION
+
+Le Nuno sa Punso est un être de très petite taille — assez petit pour habiter une termitière. Son apparence est celle d'un très vieil homme à la longue barbe blanche, au corps minuscule mais proportionné, au visage ridé et expressif. Dans certaines versions, il est de couleur brune ou noire, comme la terre qui l'entoure. Il peut être invisible à la majorité des personnes — seuls les *albularyo* (guérisseurs traditionnels philippins) et certains enfants peuvent le voir directement. Sa taille extrêmement réduite contraste avec son pouvoir de nuisance considérable.
+
+## POUVOIRS
+
+Induction de maladies chez les humains qui perturbent son domicile — des maladies variées, souvent localisées (éruptions cutanées, enflures, douleurs dans les membres touchés lors de la perturbation) et résistantes aux traitements médicaux conventionnels. La maladie du Nuno (*binat*) est diagnostiquée par des *albularyo* quand des symptômes inexpliqués surviennent après qu'une personne a dérangé une termitière. Il peut aussi affecter les personnes qui urinent ou crachent près de son domicile. Dans des cas graves, il peut causer des maladies chroniques.
+
+## FAIBLESSES
+
+La politesse rituelle — prononcer *"Tabi tabi po"* ("Excusez-moi, s'il vous plaît", formule de déférence) ou *"Makikiraan lang po"* ("Je passe juste, avec votre permission") avant de s'approcher d'une termitière suffit généralement à éviter son courroux. Les *albularyo* (guérisseurs) peuvent diagnostiquer et traiter les maladies du Nuno — généralement par des prières spécifiques, des herbes médicinales, et parfois des offrandes déposées à la termitière concernée. Des excuses rituelles adressées au Nuno lors de perturbations accidentelles peuvent prévenir la maladie.
+
+## COMPORTEMENT
+
+Le Nuno sa Punso est passif — il n'agresse pas ceux qui le respectent. Il réagit uniquement à des perturbations directes de son domicile ou à des actes d'irrespect. Des personnes qui marchent sur sa termitière, qui urinent à proximité, qui lancent des déchets dessus, ou qui la démolissent sans cérémonie préalable peuvent s'attendre à tomber malades. En revanche, des personnes qui demandent respectueusement la permission avant de travailler près d'une termitière ou de la déplacer sont généralement épargnées.
+
+## RÉCITS TRADITIONNELS
+
+Un récit tagalog contemporain : des travailleurs défrichent un terrain pour construire une maison. L'un d'eux renverse plusieurs termitières à la pelleteuse sans aucune cérémonie. Deux jours plus tard, il développe des enflures douloureuses sur les jambes qui ne répondent à aucun traitement médical. Un voisin âgé diagnostique immédiatement le problème — il a offensé le Nuno. Un *albularyo* du quartier est appelé. Il se rend au terrain, prononce des formules de respect, dépose des offrandes (cigarettes, noix de bétel), et demande pardon au Nuno au nom du travailleur. La guérison intervient progressivement dans les jours suivants.
+
+## VARIANTES RÉGIONALES
+
+Des esprits habitant des formations naturelles comparables existent dans toutes les traditions philippines — les *duwende* (lutins de différentes couleurs habitant des formations naturelles), les *enkanto* (êtres enchantés habitant des arbres ou des zones particulières). Des êtres comparables — petits gardiens d'espaces naturels — existent dans d'autres traditions d'Asie du Sud-Est (esprits des termitières en Thaïlande et en Malaisie). La spécificité philippine est le protocole verbal très codifié (*tabi tabi po*) qui est universellement connu et pratiqué.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Nuno sa Punso est l'une des figures du folklore philippin les plus vivantes dans la modernité. La formule *"tabi tabi po"* est connue et parfois utilisée par des Philippins urbains contemporains même sans conviction ferme — c'est une précaution qui ne coûte rien. Des *albularyo* actifs dans des zones rurales et urbaines des Philippines traitent régulièrement des maladies attribuées au Nuno. Des études anthropologiques de la médecine traditionnelle philippine mentionnent fréquemment le Nuno comme cause attribuée à des maladies. Des films d'horreur philippins incluent parfois la figure.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des illustrations dans des publications de folklore philippin du XXe siècle représentent le Nuno sa Punso — généralement un très vieil homme minuscule à longue barbe blanche émergent d'une termitière rouge. Des amulettes et des objets de protection philippins (*anting-anting*) peuvent inclure des références aux Nunos dans leurs formules. Des peintures populaires philippines représentent parfois des scènes de confrontation entre humains et Nunos dans des contextes de récits populaires.
+
+## POUR ALLER PLUS LOIN
+
+Le Nuno sa Punso illustre une écologie surnaturelle particulièrement précise — chaque termitière est un domicile, chaque espace naturel est habité, et chaque perturbation a des conséquences. C'est une vision du monde dans laquelle la responsabilité humaine s'étend au delà des relations entre humains pour inclure les espaces naturels et leurs habitants surnaturels. La formule *"tabi tabi po"* est une technologie sociale d'une efficacité remarquable : elle oblige à reconnaître explicitement que l'espace que l'on traverse n'est pas vide, qu'il appartient à quelqu'un, et qu'on y est un visiteur. C'est une politique de déférence envers la non-humanité encodée dans une phrase.

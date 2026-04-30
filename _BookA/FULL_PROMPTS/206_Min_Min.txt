@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Min_Min
+  Tradition : Aborigene Australien
+═══════════════════════════════════════════════
+
+
+# MIN MIN
+
+## SIGNIFICATION DU NOM
+
+*Min Min* est le nom donné à une lumière mystérieuse errante visible dans l'Outback australien — particulièrement dans les zones semi-arides du Queensland intérieur, autour du Channel Country et de la région de Boulia. Le terme "Min Min" est généralement attribué à une localité disparue du Queensland appelée "Min Min" (possiblement l'hôtel Min Min, aujourd'hui disparu, près de Boulia). Mais des traditions aborigènes de la région attribuent le terme à des concepts plus anciens — une lumière associée aux esprits des morts ou aux entités du pays.
+
+## ORIGINE
+
+Les témoignages de la lumière Min Min sont documentés depuis la fin du XIXe siècle par des colons européens dans le Queensland intérieur. Des récits aborigènes de lumières errantes dans l'Outback sont antérieurs à la colonisation — les peuples Diyari, Wangkangurru, et d'autres groupes de l'intérieur australien ont des traditions sur des lumières surnaturelles liées aux esprits. La lumière Min Min est devenue un élément central du folklore australien de l'Outback — une des figures les plus populaires du paranormal australien contemporain.
+
+## NATURE
+
+La nature de la lumière Min Min est fondamentalement ambiguë — ni purement physique ni purement surnaturelle dans les différentes interprétations. Dans les traditions aborigènes, elle est associée aux esprits des morts qui n'ont pas encore terminé leur voyage — une lumière qui accompagne ou qui précède les esprits dans leur transition. Pour les témoins non-aborigènes, elle est soit un phénomène naturel inexpliqué soit une présence surnaturelle. Ce qui est constant : elle ne se laisse pas approcher, elle maintient toujours une distance avec les observateurs.
+
+## HABITAT
+
+La lumière Min Min est particulièrement associée aux plaines semi-arides du Queensland intérieur — le Channel Country autour de Boulia, Bedourie, et Birdsville. Elle est visible dans les zones de très faible luminosité — loin des villes et des habitations humaines. Elle semble liée aux zones de pâturage de Mitchell grass et aux lits de rivières secs. Des zones similaires dans l'Outback du Queensland, du Northern Territory, et de l'Australie du Sud ont leurs propres observations de lumières comparables.
+
+## DESCRIPTION
+
+Une sphère ou un disque lumineux, généralement de couleur blanche, jaune-dorée, ou légèrement bleutée. Elle ne clignote pas mais peut pulser légèrement. Sa taille semble varier — de la taille d'une balle de tennis à celle d'une grande lanterne, apparemment en fonction de la distance. Elle se déplace à hauteur du sol ou légèrement au-dessus — souvent le long des routes de piste. Elle peut se déplacer à la vitesse d'un homme à pied ou accélérer à une vitesse supérieure. Elle est silencieuse.
+
+## POUVOIRS
+
+La lumière Min Min s'approche de certains témoins et s'éloigne d'autres — un comportement qui semble intentionnel. Elle maintient toujours une distance constante avec quiconque tente de s'en approcher — une caractéristique qui la distingue d'un phénomène purement physique. Dans les traditions aborigènes, elle peut être un messager — une lumière qui précède ou annonce une mort dans la famille du témoin. Dans certains récits, elle peut guider un voyageur égaré ou l'effrayer et le faire dévier de sa route.
+
+## FAIBLESSES
+
+La lumière Min Min disparaît régulièrement — elle s'éteint soit brusquement soit en s'éloignant jusqu'à disparaître à l'horizon. Elle n'est pas visible en plein jour. Des villes et des zones fortement éclairées semblent l'éloigner — elle est une créature de l'obscurité totale de l'Outback. Elle ne semble pas capable d'entrer dans des espaces fermés — elle reste à l'extérieur.
+
+## COMPORTEMENT
+
+La lumière Min Min apparaît généralement à l'aube ou au crépuscule, ou en pleine nuit. Elle peut suivre des véhicules à distance constante sur des distances de plusieurs kilomètres. Elle peut s'approcher puis s'éloigner en réponse aux mouvements d'un observateur. Elle n'attaque pas physiquement mais peut provoquer la peur, la déorientation, et dans des récits extrêmes, un état de transe ou d'hypnose chez des témoins qui la fixent trop longtemps.
+
+## RÉCITS TRADITIONNELS
+
+Un récit classique de l'Outback du Queensland : un stockman (gardien de troupeau) voyage seul en buggy sur une piste du Channel Country. Il aperçoit une lumière devant lui qui semble être les phares d'un autre véhicule. Il avance vers elle. Elle avance aussi — maintenant toujours la même distance. Il s'arrête — elle s'arrête. Il repart — elle repart. Il fait demi-tour — elle s'éteint. Il raconte l'incident à son station manager à Boulia. "La Min Min", lui dit le manager. "Elle suit certains d'entre nous, personne ne sait pourquoi."
+
+## VARIANTES RÉGIONALES
+
+Des lumières errantes comparables sont documentées dans de nombreuses parties du monde — les *ignis fatuus* (feux follets) européens, les *hitodama* japonais (feux d'âmes), les feux de marais. La particularité australienne de la Min Min est son association aux plaines arides et son comportement de "suivi" des véhicules. Des scientifiques ont proposé des explications par phénomènes atmosphériques (inversions thermiques, mirages nocturnes projetant des lumières lointaines) qui restent non-définitivement validées. Dans les communautés aborigènes de l'intérieur, la Min Min reste une entité spirituelle distincte des phénomènes naturels.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La lumière Min Min est l'un des phénomènes paranormaux les plus célèbres d'Australie. Un Centre d'Expériences de la lumière Min Min (*Min Min Encounter*) existe à Boulia (Queensland) — un musée interactif sur la créature. Des films documentaires australiens et des émissions de télévision ont traité la Min Min. Des équipes scientifiques ont tenté de l'observer et de l'expliquer. Elle est mentionnée dans des guides touristiques de l'Outback comme attraction spécifique à la région.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Étant une lumière — un phénomène lumineux plutôt qu'une entité corporelle — la Min Min n'a pas d'iconographie traditionnelle dans le sens d'une image de figure. Des illustrations dans des publications australiennes sur l'Outback (journaux de Queensland du XIXe siècle, revues de la fin de la frontière) montrent parfois des vignettes de lumières nocturnes dans des paysages de brousse. Des peintures d'artistes australiens contemporains représentent des paysages de l'Outback avec des sphères lumineuses flottantes comme hommage à la tradition.
+
+## POUR ALLER PLUS LOIN
+
+La lumière Min Min illustre une catégorie rare dans les bestiaires — un phénomène à mi-chemin entre la créature et l'événement. Ce n'est pas un animal ou un esprit anthropomorphe — c'est une présence lumineuse avec des comportements (suivre, s'approcher, s'éloigner) qui suggèrent une intentionnalité. La question de savoir si elle est "réelle" dans un sens physique et si elle est "un être" dans un sens métaphysique reste ouverte — et c'est précisément cette ouverture qui en fait une figure folklorique persistante. La Min Min est l'Outback australien qui vous regarde en retour.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Gyeryong
+  Tradition : Coreen
+═══════════════════════════════════════════════
+
+
+# GYERYONG
+
+## SIGNIFICATION DU NOM
+
+*Gyeryong* (계룡 / 鷄龍) est composé de deux éléments sino-coréens : *gye* (鷄 — coq, poulet) + *ryong* (龍 — dragon). Le nom signifie donc "dragon-coq" ou "coq-dragon" — une créature hybride combinant les deux animaux symboliquement opposés mais complémentaires dans la cosmologie coréenne. Le coq est l'oiseau de l'aube qui chasse les esprits maléfiques ; le dragon est le seigneur des eaux et de la puissance surnaturelle. Leur combinaison désigne une créature à la fois apotropaïque et puissante.
+
+## ORIGINE
+
+Le Gyeryong est documenté dans des textes coréens médiévaux et dans la tradition orale associée au mont Gyeryongsan (계룡산) dans la province de Chungcheongnam-do. Le *Jeonggam-rok* (정감록 — texte prophétique coréen circulant depuis la période Joseon, XVe-XIXe siècle) associe Gyeryongsan à des prophéties de changement dynastique — la montagne du dragon-coq est désignée comme le site d'une future capitale ou d'une future renaissance coréenne. L'épisode le plus documenté historiquement : Yi Seonggye, fondateur de la dynasty Joseon, envisagea sérieusement en 1393-1394 de déplacer la capitale à Gyeryongsan, sur la recommandation d'un géomanceur. Les travaux de construction commencèrent avant d'être abandonnés et la capitale fut finalement établie à Hanyang (Séoul).
+
+## NATURE
+
+Le Gyeryong est une créature prophétique et transitionnelle — son apparition ou sa présence signale des changements majeurs dans l'ordre politique et cosmique. Sa nature est ambivalente : potentiellement favorable aux humains qui méritent sa révélation, potentiellement terrible pour ceux qui ne sont pas dignes. Il est associé aux montagnes sacrées qui concentrent l'énergie géomantique (*pungsu* — version coréenne du feng shui) et aux lieux de transition entre les ères dynastiques.
+
+## HABITAT
+
+Le Gyeryong est associé spécifiquement au mont Gyeryongsan (계룡산 — 845 m, province de Chungcheongnam-do, Corée du Sud). Cette montagne est considérée dans la tradition prophétique coréenne comme un des lieux les plus chargés en énergie géomantique de la péninsule coréenne. Des grottes profondes, des cascades, et des pics isolés de la montagne sont ses résidences traditionnelles. Dans des traditions plus diffuses, d'autres montagnes de la péninsule peuvent aussi abriter des Gyeryong.
+
+## DESCRIPTION
+
+Le Gyeryong est décrit comme un grand être draciforme avec la tête d'un coq — la crête rouge du coq sur la tête reptilienne du dragon. Son corps est celui d'un serpent ou d'un dragon sinueux à écailles, ses couleurs variant selon les traditions : parfois d'or et de blanc (couleurs de bon augure), parfois de vert et de noir (couleurs de puissance montagnarde). Ses yeux sont décrits comme lumineux comme des lanternes dans l'obscurité des grottes. Dans certaines versions, il a des ailes rudimentaires ou des membres de tigre.
+
+## POUVOIRS
+
+Présage prophétique — son apparition indique un changement dynastique ou cosmique imminent. Gardiannat des trésors cachés de la montagne — les mines et les minerais précieux de Gyeryongsan sont sous sa protection. Capacité d'accorder des révélations aux humains méritants qui le rencontrent sur la montagne. Association avec l'énergie géomantique (*pungsu*) de la montagne — il incarne et amplifie la puissance du site. Dans certaines traditions chamaniques (*musok*), il peut être invoqué comme esprit auxiliaire.
+
+## FAIBLESSES
+
+Le chant du coq véritable — paradoxalement, sa composante aviaire le rend sensible au chant de l'aube qui dissipe les influences nocturnes. Des formules chamaniques (*musok*) peuvent contraindre ou éloigner le Gyeryong. Le manque de mérite ou de pureté spirituelle chez celui qui le cherche — une personne impure qui tente de voir le Gyeryong sera repoussée ou subira un malheur.
+
+## COMPORTEMENT
+
+Le Gyeryong est une créature discrète et rarement visible — il vit au cœur de la montagne et ne se manifeste que dans des circonstances exceptionnelles. Dans la tradition prophétique, sa manifestation précède les grands changements — des récits disent que le Gyeryong a été vu avant la chute de Goryeo et l'établissement de Joseon. Il ne cherche pas à nuire aux humains mais sa seule présence peut terrifier ceux qui le rencontrent imprévus dans les cavernes de la montagne.
+
+## RÉCITS TRADITIONNELS
+
+Un récit issu de la tradition *jeonggam* : un moine errant sur Gyeryongsan voit émerger d'un lac souterrain une créature draciforme à tête de coq. La créature le regarde et récite une prophétie : "Quand le coq chante depuis la montagne, la nouvelle ère commence." Le moine interprète cette vision comme annonçant la fin d'une période de troubles. Un autre récit : Yi Seonggye, avant de fonder Joseon, aurait reçu en rêve la révélation de Gyeryongsan par une créature correspondant au Gyeryong — ce rêve prophétique aurait motivé son enquête géomantique du site. Des récits locaux de la région de Chungnam documentent des paysans ayant rencontré brièvement un grand être écaillé à crête rouge dans les gorges de la montagne.
+
+## VARIANTES RÉGIONALES
+
+Des dragons hybrides avec des attributs aviaires existent dans d'autres traditions asiatiques — le Zhuque (vermilion bird/phoenix) chinois a des relations avec les dragons dans la cosmologie des Quatre Animaux. Des créatures hybrides dragon-oiseau dans des traditions japonaises (*toriryū*). La spécificité du Gyeryong est son association précise avec un site géographique réel (Gyeryongsan) et avec des prophéties politiques coréennes spécifiques — ce n'est pas un dragon générique mais un esprit territorial et prophétique lié à un lieu précis.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le mont Gyeryongsan est aujourd'hui un parc national coréen (Gyeryongsan National Park, établi 1968) et un centre actif de nouvelles religions et de chamanisme coréen contemporain — des dizaines de petits temples et sanctuaires chamaniques se trouvent au pied de la montagne, plusieurs associés à des pratiques invoquant les puissances du Gyeryong. Des films et des manhwa coréens utilisent le Gyeryong comme créature fantastique. Des romans de fantasy coréenne (*murim* ou *dark fantasy*) représentent des Gyeryong.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations dans des peintures de sanctuaires montagnards coréens (*sanshin-gak* — sanctuaire de l'esprit de la montagne) peuvent inclure des dragons-coqs dans les compositions ornementales. Des carreaux de faïence coréens et des décorations architecturales de la période Joseon incluent des motifs de dragon avec des attributs aviaires. Des récits illustrés dans des manuscrits de *jeonggam* incluent des représentations stylisées du site de Gyeryongsan et de ses créatures.
+
+## POUR ALLER PLUS LOIN
+
+Le Gyeryong illustre le phénomène des créatures prophétiques territorialement ancrées — des êtres dont l'existence même est liée à un site géographique précis et à sa charge symbolique. La tentative avortée de Yi Seonggye de déplacer la capitale à Gyeryongsan en 1393-1394 est documentée historiquement — des archéologues ont trouvé les fondations des bâtiments commencés puis abandonnés. Cette réalité historique encadre le Gyeryong dans un contexte où la créature mythologique et les décisions politiques concrètes s'entremêlent : la peur ou l'espoir suscités par la créature prophétique a influencé (ou servi de rationalisation à) une décision géopolitique réelle. Le Gyeryong est ainsi un exemple rare de créature dont on peut tracer l'impact sur l'histoire politique documentée.

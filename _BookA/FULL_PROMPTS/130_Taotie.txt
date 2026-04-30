@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Taotie
+  Tradition : Chinois
+═══════════════════════════════════════════════
+
+
+# TAOTIE
+
+## SIGNIFICATION DU NOM
+
+*Taotie* (饕餮) est composé de deux caractères chinois — *tāo* (饕, cupide, vorace) et *tiè* (餮, glouton) — formant ensemble "le glouton extrêmement vorace". Le terme apparaît dans des textes classiques comme description d'un glouton mythique — le *Zuozhuan* (Ve siècle AEC) mentionne le Taotie parmi les "quatre mauvaises choses" du monde mythique. Mais la figure iconographique — le masque bifacial des bronzes rituels Shang — précède de mille ans cette identification textuelle : les bronzes Shang représentent le masque depuis 1600 AEC, le nom "Taotie" n'y est pas appliqué avant les textes Zhou.
+
+## ORIGINE
+
+Le Taotie comme figure iconographique est documenté depuis la période Shang (vers 1600-1046 AEC) — les bronzes rituels Shang (*ding*, *jia*, *zun*) sont couverts de masques bifaciaux composites qui ont reçu rétrospectivement le nom de "Taotie". Ces masques — yeux exorbités, cornes, mâchoires sans corps — décoraient les vases utilisés dans les sacrifices rituels aux ancêtres. Leur signification précise reste débattue : la sinologie moderne ne s'accorde pas sur l'identité exacte de la figure représentée.
+
+## NATURE
+
+La nature du Taotie est ambiguë — les spécialistes des bronzes Shang débattent encore : est-ce un masque protecteur (apotropaïque), un totem d'ancêtres, un visage de divinité, ou une représentation de l'acte sacrificiel lui-même ? Dans la tradition textuelle Zhou qui le nomme, le Taotie est un être de voracité — il mange sans jamais être rassasié, il avale tout ce qui s'approche. Sa nature "gloutonne" peut être une interprétation tardive d'une figure originellement aux fonctions rituelles différentes.
+
+## HABITAT
+
+Dans les textes classiques, le Taotie n'a pas d'habitat géographique précis — il appartient au monde mythique des "quatre mauvaises choses" (aux côtés d'autres entités destructrices). Dans la réalité matérielle, le Taotie "habite" les bronzes rituels — il est présent sur les vases utilisés lors des sacrifices ancestraux, surveillant l'espace rituel.
+
+## DESCRIPTION
+
+La représentation iconographique standard (bronzes Shang-Zhou) : un masque facial frontal avec des yeux exorbités et protubérants, des cornes recourbées, des sourcils épais, des mâchoires et des dents proéminentes. Le corps est absent ou réduit à des ailes ou des membres vestigiaux de chaque côté du masque — comme si la face seule existait, sans corps, pur visage de voracité. La symétrie est parfaite (comme si deux profils d'animaux se faisaient face). La composition de base — yeux, cornes, mâchoires — est présente sur des milliers de bronzes avec d'innombrables variations.
+
+## POUVOIRS
+
+Dans la tradition textuelle : voracité sans limite — il avale tout ce qui s'approche. Capacité de "manger" les malheurs et les mauvais esprits — fonction apotropaïque que lui attribuent certains chercheurs. Dans les récits classiques qui le citent (rares), il est un être de malédiction — associé à la famine, à l'excès destructeur, à la gloutonnerie morale et physique. Son pouvoir est fondamentalement corrosif : comme il consume tout, il peut aussi "consumer" les maux qui touchent celui qui le possède.
+
+## FAIBLESSES
+
+Dans les textes, le Taotie est présenté comme un être vaincu par des sages-rois légendaires — Chiyou (le rebelle divin) et ses variantes sont parfois associés au Taotie. Il est énuméré parmi les "mauvaises choses" que l'ordre mythique doit contrôler ou exiler. Sa voracité elle-même peut être sa faiblesse — un être qui ne peut que consommer finit par consumer tout, y compris ce qui le maintenait en vie.
+
+## COMPORTEMENT
+
+Le Taotie dans les textes : une figure de gloutonnerie pathologique — il mange, il avale, il ne s'arrête jamais. Utilisé comme figure morale, il représente l'excès de désir (particulièrement de nourriture) comme vice royal ou aristocratique. Le Zuozhuan le classe parmi les "quatre maux" comme exemple de glouton cupide. Sur les bronzes, son "comportement" est statique — le masque surveille, protège ou symbolise.
+
+## RÉCITS TRADITIONNELS
+
+Le *Zuozhuan* (464 AEC environ) énumère les "quatre mauvaises choses" bannis ou vaincus par les sages-rois anciens : Hundun (chaos), Qionqi (malveillance), Taowu (imprévisibilité), et Taotie (gloutonnerie/voracité). Le Taotie est décrit comme quelqu'un qui "préférait la nourriture et les boissons et thésaurisait des vêtements et des richesses, ne partageant jamais avec les pauvres". Cette description morale est très éloignée de l'iconographie terrifiante des bronzes — ce qui suggère que le nom "Taotie" a peut-être été appliqué rétrospectivement à une figure iconographique dont le sens originel était différent.
+
+## VARIANTES RÉGIONALES
+
+Le masque en yeux-proéminents du Taotie a des parallèles dans d'autres traditions de masques rituels asiatiques — des masques similaires existent dans des cultures de l'Asie du Sud-Est préhistorique. Dans le Japon médiéval, le Tōtetsu (translittération du Taotie) apparaît dans des textes bouddhistes et dans des décorations de temple. Des motifs similaires de "masques vorants" apparaissent dans des cultures qui n'ont pas eu de contact avec la Chine ancienne (Amérique précolombienne, Océanie) — ce qui a conduit certains à y voir un archétype universel.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Taotie est très présent dans l'art et le design contemporains chinois — des marques de luxe, des designers de mode, et des artistes contemporains s'approprient le masque Taotie comme symbole de l'identité culturelle chinoise ancienne. Dans la culture pop, le film américano-chinois *La Grande Muraille* (2016, Zhang Yimou) utilise les Taoties comme antagonistes monstrueux — une adaptation libre qui a popularisé le nom mais déformé la figure. Des millions de visiteurs de musées (Shanghai Museum, Palace Museum) voient des bronzes Taotie régulièrement.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les bronzes rituels Shang et Zhou (1600-256 AEC) sont l'iconographie principale — des milliers de vases, de cloches (*bianzhong*), d'armes rituelles portent le motif Taotie. Ces objets sont dans les collections des grands musées mondiaux (British Museum, Metropolitan, Shanghai Museum, Palace Museum de Pékin). Les masques de jade et de marbre à motifs similaires complètent le corpus iconographique.
+
+## POUR ALLER PLUS LOIN
+
+Le Taotie illustre comment une figure iconographique peut exister pendant des millénaires avant d'être nommée et narrativisée. Le masque des bronzes Shang est connu depuis 3 600 ans — mais sa "narrativisation" comme "monstre de la gloutonnerie" ne date que de 2 400 ans. Cette dissociation entre image et texte est rare et révélatrice : le Taotie est une figure dont l'apparence a précédé l'histoire. Ce mystère est au cœur de l'attrait qu'il exerce sur les spécialistes et le public — un visage de 3 500 ans dont on ne connaît toujours pas exactement ce que ses créateurs voulaient dire.

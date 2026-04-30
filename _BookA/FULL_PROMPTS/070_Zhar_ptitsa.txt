@@ -1,0 +1,142 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Zhar_ptitsa
+  Tradition : Slave
+═══════════════════════════════════════════════
+
+
+# ZHAR-PTITSA
+
+## SIGNIFICATION DU NOM
+
+*Zhar* désigne en russe la chaleur ardente, la braise, l'éclat de feu. *Ptitsa* est l'oiseau. La Zhar-ptitsa est littéralement l'« oiseau-braise » — non pas un oiseau de flammes actives mais un oiseau dont le plumage brille comme des braises, comme de l'or en fusion, comme la lumière au cœur du feu. Le terme tchèque *Ohnivák* vient de *oheň* (feu) — même concept, autre formulation.
+
+## ORIGINE
+
+La Zhar-ptitsa est une figure centrale des contes merveilleux russes — les *skazki* — attestée dans de nombreuses versions dès les premières collectes d'Afanassiev au XIXe siècle. Elle appartient à un archétype pan-slave d'oiseau lumineux fabuleux dont on trouve des équivalents en Serbie (*zlatna ptica* — oiseau doré), en Pologne (*złoty ptak*) et dans les traditions baltes (*Ohnivák*). Sa présence dans les cycles héroïques remonte probablement à des sources orales médiévales.
+
+## NATURE
+
+La Zhar-ptitsa n'est pas un oiseau ordinaire dont le plumage serait peint en or — elle rayonne une lumière propre, permanente, qui ne peut pas être éteinte. Elle est le symbole vivant de la beauté inaccessible et du désir insatiable. Elle n'est pas malveillante mais sa simple présence dans le monde humain crée des désirs impossibles : le tsar qui voit sa plume veut l'oiseau entier ; le tsar qui a l'oiseau veut encore davantage. Elle est la figure de la quête sans fin.
+
+## HABITAT
+
+Elle vit dans des contrées lointaines — au bord du monde, dans des jardins enchantés où les pommiers portent des pommes d'or, dans les domaines d'êtres fabuleux au-delà des mers ou des forêts impénétrables. Elle vient parfois dans le monde humain la nuit, dans les vergers royaux, pour manger les pommes d'or — c'est ce comportement qui déclenche les quêtes héroïques.
+
+## DESCRIPTION
+
+Oiseau de la taille d'un paon ou d'un aigle. Son plumage est d'or et de feu — chaque plume brille comme une bougie allumée. Ses yeux sont des cristaux lumineux. Quand elle vole, sa traînée lumineuse illumine la nuit entière. Une seule plume perdue garde son éclat indéfiniment. Son chant est d'une beauté insupportable — comme son plumage, il crée un désir qui ne peut être satisfait.
+
+## POUVOIRS
+
+- Rayonnement lumineux constant — une plume illumine une grande salle
+- Plumes aux propriétés magiques : une seule plume révèle les menteurs, guérit les aveugles selon les versions
+- Vol silencieux et rapide — impossible à attraper ordinairement
+- Ses pommes d'or ont des propriétés rajeunissantes dans certaines versions
+- Sa simple vision inspire un désir irrésistible qui pousse les rois à envoyer leurs fils en quête
+- Elle peut parler — rarement, et seulement avec les héros dignes d'elle
+
+## FAIBLESSES
+
+- Elle peut être capturée par un héros patient qui la guette dans le jardin royal
+- La tentation du sommeil : elle endort ses observateurs, d'où la difficulté des veilles
+- Un licol magique ou un filet enchanté peut la retenir
+- Elle se laisse parfois prendre volontairement — sens ambigu dans les contes
+
+## COMPORTEMENT
+
+La Zhar-ptitsa est distante et indifférente au désir qu'elle provoque. Elle ne cherche pas à attirer les humains — elle existe simplement, et son existence crée des désirs impossibles. Elle vient dans les jardins royaux la nuit pour ses raisons propres, sans tenir compte des gardes ou des pièges. Si elle est capturée et traitée avec respect, elle peut aider son capteur. Si elle est maltraitée, elle disparaît dès qu'elle le peut.
+
+Dans les structures narratives des skazki : la Zhar-ptitsa est toujours le premier objectif, jamais le final. On la capture, puis on doit faire autre chose — obtenir un cheval magique, une princesse lointaine. Elle est l'accélérateur de la quête, pas sa conclusion.
+
+## RÉCITS TRADITIONNELS
+
+Cycle d'Ivan et l'Oiseau de feu (Afanassiev, recueils XIXe siècle) : un roi a un pommier aux pommes d'or. Chaque nuit, une créature lumineuse vole les pommes. Ses fils aînés montent la garde mais s'endorment. Ivan Tsarevitch, le plus jeune, veille et attrape une plume de l'oiseau. Le tsar, voyant la plume, veut l'oiseau entier. Ivan part, rencontre un cheval magique gris, capture l'oiseau, puis doit obtenir la Belle Hélène du bord de la mer, puis ressuscite trois fois, et finit tsar. La Zhar-ptitsa est l'étincelle initiale de toute cette chaîne.
+
+Variation ukrainienne : l'oiseau de feu n'est pas capturé — seulement une plume récupérée. La plume elle-même suffit à déclencher la quête. Celui qui la possède ne peut pas s'en défaire — elle brûle les mains de ceux qui ne méritent pas de la porter.
+
+## VARIANTES RÉGIONALES
+
+*Ohnivák* tchèque et slovaque : même oiseau, traditions narratives légèrement différentes — les cycles héroïques tchèques l'intègrent dans des quêtes plus explicitement royales et politiques. *Zlatna ptica* serbe : oiseau d'or balkanique, moins associé au feu, plus à l'or — reflet possible d'influences byzantines sur l'imaginaire serbe médiéval. *Złoty ptak* polonais : variante plus proche du folklore merveilleux occidental, parfois confondu avec le phénix dans les récits polonais lettrés.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Zhar-ptitsa a connu une diffusion extraordinaire dans la culture mondiale via Stravinski (*L'Oiseau de feu*, 1910) et les adaptations animées soviétiques et occidentales. Ces adaptations l'ont isolée de sa fonction narrative dans les skazki — elle est devenue une icône visuelle détachée de la logique de la quête. Le folklorique est plus sobre : l'oiseau compte moins que ce que sa capture déclenche chez le héros. Sa beauté est instrumentale, pas contemplative.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les enluminures des manuscrits russes médiévaux représentent des oiseaux fabuleux lumineux dans des jardins paradisiaques. L'art populaire russe sur laque (Palekh, Mstera) fait de la Zhar-ptitsa un motif central — or sur fond noir, plumes rayonnantes. Les Lubok (gravures populaires russes) du XVIIIe-XIXe siècles illustrent les cycles d'Ivan avec l'oiseau de feu comme figure centrale.
+
+## POUR ALLER PLUS LOIN
+
+- Alexandre Afanassiev, *Narodnye russkie skazki* (1855-1863) — cycles Ivan et l'Oiseau de feu
+- Vladímir Propp, *Morphologie du conte* (1928)
+- Elizabeth Warner, *Russian Myths* (2002)
+- Igor Stravinski, *L'Oiseau de feu* (1910) — point d'entrée culturel moderne

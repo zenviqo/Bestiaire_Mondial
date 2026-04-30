@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Ninki_Nanka
+  Tradition : Africain
+═══════════════════════════════════════════════
+
+
+# NINKI NANKA
+
+## SIGNIFICATION DU NOM
+
+*Ninki Nanka* en mandinka est un nom propre de la créature — son étymologie précise est débattue. Certaines sources suggèrent une dérivation liée aux concepts de "grande chose dans l'eau" dans des langues de la région sénégambienne, mais il s'agit d'un nom propre reconnu comme tel dans les traditions orales mandinka et wolof. Ce n'est pas un terme générique pour désigner des serpents ou des créatures aquatiques — c'est le nom spécifique de cette entité particulière. Sa réputation est suffisamment établie pour que le nom soit prononcé à voix basse dans certaines communautés riveraines.
+
+## ORIGINE
+
+Le Ninki Nanka est documenté dans les traditions orales mandinka de la région du fleuve Gambie depuis au moins plusieurs siècles. Des références européennes à des créatures serpentines géantes dans le fleuve Gambie apparaissent dans des récits de voyageurs du XVIIe-XIXe siècles. Des expéditions cryptozoologiques menées dans les années 2000 (notamment l'expédition Centre for Fortean Zoology de 2006) ont recueilli des dizaines de témoignages contemporains de villageois de la région. Le Ninki Nanka est l'un des cryptides africains les mieux documentés — au sens de la richesse des témoignages oraux locaux.
+
+## NATURE
+
+Le Ninki Nanka est une créature de mort — son contact, ou même sa seule vision, est réputé mortel à terme. Il ne tue pas directement mais sa présence provoque une maladie qui tue dans les jours ou les semaines suivant la rencontre. C'est un être territorial des zones les plus profondes et les plus inaccessibles des mangroves — il ne cherche pas les humains mais les humains qui s'aventurent dans son territoire meurent. Sa nature est celle d'un prédateur passif dont le territoire est une zone mortelle.
+
+## HABITAT
+
+Le Ninki Nanka habite les zones les plus profondes et les moins explorées des mangroves du fleuve Gambie et de ses affluents — particulièrement dans le Parc national de Kiang West et les marécages du Niumi. Les zones de mangroves denses où les bras du fleuve deviennent innavigables pour les grandes embarcations sont ses zones de prédilection. Dans la tradition mandinka, certaines zones spécifiques du fleuve sont désignées comme territoire du Ninki Nanka et évitées par les pêcheurs expérimentés. Des zones comparables sont signalées dans la Casamance sénégalaise et dans des rivières de Guinée-Bissau.
+
+## DESCRIPTION
+
+Les descriptions varient mais convergent sur plusieurs points : une créature serpentine d'une longueur extraordinaire — les estimations vont de 10 à plus de 30 mètres dans les récits recueillis. Une tête décrite parfois comme ressemblant à un cheval ou à une girafe selon les versions — avec un long cou et des petites cornes ou des excroissances. Des écailles irisées ou brillantes. Dans certains récits, des ailes rudimentaires ou des nageoires. Sa présence peut être signalée avant sa vision par des perturbations dans l'eau — des bulles, des remous, une odeur particulière.
+
+## POUVOIRS
+
+Mortalité par vision — ceux qui voient le Ninki Nanka de près meurent d'une maladie non spécifiée dans les jours suivants. Dans certains récits, même voir son reflet dans l'eau est dangereux. Taille suffisante pour renverser des pirogues. Capacité de se déplacer rapidement dans des zones d'eau peu profondes et dans les mangroves. Dans certaines versions, il peut temporairement sortir de l'eau et se déplacer sur terre. Des émanations ou une odeur qui précèdent la mort de ceux qui l'ont approché de trop près.
+
+## FAIBLESSES
+
+La distance — les témoins qui l'aperçoivent de loin et reculent immédiatement sont réputés survivre. Des rituels de protection effectués par des *marabouts* (spécialistes religieux islamiques de la région) avant de s'aventurer dans des zones connues. Éviter de nommer la créature directement dans certains contextes (son nom est parfois prononcé à voix basse). Des amulettes et des gris-gris de protection portés par les pêcheurs opérant près de ses zones.
+
+## COMPORTEMENT
+
+Le Ninki Nanka ne chasse pas activement les humains — c'est un être territorial dont la présence elle-même est le danger. Il se déplace dans les mangroves profondes, visible seulement aux navigateurs imprudents qui pénètrent trop loin dans son territoire. Dans certains récits, il se manifeste plus souvent à certaines saisons — pendant la saison des pluies quand les niveaux d'eau montent et élargissent son domaine. Des crocodiles et d'autres animaux fuient sa présence.
+
+## RÉCITS TRADITIONNELS
+
+Un récit recueilli par l'expédition CFZ de 2006 dans la région de Bansang (Gambie centrale) : un pêcheur et son apprenti entrent dans une zone de mangrove inhabituelle pour tendre des filets. L'apprenti aperçoit une créature énorme — un long cou au-dessus de l'eau, des écailles brillantes. Ils fuient. Le maître pêcheur récite immédiatement des formules protectrices. L'apprenti, qui a regardé plus longuement, tombe malade le lendemain et meurt trois semaines plus tard. Le maître pêcheur, qui a détourné le regard immédiatement, survit mais ne retourne jamais dans cette zone.
+
+## VARIANTES RÉGIONALES
+
+Des créatures comparables sont signalées dans d'autres grands fleuves et zones marécageuses d'Afrique subsaharienne — le *Mokele-Mbembe* du bassin du Congo (nature différente mais parallèle cryptozoologique), des serpents géants dans des lacs et des rivières du Cameroun et du Gabon. Dans les traditions mandinka, le Ninki Nanka est une figure distincte et spécifique — pas un terme générique. Des *masalai* mélanésiens (déjà dans ce bestiaire) présentent des parallèles dans leur association à des zones interdites d'eau.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Ninki Nanka a attiré l'attention des cryptozoologues depuis les années 1990-2000. L'expédition Centre for Fortean Zoology (CFZ) de 2006 en Gambie a documenté de nombreux témoignages. Des journalistes et des documentaristes ont couvert la figure. Dans les communautés rurales gambienne, la créature reste une réalité narrative contemporaine — pas un mythe ancien mais une menace active dans les zones reculées du fleuve.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Pas d'iconographie traditionnelle formelle connue pour le Ninki Nanka dans les traditions mandinka — les cultures de la région sénégambienne ne produisent pas d'arts plastiques de représentation des créatures du folklore comparable aux traditions de l'Afrique de l'Ouest côtière. Des masques de sociétés initiatiques mandinka représentent des esprits de la nature mais pas le Ninki Nanka spécifiquement. Des illustrations dans des publications cryptozoologiques contemporaines (CFZ) constituent les principales représentations visuelles.
+
+## POUR ALLER PLUS LOIN
+
+Le Ninki Nanka illustre la catégorie des zones prohibées — des espaces naturels que les communautés locales maintiennent hors des limites du quotidien par le biais de récits de danger. Que le Ninki Nanka soit ou non une créature réelle (les candidats biologiques incluent des crocodiles de Nile exceptionnellement grands, des pythons de rocher géants, ou des anacondas géants inconnus dans la région), sa fonction est de préserver des zones écologiquement sensibles des mangroves gambienne d'une exploitation excessive. C'est une protection surnaturelle d'un écosystème fragile.

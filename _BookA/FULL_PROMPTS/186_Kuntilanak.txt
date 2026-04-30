@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Kuntilanak
+  Tradition : Indonesie
+═══════════════════════════════════════════════
+
+
+# KUNTILANAK
+
+## SIGNIFICATION DU NOM
+
+*Kuntilanak* (ou *Pontianak* en malais) — l'étymologie est disputée. Une version : *kunti* (femme déchue, maudite) + *anak* (enfant) — "l'enfant de la femme maudite". Une autre interprétation : de *ponti* (emprisonner) + *anak* (enfant) — "emprisonner l'enfant". La ville malaisienne de *Kota Pontianak* ("cité des Pontianak") en Kalimantan (Bornéo) tire son nom de la présence supposée massive de ces esprits dans les zones marécageuses lors de sa fondation par le sultan Abdurrahman au XVIIIe siècle. La variante *Kuntilanak* est indonésienne, *Pontianak* est malaise — mais la créature est essentiellement identique.
+
+## ORIGINE
+
+Le Kuntilanak/Pontianak est documenté dans les traditions orales de nombreux peuples d'Asie du Sud-Est maritime — Malais, Javanais, Sundanais, Dayaks de Bornéo, populations de Sumatra. Son origine dans la tradition : des femmes mortes en accouchant (ou juste avant d'accoucher) dont l'âme reste bloquée entre le monde des vivants et des morts — ni femme accomplie (elle n'a pas élevé son enfant) ni morte en paix (mort violente, inachevée). Cette âme errante devient un Kuntilanak.
+
+## NATURE
+
+Le Kuntilanak est l'esprit d'une femme morte en couches — une mort rituelle profondément traumatisante dans les cosmologies malayo-indonésiennes. L'âme incapable d'atteindre la paix reste dans le monde des vivants sous une forme monstrueuse. Sa nature est vengeresse — elle souffre et cherche à faire souffrir, particulièrement les hommes qui peuvent lui rappeler son destin ou les femmes enceintes dont la situation lui rappelle douloureusement ce qu'elle n't pas pu accomplir.
+
+## HABITAT
+
+Le Kuntilanak habite les bananiers — tradition qu'il partage avec la Nang Tani thaïlandaise (mais avec une nature beaucoup plus malveillante). Il se trouve particulièrement dans les zones humides et sombres — marécages, jungles denses, zones proches des cimetières ou des hôpitaux. La nuit, il peut se trouver n'importe où. Il est attiré par la lumière dans l'obscurité et par les odeurs de sang ou de naissance.
+
+## DESCRIPTION
+
+Apparence d'une belle femme en robe blanche avec de longs cheveux noirs qui couvrent son visage. Sa peau est pâle — presque translucide. Quand elle se retourne, son visage peut être normal (belle, triste) ou monstrueux selon les récits et le moment. Son dos est creux — comme une coquille vide. Dans certains récits malais, son visage a un trou au milieu ou un regard creux. Elle flotte légèrement au-dessus du sol. Son odeur est celle du *plumeria* (fleur funèbre) ou d'une odeur douce-amère de décomposition.
+
+## POUVOIRS
+
+Capacité de terrifier jusqu'à la folie ou la mort par simple présence. Dans certains récits, elle attaque physiquement — griffant et mordant. Elle attire les hommes par sa beauté avant de leur révéler sa nature monstrueuse. Elle peut causer des fausses couches ou des complications à l'accouchement par sa jalousie des femmes enceintes. Son cri — un rire ou un pleur — peut être entendu de loin, et son volume donne des indications sur sa distance : si le son est loin, elle est proche ; si le son est proche, elle est loin.
+
+## FAIBLESSES
+
+Une méthode de neutralisation dans la tradition malaise : si un homme attrape et retient le Kuntilanak, il peut lui planter un clou dans un trou à l'arrière de son cou (ou dans sa nuque) — elle devient alors son esclave et sa servante jusqu'à ce que le clou soit retiré. Des pointes ou des clous dans les arbres qu'elle habite. La prière islamique (*zikr*, *ayat kursi*) peut la repousser. Des amulettes et des textes du Coran protègent les maisons.
+
+## COMPORTEMENT
+
+Le Kuntilanak apparaît surtout la nuit. Il se manifeste souvent par son odeur et son rire ou pleur — signal d'alarme pour ceux qui le reconnaissent. Il attire les hommes solitaires en se montrant d'abord comme une belle femme mystérieuse, puis révèle sa vraie nature. Il est attiré vers les maisons où une femme est sur le point d'accoucher — sa jalousie et sa douleur le poussent vers les naissances qu'il ne peut pas avoir. Des histoires de nourrissons pris ou substitués lui sont attribuées.
+
+## RÉCITS TRADITIONNELS
+
+Un récit de Kalimantan : un travailleur de plantation rentre seul la nuit le long d'un chemin de jungle. Il entend un rire de femme loin devant lui. Connaissant la règle (le son loin = elle est proche), il s'arrête et récite des prières. Rien ne se passe. Il continue. À l'entrée du village, un bananier à côté du chemin exhale soudainement une odeur sucrée. Il court sans se retourner jusqu'à sa maison et barre la porte. Le lendemain matin, des marques de griffes sont sur la porte. Il remercie ses prières et n'emprunte plus ce chemin seul après la tombée de la nuit.
+
+## VARIANTES RÉGIONALES
+
+Le Kuntilanak/Pontianak est la variante malayo-indonésienne d'un type plus répandu en Asie du Sud-Est : les esprits de femmes mortes en couches. La *Phi Tai Hong* thaïlandaise (morte de mort violente, y compris en couches) est comparable. La *Churail* indienne et pakistanaise (femme morte pendant la grossesse, pieds inversés) est structurellement similaire. Ces figures de "femmes mortes lors des couches" semblent universelles dans les sociétés à haute mortalité maternelle.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Kuntilanak/Pontianak est la créature de cinéma d'horreur la plus populaire d'Asie du Sud-Est — des dizaines de films malaisiens et indonésiens le mettent en scène depuis les années 1950. Le film malaisien *Pontianak* (1957) est l'un des premiers films d'horreur en langue malaise. Des séries télévisées modernes, des jeux vidéo, et de nombreux films d'horreur asiatiques contemporains utilisent la figure. La ville de Pontianak, Kalimantan, est une destination touristique "paranormale" qui joue sur son nom.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Il n'existe pas d'iconographie formelle précoloniale du Kuntilanak — les traditions malayo-indonésiennes préislamiques ne produisaient pas d'art figuratif représentant les esprits. Des illustrations dans des récits de voyageurs européens en Malaisie et en Indonésie des XIXe-XXe siècles représentent parfois des "fantômes locaux" comparables. L'iconographie cinématographique depuis les années 1950 — femme en robe blanche, longs cheveux noirs, regard vide — est maintenant la représentation standard mondiale.
+
+## POUR ALLER PLUS LOIN
+
+Le Kuntilanak encode l'une des peurs les plus fondamentales des sociétés à haute mortalité maternelle : la mort en couches, incompréhensible et injuste. La mère morte avant de voir son enfant grandir incarne une tragédie irrésolue — et cette tragédie irrésolue devient une âme irrésolue. La figure du Kuntilanak dit que les morts laissés dans l'incomplétude restent dans le monde des vivants sous forme monstrueuse. Cette logique — mort incomplète = présence monstrueuse — est une façon culturellement précise de comprendre le deuil non résolu.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Gumiho
+  Tradition : Coreen
+═══════════════════════════════════════════════
+
+
+# GUMIHO
+
+## SIGNIFICATION DU NOM
+
+*Gumiho* (구미호) s'écrit en hanja 九尾狐 — *gu* (neuf), *mi* (queue), *ho* (renard). C'est le *renard à neuf queues*, figure partagée avec les traditions chinoise et japonaise mais distinctement coréenne dans son expression. Les neuf queues représentent une longévité de 1000 ans — un renard doit avoir vécu mille ans pour acquérir toutes ses queues. Le nombre neuf est symboliquement puissant dans la pensée est-asiatique — associé à l'accomplissement, à l'extrême.
+
+## ORIGINE
+
+Le Gumiho est attesté dans les textes coréens depuis la période Goryeo (918-1392) et se développe pleinement dans la littérature et le folklore de la période Joseon (1392-1897). Figure similaire existe en Chine (*Huli Jing*) et au Japon (*Kitsune*), mais le Gumiho coréen a des caractéristiques distinctives — notamment une nature plus sombre et moins ambivalente que le Kitsune japonais, et une obsession plus marquée pour le foie humain comme source de transformation.
+
+## NATURE
+
+Le Gumiho est une renarde qui a vécu 1000 ans et a acquis une intelligence et des pouvoirs surnaturels. Elle désire devenir humaine — la transformation ultime, passer du monde animal au monde humain. Pour y parvenir, elle doit manger 1000 foies humains (ou parfois cœurs, selon les versions). Cette quête désespérée en fait à la fois une prédatrice et, dans certains récits, une figure tragique — un être qui aspire à la plénitude humaine par des moyens impossibles.
+
+## HABITAT
+
+Le Gumiho vit dans les montagnes et les forêts reculées — son espace naturel de renard. Mais elle entre dans les villages et les villes sous sa forme humaine, cherchant ses victimes parmi les voyageurs, les jeunes hommes seuls, les hôtes d'auberge. Elle peut maintenir sa forme humaine pendant de longues périodes si elle s'abstient de tuer.
+
+## DESCRIPTION
+
+Sa forme naturelle est celle d'une grande renarde avec neuf queues. Sa forme humaine est d'une beauté surnaturelle — parfaitement féminine, jeune, séduisante. Elle peut maintenir cette forme indéfiniment mais les signes de sa véritable nature peuvent être révélés : vue dans un miroir, ses queues de renard apparaissent. Certains récits indiquent qu'elle a des yeux dont les pupilles restent celles d'un renard même sous forme humaine.
+
+## POUVOIRS
+
+Métamorphose complète et convaincante sous forme humaine. Séduction surnaturelle — les hommes ne peuvent pas résister à son attrait. Extraction des foies et cœurs de ses victimes sans laisser de trace apparente. Connaissance des herbes et des arts de guérison — une Gumiho qui souhaite cacher sa nature peut se faire passer pour une guérisseuse. Longévité extraordinaire.
+
+## FAIBLESSES
+
+Sa nature peut être révélée par un miroir — les reflets montrent ses vraies formes. Si elle peut s'abstenir de manger un foie humain pendant 1000 jours (ou dans certaines versions, si un homme l'aime sincèrement pendant 100 ans sans révéler son secret), elle peut achever sa transformation en humaine. Cette condition transformatrice est sa grande fragilité narrative.
+
+## COMPORTEMENT
+
+Le Gumiho est fondamentalement seul et désespéré. Sa prédation n'est pas de la cruauté — c'est la conséquence d'un désir irrépressible de transcender sa condition. Dans les récits les plus nuancés, une Gumiho qui rencontre un homme capable de l'aimer peut choisir de ne pas le tuer — au prix de renoncer à sa transformation. Ce choix — amour vs transcendance — est le cœur de sa complexité narrative.
+
+## RÉCITS TRADITIONNELS
+
+Un conte classique de la période Joseon : un voyageur s'arrête dans une auberge tenue par une belle femme. La nuit, il la surprend en train de déterrer un pot de foies dans le jardin. Il réalise qu'elle est une Gumiho et prépare sa fuite. Elle le découvre et le poursuit. Il trouve refuge dans un monastère bouddhiste — lieu protégé où elle ne peut pas entrer. Elle attend des jours, finit par abandonner.
+
+## VARIANTES RÉGIONALES
+
+Le Gumiho coréen est généralement plus sombre que le Kitsune japonais (qui peut être protecteur) et plus clairement féminin et séducteur que le Huli Jing chinois. Les traditions coréennes sont moins ambivalentes sur sa nature — elle est davantage définie comme dangereuse que ses équivalents est-asiatiques.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture pop coréenne contemporaine (K-drama, webtoon, manhwa) a massivement réinterprété le Gumiho — la série *My Girlfriend is a Gumiho* (2010) est emblématique d'une tendance à romanticiser la figure, en faisant une héroïne sympathique qui cherche à devenir humaine. Cette version adoucit considérablement la dimension prédatrice originelle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les illustrations coréennes classiques de la période Joseon représentent le Gumiho sous ses formes animale et humaine. Les *minhwa* (peintures populaires) de renards sont abondantes. Les écrans décoratifs montrant des paysages avec des renards sont courants dans l'art coréen de cette période.
+
+## POUR ALLER PLUS LOIN
+
+Le Gumiho pose une question fondamentale sur la nature et la culture : peut-on *devenir* humain par la force de la volonté, même si on est né autre chose ? Sa quête — manger 1000 foies pour transcender sa condition — est une métaphore brutale d'un désir d'appartenance et d'identité. La réponse des récits traditionnels est généralement négative : on ne transcende pas sa nature par la consommation des autres.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cabrakan
+  Tradition : Maya
+═══════════════════════════════════════════════
+
+
+# CABRAKAN
+
+## SIGNIFICATION DU NOM
+
+*Cabracán* (K'iche' : Cabraqan) est composé de *cab* (deux, deuxième) et *rakan* (jambe, pied) — "deux pieds", "celui aux deux pieds". Dans une interprétation alternative, certains mayologues voient dans *cab* une racine liée à la Terre et *rakan* (jambe) l'idée de "frappe la terre de ses pieds" — soit "celui qui frappe la terre" — une désignation de sa fonction sismique. Il est le "briseur de montagnes" dans le *Popol Vuh*.
+
+## ORIGINE
+
+Cabrakan (Cabracán) apparaît dans le *Popol Vuh* — le livre sacré des K'iche' mayas des Hautes-Terres du Guatemala, transcrit en écriture latine vers 1550-1560 par des scribes K'iche' d'après une tradition orale et peut-être d'anciens textes hiéroglyphiques mayas. Cabrakan est le fils de Vucub-Caquix (Sept Aras) et de Chimalmat, et le frère de Zipacna (déjà dans ce bestiaire comme géant constructeur-destructeur). Il est vaincu par les Jumeaux Héroïques Hunahpu et Xbalanque dans la même séquence narrative que Vucub-Caquix et Zipacna.
+
+## NATURE
+
+Cabrakan est un géant tellurique — son domaine est la terre et les tremblements de terre. Là où Zipacna son frère est un géant aquatique et constructeur (qui forme les montagnes), Cabrakan est un géant destructeur (qui détruit les montagnes). Sa présomption est comparable à celle de son père Vucub-Caquix — il se vante d'une grandeur qui outrepasse les limites établies par les dieux. Dans la cosmologie du *Popol Vuh*, cette présomption doit être corrigée par les Jumeaux Héroïques.
+
+## HABITAT
+
+Cabrakan vit dans les zones de haute montagne des Hautes-Terres du Guatemala — il erre parmi les montagnes de la région maya, les écrasant sous ses pieds ou les faisant s'effondrer par de grands gestes. Il est un être de la géographie — son habitat est le paysage montagneux lui-même. Les zones de forte activité sismique des Hautes-Terres du Guatemala (une région géologiquement active) constituent le contexte naturel de ses récits.
+
+## DESCRIPTION
+
+Cabrakan est un géant de taille colossale — son corps doit être suffisamment grand pour que ses pas causent des tremblements de terre et que ses bras puissent renverser des montagnes. Dans les représentations artistiques inspirées du *Popol Vuh*, il est souvent montré comme un être massif, imposant, avec des caractéristiques qui l'associent à la terre — des tons terreux, une musculature de géant, un aspect de puissance brute. Ses gestes sont des phénomènes géologiques.
+
+## POUVOIRS
+
+Tremblements de terre — son mouvement, ses pas, et ses gestes causent des séismes. Destruction des montagnes — il peut abattre des montagnes entières. Force physique colossale. Présence terrifiante — sa simple approche cause des désastres géologiques. Dans le *Popol Vuh*, il se vante qu'il peut "déplacer les montagnes" et "faire trembler la terre" — des capacités qu'il manifeste réellement dans le texte.
+
+## FAIBLESSES
+
+La ruse des Jumeaux Héroïques — Hunahpu et Xbalanque ne peuvent pas le vaincre par la force directe, mais l'empoisonnent par la ruse. Ils lui offrent un oiseau rôti frotté de terre — la terre avec laquelle ils l'ont enduit annule ses forces. Cette faiblesse par ingestion de terre est poétiquement inversée — la terre qui est son pouvoir devient son vecteur de défaite.
+
+## COMPORTEMENT
+
+Cabrakan se comporte avec une arrogance de géant — il proclame sa puissance et la démontre en renversant des montagnes. Dans sa rencontre avec les Jumeaux Héroïques du *Popol Vuh*, il est représenté comme un être présomptueux mais pas entièrement malveillant — il répond aux offres de nourriture, il est sensible aux plaisirs ordinaires malgré sa stature. Cette accessibilité est ce que les Jumeaux exploitent pour le vaincre.
+
+## RÉCITS TRADITIONNELS
+
+Tiré du *Popol Vuh* (deuxième partie, section sur les fils de Vucub-Caquix) : les Jumeaux Héroïques Hunahpu et Xbalanque apprennent qu'ils doivent vaincre Cabrakan, frère de Zipacna, comme ils ont vaincu leur père. Ils l'approchent dans les montagnes. Cabrakan démontre son pouvoir — d'un simple geste, il renverse une grande montagne. Les Jumeaux l'admirent et lui proposent de chasser un oiseau ensemble puis de le manger. Ils chassent un oiseau géant (dans certaines versions, une caille ou un grand volatile de la forêt montagnarde) et le font rôtir. Pendant la cuisson, ils frottent secrètement la chair de l'oiseau avec de la terre. Cabrakan mange l'oiseau préparé. La terre dans sa chair neutralise sa force — il perd sa puissance tellurique. Les Jumeaux le lient et l'enterrent, annulant ses capacités de destruction des montagnes. Ainsi les grandes montagnes ne risquent plus d'être renversées.
+
+## VARIANTES RÉGIONALES
+
+Des géants telluriques responsables des tremblements de terre existent dans de nombreuses traditions — des Titans grecs aux géants nordiques en passant par des esprits des tremblements de terre dans des traditions amérindiennes. Dans la tradition maya, Zipacna (frère de Cabrakan, déjà dans ce bestiaire) représente l'autre pôle de la géologie monstrueuse. La spécificité de Cabrakan est son ancrage dans la géologie réelle des Hautes-Terres du Guatemala — une zone à forte activité volcanique et sismique — et son intégration dans le cycle narratif cohérent du *Popol Vuh*.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Cabrakan est un personnage du *Popol Vuh* enseigné dans les écoles guatémaltèques et mexicaines dans le cadre de l'éducation culturelle maya. Des représentations artistiques de Cabrakan dans des œuvres d'artistes mayas contemporains sont présentes dans des musées et des espaces culturels du Guatemala. Des jeux vidéo à thème mythologique (notamment *SMITE* — jeu de bataille de divinités mythologiques) ont inclus Cabrakan comme personnage jouable.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des céramiques et des reliefs de la période Classique maya (300-900 CE) représentent des géants et des êtres surnaturels telluriques qui peuvent être des représentations antérieures de Cabrakan. Des codices mayas préhispaniques (bien que les textes disponibles soient principalement aztèques/mexica) incluent des représentations d'êtres sismiques. Des fresques de sites archéologiques des Hautes-Terres du Guatemala incluent des figures correspondant à des entités du *Popol Vuh*.
+
+## POUR ALLER PLUS LOIN
+
+Cabrakan illustre la fonction étiologique des mythes — le récit de sa défaite explique pourquoi les tremblements de terre existent mais aussi pourquoi ils sont limités : Cabrakan est enterré, annulé, mais pas complètement détruit. Sa puissance tellurique est contenue, pas effacée — ce qui correspond à la réalité géologique des Hautes-Terres du Guatemala, une région où les tremblements de terre sont fréquents mais pas constants. Le *Popol Vuh* crée ainsi une métaphysique de la géologie : les tremblements de terre sont les convulsions d'un géant prisonnier, ses efforts pour se libérer de l'enterrement que les Jumeaux lui ont infligé. Cette explication est aussi émotionnellement et poétiquement cohérente — la terre qui tremble est un géant captif, et les Jumeaux Héroïques ont rendu le monde habitable en le capturant.

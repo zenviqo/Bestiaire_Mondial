@@ -1,0 +1,195 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Bennu
+  Tradition : Egyptien
+═══════════════════════════════════════════════
+
+
+# BENNU
+
+## SIGNIFICATION DU NOM
+
+Le nom *Bnw*, transcrit conventionnellement *Bennu*, est dérivé d'une racine verbale égyptienne signifiant *briller*, *jaillir*, *s'élever*. Le Bennu est ainsi *celui qui s'élève en brillant* — désignation qui résume sa double nature d'oiseau et de phénomène lumineux. Les anciens textes funéraires jouent fréquemment sur cette racine en associant le Bennu au verbe *wbn*, *se lever* (en parlant du soleil), pour suggérer que l'oiseau et l'astre du jour partagent une essence commune.
+
+Les Grecs d'Égypte, à partir de la période ptolémaïque, identifièrent le Bennu à leur propre figure du *Phoinix*. Cette assimilation, opérée notamment par les voyageurs de l'époque hellénistique, eut pour effet historique de fusionner deux traditions distinctes : l'oiseau-héron égyptien d'Héliopolis et l'oiseau de feu grec. Cette fusion, qui passa ensuite dans la tradition gréco-romaine puis médiévale latine, occulta progressivement la spécificité du Bennu jusqu'à ce que la redécouverte des sources hiéroglyphiques modernes la mette en évidence.
+
+## ORIGINE
+
+Le Bennu apparaît dans les couches les plus anciennes de la tradition égyptienne, notamment dans le corpus des Textes des Pyramides — inscriptions hiéroglyphiques gravées sur les parois intérieures des chambres funéraires des souverains de l'Ancien Empire. Dans ces textes, le Bennu est associé à l'événement primordial : la première manifestation de la vie sur la *butte primordiale*, le tertre qui émergea des eaux du chaos initial.
+
+Selon la cosmogonie héliopolitaine — celle élaborée dans le sanctuaire principal d'Héliopolis, lieu cultuel majeur de la basse Égypte — le Bennu se serait posé le tout premier sur la pierre sacrée appelée *Benben*, pierre conique érigée dans le sanctuaire et considérée comme la matérialisation de la butte primordiale. Le cri qu'il y poussa fut le premier son émis dans le monde — son qui sépara le silence indistinct du chaos en deux : ce qui serait, et ce qui ne serait pas.
+
+Le Bennu n'est ainsi ni créé ni engendré : il *advient*. Il appartient à la classe des entités qui surgissent avec la lumière elle-même, sans antériorité.
+
+## NATURE
+
+Le Bennu est *oiseau-phénomène*. Il n'est pas seulement un animal mythique mais aussi la forme prise par un événement cosmique récurrent : le lever du soleil. Les textes funéraires énoncent que chaque aurore est, en quelque manière, une nouvelle manifestation du Bennu — l'oiseau et le soleil partageant le même mouvement d'élévation, le même éclat, la même chaleur naissante.
+
+Il est par ailleurs *oiseau-âme*. Plusieurs textes l'identifient à l'aspect *ba* (âme animée) du dieu solaire, voire à celui d'Osiris dans son aspect régénérateur. Cette identification fait du Bennu une créature charnière entre le monde des vivants et celui des morts, entre l'apparition et la résurrection.
+
+Sa nature est enfin *cyclique*. Sa réapparition, qu'elle soit quotidienne (le lever du soleil) ou périodique (cycle long de plusieurs siècles), inscrit le Bennu dans une logique de retour. Il n'est pas l'oiseau qui meurt et renaît une fois, mais l'oiseau qui *cycle*.
+
+## HABITAT
+
+Le sanctuaire premier du Bennu est Héliopolis, ville sainte de la basse Égypte située sur la rive orientale du delta nilotique. Là se trouvait la pierre *Benben* sur laquelle, selon la tradition, l'oiseau s'était posé au commencement. Le sanctuaire entretenait, durant l'Antiquité égyptienne, un culte spécifique du Bennu, distinct de celui des grandes divinités tutélaires.
+
+Au-delà de ce sanctuaire historique, le Bennu est associé à plusieurs lieux symboliques : les *Champs des Roseaux*, paradis des défunts justes ; le *saule sacré* ou *arbre-ished* d'Héliopolis, sur les branches duquel l'oiseau aimait à se poser ; et la *barque solaire* qui parcourt le ciel le jour et les mondes inférieurs la nuit, sur laquelle le Bennu se tient parfois à la proue.
+
+Certains textes funéraires lui prêtent en outre une demeure dans les marais primordiaux — zone liminaire entre eau et terre, lieu où la végétation aquatique abrite les commencements.
+
+## DESCRIPTION
+
+Le Bennu est représenté, dans l'iconographie égyptienne canonique, sous la forme d'un grand héron — vraisemblablement le héron cendré ou le héron pourpré (*Ardea purpurea*), oiseau migrateur effectivement présent dans le delta nilotique. Cette identification ornithologique est l'une des particularités majeures qui distinguent le Bennu de son équivalent grec, lequel sera décrit comme un oiseau de feu apparenté à l'aigle ou au paon.
+
+L'oiseau porte sur la tête deux longues plumes érigées, formant ce qu'on appelle dans les usages égyptologiques l'*atef* abrégé — coiffure royale et solaire. Ces plumes ont une couleur typiquement ocre-rouge ou dorée, signalant l'appartenance solaire de la créature.
+
+Son plumage est habituellement représenté en tons chauds : ocre, rouge, doré, parfois pourpre. La queue est longue. Les pattes sont fines, hautes — pattes de héron qui permettent à l'oiseau de se tenir dans les eaux peu profondes des marais.
+
+Une particularité iconographique fréquente : le Bennu est souvent figuré perché sur un piédestal, sur le hiéroglyphe-Benben (la pyramide stylisée), ou sur la barque solaire. Il n'est presque jamais représenté en vol — ce qui souligne sa dimension d'apparition statique plutôt que de migration.
+
+## POUVOIRS
+
+Le *cri primordial* est le premier de ses pouvoirs. Le son qu'il émet ne se contente pas d'annoncer le jour : il *ordonne* le passage du chaos à l'ordonné, du silence à la parole, de l'indifférencié au différencié. Les textes les plus solennels affirment que ce cri est le modèle de toute création par le verbe.
+
+La *régénération solaire* le caractérise quotidiennement. Chaque aurore le voit reparaître, sans que rien dans la nuit précédente n'ait pu effacer sa nécessité d'être.
+
+La *capacité d'auto-engendrement* est l'un des aspects les plus singuliers de sa nature. Contrairement aux animaux ordinaires qui se reproduisent par accouplement, le Bennu est dit s'engendrer lui-même de cycle en cycle — chaque nouveau Bennu naissant des cendres ou de la matière du précédent. Cette caractéristique, qui passa dans la tradition gréco-romaine comme attribut du Phoinix, est attestée dans les sources égyptiennes mais sous une forme moins narrative que conceptuelle.
+
+L'*orientation des cycles cosmiques* lui est également imputée. Certains textes calendaires lui prêtent un rôle dans la régulation des grandes périodes — la crue annuelle du fleuve, le passage des saisons, et au-delà, les cycles longs de plusieurs centaines d'années qui rythment les mythes égyptiens.
+
+## FAIBLESSES
+
+Le Bennu n'a pas, à proprement parler, d'ennemis qui pourraient le détruire. Sa nature cyclique le met hors d'atteinte des coups définitifs : tout ce qui paraît l'éteindre ne fait que préparer son retour.
+
+Toutefois, plusieurs textes funéraires associent indirectement la *non-réapparition* du Bennu à une catastrophe cosmique. Si, par hypothèse, l'oiseau cessait de se manifester à l'aurore, ce serait le signe que le grand serpent du chaos, ennemi du soleil, aurait définitivement vaincu la lumière. Le Bennu n'est donc pas vulnérable individuellement, mais sa manifestation est *suspendue* à la victoire continue du dieu solaire sur les forces de la dissolution.
+
+L'oiseau dépend, en ce sens, du bon ordre cosmique général.
+
+## COMPORTEMENT
+
+Le comportement du Bennu, tel que le rapportent les textes, est d'une grande dignité. Il ne chasse pas comme les rapaces. Il n'attaque pas comme les oiseaux de proie. Il se tient sur un perchoir élevé — pierre sacrée, arbre, proue de la barque solaire — et observe.
+
+Il *crie* aux moments calendaires : à l'aurore, lors de la crue, lors des grandes fêtes du calendrier solaire. Son cri n'est jamais un appel agressif mais une annonce.
+
+Il *se pose*. La station immobile sur un perchoir constitue la posture dominante de sa représentation. Cette immobilité signale qu'il n'est pas une créature de mouvement migratoire mais une créature d'apparition.
+
+Il *cycle*. Quand son temps est venu — selon des intervalles que les textes ne fixent pas avec précision mais qu'ils suggèrent comme considérables — il s'enveloppe dans une matière aromatique et entre en transformation. De cette transformation surgit l'oiseau renouvelé, identique au précédent et continu avec lui.
+
+## RÉCITS TRADITIONNELS
+
+Le récit fondateur, conservé dans les couches les plus anciennes de la tradition héliopolitaine, raconte que lors de la *première fois* — terme technique égyptien désignant l'événement originel —, alors que les eaux du chaos couvraient toute chose, une butte de terre émergea. Sur cette butte se posa un grand oiseau de feu : le Bennu. Il poussa un cri. Ce cri ouvrit le temps. La lumière commença d'être. Le dieu solaire, identifié par certaines traditions au Bennu lui-même dans une forme première, prit alors son envol pour parcourir la voûte céleste pour la première fois.
+
+Un autre récit, attesté dans plusieurs papyrus funéraires de l'époque thébaine, décrit la mort cyclique de l'oiseau. Lorsque vient son temps, le Bennu construit, sur un autel ou un perchoir élevé, un nid composé de branches odorantes — myrrhe, cannelle, cassia. Il s'y installe. Le feu solaire descend sur lui ou monte de l'intérieur de ses plumes. L'oiseau brûle. De ses cendres, ou directement d'un œuf qui se forme dans la cendre, surgit le nouveau Bennu — identique au précédent, continuateur de son cycle. Cette version, qui passa dans la tradition grecque puis latine, est attestée en Égypte mais sous une forme plus discrète que dans la version hellénistique tardive.
+
+Un troisième récit met en scène le Bennu accompagnant le dieu solaire dans sa traversée des régions souterraines pendant la nuit. À la proue de la barque, l'oiseau veille. Il aperçoit avant tous les autres l'approche du grand serpent ennemi. Son cri d'alerte permet à l'équipage divin de se préparer au combat. Au matin, lorsque le soleil triomphant émerge à l'orient, le Bennu chante.
+
+Un quatrième récit rapporte le retour du Bennu à Héliopolis aux grandes échéances calendaires. La tradition affirme que tous les cinq cents ans environ — chiffre symbolique plus que mesure exacte —, l'oiseau revient se poser sur la pierre Benben pour y accomplir son cycle. Cette version, popularisée par des voyageurs grecs de l'époque classique et hellénistique, fixa dans l'imaginaire méditerranéen l'idée d'une périodicité longue.
+
+## VARIANTES RÉGIONALES
+
+À Héliopolis, foyer principal du culte, le Bennu est intégré directement à la cosmogonie locale et associé à la pierre Benben. Cette tradition est la plus ancienne et la plus structurée.
+
+À Thèbes, durant le Nouvel Empire, le Bennu est progressivement associé au cycle osirien. Les textes funéraires thébains identifient l'oiseau au *ba* d'Osiris dans son aspect régénérateur — l'oiseau-âme du dieu mort qui ressuscite cycliquement. Cette assimilation amplifia la dimension funéraire du Bennu et explique sa fréquence dans les vignettes des Livres des Morts thébains.
+
+Dans les sanctuaires de basse Égypte plus tardifs, le Bennu est parfois confondu avec d'autres oiseaux sacrés — l'ibis de Thot, le faucon d'Horus —, sans que cette confusion soit jamais doctrinalement entérinée. Ces glissements iconographiques témoignent de la tendance, à l'époque tardive, à fusionner les figures animales sacrées en un panthéon visuellement plus simple.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'imaginaire moderne du *phénix*, popularisé par les littératures fantastiques, les jeux vidéo et la culture populaire, dérive bien plus du Phoinix grec et de ses amplifications médiévales que du Bennu égyptien proprement dit. Plusieurs traits du phénix moderne sont absents ou marginaux dans la tradition égyptienne :
+
+- Le phénix moderne est habituellement un *rapace flamboyant* aux plumes rouges, oranges et dorées, apparenté à l'aigle ou au paon. Le Bennu égyptien est un *héron* aux teintes ocre — oiseau échassier des marais, non oiseau de proie.
+
+- L'idée d'une combustion totale dramatique, avec l'oiseau qui s'embrase visiblement et renaît dans une explosion de flammes, est une amplification gréco-latine puis médiévale. Le récit égyptien du cycle est plus discret et plus conceptuel.
+
+- L'unicité absolue du phénix — il n'existerait qu'un seul exemplaire à la fois dans l'univers — n'est pas centrale dans la tradition égyptienne, où le Bennu est avant tout une figure cosmique récurrente plutôt qu'un individu unique.
+
+- L'association du phénix à la résurrection christique, qui a marqué la tradition médiévale latine, est étrangère au Bennu originel. Le Bennu est lié à la résurrection osirienne et au lever solaire, non à un schéma sotériologique linéaire.
+
+- Les pouvoirs de guérison par les larmes, attribués au phénix dans certaines œuvres modernes, ne trouvent aucune attestation dans les sources égyptiennes anciennes.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le Bennu est figuré sur de nombreux monuments égyptiens, depuis l'Ancien Empire jusqu'à la période romaine.
+
+Les Textes des Pyramides de la fin de l'Ancien Empire contiennent les premières mentions textuelles. L'iconographie figurative apparaît surtout à partir du Moyen Empire et se développe massivement durant le Nouvel Empire.
+
+Les vignettes des *Livres des Morts* — papyrus funéraires accompagnant les défunts dans leur sépulture — représentent fréquemment le Bennu comme oiseau-héron à plumes érigées, perché sur un autel ou sur une pyramide stylisée. Plusieurs chapitres entiers du Livre des Morts thébain sont consacrés à la transformation du défunt en Bennu — formules permettant à l'âme du mort d'acquérir les attributs de l'oiseau cyclique.
+
+Les parois des tombes thébaines, notamment dans la Vallée des Rois et la Vallée des Nobles, montrent l'oiseau dans des scènes de barque solaire, perché sur la proue ou tenant un cordage symbolique entre ses pattes.
+
+Sur les stèles funéraires des particuliers, du Nouvel Empire à la période ptolémaïque, le Bennu apparaît en vignette miniaturisée comme symbole d'espérance de résurrection.
+
+À l'époque romaine, des *amulettes* en faïence figurant l'oiseau-héron sont produites en série pour accompagner les défunts. Ces amulettes témoignent de la persistance du culte populaire jusqu'à la fin de l'Antiquité.
+
+## POUR ALLER PLUS LOIN
+
+Le Bennu est documenté principalement par les sources hiéroglyphiques : Textes des Pyramides, Textes des Sarcophages du Moyen Empire, Livres des Morts du Nouvel Empire, papyrus magico-religieux, inscriptions de sanctuaires. La tradition gréco-romaine, à partir d'auteurs anciens écrivant sur l'Égypte, transmit la figure sous le nom de Phoinix mais en la déformant — ce qui rend nécessaire le retour aux sources égyptiennes propres pour saisir la spécificité du Bennu.
+
+L'archéologie des sanctuaires héliopolitains, bien que partiellement détruits par l'urbanisation moderne du Caire, a livré des témoignages cultuels confirmant l'importance liturgique de l'oiseau à toutes les époques.

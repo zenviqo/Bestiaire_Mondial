@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Simurgh
+  Tradition : Iranien Perse
+═══════════════════════════════════════════════
+
+
+# SIMURGH
+
+## SIGNIFICATION DU NOM
+
+*Simurgh* (سیمرغ) en persan est étymologiquement lié à deux interprétations possibles : soit une déformation du moyen-perse *Sēnmurw* (lié à l'avestique *Saena Mərəγa* — "l'oiseau Saena"), soit une réinterprétation populaire comme *si murgh* — "trente oiseaux" — qui a inspiré la métaphore centrale du poème mystique de Farid ud-Din Attar (*Mantiq ut-Tayr* — "La Conférence des Oiseaux", XIIe siècle) où trente oiseaux cherchant le Simurgh découvrent qu'ils *sont* le Simurgh. Ce jeu de mots (*si murgh* = 30 oiseaux) est l'une des grandes trouvailles de la poésie soufie persane.
+
+## ORIGINE
+
+Le Simurgh est documenté dans les plus anciens textes iraniens — l'*Avesta* zoroastrien mentionne l'oiseau Saena perché sur l'Arbre de toutes les semences (*Vīspō.bīš*). Dans le *Shahnameh* de Ferdowsi (XIe siècle), le Simurgh est l'être qui élève l'héros Zal et qui intervient pour aider son fils Rostam. Attar de Nishapur (XIIe siècle) le transforme en symbole mystique de la divinité dans son *Mantiq ut-Tayr*. Ces trois traditions — zoroastrienne, épique, et soufie — donnent au Simurgh une profondeur symbolique exceptionnelle dans la culture iranienne.
+
+## NATURE
+
+Le Simurgh est un être primordial — il a vécu assez longtemps pour avoir vu le monde se détruire et se reconstruire trois fois. Sa nature est celle d'un être de sagesse accumulée, à la fois oiseau (plumes d'or et de couleurs multiples), lion (pattes antérieures), et chien (tête dans certaines versions). Il n'est ni fondamentalement bienveillant ni hostile — il est au-delà de ces catégories humaines. Il peut aider ceux qui méritent son attention et ignorer les autres. Dans la tradition soufie, il devient une métaphore de Dieu lui-même — insaisissable, lumineux, et ultimement identique au chercheur.
+
+## HABITAT
+
+Le Simurgh réside au sommet du mont Qaf — la montagne cosmique qui, dans la géographie mythique persane, encercle le monde connu. Il se perche sur l'Arbre de toutes les semences (*Vīspō.bīš* en avestique) dont les graines tombent de ses ailes et fertilisent le monde entier. Le mont Qaf est une lieu inaccessible aux humains ordinaires — une terre au-delà du monde connu. Dans le *Shahnameh*, son nid est dans les montagnes d'Elburz de l'Iran.
+
+## DESCRIPTION
+
+Un oiseau de taille gigantesque — assez grand pour transporter un éléphant. Plumage d'une diversité éclatante — des plumes d'or, de rouge, de vert et de toutes les couleurs. Dans certaines descriptions, il ressemble à un paon magnifié. La tête est parfois décrite comme proche d'un chien ou d'un lion (en particulier dans le *Sēnmurw* du moyen-perse). Son corps peut avoir des écailles. Son cri peut guérir les malades. Une seule de ses plumes — objet de légende — possède des propriétés magiques et peut être utilisée pour l'appeler.
+
+## POUVOIRS
+
+Sagesse absolue — le Simurgh connaît tout ce qui a été et tout ce qui sera. Guérison — son contact ou sa présence guérit les blessures mortelles (dans le *Shahnameh*, il guérit Rostam avec sa plume). Il peut voler d'une extrémité du monde à l'autre en un instant. Il peut comprendre tous les langages, humains et animaux. Dans la tradition zoroastrienne, il maintient l'Arbre de toutes les semences dont dépend la fertilité du monde. Brûler une plume du Simurgh l'appelle à venir — un appel qu'il ne peut ignorer.
+
+## FAIBLESSES
+
+Le Simurgh n'a pas de faiblesses au sens conventionnel. Son éloignement est en lui-même une limite — il est accessible seulement à ceux qui méritent sa rencontre ou qui lui sont liés par le destin. Dans la tradition soufie, le paradoxe de sa nature (il est ce qu'on cherche, non ce qu'on trouve) est sa "limite" : on ne peut l'atteindre de l'extérieur, on ne peut que réaliser qu'on était lui depuis le début.
+
+## COMPORTEMENT
+
+Le Simurgh vit dans une solitude de sage primordial. Il intervient dans les affaires des humains de façon rare et délibérée. Dans le *Shahnameh*, il découvre et élève le nourrisson Zal abandonné par son père — un acte de compassion spontanée. Il donne à Zal une de ses plumes pour appeler à l'aide en cas de besoin. Quand Zal/Rostam l'appellent, il répond. Quand Rostam doit être soigné d'une blessure mortelle, le Simurgh vient et le guérit avec sa plume. Il est un patron cosmique — présent mais non-intrusif.
+
+## RÉCITS TRADITIONNELS
+
+*Shahnameh* (Ferdowsi, XIe siècle) : Zal, fils du noble iranien Sam, naît aux cheveux blancs — un signe de mauvais augure. Sam l'abandonne sur une montagne. Le Simurgh le découvre, le prend dans son nid, et l'élève comme son propre enfant. Des années plus tard, Sam regrette et cherche son fils. Le Simurgh rend Zal à son père, lui donnant une plume : "Si tu as besoin de moi, brûle-la et je viendrai." Plus tard, quand Rudabe (épouse de Zal) doit accoucher de Rostam dans des circonstances impossibles, Zal brûle la plume. Le Simurgh vient, guide la naissance miraculeuse, et retourne à son mont Qaf.
+
+## VARIANTES RÉGIONALES
+
+L'oiseau Saena avestique est l'ancêtre zoroastrien direct. Le *Sēnmurw* du moyen-perse est la forme intermédiaire. Le *Garuda* hindou et bouddhiste (oiseau cosmique gigantesque) est une figure comparativement proche dans la tradition indienne. L'*'Anqā'* arabe (l'oiseau légendaire des déserts arabes, immortel et insaisissable) est l'équivalent culturel dans la tradition arabe. Le *Zumurrud* (émeraude) des traditions du Maghreb porte parfois le nom de Simurgh. Dans le Caucase, des figures d'oiseaux cosmiques comparables existent dans les traditions arméniennes et géorgiennes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Simurgh est l'une des créatures les plus riches de la tradition persane — une figure centrale de la culture nationale iranienne. Il apparaît dans des tapis persans, des miniatures, des tiles de céramique d'Iznik (turc-persan). Le logo de la compagnie aérienne iranienne Iran Air est un Homa (oiseau de fortune iranien lié au Simurgh). Des représentations du Simurgh décorent des palais et des musées en Iran. Dans la poésie contemporaine iranienne et afghane, le Simurgh reste une référence vivante.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des miniatures persanes (XIIe-XVIIe siècles) représentent le Simurgh dans des scènes du *Shahnameh* — particulièrement l'enlèvement de Zal et la scène de guérison de Rostam. Ces miniatures sont conservées dans de grandes collections (British Library, Bibliothèque nationale de France, Metropolitan Museum). Des tiles de céramique persans du XIIIe-XVe siècles représentent des Simurghs dans des postures héraldiques. Des reliefs sculptés dans des palais iraniens médiévaux montrent des oiseaux hybrides identifiés comme Simurgh.
+
+## POUR ALLER PLUS LOIN
+
+Le Simurgh illustre comment un être surnaturel peut transcender sa nature de "monstre" ou d'"esprit" pour devenir une métaphore philosophique fondamentale. Dans la lecture soufie d'Attar, le Simurgh n'est plus un oiseau géant mais le nom de Dieu — et le voyage de trente oiseaux pour le trouver révèle que chercheur et but sont un. Cette transformation d'une créature mythologique en outil de réflexion métaphysique montre la capacité de certaines figures folkloriques à transcender leur catégorie d'origine pour devenir des véhicules de toute une tradition de pensée.

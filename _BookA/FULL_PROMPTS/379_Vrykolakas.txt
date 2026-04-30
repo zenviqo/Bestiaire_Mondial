@@ -1,0 +1,208 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Vrykolakas
+  Tradition : Balkans
+═══════════════════════════════════════════════
+
+
+# VRYKOLAKAS
+
+## SIGNIFICATION DU NOM
+
+L'origine du mot *vrykolakas* a fait couler beaucoup d'encre. La filière la plus assurée le rattache au vieux slave *vŭlkodlakŭ*, c'est-à-dire littéralement *peau de loup*, désignant à l'origine un loup-garou. Cette racine se retrouve dans le serbe-croate *vukodlak* et dans le bulgare *vŭlkodlak*. La langue grecque médiévale a emprunté le terme aux populations slaves voisines, mais a progressivement déplacé le sens : ce qui désignait à l'origine l'homme-loup en est venu à désigner, dans le grec moderne, le mort-vivant cadavérique sans transformation lupine.
+
+Cette translation sémantique est l'un des phénomènes linguistiques les plus singuliers du folklore balkanique : un mot qui désigne le loup-garou chez les Slaves désigne le vampire chez les Grecs, alors même que ces deux figures sont distinctes dans chacune des deux traditions. La vampire grec et le loup-garou serbe portent ainsi le même nom à l'origine, sans pour autant être la même créature.
+
+Le terme dialectal crétois *katakhanas* (*qui descend, qui s'engouffre*) désigne la même réalité avec une nuance locale.
+
+## ORIGINE
+
+Le vrykolakas naît d'un cadavre humain qui ne se décompose pas. Ce non-pourrissement constitue, dans la conception orthodoxe grecque populaire, un signe sinistre. Là où la tradition occidentale catholique tient la non-corruption du corps pour signe possible de sainteté, la tradition grecque populaire l'interprète au contraire comme malédiction : le corps qui résiste à la nature ne peut être que retenu sur terre par une faute, par une malédiction, par un mauvais sort.
+
+Plusieurs causes sont identifiées par les traditions :
+- mort en état d'excommunication ecclésiastique,
+- mort sans confession ni sacrements,
+- mort par suicide,
+- mort par malédiction prononcée par un prêtre ou par un parent,
+- corps enterré sans avoir été veillé adéquatement,
+- corps sur lequel un chat a sauté avant l'inhumation,
+- corps né lui-même, lors de sa naissance, avec une coiffe (membrane amniotique).
+
+Toutes ces situations peuvent produire un vrykolakas. Le défunt, au lieu de pourrir comme il sied à tout chrétien, demeure rosé et souple sous la terre. Quelques semaines plus tard, des malheurs commencent à frapper le village.
+
+## NATURE
+
+Le vrykolakas est un *cadavre actif*. Cette qualification le distingue des fantômes incorporels et des esprits désincarnés : ce qui revient, c'est un corps, un poids, une chair. Quand il est exhumé, on touche, on voit, on perce ; il saigne, il sent.
+
+Sa nature est *pestilentielle*. Le vrykolakas n'attaque pas seulement physiquement : sa simple présence répand maladie, dépérissement, peste, infertilité du bétail, sécheresse des récoltes. Cette dimension épidémique est au cœur de la peur paysanne grecque envers ces créatures, particulièrement vive aux dix-septième et dix-huitième siècles, dans les îles de l'Égée où plusieurs cas célèbres furent rapportés.
+
+Sa nature est enfin *liée au cycle hebdomadaire*. Plusieurs traditions affirment que le vrykolakas est particulièrement actif le samedi — jour où, paradoxalement, il est aussi le plus vulnérable, son repos étant alors plus profond. C'est donc le samedi que l'on choisit pour exhumer.
+
+## HABITAT
+
+Le vrykolakas habite sa *tombe*. Cette tombe est généralement une fosse simple dans le cimetière paroissial du village, surmontée d'une pierre ou d'une croix de bois. C'est de là qu'il sort, et c'est là qu'il retourne avant l'aube.
+
+Il revient dans la *maison* où il vivait. Il y frappe à la porte, par petits coups d'abord, puis plus insistants. Il appelle ses proches par leur nom. Selon les traditions, ouvrir la porte à un vrykolakas est mortel : il faut attendre le troisième appel, et même alors, on n'ouvre pas — c'est par cette précaution que les bonnes familles grecques s'épargnent.
+
+Lorsque la maison est verrouillée et insensible à ses appels, le vrykolakas erre dans les *rues du village*, les *places*, les *moulins*. Il peut être aperçu le long des chemins, ou assis sur le pas de sa propre porte refusée.
+
+Les îles de l'Égée — Mykonos, Santorin, Chios, Kéa — passaient pour particulièrement infestées aux siècles passés.
+
+## DESCRIPTION
+
+À l'exhumation, le vrykolakas présente les signes caractéristiques attendus du cadavre non corrompu : peau rosée et tendue (et non pas grise et flasque), absence de la mauvaise odeur normale du cadavre, bouche entrouverte avec parfois des traces de sang aux lèvres, ongles et cheveux paraissant avoir continué de pousser, ventre gonflé comme par un repas récent.
+
+Lorsqu'il erre la nuit, le vrykolakas a l'apparence du mort tel qu'il était au moment de l'inhumation : il porte ses vêtements funéraires, ses chaussures, sa croix au cou. Sa peau est pâle, ses yeux sombres et fixes. Il ne parle pas beaucoup ; il appelle, c'est tout.
+
+Une caractéristique régionale notable : dans certaines îles de l'Égée (notamment Mykonos et Santorin), le vrykolakas est dit gonfler progressivement avec les jours, comme si son corps se chargeait de quelque humeur infernale. À mesure qu'il enfle, sa puissance augmente, et il devient plus dangereux. C'est pourquoi il faut intervenir tôt, dès les premières suspicions.
+
+## POUVOIRS
+
+Le *retour nocturne* est son pouvoir fondamental. Il sort de sa tombe sans laisser de trace de creusage à la surface — la terre semble intacte au-dessus, mais il est sorti et rentré.
+
+L'*appel par le nom* constitue son arme première. Le vrykolakas appelle ses parents, ses voisins, ses amis. Quiconque répond à voix haute est marqué : il dépérira, tombera malade, mourra. La règle paysanne grecque veut donc qu'on ne réponde jamais le soir à un appel hors de la maison sans avoir vérifié visuellement qui appelle.
+
+La *contamination par la présence* étend son pouvoir bien au-delà du contact direct. Le vrykolakas qui passe dans une rue, qui stationne devant une maison, qui s'assoit sur une fontaine, contamine les lieux. Les bêtes maigrissent, les enfants tombent malades, les puits se troublent.
+
+L'*apparition aux proches* est sélective : il se montre avant tout à ceux qui l'ont aimé, qui l'ont enterré, qui l'ont pleuré. Cette préférence familiale rend la lutte contre lui particulièrement déchirante : on doit exhumer celui qu'on a chéri.
+
+La *résistance physique* est notable : un coup de bâton ne fait rien à un vrykolakas, et il peut faire reculer un homme ordinaire par sa simple poigne. Sa puissance corporelle est augmentée par la mort.
+
+## FAIBLESSES
+
+L'exhumation et la profanation rituelle constituent la procédure classique. Sous la conduite officieuse d'un prêtre rural, et avec l'accord parfois réticent des autorités ecclésiastiques, les villageois ouvrent la tombe le samedi vers midi (heure où le vrykolakas est le plus profondément immobile). Les méthodes pratiquées varient :
+
+- *Le pieu de bois* (chêne, aubépine, frêne) enfoncé au cœur du cadavre.
+- *La décapitation*, suivie du placement de la tête entre les jambes ou loin du corps.
+- *L'incinération* totale, particulièrement utilisée dans les Cyclades, où l'on brûle le corps sur un bûcher, et où l'on disperse les cendres dans la mer.
+- *Le ré-enterrement transversal*, le corps placé face contre terre.
+- *Le clouage de la tombe* avec des clous de fer enfoncés dans la pierre tombale en formant une croix.
+
+L'*eau bénite* aspergée sur le cadavre et sur la tombe complète généralement la procédure. Une *liturgie spéciale* peut être célébrée par le prêtre.
+
+Le *Vendredi saint* et la *Pentecôte* sont des jours où les vrykolakas perdent une partie de leur pouvoir. Les exhumations préventives sont parfois calées sur ces dates.
+
+L'*aube* met fin à toute apparition. Au premier chant du coq, le vrykolakas doit être rentré dans sa tombe, sous peine d'être dissous par la lumière.
+
+## COMPORTEMENT
+
+Le vrykolakas n'est pas particulièrement intelligent. Il fait toujours les mêmes choses : sortir, rôder, appeler, rentrer. Sa conduite est *répétitive*, presque obsessionnelle. Il refait nuit après nuit le même circuit : tombe, maison, rues, fontaine, tombe.
+
+Il *appelle* avec insistance. Le vrykolakas qui frappe à votre porte la frappera trois soirs de suite si vous n'ouvrez pas. Au quatrième soir, ses chances d'attaque s'épuisent, et il commence à diminuer.
+
+Il *contamine sans agression directe*. La plupart des récits grecs ne le montrent pas mordant ses victimes — il n'a pas besoin. Sa seule présence répétée suffit à les faire dépérir.
+
+Il est *vulnérable au déjouement*. Si la famille reconnaît rapidement les signes (rêves troublés, bétail malade, fièvres inexpliquées dans la maison du défunt) et fait procéder à l'exhumation, le vrykolakas peut être neutralisé avant d'avoir fait beaucoup de mal.
+
+## RÉCITS TRADITIONNELS
+
+Le cas le plus célèbre de l'histoire grecque moderne est celui de *Mykonos*, rapporté au dix-septième siècle par un voyageur français de passage sur l'île, qui assista en personne aux scènes d'exhumation et de bûcher. L'île était terrifiée par un paysan récemment décédé qui revenait chaque nuit. Plusieurs exhumations successives furent menées : d'abord on planta un pieu, sans résultat. Puis on extirpa le cœur et on le brûla. Le mal continuait. Finalement, par décision collective, on déterra le corps entier, on l'amena sur la place, et on le brûla intégralement avec une grande quantité de bois sec et de poix. Les cendres furent jetées à la mer. Cette nuit-là, l'île dormit en paix pour la première fois depuis des semaines.
+
+Un récit cyclades typique : un jeune homme du village de Naxos meurt brutalement après une dispute avec son père. Le père, dans sa colère, prononce des paroles imprudentes qui, selon la tradition, équivalent à une malédiction. Quelques semaines après l'enterrement, la mère commence à entendre des appels la nuit : la voix de son fils, qui l'appelle. Elle ne répond pas. Mais le bétail de la famille tombe malade. Le frère cadet maigrit sans cause. Au bout d'un mois, la famille convoque le prêtre. La tombe est ouverte au cimetière. Le corps est rosé, gonflé, intact. Le pieu est planté, le corps brûlé. La paix revient.
+
+Le récit des *deux promis séparés par la mort* met en scène un jeune homme mort à la veille de son mariage, qui vient appeler sa fiancée chaque nuit à sa fenêtre. La fiancée, par amour, finit par lui ouvrir. Au matin, on la retrouve morte, étranglée par les bras du mort qui s'était couché auprès d'elle. Le corps du fiancé fut alors exhumé, brûlé, et sa cendre dispersée — geste tragique mais nécessaire pour mettre fin à un amour qui dépassait la mort.
+
+## VARIANTES RÉGIONALES
+
+À Mykonos, à Santorin et dans les Cyclades en général, la tradition est particulièrement développée. Les vrykolakas y sont nombreux, gonflants et particulièrement pestilentiels. La pratique du bûcher rituel y est attestée historiquement, ce qui est plus rare dans le monde orthodoxe oriental.
+
+En Crète, sous le nom de *katakhanas*, la créature acquiert quelques traits supplémentaires : elle peut s'asseoir sur la poitrine des dormeurs et leur extraire le souffle, rapprochement avec les démons-cauchemars de type mara.
+
+Dans le Péloponnèse rural, le vrykolakas est plus solitaire et plus discret, et ses méfaits portent davantage sur la maladie progressive que sur l'apparition spectaculaire.
+
+Dans les régions slavophones du nord de la Grèce, on rencontre la forme *vrkolak*, qui marque le point de transition vers la tradition slave où le mot redevient associé au loup-garou plus qu'au vampire.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le vrykolakas a été en partie absorbé dans la figure occidentale générique du vampire, mais il en diffère notablement :
+
+- Il ne mord pas ses victimes au cou. La morsure sanguinaire est un trait du vampire occidental littéraire (à partir du dix-neuvième siècle) qui n'appartient pas à la tradition grecque populaire. Le vrykolakas tue par contamination atmosphérique, par appel répété, par dépérissement, plus que par morsure directe.
+
+- Il ne convertit pas par morsure. Devenir vrykolakas n'est pas une question de transmission virale, mais résulte des conditions de la mort propre du défunt (excommunication, malédiction, suicide).
+
+- Il ne possède pas les pouvoirs surnaturels des vampires hollywoodiens : ni transformation en chauve-souris, ni hypnose des victimes, ni capacité d'escalader les murs. Il est un cadavre robuste mais limité.
+
+- Il ne craint ni le crucifix au sens occidental, ni la lumière solaire au sens où celle-ci le détruirait — la lumière le fait simplement retourner dans sa tombe, où il attend la nuit suivante.
+
+- Il n'est pas un personnage solitaire et tragique au sens romantique. Il est un mort communautaire dont la communauté entière s'occupe pour la communauté entière. Sa figure est collective, paysanne, liturgique.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les *fresques de Jugement dernier* peintes sur les murs extérieurs des églises et monastères orthodoxes grecs des seizième au dix-huitième siècles incluent fréquemment des scènes de morts sortant de leurs tombes, où certaines figures montrent les traits qu'on associerait dans le folklore aux vrykolakas : visages rosés, vêtements funéraires intacts, regard fixe.
+
+Les *gravures populaires* grecques du dix-neuvième siècle, vendues dans les foires, illustrent abondamment les scènes d'exhumation rituelle, avec le pieu, la croix, le bûcher.
+
+Les *amulettes anti-vrykolakas* en argent, gravées de croix grecques et d'inscriptions liturgiques, comptent parmi les objets ethnographiques caractéristiques des îles de l'Égée.
+
+## POUR ALLER PLUS LOIN
+
+Le vrykolakas est attesté dans la littérature grecque depuis l'époque byzantine tardive, où plusieurs textes ecclésiastiques mentionnent le phénomène des cadavres non corrompus comme problème pastoral. La période ottomane (quinzième au dix-neuvième siècle) voit la croyance s'enraciner profondément dans le monde rural grec, particulièrement insulaire, alors même que les autorités ecclésiastiques officielles tentent périodiquement de la combattre comme superstition.
+
+Les voyageurs occidentaux des dix-septième et dix-huitième siècles (français, anglais, italiens) ont laissé des témoignages directs et sceptiques de cas observés dans les îles, qui constituent l'un des dossiers ethnographiques les plus riches de toute l'Europe sur la croyance vampirique populaire.

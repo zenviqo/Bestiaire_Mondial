@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Moura_Encantada
+  Tradition : Iberique
+═══════════════════════════════════════════════
+
+
+# MOURA ENCANTADA
+
+## SIGNIFICATION DU NOM
+
+*Moura Encantada* — "Maure enchantée" en portugais — est un nom qui fusionne deux strates culturelles. *Moura* (Maure) était le terme médiéval désignant les populations arabes et berbères de la péninsule ibérique, mais dans le folklore du nord-ouest du Portugal et de Galice, le terme est antérieur à l'Islam et à la présence arabe — les *Mouras* étaient des femmes magiques pré-romaines, probablement liées à des déesses ou des fées celtiques ibériques. L'*encantada* (enchantée) désigne son état de malédiction — elle est ensorcelée, attendant d'être libérée. Le nom confond donc le Maure historique avec la fée celtique pré-romaine dans une figure syncrétique.
+
+## ORIGINE
+
+Les Mouras Encantadas sont documentées dans les traditions orales du Portugal et de Galice depuis au moins le Moyen Âge — mais leur origine est probablement pré-romaine, liée aux traditions celtiques ibériques qui habitaient le nord-ouest de la péninsule avant la romanisation. Des sources médiévales portugaises et galiciennes mentionnent des femmes magiques associées aux fontaines, aux grottes, aux dolmens et aux Castro (sites archéologiques pré-romains fortifiés). Ces associations avec des sites archéologiques réels suggèrent une très longue continuité de la tradition.
+
+## NATURE
+
+La Moura Encantada est une femme ensorcelée — une créature qui était autrefois humaine ou divine mais qui est maintenant prisonnière d'une malédiction, gardant un trésor dans un lieu spécifique. Sa forme d'emprisonnement le plus caractéristique : elle peut apparaître comme une belle femme ou comme une serpente (parfois mi-femme mi-serpent). La malédiction peut être levée — mais cela requiert généralement l'action d'un homme courageux qui doit l'embrasser sous sa forme de serpent ou accomplir une tâche spécifique.
+
+## HABITAT
+
+Les Mouras Encantadas habitent les fontaines, les sources, les grottes, les dolmens, les menhirs, et les *castros* (forteresses pré-romaines) du Portugal et de Galice. Elles sont particulièrement associées aux zones de contact entre l'eau et la roche — fontaines surgissant de falaises, sources dans des grottes, lacs au pied de mégalithes. Des centaines de sites spécifiques au Portugal et en Galice ont leur Moura Encantada locale — attestée dans la tradition orale comme gardienne de ce lieu précis.
+
+## DESCRIPTION
+
+La Moura Encantada a deux formes principales. Forme humaine : une belle jeune femme aux cheveux d'or qui se peigne au bord d'une fontaine, vêtue de blanc. Forme de serpente : un grand serpent, parfois avec une couronne dorée, parfois avec un visage humain. Dans certains récits, elle est mi-femme mi-serpente — le bas du corps serpentin, le haut humain. Elle est associée à l'or — son trésor est toujours en or, elle se peigne avec un peigne d'or, ses cheveux brillent comme de l'or.
+
+## POUVOIRS
+
+Garde de trésors — des quantités immenses d'or sont enfouies dans ses sites. Capacité de se transformer de femme en serpente et vice-versa. Elle peut tester les humains qui s'approchent — ceux qui réussissent la tâche (généralement l'embrasser sous forme de serpente) libèrent la malédiction et accèdent au trésor. Ceux qui échouent à la dernière minute — qui reculent dégoûtés au dernier moment — sont punis ou la condamnent à continuer son attente. Certaines Mouras peuvent prédire l'avenir pour ceux qui les consultent.
+
+## FAIBLESSES
+
+La Moura est prisonnière de sa malédiction — c'est sa faiblesse fondamentale. Elle ne peut pas s'en aller de son lieu de garde. Elle ne peut pas se libérer elle-même — elle a besoin de l'aide d'un humain courageux. Sa récompense est immense mais sa condition est la dépendance envers la bravoure des autres. Dans certains récits, elle peut être affaiblie si quelqu'un révèle son secret ou viole les règles de son lieu sacré.
+
+## COMPORTEMENT
+
+La Moura Encantada apparaît généralement lors des jours spéciaux du calendrier — la nuit de la Saint-Jean (23 juin), certaines fêtes solaires. Elle se peigne au bord de sa fontaine, attend que quelqu'un passe. Si un homme s'approche et réussit à l'embrasser sous sa forme de serpente (sans fuir), la malédiction se brise. Dans la majorité des récits, l'homme recule au dernier moment — et la Moura retourne dans sa fontaine avec un cri de désolation, condamnée à attendre une prochaine chance.
+
+## RÉCITS TRADITIONNELS
+
+Un récit alentejano (sud du Portugal) : une fontaine dans une colline est connue de tout le village pour abriter une Moura Encantada. Chaque nuit de Saint-Jean, une belle jeune femme apparaît à la fontaine et se peigne avec un peigne d'or. Des jeunes hommes du village se sont succédé au fil des générations pour tenter de la libérer. À chaque fois, la femme se transforme en serpent à l'approche du baiser. À chaque fois, le jeune homme recule. Un vieil habitant raconte que son grand-père a failli réussir — le serpent n'avait que la tête et la gorge à embrasser — mais il a reculé au tout dernier instant. La Moura est encore là.
+
+## VARIANTES RÉGIONALES
+
+Des fées des fontaines et des gardiens de trésors ensorcelés comparables existent dans de nombreuses traditions européennes occidentales — les *fairies* celtiques des Îles britanniques gardant des trésors dans des collines, les *sirènes* de fontaines françaises (Mélusine), les *nixies* germaniques. La Moura ibérique est la version la plus spécifiquement ibérique de ces fées des eaux liées aux sites archéologiques pré-romains. Des Mouras spécifiques sont documentées dans des centaines de récits locaux au Portugal et en Galice.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Moura Encantada est une figure très vivante dans la culture populaire du Portugal et de Galice contemporains — des sites archéologiques, des fontaines et des dolmens sont encore connus localement comme "habitat de la Moura". Des festivals folklorigues, des associations culturelles régionales, et des publications de folklore locales continuent de collecter et diffuser les récits de Mouras. Dans la littérature portugaise moderne, des auteurs ont repris la figure dans des contextes littéraires contemporains.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de femmes-serpents dans l'art roman et prérom ibérique (chapiteaux de colonnes, reliefs de portails d'église) peuvent être liées à la tradition des Mouras. Des azulejos (carreaux de faïence portugais) du XVIIIe-XIXe siècle représentent parfois des scènes de fontaines avec des figures féminines mystérieuses. L'art romantique portugais du XIXe siècle a représenté des Mouras dans des compositions mélancoliques. Des illustrations contemporaines pour des publications de folklore portugaises standardisent la représentation.
+
+## POUR ALLER PLUS LOIN
+
+La Moura Encantada illustre la persistance de traditions pré-chrétiennes dans les zones qui ont été christianisées il y a longtemps. Le Portugal et la Galice ont des traditions religieuses et folkloriques qui remontent aux peuples celtiques ibériques pré-romains, aux vagues successives de peuples sémitiques et germaniques, et à la présence arabe. La Moura — dont le nom suggère le Maure (arabe) mais dont la nature est clairement pré-islamique — est le lieu de cette accumulation de strates. Elle attend dans sa fontaine à travers tous ces changements — la fée pré-romaine qui a survécu au christianisme, à l'Islam, et à la modernité.

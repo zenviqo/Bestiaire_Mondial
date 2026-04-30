@@ -1,0 +1,182 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Mula_Sem_Cabeca
+  Tradition : Amazonien
+═══════════════════════════════════════════════
+
+
+# MULA SEM CABEÇA
+
+## SIGNIFICATION DU NOM
+
+*Mula sem cabeça* signifie littéralement *la mule sans tête*. Le composé est descriptif et n'enveloppe aucune métaphore : il désigne une mule, animal hybride entre cheval et âne déjà marqué dans le folklore lusophone par sa stérilité et son ambiguïté de nature, à laquelle a été retirée la tête. La forme est ferrée, dressée, galopante, mais privée de l'organe par lequel un animal connaît le monde. À la place de la tête s'élève, selon la majorité des récits, une flamme — la créature *voit par le feu*, ou plutôt *brûle à l'endroit où elle devrait voir*.
+
+Quelques régions de l'intérieur emploient *Burra de padre*, *l'ânesse du curé*, formule qui désigne crûment l'origine morale supposée de la créature : la femme qui a couché avec un prêtre.
+
+## ORIGINE
+
+La Mula Sem Cabeça naît d'une transgression précise du droit canon, transposée dans l'imaginaire rural lusophone à partir des récits ibériques médiévaux et reformulée au Brésil colonial. La règle est simple et constante d'un récit à l'autre : *toute femme qui devient la concubine d'un prêtre se transforme, chaque jeudi soir et chaque vendredi soir, en mule sans tête*.
+
+Le mécanisme de la transformation n'est pas volontaire. Il s'impose à la femme dès que la nuit tombe sur ces deux jours liés, dans la liturgie catholique, à la Passion. Le jeudi est le soir de la trahison ; le vendredi celui de la mort. La femme qui a souillé la chair consacrée du prêtre est ainsi punie *par les jours mêmes du Christ*. Sa malédiction n'est ni une vengeance divine explicite, ni l'œuvre d'un démon — c'est le fonctionnement automatique d'un ordre moral exprimé en folklore.
+
+Plusieurs traditions plus récentes ont étendu la malédiction à d'autres transgressions : femme ayant fauté avec son compère de baptême, femme ayant pratiqué le sacrilège, femme morte sans confession après avoir été l'amante d'un homme d'Église. Mais le noyau ancien reste la concubine du curé.
+
+## NATURE
+
+La Mula Sem Cabeça est une *malédiction périodique*. Elle n'est pas un esprit indépendant, ni une créature née comme telle : elle est une femme qui change, en certaines nuits, contre son gré. La femme connaît parfaitement sa condition. Elle vit le reste de la semaine comme une mortelle ordinaire — souvent perçue dans la communauté comme nerveuse, fatiguée, épuisée le vendredi matin.
+
+Sa nature est *ambivalente* : à la fois femme et bête, à la fois consciente et privée d'organe sensoriel, à la fois vivante et déjà presque damnée. Elle reste cependant *réversible* : la malédiction peut être levée, soit par la mort du prêtre concerné, soit par un rituel précis qui sera décrit plus bas.
+
+## HABITAT
+
+La Mula Sem Cabeça apparaît partout au Brésil rural, des champs du Sud aux franges amazoniennes du Nord. Dans la zone amazonienne et péri-amazonienne, elle hante :
+
+- les *carrefours de chemins de terre* où passent les muletiers,
+- les *ponts de rondins* sur les igarapés,
+- les *chemins menant aux chapelles isolées*, surtout celles tenues par un prêtre vivant seul,
+- les *enclos à bétail* à la périphérie des fermes.
+
+Elle ne s'enfonce pas dans la forêt vierge profonde, qui appartient aux entités indigènes (Curupira, Caipora). Son territoire est l'espace *entre* la civilisation chrétienne et la sauvagerie : pâturages, sentiers de transhumance, lisières.
+
+## DESCRIPTION
+
+La forme prise par la femme maudite est celle d'une mule de taille ordinaire, ferrée des quatre sabots — détail invariablement souligné, car les sabots de fer produisent sur les chemins de terre un martèlement reconnaissable à grande distance. Sa robe est généralement noire, parfois brune ou alezane.
+
+À l'emplacement où devrait se trouver la tête s'élève une *flamme*. Cette flamme jaillit du moignon du cou, monte à hauteur d'homme, parfois plus, et brûle d'une couleur que les récits décrivent comme bleutée, jaune-soufre, ou rouge sang selon les régions. La créature *voit par cette flamme* : elle évite les obstacles, suit les chemins, repère les voyageurs qu'elle rencontre.
+
+De la flamme jaillissent, lorsqu'elle hennit, des étincelles qui retombent sur le sol sans rien y allumer. Le hennissement de la Mula Sem Cabeça est l'un des sons les plus redoutés du folklore brésilien : strident, prolongé, audible à des lieues, il glace les bêtes des étables et fait pleurer les enfants endormis.
+
+## POUVOIRS
+
+La *vitesse galopante* de la Mula Sem Cabeça dépasse celle de toute monture vivante. Elle parcourt en une nuit des distances qu'un cavalier ordinaire mettrait plusieurs jours à franchir.
+
+Le *feu de tête* peut, selon certaines variantes locales, brûler ce qu'il touche — vêtements, bois, parfois même chair humaine. Dans la plupart des versions, ce feu est cependant strictement local et ne s'étend pas.
+
+Le *piétinement* est l'arme principale. Une femme transformée croisant un voyageur isolé peut le piétiner mortellement, sans intention particulière de la part de la femme — son corps de mule agit selon une violence qui ne lui appartient plus.
+
+La *résistance aux armes* est partielle. Frapper la mule à coups de bâton ou la blesser à l'arme blanche laisse, le lendemain, des traces sur le corps de la femme : ecchymoses, plaies, brûlures. C'est par ces traces que la communauté finit parfois par identifier la concubine maudite.
+
+## FAIBLESSES
+
+Trois remèdes sont attestés dans le folklore.
+
+Le premier consiste à *retirer le mors et la bride* qui ferment la bouche absente — geste paradoxal puisque la mule n'a pas de tête, mais la tradition affirme qu'un cuir invisible lie ce qui devrait être la mâchoire. Une fois ce cuir détaché, la femme reprend sa forme humaine et la malédiction est levée pour cette nuit.
+
+Le deuxième consiste à *piquer la créature jusqu'au sang* avec un objet de fer — clou, alène de cordonnier, fer à cheval brisé. Le sang qui coule absorbe la malédiction, et la femme retrouvera sa forme.
+
+Le troisième, plus radical, est la *mort du prêtre*. Si l'homme d'Église qui est la cause de la malédiction meurt, sa concubine cesse à jamais de se transformer.
+
+## COMPORTEMENT
+
+La Mula Sem Cabeça galope. C'est son comportement essentiel. Elle galope sur les chemins, le long des barrières, autour des chapelles. Elle ne s'arrête presque jamais — sauf pour piétiner un voyageur surpris.
+
+Elle évite la lumière du jour, qui correspond au moment de la dissolution du sortilège. Avant l'aube, elle regagne le lieu où la femme dort. La femme s'éveille alors couchée sur le sol, parfois nue, les pieds en sang, les cheveux mêlés de poussière, sans souvenir clair des trajets parcourus.
+
+Elle ne parle pas, n'a pas de tête pour parler. Elle communique par hennissements et étincelles.
+
+## RÉCITS TRADITIONNELS
+
+Un récit largement répandu raconte qu'un muletier, traversant une nuit de jeudi un long chemin entre deux fazendas, fut rejoint par une mule au galop dont la tête flambait. L'homme, paralysé de terreur, eut cependant le réflexe de jeter sur elle son rosaire de bois. La mule s'arrêta net, hennit longuement, puis s'effondra. À la place du corps gisait une femme nue, brûlée à la nuque, qu'il reconnut comme la servante du curé du village voisin.
+
+Un autre récit attribue à un sacristain courageux le geste suivant : voyant la mule passer chaque vendredi près de l'église, il dressa une croix à la croisée des chemins. La mule ne put la franchir. Au matin, on découvrit la concubine du prêtre couchée morte au pied de la croix.
+
+Un troisième récit, plus tragique, raconte qu'un homme blessa de son couteau la mule sans tête, sans savoir que la femme transformée était sa propre fille — laquelle entretenait une liaison secrète avec un prêtre. Au matin, il la trouva mourante dans son lit, marquée de la même blessure.
+
+## VARIANTES RÉGIONALES
+
+Au Sud du Brésil, dans les pampas de Rio Grande, la créature est parfois appelée *Burrinha*, diminutif qui ne diminue pourtant pas sa terreur, et la transformation est dite affecter aussi les filles désobéissantes ayant osé regarder un curé célébrer la messe avec convoitise.
+
+Dans le Nordeste, la flamme est souvent décrite comme *bleue*, et le hennissement précédé d'un sifflement aigu. La créature y est associée aux carrefours où l'on dépose des offrandes pour les esprits afro-brésiliens, ce qui montre la perméabilité du folklore lusophone aux traditions de matrice africaine.
+
+Dans la zone amazonienne (Pará, Amazonas, Maranhão), la Mula Sem Cabeça apparaît souvent près des *fazendas de gado* établies en lisière de forêt, comme si elle marquait la frontière entre l'ordre chrétien des éleveurs et le monde des esprits indigènes.
+
+Une variante du Minas Gerais affirme que la mule porte sur le dos l'ombre du prêtre fautif, lequel est ainsi transporté de force dans son galop nocturne.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire brésilienne contemporaine — bandes dessinées de jeunesse, films de série B, séries télévisées de fantaisie folklorique — a transformé la Mula Sem Cabeça en figure quasi gentille, parfois représentée comme un cheval de cirque flamboyant. Plusieurs déformations méritent d'être signalées :
+
+- L'idée que la Mula Sem Cabeça serait simplement *un cheval enchanté* sans cause morale précise est moderne. La tradition rurale rattache la transformation à une transgression sexuelle nommée : la concubine du prêtre.
+
+- L'image d'une mule à crinière de feu spectaculaire et inoffensive contredit le piétinement mortel attesté dans les récits de muletiers et de fazendeiros.
+
+- La confusion fréquente avec le *Headless Horseman* de la tradition anglo-américaine est anachronique. La Mula Sem Cabeça est *elle-même* sans tête ; elle n'est pas montée par un cavalier décapité.
+
+- L'interprétation féministe contemporaine qui voit en elle une figure de révolte n'est pas dans le folklore originel. Le folklore lusophone la décrit comme une *punition* de la femme, non comme une émancipation.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les xylographies de cordel — feuilles populaires brésiliennes en vers vendues sur les marchés du Nordeste — représentent la Mula Sem Cabeça depuis le XIXe siècle. Les gravures sur bois la montrent invariablement de profil, sabots dressés, flamme jaillissant du cou en panache, parfois avec un prêtre fuyant en arrière-plan, parfois avec un voyageur jeté à terre sous les sabots.
+
+Les ex-voto peints sur bois retrouvés dans certaines chapelles rurales du Minas Gerais et de Bahia représentent la délivrance d'une femme par l'intercession d'un saint, la mule sans tête s'effondrant à ses pieds.
+
+## POUR ALLER PLUS LOIN
+
+La Mula Sem Cabeça appartient à un cycle plus large des *transformations punitives féminines* du folklore lusophone, qui inclut également la Cumacanga (femme à tête détachable) et certaines variantes locales de sorcière. Sa figure est intimement liée au pouvoir social du clergé rural, et à l'angoisse communautaire face aux relations sexuelles entre prêtres et femmes laïques. Elle doit être étudiée conjointement avec les traditions ibériques de la mule maudite, dont elle est la descendante directe enrichie par le contexte brésilien.

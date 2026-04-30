@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Toyol
+  Tradition : Sud Est Asiatique
+═══════════════════════════════════════════════
+
+
+# TOYOL
+
+## SIGNIFICATION DU NOM
+
+*Toyol* (malais) et *Tuyul* (javanais) désignent un esprit imp créé depuis l'âme d'un fœtus mort — le terme est lié aux pratiques de *bomoh* (chamanes-sorciers malais) qui utilisent ces êtres comme familiers. L'étymologie précise est discutée — peut-être d'une racine malaise désignant quelque chose de petit ou d'incomplet. Le Toyol est fondamentalement un être inachevé — une vie à peine commencée, recyclée sous une forme surnaturelle servant son possesseur. Le *Kuman Thong* thaïlandais ("Enfant d'Or") est une figure comparable mais avec des différences rituelles.
+
+## ORIGINE
+
+Le Toyol/Tuyul est documenté dans les traditions de sorcellerie malaise (*sihir*) depuis au moins la période pré-islamique — bien que les sources écrites datent principalement de la période coloniale britannique (XIXe-XXe siècles). Des ethnographes comme Walter William Skeat (*Malay Magic*, 1900) ont documenté les croyances et les rituels associés au Toyol dans la péninsule malaise. La tradition a survécu à l'islamisation de la Malaisie et persist dans les pratiques populaires malgré la désapprobation officielle islamique.
+
+## NATURE
+
+Le Toyol est l'esprit d'un fœtus mort — généralement créé par un *bomoh* (sorcier-chaman) qui récupère un fœtus mort ou un bébé mort-né, accomplit des rituels spécifiques pour lier son âme à un objet (une petite figurine ou un récipient), et maintient ainsi un serviteur surnaturel. Le Toyol n'est pas mauvais par nature — il est neutre, un outil. Sa nature éthique dépend de ce que son possesseur lui ordonne de faire.
+
+## HABITAT
+
+Le Toyol "vit" dans son contenant rituel — généralement une petite figurine ou une jarre que son propriétaire garde chez lui. Il ne sort que sur ordre de son propriétaire pour accomplir des tâches (généralement voler). Quand il opère, il se déplace la nuit, de façon invisible pour la plupart des gens. Il retourne dans son contenant après avoir accompli sa mission.
+
+## DESCRIPTION
+
+Un être de la taille d'un bébé ou d'un jeune enfant — de 30 à 60 cm. Peau d'un vert ou d'un gris légèrement anormal, ou d'une pâleur de mort. Yeux grands et brillants. Oreilles légèrement pointues. Dans certaines descriptions, il ressemble à un bébé humain normal sauf pour la couleur de sa peau et ses yeux trop grands. Il se déplace à quatre pattes ou debout selon les récits. Il est invisible pour les humains ordinaires mais visible pour les animaux (chiens, poules) qui réagissent à sa présence.
+
+## POUVOIRS
+
+Vol silencieux et rapide — il peut voler de l'argent, des bijoux, ou d'autres objets de valeur des maisons des victimes sans être vu. Invisibilité pour les humains. Accès aux maisons fermées (peut se glisser par des espaces très petits). Dans certains récits, il peut effectuer d'autres tâches — espionner, causer des maladies légères, ou nuire à des cibles désignées. Il est guidé par les instructions du *bomoh* et ne fait que ce qui lui est ordonné.
+
+## FAIBLESSES
+
+Des chiens alertes peuvent le détecter et l'effaroucher. Des piments rouges et des oignons placés aux seuils des maisons le repoussent (son dégoût pour ces odeurs est documenté). Des formules coraniques (*basmallah*, *ayat kursi*) peuvent le bloquer. Si son contenant est détruit ou s'il n'est pas régulièrement "nourri" (sang du propriétaire, lait, œufs), le Toyol devient instable et peut se retourner contre son propriétaire. La découverte du Toyol et l'exposition de son propriétaire brise généralement sa puissance.
+
+## COMPORTEMENT
+
+Le Toyol opère la nuit — il quitte son contenant, accomplit la tâche assignée, et revient. Il doit être "nourri" régulièrement par son propriétaire — une petite quantité de sang du doigt, ou du lait, ou d'autres offrandes maintiennent son lien avec le possesseur. Un Toyol mal nourri ou négligé peut devenir capricieux et retourner sa délinquance contre son propriétaire. Des possesseurs de Toyols meurent parfois en transmettant l'être à un successeur désigné — le Toyol ne peut pas être simplement abandonné.
+
+## RÉCITS TRADITIONNELS
+
+Un récit malais de Singapour contemporain : une femme remarque que des objets de valeur disparaissent régulièrement de sa maison sans trace d'effraction. Elle consulte un *pawang* (devin). Il diagnostique un Toyol envoyé par un voisin jaloux. Il place des piments rouges aux seuils et des oignons aux fenêtres. La nuit suivante, des cris aigus sont entendus depuis le jardin — le Toyol a été repoussé. Le lendemain, le voisin est vu avec des marques bizarres — son Toyol, bloqué, s'est peut-être retourné contre lui.
+
+## VARIANTES RÉGIONALES
+
+Le *Kuman Thong* ("Enfant d'Or") thaïlandais est une figure proche — un esprit fœtal créé et maintenu comme familier, traditionnellement lié à des pratiques plus élaborées de préparation du corps. En Indonésie (Java), le *Tuyul* est la version locale — une figure très présente dans le folklore javanais contemporain et dans la culture pop indonésienne. Des figures comparables de "familiers fœtaux" existent dans des traditions de sorcellerie d'autres régions d'Asie.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Tuyul est l'une des créatures les plus populaires de la culture pop indonésienne — des dizaines de films, séries télévisées, et bandes dessinées indonésiennes le mettent en scène. Il est souvent représenté de façon comique dans des productions pour enfants (un petit être vert à la tête ronde qui vole des pièces) ou de façon horrifique dans des productions d'horreur. La figure est un marqueur d'identité culturelle indonésienne reconnaissable. Au Singapour et en Malaisie, des cas de "possession par Toyol" continuent d'être rapportés dans des médias populaires.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des petites figurines rituelles malaises (19e-20e siècles), conservées dans des collections ethnographiques britanniques (British Museum, Pitt Rivers Museum), peuvent représenter des contenants ou des incarnations de Toyols. Des illustrations dans des textes de *sihir* malais manuscrits représentent parfois des êtres comparables. L'iconographie cinématographique et télévisée contemporaine en Indonésie et en Malaisie a standardisé une représentation — petit être vert chauve à grands yeux.
+
+## POUR ALLER PLUS LOIN
+
+Le Toyol illustre comment la tragédie de la mort fœtale ou infantile peut être transformée en ressource surnaturelle — une façon de "réutiliser" une vie avortée pour en faire quelque chose d'utile. Cette transformation est éthiquement ambiguë : l'âme du fœtus est-elle consentante ? Est-elle damnée ? Les traditions malaises ne répondent pas clairement. Ce que le Toyol dit avec précision, c'est que la mort avant la vie ne rend pas un être nul — son âme reste active, dépourvue d'innocence, recyclée dans le service. C'est une vision de l'âme enfantine radicalement non-romantique.

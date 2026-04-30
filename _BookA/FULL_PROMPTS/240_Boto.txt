@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Boto
+  Tradition : Amazonien
+═══════════════════════════════════════════════
+
+
+# BOTO
+
+## SIGNIFICATION DU NOM
+
+*Boto* est le nom portugais du dauphin rose de l'Amazonie (*Inia geoffrensis*) — l'animal réel qui a donné naissance à la créature mythologique. Dans le folklore, *Boto* ou *Boto encantado* (dauphin ensorcelé) désigne la transformation surnaturelle de cet animal : la nuit, il sort de l'eau sous forme d'un bel homme ou d'une belle femme, séduisant les habitants des rives, avant de retourner dans le fleuve à l'aube.
+
+## ORIGINE
+
+Le mythe du Boto est profondément enraciné dans le folklore des populations riveraines de l'Amazonie brésilienne et des bassins fluviaux voisins du Pérou et de la Bolivie. Sa présence dans les traditions orales précède la colonisation portugaise — il s'inscrit dans des cosmologies indigènes plus anciennes sur les êtres aquatiques transformateurs. La version la plus connue — le beau séducteur qui apparaît aux fêtes de village — est clairement liée aux populations métisses et caboclas des bords de fleuve.
+
+## NATURE
+
+Le Boto est fondamentalement un être de deux mondes — fluvial le jour (sous forme de dauphin), terrestre la nuit (sous forme humaine). Il n'est pas nécessairement maléfique dans toutes ses manifestations — la séduction n'est pas toujours une attaque. Mais sa relation avec les humains est asymétrique : les rencontres avec un Boto laissent rarement les humains inchangés. Les femmes peuvent tomber enceintes, les hommes peuvent disparaître, les deux peuvent être fascinés à en perdre la raison.
+
+## HABITAT
+
+Le Boto vit dans les profondeurs du fleuve Amazone et de ses affluents — dans un monde aquatique parallèle parfois décrit comme une cité sous-marine luxueuse (*Encante*) où les êtres transformés vivent comme des humains dans l'abondance. La nuit, il monte vers le monde de la surface pour ses incursions terrestres.
+
+## DESCRIPTION
+
+Sous forme animale : le vrai boto rose (*Inia geoffrensis*), dauphin de rivière au museau allongé et à la peau qui peut virer au rose. Sa connexion ombilicale avec sa forme réelle — les dauphins existent, tout le monde les voit — donne une solidité particulière au mythe. Sous forme humaine : le plus souvent un homme grand, beau, vêtu de blanc, coiffé d'un chapeau de paille qui cache le trou de son évent (évent qu'il conserve sous forme humaine). C'est par ce détail — le chapeau qu'il refuse d'enlever — qu'il peut parfois être identifié.
+
+## POUVOIRS
+
+Métamorphose complète entre dauphin et humain. Séduction irrésistible. Dans la tradition amazonienne, les botos ont des pouvoirs liés à la *pajelança* (chamanisme amazonien) — certains chamans obtiennent leurs pouvoirs directement des botos. Capacité à rendre enceintes des femmes ou à faire disparaître des hommes dans les profondeurs.
+
+## FAIBLESSES
+
+L'évent — qu'il garde même sous forme humaine — est sa marque distinctive. Enlever son chapeau révèle sa nature. Certains repousser les botos par des objets spécifiques ou des rituels chamaniques. Le matin, il doit absolument retourner dans l'eau avant le lever du soleil.
+
+## COMPORTEMENT
+
+Le Boto mâle (le plus souvent décrit) se présente aux fêtes de village (*festas juninas*), danse, charme les femmes, disparaît avant l'aube. Il ne cherche pas à rester — ses incursions sont nocturnes et temporaires. Les grossesses inexpliquées sont parfois attribuées au Boto dans les communautés riveraines — pratique qui, d'un point de vue social, permet de nommer une paternité difficile à assumer.
+
+## RÉCITS TRADITIONNELS
+
+La version classique : une belle femme inconnue apparaît à une fête de village au bord du fleuve. Elle danse, séduit les hommes, disparaît au moment de la journée. Personne ne sait d'où elle vient. Au matin, on retrouve des traces qui mènent au fleuve. Quelques semaines plus tard, un homme du village tombe dans une mélancolie inexpliquée — il a été "botado" (ensorcelé par le Boto). La version féminine est similaire mais avec un beau jeune homme inconnu.
+
+## VARIANTES RÉGIONALES
+
+Au Pérou, le *Bufeo colorado* est une version similaire du dauphin de fleuve métamorphe. En Bolivie, des traditions comparables existent dans les communautés des bords des fleuves. Les variantes indigènes pré-coloniales intègrent le dauphin dans des cosmologies plus élaborées incluant des esprits aquatiques gardiens.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Boto est bien connu au Brésil — sa figure est utilisée dans des productions culturelles locales et dans des campagnes de conservation du dauphin rose de l'Amazonie réel. L'association entre la créature mythique et l'animal réel crée une connexion utile : respecter le boto réel, c'est aussi respecter l'être mythique.
+
+## ICONOGRAPHIE HISTORIQUE
+
+La tradition amazonienne des peuples indigènes produit peu d'iconographie canonique de la créature. Les premières représentations visuelles du Boto sous forme humaine viennent de l'art populaire brésilien du XXe siècle — azulejos, peintures naïves, illustrations de littérature de cordel.
+
+## POUR ALLER PLUS LOIN
+
+Le Boto est un mythe qui travaille une réalité sociale concrète — les grossesses non désirées, les paternités non reconnues, les rencontres furtives — en les réinterprétant comme rencontres avec un être surnaturel. Cette fonction narrative est universelle : donner un nom et une forme aux situations que la société normale n't a pas de mot pour désigner.

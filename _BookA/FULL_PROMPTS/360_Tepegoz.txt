@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Tepegoz
+  Tradition : Turcique Altaique
+═══════════════════════════════════════════════
+
+
+# TEPEGÖZ
+
+## SIGNIFICATION DU NOM
+
+*Tepegöz* est un composé turcique transparent : *tepe* (sommet, dessus de la tête, colline) et *göz* (œil). Il est "l'œil du sommet" ou "le cyclope" — désignant directement sa caractéristique physique fondamentale, le seul grand œil au milieu du front. Le nom est une traduction presque exacte du grec *Kyklopé* (œil rond) — ce qui suggère soit une parenté indo-européenne ancienne, soit une influence grecque transmise via Byzance sur les traditions turciques médiévales.
+
+## ORIGINE
+
+Tepegöz est l'un des personnages les plus célèbres de l'épopée de *Dede Korkut* — le grand cycle héroïque turcique composé à l'époque médiévale (probablement IX-XIe siècles) dans le contexte des tribus oghouzes d'Asie centrale. Le *Livre de Dede Korkut* est le texte fondateur de la littérature épique turcique — un équivalent fonctionnel de l'Iliade dans son rôle culturel. Tepegöz y figure comme l'antagoniste monstrueux du héros Basat. Le texte a été inscrit au patrimoine immatériel de l'UNESCO.
+
+## NATURE
+
+Tepegöz est né d'une fée (*peri*) séduite par un mortel — il est donc d'origine semi-divine. Cette origine lui confère une puissance surnaturelle mais aussi une vulnérabilité spécifique. Il est invulnérable aux armes ordinaires grâce à une bague magique obtenue à sa naissance de sa mère fée. Il est un géant cannibale qui dévore des guerriers oghouzes en nombre, terrorisant les communautés. Son seul œil est à la fois sa caractéristique distinctive et, comme chez le Cyclope d'Homère, son point de vulnérabilité.
+
+## HABITAT
+
+Tepegöz habite une grande grotte dans les montagnes — sa demeure est cachée et protégée. Il sort régulièrement pour chasser et dévorer des humains. Dans le *Livre de Dede Korkut*, les guerriers oghouzes ont peur de pénétrer dans son territoire. Il est l'obstacle qui bloque une vallée ou une zone dont les Oghouzes ont besoin.
+
+## DESCRIPTION
+
+Géant humanoïde de taille colossale — il peut tenir plusieurs guerriers dans sa main. Un seul œil au milieu du front, brillant comme une torche. Dents longues et jaunes, bouche immense capable d'avaler un homme entier. Peau épaisse résistante aux armes. Voix de tonnerre. Dans les descriptions du texte de Dede Korkut, sa naissance est décrite avec une précision qui insiste sur son caractère hybride — trop humain pour être ignoré, trop monstrueux pour être accepté.
+
+## POUVOIRS
+
+Invulnérabilité aux armes ordinaires — grâce à la bague magique de sa mère-fée. Force colossale. Sens aiguisés — il détecte les humains à grande distance. Cannibale systématique — il peut dévorer de nombreux guerriers sans être repu. Dans certaines versions, des pouvoirs magiques limités liés à son origine féerique.
+
+## FAIBLESSES
+
+Sa bague magique protège son corps mais pas son œil — qui reste vulnérable. Basat, le héros du *Livre de Dede Korkut*, réussit à lui voler sa bague par ruse (se faisant appeler "Mon Propre Nom" pour contourner la logique magique de la malédiction) puis lui crève l'œil avec une broche chauffée au rouge — parallèle évident avec la victoire d'Ulysse sur Polyphème. La comparaison entre Tepegöz et Polyphème est inévitable et a fasciné les philologues comparatistes depuis le XIXe siècle.
+
+## COMPORTEMENT
+
+Tepegöz dévore systématiquement — il exige un tribut de guerriers à intervalles réguliers. Sa relation avec le héros Basat suit la logique épique du monstre-obstacle qui permet au héros de se définir. Dans l'épopée, Basat est spécifiquement désigné pour affronter Tepegöz par son destin — les deux sont quasi-frères (Basat a été nourri par une lionne, Tepegöz est né d'une fée et d'un berger).
+
+## RÉCITS TRADITIONNELS
+
+Dans le *Livre de Dede Korkut* (version azerbaïdjanaise et turque) : les Oghouzes souffrent depuis des années du tribut imposé par Tepegöz. Basat, guerrier dont le courage et l'ingéniosité sont célébrés, décide de l'affronter. Il pénètre dans la grotte. Tepegöz le capture. Basat se fait appeler "Mon Propre Nom" — quand il crève l'œil du géant avec une broche chauffée au rouge et que Tepegöz crie "Qui t'a fait ça ?" il répond "Mon Propre Nom !" — les autres Cyclopes/génies ne peuvent pas l'aider contre quelqu'un de ce nom. Basat lui arrache ensuite sa bague invincible et le tue.
+
+## VARIANTES RÉGIONALES
+
+Le *Dere-Göz* (cyclope-de-la-vallée) des traditions turkmènes est une figure comparable. Des géants monoculaires existent dans les traditions folkloriques mongoles et dans d'autres traditions turco-mongoles. La comparaison entre Tepegöz et le Polyphème d'Homère est un classique de la philologie comparatiste — elle illustre soit la diffusion d'un motif indo-européen très ancien, soit une convergence narrative indépendante.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'épopée de *Dede Korkut* est un texte central de la littérature turcique — enseigné dans les écoles en Turquie et en Azerbaïdjan, adapté dans des films, des séries télévisées, et des bandes dessinées. Tepegöz est l'un des personnages les plus reconnus de cette tradition. En Turquie, des adaptations contemporaines de l'épisode de Tepegöz existent dans le cinéma d'animation et dans des adaptations théâtrales.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les manuscrits enluminés ottomans du *Livre de Dede Korkut* représentent parfois les scènes héroïques — mais l'iconographie de Tepegöz spécifiquement n'est pas abondante dans les sources médiévales. Des illustrations modernes dans des éditions scolaires turques et azerbaïdjanaises montrent le cyclope selon les descriptions du texte.
+
+## POUR ALLER PLUS LOIN
+
+Tepegöz illustre la question fascinante de la convergence et de la diffusion dans les mythologies mondiales — le cyclope cannibale borgne vaincu par ruse existe dans les traditions grecques (*Polyphème*), turques (*Tepegöz*), et dans d'autres traditions mondiales. La question de l'origine commune ou de la convergence indépendante reste ouverte mais révèle quelque chose d'universel dans la façon dont les humains narrativisent la rencontre avec une puissance monstrueuse invincible et la victoire de l'intelligence contre la force brute.

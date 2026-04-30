@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Lu
+  Tradition : Tibetain Himalayen
+═══════════════════════════════════════════════
+
+
+# LU
+
+## SIGNIFICATION DU NOM
+
+*Lu* (ཀླུ en tibétain, souvent romanisé *klu*) désigne une catégorie d'esprits aquatiques — des êtres serpentiformes ou dragons qui habitent les sources, les lacs, les rivières, et les eaux souterraines du Tibet et de l'Himalaya. Le terme correspond au sanskrit *Nāga* (des traditions indoues et bouddhistes indiennes) et les deux termes sont souvent utilisés de façon interchangeable dans les textes bouddhistes tibétains. Les Lu sont l'une des "huit classes d'esprits" (*lha-dré brgyad*) de la cosmologie tibétaine — aux côtés des Lha (dieux du ciel), des Tsen (démons rouges des rochers), et d'autres catégories.
+
+## ORIGINE
+
+Les Lu sont documentés dans les traditions bönpo (religion pré-bouddhique du Tibet) et ont été intégrés dans le bouddhisme tibétain dès son introduction au VIIe siècle CE. Des textes tibétains anciens de géomance et d'astrologie décrivent les Lu et leurs interactions avec les humains. Padmasambhava est décrit dans des textes Nyingma comme ayant domptée et liée de nombreux Lu des sources et lacs tibétains — les convertissant en protecteurs du Dharma. Des rituels annuels de propitiation des Lu existent dans toutes les régions du Tibet.
+
+## NATURE
+
+Les Lu sont des êtres de nature ambivalente — ni fondamentalement hostiles ni bienveillants. Ils régulent l'environnement aquatique : la qualité des eaux, la fertilité des terres irriguées, les précipitations. Quand les humains perturbent leur habitat (pollution des sources, construction dans des zones aquatiques, transgression de zones sacrées), les Lu réagissent par des maladies cutanées et des affections des eaux. Ces maladies — collectivement appelées *lu nad* (maladies des Lu) — incluent des éruptions cutanées, des maladies de peau, et des troubles dermatologiques attribués à leur courroux.
+
+## HABITAT
+
+Les Lu habitent les sources, les lacs, les rivières, et les eaux souterraines du Tibet et de l'Himalaya. Chaque source ou point d'eau significatif peut avoir son Lu. Des lacs sacrés tibétains comme Namtso et Yamdrok sont habités par des Lu puissants. Des puits et des sources d'eau potable dans les villages ont leurs propres Lu dont le bien-être est lié à la pureté de l'eau. Des arbres et des formations rocheuses près des sources peuvent aussi être leur résidence.
+
+## DESCRIPTION
+
+Les Lu se manifestent principalement sous forme de serpents — des serpents dorés, blancs, ou multicolores selon la hiérarchie et la région. Certains Lu puissants peuvent prendre des formes hybrides serpent-humain ou serpent-dragon. Des Lu peuvent avoir des joyaux sur leur tête (comme les Nāgas indiens). Ils peuvent être de taille minuscule (serpents ordinaires habitant une source) ou d'une taille cosmique (des Lu des grands lacs tibétains).
+
+## POUVOIRS
+
+Contrôle de la qualité et de la quantité des eaux. Capacité de causer des *lu nad* (maladies de la peau et des affections liées à l'eau) par leur courroux. Protection des sources d'eau si correctement propiciés. Dans des contextes bouddhistes, des Lu domptés peuvent devenir des protecteurs du Dharma et des gardiens de trésors. Certains Lu peuvent accorder des bénédictions et de la prospérité aux communautés qui les respectent.
+
+## FAIBLESSES
+
+Les rituels de propitiation des Lu — des offrandes spécifiques (*lu tse* — offrandes en tête de serpent faites de farine d'orge et de beurre) — peuvent apaiser les Lu courroucés. Des mantras et des textes spécifiques récités par des lamas qualifiés peuvent nettoyer les *lu nad* et rétablir la relation. La propreté des sources — ne pas les polluer, ne pas cracher ou uriner dans leur voisinage — est la protection de base. Des cérémonies de "Lurol" (fête des Lu) sont effectuées annuellement dans certaines régions.
+
+## COMPORTEMENT
+
+Les Lu sont généralement passifs — ils ne cherchent pas à nuire. Leur réaction négative est toujours déclenchée par une perturbation humaine. Un Lu dont la source a été polluée ou dont l'arbre résidentiel a été abattu exprimera son courroux par des maladies dans les familles responsables. Des Lu propiciés régulièrement contribuent à la santé des eaux et à la fertilité de la région. Des lamas ou des tradipraticiens tibétains effectuent des diagnostics pour déterminer si une maladie est d'origine Lu.
+
+## RÉCITS TRADITIONNELS
+
+Un récit de la région de Kham (Tibet oriental) : un fermier creuse un nouveau canal d'irrigation, perturbant une zone rocheuse près d'une source qui est traditionnellement connue comme résidence d'un Lu. Dans les semaines suivantes, ses enfants développent des éruptions cutanées sévères et sa femme attrape une maladie de peau. Un lama est consulté. Il diagnostique un *lu nad* — la source perturbée était la résidence d'un Lu. Le fermier effectue des offrandes, comble le canal qu'il avait creusé, et récite des mantras de purification. Les maladies s'améliorent progressivement.
+
+## VARIANTES RÉGIONALES
+
+Le Nāga indien est l'équivalent hindou-bouddhiste — une figure de serpent sacré omniprésente dans les traditions indiennes. Au Népal, les Nāgas des traditions hindoues et bouddhistes locales correspondent aux Lu tibétains. En Mongolie, des esprits des eaux comparables (*usun ezen* — maîtres des eaux) existent dans les traditions chamaniques. Dans les traditions tibétaines, les Lu sont distincts des *Lha* (esprits du ciel) et des *Nyen* (esprits des arbres et des rochers) — chaque classe occupant un domaine cosmologique spécifique.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les Lu sont encore activement vénérés dans les communautés tibétaines en exil (Dharamsala, etc.) et dans les régions tibétaines de Chine. Des rituels de propitiation des Lu sont effectués lors de la construction de nouveaux bâtiments dans des contextes tibétains pour obtenir la permission des esprits aquatiques locaux. Des moines tibétains contemporains traitent des *lu nad* dans des contextes combinant médecine traditionnelle et rituel. Des médecins tibétains traditionnels incluent les Lu dans leurs diagnostics.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des peintures de thangkas tibétaines représentent souvent des Lu dans des registres inférieurs — des serpents dorés dans des lacs ou des sources, parfois avec des corps humains supérieurs (comme des Nāgas indiens). Des fresques dans des monastères tibétains du Kham, de l'Amdo, et du Tibet central montrent des Lu en contexte de dompte par Padmasambhava. Des statuettes rituelles de Lu (serpents dorés) sont utilisées dans des cérémonies. Des livres de rituels tibétains (*lu-bum* — millier de Lu) contiennent des illustrations rituelles.
+
+## POUR ALLER PLUS LOIN
+
+Les Lu illustrent une conception écologique du surnaturel — des êtres dont le courroux est directement lié aux actions humaines sur l'environnement. Polluer une source, abattre un arbre sacré, ou construire dans une zone sensible provoque des conséquences physiques immédiates sous forme de maladies. C'est une façon de rendre l'écologie localement sacrée — les Lu sont la personnification des conséquences environnementales des actions humaines. Dans un monde où la notion d'"impact environnemental" est récente, les Lu encodent cette sagesse dans un langage surnaturel plus ancien.

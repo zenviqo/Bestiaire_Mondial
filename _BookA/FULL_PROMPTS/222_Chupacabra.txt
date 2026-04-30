@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Chupacabra
+  Tradition : Amerindien Centre Sud
+═══════════════════════════════════════════════
+
+
+# CHUPACABRA
+
+## SIGNIFICATION DU NOM
+
+*Chupacabras* est de l'espagnol transparent — *chupar* (sucer) et *cabras* (chèvres). Il est le *suceur de chèvres*, nommé d'après sa première série d'attaques documentées. Le nom populaire est parfait dans sa limpidité : il décrit exactement ce que la créature fait selon les témoignages — elle vide les animaux de leur sang sans laisser de chair consommée. En anglais, *goatsucker* est la traduction directe, mais le terme espagnol est universellement utilisé même dans les pays anglophones.
+
+## ORIGINE
+
+Le Chupacabra fait son entrée dans le folklore en mars 1995 à Canóvanas, Porto Rico. Madelyne Tolentino, une habitante, décrit une créature bipède qui aurait attaqué et vidé de leur sang huit moutons. Les médias portoricains répandent l'histoire rapidement, et des rapports similaires arrivent de toute l'île. En 1996, la créature est signalée au Mexique, puis au Texas, à Florida, en Amérique centrale. En quelques années, le Chupacabra devient un phénomène médiatique et folklorique mondial.
+
+## NATURE
+
+Le Chupacabra occupe une position unique : c'est un cryptide contemporain — une créature dont l'existence est reportée mais non confirmée scientifiquement — qui a généré un folklore en temps réel. Il n'est pas issu d'une tradition orale ancienne mais d'un phénomène social et médiatique des années 1990. Pourtant, son intégration dans les croyances populaires d'Amérique latine a été si rapide et profonde qu'il est devenu en trente ans une figure folklorique à part entière.
+
+## HABITAT
+
+Le Chupacabra est signalé principalement dans les zones rurales et périurbaines d'Amérique centrale et des Caraïbes — là où le bétail est accessible la nuit. Il évite les zones très peuplées. Les rapports se concentrent dans les régions de Porto Rico, Mexique, Floride, Texas, Chili, et Colombie — toujours dans des zones avec présence d'animaux domestiques.
+
+## DESCRIPTION
+
+Deux descriptions distinctes coexistent. La version portoricaine originale : créature bipède de 90 à 120 cm, corps de reptile avec rangée de piquants dorsaux, grands yeux rouges, bras courts griffus, pattes postérieures bondissantes. La version mexicaine continentale : quadrupède canin, chauve ou presque, avec dos arqué, yeux proéminents, canines saillantes — souvent identifié par les zoologistes comme coyotes ou chiens atteints de gale sévère. Les deux formes coexistent dans le folklore contemporain.
+
+## POUVOIRS
+
+La caractéristique centrale est sa méthode d'attaque : il vide ses proies de leur sang par de petites perforations, laissant les corps intacts sans trace de lutte et sans prélèvement de chair. Cette précision chirurgicale dans l'extraction de sang est ce qui le distingue d'un prédateur ordinaire dans les rapports populaires. Certains témoignages lui attribuent la capacité de disparaître rapidement, de ne laisser aucune trace de pattes, de se rendre invisible.
+
+## FAIBLESSES
+
+Aucune technique anti-Chupacabra n'est documentée dans le folklore — contrairement aux créatures surnaturelles plus anciennes, il n'existe pas de tradition de protection contre lui. La lumière vive le ferait fuir selon certains témoignages. Son identité changeante et sa nature incertaine en font une cible difficile à cibler rituellement.
+
+## COMPORTEMENT
+
+Le Chupacabra frappe la nuit, silencieusement. Il cible les animaux domestiques — chèvres, moutons, poulets, lapins — plutôt que les humains. Il semble capable d'attaquer plusieurs animaux d'un enclos en une seule nuit. Dans les zones rurales d'Amérique latine, l'expérience de trouver ses animaux vidés de sang au matin est vécue comme une rencontre avec quelque chose de fondamentalement inexplicable.
+
+## RÉCITS TRADITIONNELS
+
+Les archives de 1995-2000 regorgent de témoignages directs — agriculteurs portoricains décrivant des scènes d'hécatombe, maires de municipalités mexicaines organisant des patrouilles nocturnes, chasseurs texans décrivant des créatures étranges. Ces témoignages contemporains constituent le "folklore primaire" de la créature, aussi vivant que n'importe quelle tradition orale ancienne.
+
+## VARIANTES RÉGIONALES
+
+Au Chili, le *Chupacabra* chilien est parfois décrit comme plus grand et plus agressif. Dans certaines régions du Mexique, il est associé à des pratiques de magie noire — des sorcières l'enverraient pour détruire le bétail des ennemis. À Porto Rico, certaines familles rapportent des attaques répétées sur plusieurs générations d'animaux — personnalisant la relation avec la créature.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Chupacabra *est* un produit de l'imaginaire moderne — né dans l'ère médiatique, diffusé par les chaînes câblées et internet, exporté mondialement. Ce qui est remarquable est sa transformation rapide de fait-divers en créature folklorique authentique : des communautés rurales qui n'avaient pas vu les reportages télévisés en ont fait leur propre version, enrichie de détails locaux, transmise oralement. Le processus de folklorisation en temps réel est documenté.
+
+## ICONOGRAPHIE HISTORIQUE
+
+N'existant que depuis 1995, le Chupacabra n'a pas d'iconographie historique. Les illustrations les plus anciennes viennent des journaux portoricains de 1995. L'iconographie s'est rapidement standardisée autour de deux formes — le reptile bipède et le canidé chauve — selon les régions géographiques.
+
+## POUR ALLER PLUS LOIN
+
+Le Chupacabra est un cas d'étude folklorique unique : une créature née sous les yeux des chercheurs, dont on peut observer la naissance, la diffusion, la transformation et l'intégration dans les traditions locales. Il prouve que le processus de création folklorique n'est pas limité aux sociétés pré-médiatiques — les humains créent du folklore avec les mêmes mécanismes fondamentaux à l'âge d'internet qu'à l'âge de la tradition orale exclusive.

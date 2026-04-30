@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Ukuku
+  Tradition : Inca
+═══════════════════════════════════════════════
+
+
+# UKUKU
+
+## SIGNIFICATION DU NOM
+
+*Ukuku* en quechua est une onomatopée — le son qu'émet l'être quand il parle : *uku-uku* ou *uk-uk*, une vocalisation nasillarde caractéristique. Ce nom-sonore est inhabituel — la créature est littéralement nommée par le bruit qu'elle fait, comme si son essence était dans sa voix. Cette voix nasillarde est une caractéristique fondamentale des représentations rituelles de l'Ukuku — les danseurs qui le personnifient doivent parler en voix falsetto pour imiter ce son.
+
+## ORIGINE
+
+L'Ukuku est une figure centrale de la tradition andine quechua — il est particulièrement associé au pèlerinage du *Qoyllur Riti* (Étoile de Neige), l'un des plus grands pèlerinages catholiques-andins du monde, qui se tient chaque année en mai-juin sur le glacier Sinakara (Cusco, Pérou) à plus de 4 700 mètres d'altitude. Ce pèlerinage, classé au patrimoine immatériel de l'UNESCO, rassemble des dizaines de milliers de pèlerins — et les Ukukus en sont les figures rituelles centrales.
+
+## NATURE
+
+L'Ukuku est le fils de l'ours (*ukuku*) et d'une femme humaine — né d'une union prohibée entre le monde animal et le monde humain. Il possède donc à la fois la force surnaturelle de l'ours (animal sauvage et puissant des Andes) et l'intelligence humaine. Cette hybridité le place entre les mondes — il peut naviguer entre les espaces humains et surnaturels. Dans le contexte du pèlerinage du Qoyllur Riti, les Ukukus forment une sorte de police rituelle chargée de protéger les pèlerins et de maintenir l'ordre.
+
+## HABITAT
+
+L'Ukuku habite l'espace de la transition — les glaciers andins (zones de mort et de pureté simultanées), les zones de haute altitude entre le monde humain des villages et le monde surnaturel des esprits de la montagne (*Apus*). Dans le contexte rituel du Qoyllur Riti, les Ukukus montent sur le glacier Sinakara dans la nuit — une ascension dangereuse réservée à ces seuls représentants de la communauté.
+
+## DESCRIPTION
+
+Dans les représentations rituelles : un costume complet en laine ou en tissu qui couvre le corps entier, incluant une cagoule avec une tête d'ours stylisée. Un masque à lunettes rondes. Un fouet — symbole d'autorité et outil de maintien de l'ordre. Dans les récits non rituels : un être à mi-chemin entre l'homme et l'ours, couvert d'une fourrure, d'une force colossale mais d'une intelligence humaine, parlant en voix nasillarde caractéristique.
+
+## POUVOIRS
+
+Force physique de l'ours. Intelligence et ruse humaine. Navigation entre les mondes — accès aux glaciers sacrés interdits aux humains ordinaires. Capacité de combattre les esprits maléfiques (*ñakaq*, *pishtaco*) qui menacent les pèlerins. Dans les récits, il peut aussi protéger les villages contre les forces surnaturelles. Sa voix nasillarde a des propriétés apotropaïques — elle fait fuir les esprits malveillants.
+
+## FAIBLESSES
+
+Sa nature hybride est aussi sa vulnérabilité — ni totalement animal, ni totalement humain, il n'appartient pleinement à aucun des deux mondes. Dans certains récits, sa transgression originelle (né d'une union prohibée) le place dans une position de culpabilité permanente. La montée sur le glacier est sa tâche rituelle la plus dangereuse — plusieurs Ukukus sont morts lors des ascensions nocturnes du Sinakara.
+
+## COMPORTEMENT
+
+Dans le contexte du pèlerinage : les Ukukus patrouillent, maintiennent l'ordre, empêchent les conduites déplacées, et montent sur le glacier dans la nuit glaciale pour en rapporter de la glace sacrée. Dans les récits non rituels : l'Ukuku est un être de la marge — ni totalement accepté dans la société humaine, ni appartenant au monde sauvage. Il peut être un protecteur ou une figure tragique selon les récits.
+
+## RÉCITS TRADITIONNELS
+
+Dans les récits quechua de la cordillère de Cusco : une femme est enlevée par un ours pendant sa traversée d'une zone de haute montagne. Elle vit avec lui et a un enfant — l'Ukuku. Quand la femme est finalement secourue et rentre au village avec son fils hybride, l'enfant est à la fois trop fort pour la société humaine et trop humain pour retourner dans la montagne. Il trouve sa place comme médiateur — protecteur de la communauté aux frontières entre les mondes, parlant d'une voix qui n'est ni humaine ni animale.
+
+## VARIANTES RÉGIONALES
+
+Des cérémonies similaires avec des danseurs en costume d'ours existent dans d'autres festivals andins du Pérou et de la Bolivie. La figure de l'hybride humain-ours est présente dans de nombreuses traditions andines. Le pèlerinage du Qoyllur Riti est le contexte le plus documenté et le plus vivant de cette tradition.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Ukuku est une figure vivante — le pèlerinage du Qoyllur Riti attire chaque année des dizaines de milliers de participants, et les Ukukus sont une présence centrale dans ce contexte. Des films documentaires (notamment *Qoyllur Riti* de Jorge Vignati, 2006) documentent la figure et son rôle rituel. La montée des Ukukus sur le glacier est une des expériences rituelles les plus intenses de l'Amérique andine contemporaine.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'Ukuku dans son costume rituel est une figure très photogénique — il est présent dans de nombreuses publications sur les traditions andines. Des textiles andins pré-columbian représentent parfois des hybrides humain-ours. L'iconographie contemporaine, largement photographique, est abondante autour du pèlerinage du Qoyllur Riti.
+
+## POUR ALLER PLUS LOIN
+
+L'Ukuku illustre la logique andine de la médiation par l'hybridité — les êtres qui existent entre les mondes (humain-animal, ici) sont précisément ceux qui peuvent naviguer entre eux. L'Ukuku est dangereux parce qu'il n'appartient complètement à aucun monde, mais il est précieux pour la même raison — il peut aller là où les humains ordinaires ne peuvent pas. Sa voix nasillarde, son costume total, son ascension sur le glacier — tout dit la même chose : il est le médiateur de l'impossible.

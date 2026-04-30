@@ -1,0 +1,179 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Jackalope
+  Tradition : Cryptides Contemporains
+═══════════════════════════════════════════════
+
+
+# JACKALOPE
+
+## SIGNIFICATION DU NOM
+
+Le nom *Jackalope* est un mot-valise anglo-américain, contraction de *jackrabbit* (lièvre américain) et *antelope* (antilope). Il désigne une créature de l'imaginaire des Grandes Plaines combinant le corps d'un lièvre avec les bois ramifiés d'une antilope — plus précisément les bois fourchus de la pronghorn, ongulé typique de l'Ouest américain — ou parfois ceux d'un cerf de Virginie ou d'un wapiti.
+
+Le terme s'est imposé au milieu du XXe siècle, et est aujourd'hui inséparable de la culture régionale du Wyoming, en particulier de la ville de Douglas, qui s'autoproclame *capitale mondiale du Jackalope*. Dans la tradition antérieure à cette appellation, la créature était connue sous diverses désignations : *antelope rabbit*, *warrior rabbit*, *horned hare*, ou par référence à des créatures apparentées d'autres traditions.
+
+## ORIGINE
+
+La figure du *lièvre cornu* possède une longue histoire bien antérieure à l'appellation moderne *Jackalope*. Les bestiaires européens du XVIe et XVIIe siècle représentaient sous le nom *Lepus cornutus* une créature similaire — un lièvre portant des bois — qui apparaissait dans plusieurs traités de zoologie pré-moderne comme animal réel, parfois illustré à partir de spécimens taxidermiques composites assemblés par des chasseurs allemands ou autrichiens.
+
+Cette tradition européenne se prolonge dans le folklore bavarois sous la forme du *Wolpertinger*, créature hybride composite (lièvre à bois, oiseau, écureuil, etc.) dont des taxidermies fantaisistes étaient — et sont encore — exposées dans les auberges alpines.
+
+L'apparition spécifique du *Jackalope* dans le folklore américain est attribuée à deux frères taxidermistes du Wyoming, Douglas et Ralph Herrick, qui dans les années 1930 produisirent une effigie composite associant un lièvre américain et des bois de pronghorn. Cette taxidermie facétieuse, exposée dans un hôtel local, suscita un engouement qui se propagea dans tout l'Ouest américain et fixa durablement l'iconographie.
+
+Cependant, des récits oraux antérieurs concernant des lièvres à cornes étaient transmis dans le folklore des cow-boys et des trappeurs des Grandes Plaines, qui interprétaient probablement à la lumière de leur expérience du terrain certaines anomalies réelles — notamment les lièvres atteints d'une infection virale (le virus du papillome) qui provoque la croissance de protubérances cornées sur la tête de l'animal.
+
+## NATURE
+
+Le Jackalope est un *cryptide hybride* mêlant les caractéristiques de deux animaux distincts. Sa nature exacte oscille, dans la tradition, entre l'animal réel rare (qu'on ne capturerait que par extrême chance), la blague de chasseur (taxidermie composite assumée), et la créature de folklore facétieux à pleine fonction culturelle.
+
+Cette ambivalence — *animal possible et créature impossible* — constitue le trait définissant du Jackalope. Contrairement à Bigfoot ou à Mothman, dont la croyance ou l'incrédulité tendent à s'opposer, le Jackalope vit volontairement dans une zone de flou cultivée par les communautés qui le célèbrent.
+
+## HABITAT
+
+Les *Grandes Plaines* — vastes étendues de prairie semi-arides, cuvettes rocheuses, bad lands et prairies montagnardes — couvrant une grande partie du Wyoming, du Colorado, du Nebraska, du Dakota du Sud, du Montana et du Nouveau-Mexique constituent l'habitat traditionnel. Le Jackalope préfère les zones de prairie ondulée parsemées de buissons de sauge et de genévriers nains, l'altitude entre mille et deux mille mètres, et les régions où coexistent lièvres américains et antilopes pronghorn.
+
+La région autour de Douglas, dans le Wyoming, est désignée par tradition comme la zone de plus forte densité — désignation civique évidemment auto-promue mais qui fait partie intégrante du folklore local.
+
+## DESCRIPTION
+
+Le Jackalope est décrit comme un lièvre américain de taille adulte (cinquante à soixante centimètres de long, deux à trois kilos), conservant l'apparence générale du lapin à oreilles longues — pelage brun-fauve, ventre blanc, longues pattes arrière puissantes adaptées au saut.
+
+Sa caractéristique distinctive est une *paire de bois ramifiés* fixés au sommet du crâne. Selon les versions, ces bois rappellent ceux du pronghorn (deux pointes recourbées vers l'arrière), du cerf de Virginie (ramure plus complexe à pointes multiples), ou du wapiti miniature. La proportion des bois par rapport à la taille du corps les rend disproportionnés et caractéristiques.
+
+Certains récits mentionnent une *fourrure plus longue* au niveau de la nuque et des pattes, donnant à la créature une silhouette plus imposante que celle d'un lièvre ordinaire.
+
+## POUVOIRS
+
+La *capacité d'imiter la voix humaine* est l'attribut le plus singulier du Jackalope dans la tradition de l'Ouest. Le folklore des cow-boys raconte que les Jackalopes, autour des feux de camp nocturnes, reprendraient certains mots ou phrases prononcés par les hommes, fragmentaires et déformés, troublant le silence des plaines. Cette caractéristique le rapproche des esprits trompeurs des traditions amérindiennes des Plaines.
+
+L'*agilité* est notable. Les sauts du Jackalope dépasseraient ceux du lièvre ordinaire, atteignant six à neuf mètres en longueur lorsqu'il est poursuivi.
+
+L'*agressivité défensive* est un trait inhabituel pour un lagomorphe : le Jackalope, quand il est acculé, *charge* l'attaquant, utilisant ses bois comme un cervidé. D'où l'appellation *warrior rabbit* — le lapin guerrier — utilisée par les anciens trappeurs.
+
+La *capacité à reproduire le son du chant des cow-boys* est un détail récurrent du folklore : pour attirer l'animal, il faudrait imiter une chanson de bivouac, à laquelle le Jackalope répondrait depuis les broussailles.
+
+## FAIBLESSES
+
+La tradition rapporte plusieurs faiblesses spécifiques, sur le mode facétieux propre au folklore des Grandes Plaines :
+
+- Le Jackalope se laisserait approcher par les femmes plus facilement que par les hommes.
+- Il ne peut être capturé qu'avec un certain whisky de la région, dont les vapeurs le rendraient docile — détail évidemment narratif construit pour stimuler la fierté locale du whisky du Wyoming.
+- Il ne se reproduit que pendant les orages électriques nocturnes — caractéristique qui rendrait l'observation et la capture pratiquement impossibles.
+- Il craindrait la sauge brûlée — détail qui croise le folklore amérindien et la connaissance pratique des plantes des Plaines.
+
+Ces faiblesses, plus narratives que zoologiques, soulignent le caractère semi-comique de la tradition.
+
+## COMPORTEMENT
+
+Le Jackalope est *crépusculaire* : ses apparitions sont plus fréquentes à l'aube et au crépuscule, conformément au mode de vie des lièvres américains. Il est *solitaire* la majeure partie de l'année, se regroupant en couples seulement durant les orages de fin de printemps.
+
+Son comportement *défensif-agressif* face aux prédateurs — y compris humains — le distingue des lapins ordinaires. Plusieurs récits de cow-boys décrivent des Jackalopes qui, surpris, chargeraient les chasseurs ou les chevaux plutôt que de fuir.
+
+Une caractéristique culturelle majeure est l'*invisibilité aux non-initiés* : seuls les habitants de longue date des Grandes Plaines, les vrais cow-boys et les vieux trappeurs, parviendraient à apercevoir des Jackalopes. Les touristes, voyageurs de passage et étrangers à la région ne les verraient pratiquement jamais — façon traditionnelle de protéger l'authenticité culturelle de la tradition contre son exploitation extérieure.
+
+## RÉCITS TRADITIONNELS
+
+Le récit fondateur moderne concerne la mystification taxidermique des frères Herrick à Douglas, Wyoming, dans les années 1930. Une effigie composite, exposée dans un hôtel local, fut copiée dans toute la région. La ville de Douglas adopta officiellement le Jackalope comme emblème dans les années 1960, érigea une statue géante en son centre, et délivre depuis lors des *permis de chasse au Jackalope* humoristiques valables uniquement le 31 juin (date inexistante).
+
+Les récits oraux antérieurs des cow-boys évoquent des nuits de bivouac où les hommes entendaient leurs propres chants repris fragmentairement dans l'obscurité, ou apercevaient brièvement, à la lisière du cercle de feu, une silhouette de lièvre dont la silhouette portait des protubérances anormales.
+
+Plusieurs récits de trappeurs du XIXe siècle parlent d'animaux abattus présentant effectivement des excroissances cornées — observations probablement liées au virus papillomateux du lièvre — qui alimentèrent une croyance de bonne foi en l'existence de l'espèce.
+
+Le folklore plus tardif a élaboré toute une *culture taxidermique* : les Jackalopes empaillés ornent encore aujourd'hui de nombreux bars, hôtels et stations-service de l'Ouest américain, chacun avec sa propre histoire de capture mémorable.
+
+## VARIANTES RÉGIONALES
+
+L'archétype du *lièvre à bois* connaît plusieurs déclinaisons régionales :
+
+- *Wolpertinger* en Bavière : lièvre composite à bois, ailes, dents de sanglier — version plus baroque et plus chimérique.
+- *Skvader* en Suède : lièvre à ailes, créé comme taxidermie fantaisiste à la fin du XIXe siècle.
+- *Lepus cornutus* dans la zoologie pré-moderne européenne : représentation savante d'un lièvre à cornes considéré comme animal réel jusqu'à ce que la critique scientifique du XVIIIe siècle écarte l'hypothèse.
+- *Al-Mi'raj* dans les bestiaires arabes médiévaux : lièvre jaune à corne unique, plus proche de la licorne.
+
+Le Jackalope américain s'inscrit donc dans une généalogie longue et internationale de la créature lapin-à-bois.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La popularité du Jackalope dans la culture américaine contemporaine — peluches, dessins animés, cartes postales, mascottes scolaires — tend à écraser la complexité de sa tradition originelle :
+
+- Le Jackalope n'est *pas* uniquement une mascotte sympathique. Le folklore originel le décrit comme agressif, capable de charger, et trompeur par imitation vocale.
+- L'idée que le Jackalope serait une création purement humoristique du XXe siècle ignore la profondeur historique de la figure du lièvre cornu, attestée dans les bestiaires européens dès le XVIe siècle.
+- Les versions cinématographiques et fantasy modernes le confondent fréquemment avec d'autres créatures hybrides (chimère, manticore, etc.), perdant la spécificité écologique du *lièvre des Grandes Plaines*.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les bestiaires européens du XVIe siècle, notamment ceux de Conrad Gesner et de Pierre Belon, présentaient des planches gravées du *Lepus cornutus* avec un sérieux savant. Plusieurs cabinets de curiosités du XVIIe siècle exposaient des taxidermies composites.
+
+L'iconographie américaine moderne commence avec les taxidermies des frères Herrick dans les années 1930 et se prolonge dans une vaste production populaire — affiches, panneaux, photographies de chasse facétieuses — qui constitue aujourd'hui un patrimoine visuel régional substantiel.
+
+## POUR ALLER PLUS LOIN
+
+Le Jackalope offre un cas d'étude exceptionnel pour comprendre comment une figure *imaginaire-réelle* peut traverser les siècles et les continents en s'adaptant à des contextes culturels différents — du bestiaire européen au folklore facétieux des Grandes Plaines en passant par les cabinets de curiosités. Sa vitalité contemporaine, alimentée à la fois par la tradition orale, la production taxidermique et la patrimonialisation municipale, en fait l'un des cryptides les plus vivants culturellement, même si sa réalité zoologique est consciemment incertaine pour la plupart de ses adeptes.

@@ -1,0 +1,194 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cobra_Grande
+  Tradition : Amazonien
+═══════════════════════════════════════════════
+
+
+# COBRA GRANDE
+
+## SIGNIFICATION DU NOM
+
+*Cobra Grande* est la dénomination en portugais brésilien : *le grand serpent*. C'est la traduction directe du nom tupi-général *Boiúna* — composé de *mboi*, *serpent*, et *una*, *noir* — *le serpent noir*. La double dénomination, indigène et coloniale, signale la créolisation du motif : le grand serpent fluvial appartient à un fond tupi-guarani profond, repris par les populations métissées et caboclas qui peuplent les rives de l'Amazone, des grands affluents et des várzeas.
+
+Le nom *Boiúna* reste vivant dans la nomenclature populaire, surtout dans le bas Amazone et dans le Pará, où il désigne précisément la forme féminine et nocturne du grand serpent. *Cobra Norato* est, lui, le nom d'une variante narrative masculine et héroïque issue d'un cycle de récits liés à la transformation d'un homme en serpent.
+
+## ORIGINE
+
+Les origines de la Cobra Grande sont multiples selon les peuples et les récits.
+
+Dans la version tupi la plus ancienne préservée par les caboclos du Pará, le grand serpent naît d'un *œuf trouvé dans la forêt* qu'une femme stérile recueille et couve. L'œuf donne deux enfants jumeaux : Norato, le mâle, et Maria Caninana, la femelle. Tous deux ont forme humaine le jour et forme de serpent géant la nuit. Norato sera bon ; sa sœur sera méchante. Cette version explique la dualité bénéfique-maléfique des grands serpents amazoniens.
+
+Dans une autre tradition, plus ancienne et clairement pré-coloniale, la Cobra Grande est *l'âme du fleuve* : l'Amazone lui-même est un serpent endormi, et chaque grand affluent est un de ses fils. Le fleuve qui serpente, qui change de cours, qui inonde les berges et engloutit les terres est, sous sa surface, un être vivant, conscient, ancien.
+
+Une troisième tradition dérive d'une origine punitive : un être humain ayant transgressé un interdit (manger un poisson tabou, tuer une mère en couches d'animal sacré) est transformé en grand serpent et condamné à parcourir les eaux pour l'éternité.
+
+## NATURE
+
+La Cobra Grande est une *créature des eaux profondes*. Elle dépasse toute mesure ordinaire : les récits lui donnent des longueurs de cinquante, cent, voire plusieurs centaines de mètres. Sa nature est triple :
+
+- *animale* — elle est un serpent, avec écailles, mâchoires, langue bifide, capacité de noyade,
+- *spirituelle* — elle est une *Mãe-d'água*, une *mère des eaux*, c'est-à-dire un esprit tutélaire d'un cours d'eau,
+- *enchantée* — elle peut, dans certaines versions, prendre forme humaine ou faire surface comme un bateau.
+
+Cette troisième nature la relie au cycle des *encantados*, esprits enchantés des rivières amazoniennes capables de métamorphose.
+
+## HABITAT
+
+La Cobra Grande habite les *grandes eaux* : Amazone, Solimões, Tapajós, Tocantins, Rio Negro, et leurs affluents principaux. Elle préfère les zones de :
+
+- *poços fundos*, fosses sous-marines profondes où les sondes des pêcheurs ne touchent pas le fond,
+- *ilhas que somem*, îles fluviales qui apparaissent et disparaissent au gré des crues,
+- *bocas de rio*, embouchures où deux courants se rencontrent,
+- *igapós* permanents, forêts inondées où la lumière ne pénètre presque pas.
+
+Elle ne fréquente pas les igarapés étroits ni les plans d'eau dormante — son territoire est celui du courant majeur.
+
+## DESCRIPTION
+
+Les écailles de la Cobra Grande sont noires, parfois bleutées comme l'eau profonde, parfois mouchetées d'écailles plus claires sur le ventre. Leur taille, dans les récits les plus développés, est telle qu'on pourrait s'asseoir sur l'une d'elles. Sa tête est plate, large, surmontée de deux protubérances que certains récits décrivent comme des cornes courtes, d'autres comme des oreilles charnues.
+
+Ses yeux sont l'attribut le plus marquant. Ils sont décrits comme *deux feux jaunes* qui percent la nuit du fleuve. Les pêcheurs nocturnes qui aperçoivent ces deux lumières au ras de l'eau, à grande distance l'une de l'autre — signe de la largeur monstrueuse du crâne — savent qu'ils ont vu la Cobra Grande passer.
+
+Son corps soulève des vagues quand elle se déplace. Un bateau dont l'équipage entend brusquement le clapotis monter sans cause apparente comprend qu'elle vient de passer sous la coque.
+
+Certains récits affirment qu'à grande distance, la nuit, les deux yeux jaunes peuvent être confondus avec les feux de proue d'un navire, et que des canots se sont approchés croyant héler un bateau, pour découvrir trop tard la nature véritable de ces lumières.
+
+## POUVOIRS
+
+La *capacité de submersion* est l'arme principale. La Cobra Grande peut faire chavirer un canot, voire un bateau de bois, simplement en glissant en dessous ou en s'enroulant autour.
+
+Le *commandement des eaux* lui permet, selon les traditions, de provoquer ou de contenir les crues, de retenir les bancs de poissons, de cacher les débris flottants qui menacent les pirogues.
+
+Le *changement de forme*, dans la variante des encantados, lui permet de prendre apparence humaine, généralement celle d'une belle femme aux yeux légèrement obliques. Sous cette forme, elle peut séduire un pêcheur, l'épouser, vivre avec lui des années — jusqu'au jour où le rappel de l'eau redevient irrésistible.
+
+L'*immortalité fluviale* fait partie de sa nature : elle ne meurt pas de vieillesse. Elle peut être tuée par une seule blessure attestée — voir plus bas.
+
+## FAIBLESSES
+
+La tradition reconnaît un seul point vulnérable précis : *l'œil*, plus précisément la pupille. Une lance de bois dur ou un harpon enfoncé dans l'œil peut tuer la Cobra Grande. Une lame de fer ordinaire ne suffit pas.
+
+Une autre faiblesse est *l'eau bénite* : un prêtre qui parvient à asperger d'eau bénite la surface au-dessus du serpent peut le faire fuir vers les profondeurs pour des années. Ce motif, clairement luso-chrétien, s'est greffé sur le noyau tupi.
+
+Enfin, une formule rituelle prononcée par un *pajé* (chamane indigène) au moment du passage de la créature peut la contraindre à révéler son nom secret, et donc à perdre son pouvoir sur les eaux qu'elle hante.
+
+## COMPORTEMENT
+
+La Cobra Grande ne chasse pas activement les humains. Son comportement habituel est *circulaire et lent* : elle parcourt son territoire fluvial selon des trajets que les vieux pêcheurs prétendent connaître, remontant le grand fleuve pendant la saison sèche, redescendant à la crue.
+
+Elle attaque les bateaux qui passent au-dessus de sa fosse, surtout la nuit, surtout lorsqu'on y fait du bruit ou lorsqu'on y a tué un poisson tabou.
+
+Elle protège, dans certaines versions, les villages qui lui rendent un hommage discret — offrande de tabac jeté à l'eau, premier poisson de la saison rendu au fleuve.
+
+Sous sa forme humaine, elle se mêle parfois aux fêtes des bourgs riverains. Plusieurs récits évoquent une belle inconnue qui, à minuit, quitte la fête sans qu'on la revoie ; le lendemain, on trouve sur la berge des écailles abandonnées.
+
+## RÉCITS TRADITIONNELS
+
+Le cycle de Cobra Norato, narratif majeur du Pará, raconte la naissance des jumeaux serpents Norato et Maria Caninana, leur lutte fraternelle, et la libération finale de Norato par un courageux pêcheur qui parvient à boire du lait de femme blanche, à frapper la queue du serpent, et à libérer ainsi l'enchanté de sa forme.
+
+Un récit du bas Amazone raconte qu'un bateau à vapeur fut, une nuit, longé par une forme noire si longue que sa tête disparaissait à l'horizon avant que sa queue n'eût rejoint le sillage.
+
+Un récit du Rio Negro évoque une île qui apparaissait et disparaissait : on finit par comprendre qu'il s'agissait du dos de la Cobra Grande émergeant pour respirer.
+
+Un récit cabocolo affirme qu'une vieille femme du fleuve aperçut, en s'approchant pour pêcher au crépuscule, deux phares d'un bateau venant à sa rencontre. Elle pagaya pour s'écarter du chemin du navire ; les phares la suivirent. Elle comprit alors qu'il n'y avait pas de bateau, et que le serpent venait. Sa pirogue fut retrouvée vide.
+
+## VARIANTES RÉGIONALES
+
+Au Pará, la forme féminine *Boiúna* domine et la créature est associée aux nuits de pleine lune.
+
+Dans le Maranhão et le Tocantins, on rencontre la *Cobra Honorato*, variante du Norato, vue parfois comme un esprit protecteur des bateaux qui respectent le fleuve.
+
+Au Rio Negro, en zone de contact avec les peuples Tukano et Baniwa, la Cobra Grande se confond avec une figure mythologique plus ancienne de *serpent céleste* qui aurait apporté la civilisation aux humains, distinction que le folklore métissé tend à dissoudre.
+
+Dans le delta de l'Amazone, plusieurs villages affirment que la Cobra Grande dort enroulée sous l'île de Marajó.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les confusions modernes sont nombreuses :
+
+- La Cobra Grande n'est *pas* un anaconda surdimensionné. Elle est un être surnaturel, et la tradition la distingue clairement des serpents constricteurs ordinaires.
+
+- La confusion avec le *Yacumama* andin-amazonien est récente et largement médiatique. Yacumama est une figure quechua du haut Amazone ; Cobra Grande est tupi-portugaise du bas et moyen Amazone. Les territoires se chevauchent mais les traditions sont distinctes.
+
+- L'identification avec un *cryptide* à découvrir scientifiquement, comme on l'a vue dans des documentaires de cryptozoologie, dénature la nature spirituelle de la créature dans la tradition.
+
+- L'image du serpent à plumes ou à cornes spectaculaires relève d'une contamination par les imageries méso-américaines (Quetzalcoatl), absente du noyau amazonien.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les peintures rupestres pré-colombiennes de la région du bas Amazone, notamment près de Monte Alegre, comportent de longues figures sinueuses interprétées par certains chercheurs comme des représentations de grands serpents fluviaux. Les céramiques marajoaras présentent fréquemment des motifs serpentins enroulés, gravés ou peints, qui ont été rapprochés du même thème.
+
+Au XIXe siècle, les voyageurs européens (notamment les naturalistes) ont mentionné dans leurs carnets les récits caboclos de Cobra Grande, parfois accompagnés de croquis peu fiables.
+
+Les xylographies de cordel du Nordeste représentent souvent un grand serpent enroulé autour d'un bateau, deux yeux énormes au-dessus du flot.
+
+## POUR ALLER PLUS LOIN
+
+La Cobra Grande appartient au vaste cycle des *Mães-d'água* amazoniennes — *mères des eaux* — qui inclut également l'Iara, le Boto, et certains encantados. Elle constitue la figure tutélaire la plus ancienne et la plus puissante de ce cycle. Son étude doit articuler la mythologie tupi-guarani, les apports luso-chrétiens (eau bénite, prêtre exorciste) et les contributions des peuples du moyen Amazone.

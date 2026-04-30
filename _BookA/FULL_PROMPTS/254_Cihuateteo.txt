@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cihuateteo
+  Tradition : Azteque
+═══════════════════════════════════════════════
+
+
+# CIHUATETEO
+
+## SIGNIFICATION DU NOM
+
+*Cihuātēteoh* (singulier *Cihuāteōtl*) en nahuatl se compose de *cihuātl* (femme) et *teōtl* (dieu, force divine) — "femme-divine" ou "femme devinée". Ce nom n'est pas ironique — dans la cosmologie aztèque, les femmes mortes en couches acquièrent réellement un statut divin. Elles meurent comme des guerrières meurent au combat — dans un acte de courage et de sacrifice suprême — et méritent donc le même paradis que les guerriers tombés au combat : le ciel occidental d'où elles accompagnent le soleil de son zénith au couchant.
+
+## ORIGINE
+
+Les Cihuateteo sont attestées dans les sources préhispaniques et coloniales — les Codex Borgia, Borbonicus, et Telleriano-Remensis les représentent et les décrivent. Le *Florentine Codex* de Sahagún (XVIe siècle) contient des descriptions détaillées de leurs attributs, de leurs dangers, et des rituels de protection contre elles. Leur existence était une croyance central de la religion aztèque.
+
+## NATURE
+
+La Cihuateteo est une femme morte en accouchant — et dans la cosmologie aztèque, cet acte la transforme en être d'une puissance surnaturelle. Pendant le jour, son esprit accompagne le soleil vers l'ouest. Mais à certaines nuits particulières — surtout les nuits des jours-signe 1 Aigle, 1 Pluie, 1 Singe, 1 Maison — elles descendent sur terre et deviennent dangereuses. Elles s'attaquent aux enfants, provoquant convulsions et maladies. Elles peuvent également posséder des adultes ou les rendre fous.
+
+## HABITAT
+
+Les Cihuateteo fréquentent les carrefours — lieux de transition par excellence dans la pensée mésoaméricaine, espaces où plusieurs directions se rencontrent et où les forces surnaturelles sont actives. Les carrefours des chemins aztèques sont des lieux de peur pendant leurs nuits d'activité. Des autels aux Cihuateteo existaient aux carrefours pour les apaiser.
+
+## DESCRIPTION
+
+Un visage décharné, blanchâtre, parfois à demi-squelettique. Les bras levés en position rituelle d'aigle. Des griffes à la place des mains. Un vêtement blanc caractéristique des femmes mortes en couches. Dans les représentations des codex, elles ont souvent des pieds griffus, des cheveux emmêlés et une expression de souffrance figée. Leur aspect est à la fois divin et terrifiant — elles portent les attributs des déesses de la lune occidentale.
+
+## POUVOIRS
+
+Attaque des enfants lors de leurs nuits d'activité — provoquant convulsions, épilepsie, maladies infantiles et mort. Possession et folie des adultes. Elles se déplacent en groupe — les Cihuateteo ne viennent généralement pas seules. Dans les représentations des codex, elles sont associées aux influences néfastes de certains jours du calendrier rituel de 260 jours (*tonalpohualli*).
+
+## FAIBLESSES
+
+Pendant leurs nuits d'activité, les parents gardaient leurs enfants à l'intérieur des maisons, toutes ouvertures fermées. Des offrandes spécifiques étaient déposées aux carrefours — nourriture, brûlures d'encens, offrandes de sang — pour apaiser les Cihuateteo et les dissuader d'entrer dans les maisons. Les autels aux carrefours servaient de points d'absorption de leur énergie potentiellement destructrice.
+
+## COMPORTEMENT
+
+Les Cihuateteo ne sont pas fondamentalement malveillantes — elles sont des êtres du paradis occidental qui, lors de certaines nuits, descendent dans le monde des vivants. Ce retour n'est pas délibérément hostile mais les forces qu'elles portent, surnaturelles et liées à la mort et à l'accouchement simultanément, sont trop puissantes pour les enfants et les plus vulnérables. Leur attaque est moins une intention qu'un débordement de leur puissance divine.
+
+## RÉCITS TRADITIONNELS
+
+Le *Florentine Codex* de Sahagún décrit en détail les précautions des familles lors des nuits à risque : "Et là où se rencontrent les chemins, elles descendent, elles viennent dans les rues la nuit. Si quelqu'un les rencontre à un carrefour, il peut devenir fou... Et pour cela on gardait les enfants à l'intérieur, on fermait bien les portes, on posait de la nourriture aux carrefours." Cette documentation directe du XVIe siècle est une fenêtre rare sur les pratiques rituelles aztèques quotidiennes.
+
+## VARIANTES RÉGIONALES
+
+Dans les traditions mayas, des figures de femmes mortes en couches transformées existent — liées aux déesses lunaires de la mort. Dans toute la Mésoamérique, la mort en couches comme mort héroïque et transformatrice existe, mais la formulation aztèque des Cihuateteo dans le calendrier rituel est particulièrement élaborée. Après la Conquête, des éléments des Cihuateteo ont peut-être contribué à la formation de la Llorona — la femme qui pleure ses enfants morts dans le folklore mexicain colonial.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les Cihuateteo sont bien documentées dans l'archéologie et l'histoire de l'art aztèque — plusieurs sculptures importantes les représentent, dont des pièces majeures du Musée national d'Anthropologie de Mexico. Elles apparaissent dans les études académiques de la religion aztèque. Dans la culture pop, la Llorona (figure mexicaine postcoloniale) est parfois mise en rapport avec les Cihuateteo comme possible ancêtre culturelle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des sculptures aztèques en pierre représentant des Cihuateteo sont conservées dans des musées — figures féminines à visage squelettique, griffes levées, posture rituelle caractéristique. Les représentations dans les codex (Borgia, Borbonicus) montrent des figures blanches aux yeux morts dans les cases du calendrier correspondant aux nuits dangereuses. L'art aztèque a développé une iconographie précise et reconnaissable des Cihuateteo.
+
+## POUR ALLER PLUS LOIN
+
+Les Cihuateteo illustrent la logique aztèque de l'équivalence entre la guerre et l'accouchement — les deux sont des actes de courage suprême, de risque de mort, et de service à la communauté. Un guerrier mort au combat rejoint le soleil pour l'accompagner de l'aube au zénith. Une femme morte en couches rejoint le soleil pour l'accompagner du zénith au couchant. Cette équivalence, loin d'être une consolation, révèle une conception du genre où le combat féminin — mettre la vie au monde — est reconnu comme aussi héroïque que le combat masculin.

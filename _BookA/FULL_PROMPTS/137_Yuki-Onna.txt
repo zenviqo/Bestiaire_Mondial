@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Yuki-Onna
+  Tradition : Japonais
+═══════════════════════════════════════════════
+
+
+# YUKI-ONNA
+
+## SIGNIFICATION DU NOM
+
+*Yuki-Onna* s'écrit 雪女 — *yuki* (neige) et *onna* (femme). Elle est simplement la Femme de Neige, nom qui dit tout : beauté glaciale, présence hivernale, nature élémentaire. Ce nom minimal est caractéristique du folklore japonais — pas de titre compliqué, juste la chose elle-même. Les variantes régionales ajoutent des nuances (*musume* : fille, *onba* : mère), reflétant les différentes facettes de son comportement selon les traditions locales.
+
+## ORIGINE
+
+La Yuki-Onna est attestée dans les textes et collections folkloriques dès le XVe siècle — les *Sōgi Shokoku Monogatari* la mentionnent. Mais elle prend sa forme littéraire la plus célèbre dans le recueil de Lafcadio Hearn *Kwaidan* (1904), qui transcrit une tradition orale de la région de Musashi. Sa diffusion massive dans la culture populaire moderne lui doit beaucoup, même si la créature préexiste largement à cette transcription.
+
+## NATURE
+
+La Yuki-Onna est une personnification de la tempête de neige — sa beauté est celle de la mort blanche, séduisante et inévitable. Elle n'est pas malveillante par cruauté mais par nature : elle *est* le froid, et sa présence tue comme le froid tue. Dans certaines versions, elle est pitiable — l'esprit d'une femme morte dans la neige, condamnée à errer. Dans d'autres, elle est prédatrice délibérée, chassant les humains isolés. La tradition orale ne tranche jamais complètement.
+
+## HABITAT
+
+La Yuki-Onna apparaît dans les tempêtes de neige des régions montagneuses — Niigata, Akita, Hokkaido, partout où la neige peut tuer un voyageur isolé. Elle hante les cols de montagne, les forêts hivernales, les chemins que les humains imprudents empruntent quand la neige commence à tomber. Elle n'existe que dans le froid — si la neige fond, elle disparaît.
+
+## DESCRIPTION
+
+La Yuki-Onna est d'une beauté saisissante et surnaturelle : haute silhouette féminine, peau d'une blancheur impossible, cheveux noirs d'encre tranchant sur la neige, yeux bleu pâle ou blancs. Elle est vêtue de blanc — kimono blanc qui se confond avec la tempête. Elle ne laisse pas de traces dans la neige, ou alors des empreintes qui s'arrêtent sans raison. Son souffle est de la vapeur glaciale. Sa bouche est rouge sang — seule tache de couleur dans son visage d'ivoire.
+
+## POUVOIRS
+
+La Yuki-Onna gèle ses victimes par son souffle ou par simple contact — elle peut aspirer la chaleur vitale d'un humain en un instant. Elle se fond dans la neige et en ressort à sa guise, apparaissant et disparaissant dans les tourbillons. Certaines versions lui prêtent la capacité de porter des enfants dans la tempête — les emportant dans sa course glaciale. Elle peut paralyser par son regard, laissant ses victimes incapables de bouger jusqu'à ce qu'elles meurent de froid.
+
+## FAIBLESSES
+
+Le printemps la détruit — elle ne peut exister quand la neige fond. La chaleur humaine authentique — pas seulement physique mais émotionnelle — peut la transformer. Dans les versions où elle tombe amoureuse d'un humain, cet amour devient sa fragilité : si son secret est trahi, elle doit partir ou se venger.
+
+## COMPORTEMENT
+
+La Yuki-Onna est imprévisible et mélancolique. Elle peut tuer froidement un bûcheron exténué, ou épargner un jeune homme parce qu'il est beau et lui promettre de ne jamais parler d'elle. Elle peut devenir épouse, mère, compagne fidèle pendant des années — avant de révéler sa nature et disparaître, ou de punir une trahison. Cette variabilité narrative fait d'elle l'une des figures les plus complexes du folklore japonais féminin.
+
+## RÉCITS TRADITIONNELS
+
+La version de Hearn : deux bûcherons surpris par une tempête se réfugient dans une cabane. La nuit, la Yuki-Onna entre et souffle sur le vieux bûcheron — il meurt. Elle se tourne vers le jeune, Mosaku, et l'épargne à cause de sa jeunesse, lui ordonnant de ne jamais parler d'elle. Des années plus tard, il épouse une femme belle et mystérieuse — O-Yuki. Un soir, il lui raconte l'histoire de la femme des neiges. O-Yuki se lève, révèle qu'elle est la Yuki-Onna, et part dans la nuit en lui pardonnant à cause de leurs enfants, en lui demandant de bien les élever.
+
+## VARIANTES RÉGIONALES
+
+Au Tōhoku, la Yuki-Onna peut être une mère qui étouffe ses victimes contre sa poitrine glaciale, ou qui demande de tenir son bébé — bébé qui devient de plus en plus lourd jusqu'à enfoncer la victime dans la neige. À Hokkaido, les traditions Aïnou ont leurs propres esprits de la neige parfois associés à la figure.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Yuki-Onna est devenue une figure de l'imaginaire global — manga, anime, jeux de rôle. La version moderne la romance souvent : belle créature surnaturelle tombant amoureuse d'un humain. La dimension mortelle originelle — elle *tue*, froidement, comme la neige tue — est fréquemment édulcorée. Sa beauté est devenue sa caractéristique principale là où le folklore en faisait une arme.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations de Yuki-Onna abondent dans les estampes de la période Edo — Hokusai l'a représentée dans ses séries hivernales. Toriyama Sekien la catalogue dans ses collections de yokai. Le cinéma japonais l'a popularisée depuis les années 1960, notamment dans *Kwaidan* (Kobayashi, 1964), adaptation des textes de Hearn.
+
+## POUR ALLER PLUS LOIN
+
+La Yuki-Onna cristallise une réalité concrète : dans le Japon rural montagnard, la neige tuait. Les voyageurs égarés dans les tempêtes mouraient de froid, et leurs corps n'étaient parfois retrouvés qu'au printemps. La femme des neiges est la personnification poétique de cette mort-là — belle parce que la mort peut sembler douce dans le froid extrême, où l'hypothermie finale ressemble à un sommeil.

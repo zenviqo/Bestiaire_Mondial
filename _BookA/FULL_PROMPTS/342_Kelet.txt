@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Kelet
+  Tradition : Siberien Arctique
+═══════════════════════════════════════════════
+
+
+# KELET
+
+## SIGNIFICATION DU NOM
+
+*Kelet* (Кэлет) est le pluriel tchouktche de *kele* (Кэле) — un terme désignant une classe spécifique d'esprits maléfiques dans la cosmologie tchouktche. L'étymologie du terme n'est pas transparente dans les langues tchouktches-koryak mais le terme est utilisé de manière constante dans la documentation ethnographique pour désigner ces entités spécifiques. Dans certains contextes, *kele* peut aussi être utilisé au singulier pour désigner un esprit mauvais particulièrement puissant.
+
+## ORIGINE
+
+Les Kelet sont documentés dans la tradition orale et religieuse des Tchouktches — peuple autochtone de la péninsule de Tchoukotka (l'extrémité nord-est de l'Asie, en face de l'Alaska). Waldemar Bogoras (1865-1936), ethnographe de l'expédition jesupienne du Pacifique Nord (1900-1901), a constitué le corpus documentaire le plus complet sur les Kelet dans son monumental *The Chukchee* (1904-1909). Les Kelet s'inscrivent dans une cosmologie tchouktche où le monde est peuplé d'un continuum d'entités — certaines bienveillantes, d'autres (comme les Kelet) fondamentalement hostiles aux humains.
+
+## NATURE
+
+Les Kelet sont des esprits fondamentalement carnivores et hostiles — ils cherchent à consommer la chair et le sang des humains. Leur nature est distincte de celle d'esprits simplement néfastes ou capricieux : ils sont actifs dans leur hostilité envers les humains et sont considérés comme les adversaires naturels des chamanes tchouktches (*al'gat*). Dans la cosmologie tchouktche, les maladies graves et les morts inexpliquées sont souvent attribuées à des Kelet. Ils peuvent se présenter sous des formes apparemment humaines pour piéger leurs victimes.
+
+## HABITAT
+
+Les Kelet habitent les zones sauvages de la toundra tchouktche — des régions de permafrost, des côtes battues de l'océan Arctique et de la mer de Béring, des zones de montagne inaccessibles. Il existe des distinctions entre les Kelet côtiers (associés à la mer) et les Kelet terrestres (de la toundra). Dans la nuit polaire, leur activité est à son maximum — la longue obscurité arctique est leur domaine de prédilection.
+
+## DESCRIPTION
+
+Les Kelet sont décrits comme des êtres à l'apparence partiellement humaine mais déformée — leur corps peut ressembler à celui d'un être humain mais avec des signaux d'altérité : une peau mate ou grisâtre, des yeux trop brillants ou trop fixes, des dents trop nombreuses ou trop pointues. Dans des manifestations plus monstrueuses, ils peuvent apparaître comme des cadavres animés — des formes décharnées avec des os visibles. Dans certains récits, ils prennent l'apparence de membres de la famille ou de voisins du village pour entrer dans les habitations.
+
+## POUVOIRS
+
+Consommation de chair humaine — leur but premier est d'attaquer et de dévorer des humains. Prise d'apparence humaine — ils peuvent se faire passer pour des humains pour approcher des victimes. Induction de maladies — leur simple proximité peut causer des maladies graves. Attachement aux âmes — ils peuvent capturer l'âme (*ayi'n* tchouktche) d'un mourant et l'empêcher de rejoindre le monde des morts. Voyage dans les mondes surnaturels de la cosmologie tchouktche pour attaquer des chamanes en transe.
+
+## FAIBLESSES
+
+Des chamanes tchouktches qualifiés (*al'gat*) — leur principal adversaire et seul être capable de combattre les Kelet sur leur propre terrain surnaturel. Des sacrifices réguliers — des offrandes de sang de renne et de nourriture à intervalles réguliers maintiennent les Kelet à distance. Du feu — la lumière et le feu repoussent les Kelet qui préfèrent l'obscurité. Des formules rituelles et des tambours de chamane. Le bruit collectif dans les villages — les Kelet préfèrent les individus isolés.
+
+## COMPORTEMENT
+
+Les Kelet sont opportunistes — ils attaquent préférentiellement des individus isolés, des voyageurs seuls sur la toundra, des malades affaiblis. Ils testent les défenses d'un village avant d'attaquer — s'approchant progressivement, observant les réactions. Dans des récits de rencontres, ils tentent d'abord la ruse (apparaître sous forme humaine) avant la confrontation directe. Les chamanes qui entrent en transe pour combattre les Kelet doivent être protégés par leur communauté pendant ce voyage spirituel.
+
+## RÉCITS TRADITIONNELS
+
+Un récit tchouktche documenté par Bogoras : un homme voyage seul sur la toundra et rencontre un autre voyageur à l'apparence humaine. Le voyageur inconnu propose de partager son campement. L'homme remarque des détails étranges — le voyageur mange avec une voracité anormale, ses yeux brillent dans l'obscurité, il ne dort pas. Au matin, l'homme s'enfuit — il comprend qu'il a partagé son camp avec un Kele qui attendait l'occasion de l'attaquer. Un autre récit : un chamane (*al'gat*) entre en transe profonde pour combattre un Kele qui a causé la maladie d'un villageois. Pendant sa transe, son corps est protégé par des assistants qui frappent des tambours. Le chamane revient avec des marques de combat sur son corps — il a vaincu le Kele et expulsé la maladie.
+
+## VARIANTES RÉGIONALES
+
+Des esprits maléfiques carnivores existent dans toutes les traditions sibériennes — l'Abasy yakoute (déjà dans ce bestiaire) est fonctionnellement comparable. Les *Kala* des Koryaks (peuple voisin des Tchouktches sur le Kamtchatka) sont le parallèle koryak des Kelet. Des esprits similaires dans les traditions des Yupiks de Sibérie (peuple de la côte sibérienne en face de l'Alaska). La spécificité des Kelet tchouktches est leur documentation précise et extensive par Bogoras et leur rôle central dans la pratique chamanique tchouktche.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les travaux de Bogoras sur les Tchouktches et les Kelet sont des références fondamentales de l'anthropologie circumpolaire. Des études contemporaines de l'Institut d'anthropologie de Moscou et de chercheurs russes et japonais maintiennent la documentation des traditions tchouktches. Des efforts de revitalisation culturelle tchouktche incluent la transmission des connaissances sur les Kelet dans des contextes éducatifs. Des publications de littérature tchouktche en langue russe incluent des récits mettant en scène des Kelet.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des tambours de chamane tchouktches (*yarar*) peuvent porter des représentations de Kelet comme entités à combattre. Des sculptures en os et en ivoire de morse des artisans tchouktches incluent parfois des représentations d'esprits maléfiques. Des illustrations dans les publications de Bogoras (début XXe siècle) sont les premières représentations visuelles académiques des Kelet.
+
+## POUR ALLER PLUS LOIN
+
+Les Kelet illustrent la cosmologie chamanique tchouktche — un univers peuplé d'entités actives avec lesquelles les humains doivent constamment négocier ou se défendre. La pratique chamanique tchouktche n'est pas une communication avec des ancêtres bienveillants ou une quête mystique — c'est souvent un combat actif contre des entités hostiles qui cherchent à dévorer les humains et leurs âmes. Cette vision guerrière du monde spirituel reflète peut-être les conditions de vie extrêmes de la toundra arctique, où la survie physique exige une vigilance et une combativité constantes. Le chamane tchouktche est moins un intermédiaire qu'un guerrier spirituel — et les Kelet sont l'ennemi contre lequel il se définit.

@@ -1,0 +1,148 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Vukodlak
+  Tradition : Slave
+═══════════════════════════════════════════════
+
+
+# VUKODLAK
+
+## SIGNIFICATION DU NOM
+
+*Vukodlak* est composé de *vuk* (loup) + *dlak/dlaka* (poil, fourrure) — « Celui-au-pelage-de-loup ». Il est l'homme-loup des Balkans — mais avec une particularité distinctive : dans la tradition serbe, le Vukodlak est aussi et surtout ce que le loup-garou *devient* après sa mort. De son vivant : une transformation en loup. Après sa mort : un vampire. Cette continuité loup-garou/vampire est spécifiquement balkanique.
+
+## ORIGINE
+
+Le Vukodlak est documenté dans les collectes folkloriques serbes et croates de Vuk Karadžić (XIXe siècle) et dans des sources plus anciennes — des textes médiévaux serbes mentionnent le *vukodlak* dans des contextes de dangers nocturnes. Jan Perkowski dans *Vampires of the Slavs* (1976) analyse la parenté Vukodlak/Vampire dans le contexte slave du sud. Le terme *vurdalak* utilisé par Tolstoï dans sa nouvelle (*Semiya Vurdalakor* — inachevée) a popularisé la forme russe.
+
+## NATURE
+
+Le Vukodlak est un mort-vivant avec une double nature : pendant sa vie, il se transforme en loup lors de certaines nuits (pleine lune, nuits sabbatiques) ; après sa mort, il quitte sa tombe pour dévorer les vivants — comme un vampire. Cette structure en deux phases est unique : la phase de transformation lupine précède toujours la phase vampirique posthume. Un Wilkolak polonais ou un Oborotyen russe n'est pas nécessairement un vampire futur.
+
+## HABITAT
+
+De son vivant : une maison ordinaire dans le village. Après sa mort : sa tombe, qu'il quitte pour errer. Il est particulièrement actif les mardis et samedis nuit selon certaines traditions balkaniques.
+
+## DESCRIPTION
+
+De son vivant : reconnaissable à son changement — lors des transformations, ses yeux changent de couleur (deviennent jaunes ou rouges), ses dents allongent, ses ongles poussent. En forme de loup : un grand loup avec les yeux de l'homme. Après sa mort : un mort-vivant qui paraît plus frais, plus rouge dans la tombe que le mort ordinaire — le sang de ses victimes le maintient dans un état de vie partielle.
+
+## POUVOIRS
+
+*De son vivant :*
+- Transformation en loup lors de certaines nuits
+- Force et vitesse surhumaines dans la transformation
+- Résistance aux blessures ordinaires en forme lupine
+
+*Après sa mort :*
+- Quitter la tombe et se déplacer comme un vampire
+- Dévorer les membres de sa famille d'abord (pattern balkanique spécifique : le vampire dévore ceux qui lui sont proches)
+- Contamination — ceux qu'il dévore peuvent devenir Vukodlaki
+- Certaines versions : contrôle du temps, peut provoquer des tempêtes depuis sa tombe
+
+## FAIBLESSES
+
+*De son vivant :*
+- Identifier et révéler le Vukodlak — la communauté peut le surveiller et préparier son enterrement
+
+*Après sa mort :*
+- Le pieu dans la tombe (procédure standard serbe)
+- Décapitation et positionnement de la tête entre les jambes
+- Brûlage du corps
+- Un cheval blanc qui refuse de marcher sur la tombe — signe diagnostique
+
+## COMPORTEMENT
+
+Le Vukodlak de son vivant peut ne pas être conscient de sa nature — les transformations nocturnes sont vécues comme des rêves, son corps rentrant dans son lit avant l'aube. Certains sont conscients et utilisent cette nature volontairement. Après sa mort : il suit un programme de consommation — d'abord sa propre famille immédiate, puis la famille étendue, puis le village. Ce pattern de consommation locale distingue le vampire serbe du vampire générique de la fantasy.
+
+## RÉCITS TRADITIONNELS
+
+Tolstoï, *Semiya Vurdalkov* (nouvelle inachevée basée sur une tradition balkanique) : un voyageur séjourne dans une famille dont le grand-père, mort récemment, revient comme Vurdalak/Vukodlak. La consommation de la famille du dedans — d'abord un fils, puis une fille, puis les enfants — avant que le voyageur comprenne et fuie. Ce récit (bien que littéraire) reflète fidèlement le pattern ethnographique documenté.
+
+Karadžić documente plusieurs cas de procédures d'exhumation en Serbie : sur signalement de morts inexpliquées dans une famille après un décès récent, on exhumait la tombe du mort récent. Si le corps était « frais » — non décomposé, rouge, souple — c'était un signe de Vukodlak. On plantait un pieu, on coupait la tête, parfois on brûlait le tout.
+
+## VARIANTES RÉGIONALES
+
+*Wilkolak* (Pologne) — loup-garou sans la phase vampire obligatoire post-mortem. *Oborotyen* (Russie) — métamorphe sans la dimension vampirique. *Vampir* (Serbie) — le vampire pur, parfois sans la phase loup-garou. Le Vukodlak est la fusion des deux — loup-garou de son vivant, vampire après la mort. Cette fusion est spécifiquement balkanique occidentale (Serbie, Croatie, Bosnie, Macédoine).
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La fantasy moderne a largement fusionné loup-garou et vampire en figures distinctes. Le Vukodlak est précieuse narrativement car il les unit en une seule trajectoire de vie — ce qui implique que les loup-garous deviennent des vampires après leur mort, créant une continuité dans la malédiction. Vukodlak est moins connu que *vampir* dans la terminologie internationale mais est plus riche structurellement.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les fresques de monastères serbes médiévaux représentent parfois des figures démoniaques dans des contextes de résurrection maudite. Les icônes orthodoxes serbes de saint Georges terrassant le dragon intègrent indirectement les croyances sur les créatures maudites. L'iconographie directe du Vukodlak est absente — il était décrit, pas représenté.
+
+## POUR ALLER PLUS LOIN
+
+- Vuk Stefanović Karadžić, *Srpski rječnik* — entrée vukodlak et notes ethnographiques
+- Jan Perkowski, *Vampires of the Slavs* (1976) — analyse de la connexion loup-vampire
+- Tihomir Đorđević, études sur le vampire serbe
+- Lev Tolstoï, *Semiya Vurdalkov* (inachevé) — transposition littéraire

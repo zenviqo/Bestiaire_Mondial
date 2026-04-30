@@ -1,0 +1,137 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Lamassu
+  Tradition : Mesopotamien
+═══════════════════════════════════════════════
+
+
+# LAMASSU
+
+## SIGNIFICATION DU NOM
+
+*Lamassu* en akkadien désigne un génie protecteur de nature composite. Le terme est apparenté à la racine *lam*, qui renvoie à l'idée de protection et d'enveloppement. La forme féminine *Lamassu* s'oppose au *Šedu* masculin, mais les deux termes finissent par désigner la même figure monumentale dans l'usage courant. En sumérien plus ancien, *Alad* désigne la puissance protectrice masculine et *Lamma* la puissance féminine bienveillante qui escorte les humains et les dieux.
+
+## ORIGINE
+
+Le Lamassu émerge dans le corpus mésopotamien dès le troisième millénaire avant notre ère. À l'origine, ce sont des génies invisibles attachés à chaque individu — une sorte de double protecteur personnel qui accompagne les humains dans leur vie quotidienne. Progressivement, sous l'Empire assyrien du premier millénaire, ils prennent une forme monumentale et architecturale : de gigantesques sculptures placées aux entrées des palais royaux de Ninive, Khorsabad et Nimroud, gardant les seuils contre les forces maléfiques.
+
+## NATURE
+
+Le Lamassu est fondamentalement un être de *seuil* — il n'habite ni le monde des hommes ni celui des dieux, mais l'espace intermédiaire entre les deux. Sa nature composite reflète cette position liminaire : il réunit en un seul corps les attributs des créatures les plus puissantes de son cosmos. Il n'est pas maléfique et ne traque pas les humains — il les protège. Sa puissance est défensive, apotropaïque, orientée vers le maintien de l'ordre contre le chaos.
+
+## HABITAT
+
+Les Lamassu monumentaux gardent les portes des palais et des cités. Leur placement est codifié : ils flanquent les entrées par paires, tournés vers l'extérieur pour repousser les forces hostiles, tournés vers l'intérieur pour protéger les occupants. On les trouve également gravés sur des tablettes d'argile placées sous les fondations des bâtiments importants — présence invisible mais active dans les fondations mêmes de la civilisation.
+
+## DESCRIPTION
+
+Le Lamassu assyrien classique est une créature à cinq membres — particularité délibérée qui permet de le voir à la fois de face (deux pattes avant en position statique) et de profil (quatre pattes en marche). Cette ambivalence visuelle est intentionnelle : le gardien est simultanément immobile et en mouvement, présent dans tous les états à la fois.
+
+Son corps est celui d'un taureau ou d'un lion, massive et puissante. Des ailes d'aigle à plusieurs rangs de plumes s'élèvent de ses flancs — ailes si développées qu'elles surplombent l'ensemble de la silhouette. Sa tête est humaine, coiffée d'une tiare à cornes multiples signalant son statut divin. Son regard est frontal, fixe, dirigé vers l'observateur quelle que soit l'angle d'approche.
+
+La taille des sculptures monumentales atteint quatre à cinq mètres de hauteur, taillées dans un seul bloc de calcaire ou d'albâtre.
+
+## POUVOIRS
+
+Sa puissance principale est *apotropaïque* : sa seule présence repousse les démons, les sorciers, les malédictions et les forces du chaos qui cherchent à pénétrer les espaces protégés. Il forme avec son vis-à-vis une barrière invisible que les entités maléfiques ne peuvent franchir.
+
+Il possède également une fonction d'*intercession* : dans les textes akkadiens, le Lamassu personnel d'un individu peut plaider sa cause auprès des grands dieux, portant les prières humaines vers les sphères divines.
+
+## FAIBLESSES
+
+Le Lamassu n'a pas de faiblesse narrative dans les textes — il n'est pas protagoniste de récits d'affrontement. Sa vulnérabilité est rituelle : si les rites de fondation et de dédicace qui l'ont activé sont profanés ou détruits, sa puissance protectrice s'éteint. La destruction d'une sculpture de Lamassu était perçue comme une catastrophe pour la cité qu'il gardait.
+
+## COMPORTEMENT
+
+Impassible et éternel. Le Lamassu ne réagit pas aux événements humains ordinaires — il existe dans une temporalité différente, tendu vers la menace invisible plutôt que vers le quotidien visible. Dans les textes religieux, le Lamassu personnel accompagne silencieusement son protégé, marchant à ses côtés, formant un bouclier immatériel.
+
+## RÉCITS TRADITIONNELS
+
+Les textes d'exorcisme babyloniens invoquent régulièrement les Lamassu comme auxiliaires contre les démons *Utukku* et *Gallu*. Les formules rituelles demandent aux génies protecteurs de se placer aux quatre coins d'une maison, d'en sceller les seuils et de repousser toute entité hostile.
+
+Un texte akkadien tardif décrit le voyage d'une âme défunte accompagnée de son Lamassu personnel jusqu'à l'entrée du monde souterrain — le génie protecteur l'accompagne jusqu'au seuil ultime mais ne peut le franchir, laissant son protégé affronter seul le jugement des dieux infernaux.
+
+## VARIANTES RÉGIONALES
+
+En Babylonie du sud, le *Lamma* sumérien est plus fréquemment représenté sous forme féminine, avec des attributs de déesse plutôt que de taureau. En Assyrie du nord, la forme taurine domine et les sculptures atteignent leurs dimensions les plus monumentales. En Élam, des variantes locales combinent des éléments similaires avec des particularités iconographiques propres.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les représentations contemporaines de Lamassu dans les jeux vidéo et la fantasy tendent à en faire des créatures guerrières actives, capables de combat. Cette lecture est inexacte : dans la tradition mésopotamienne, le Lamassu est un être de protection passive, non un combattant. Il repousse par sa présence, non par une action offensive.
+
+La destruction moderne de plusieurs Lamassu monumentaux du musée de Mossoul en 2015 a replacé brutalement ces figures au centre de l'actualité mondiale — rappelant que pour leurs créateurs, briser un Lamassu était littéralement détruire la protection d'une cité.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les plus célèbres Lamassu connus sont ceux du palais de Sargon II à Khorsabad (vers 720 av. J.-C.) et ceux de Ninive. Plusieurs sont aujourd'hui conservés au British Museum de Londres, au Louvre à Paris, et au Metropolitan Museum of Art de New York. Les fouilles d'Ashurnasirpal II à Nimroud ont révélé des paires parfaitement conservées pesant plusieurs tonnes chacune.
+
+## POUR ALLER PLUS LOIN
+
+Le Lamassu représente l'une des expressions les plus abouties de l'art monumental assyrien. Son image composite — humaine, animale, divine, ailée — synthétise la conception mésopotamienne de la puissance protectrice idéale. Les tablettes d'argile inscrites retrouvées sous les fondations de palais prouvent que la dimension invisible du Lamassu était aussi importante que sa manifestation sculpturale visible.

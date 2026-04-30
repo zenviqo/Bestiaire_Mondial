@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Cipactli
+  Tradition : Amerindien Centre Sud
+═══════════════════════════════════════════════
+
+
+# CIPACTLI
+
+## SIGNIFICATION DU NOM
+
+*Cipactli* en nahuatl classique est un terme composite — lié à *cipac* (caïman, crocodile) avec un suffixe nominal. La créature est aussi liée au crocodile comme symbole de la Terre flottant sur les eaux primordiales. Le premier jour du calendrier rituel aztèque (*tonalpohualli*) est nommé *Cipactli* — ce qui montre l'importance cosmologique de la créature comme point de départ du temps. Cipactli est le chaos primordial qui précède la création ordonnée — le monstre que les dieux doivent démembrer pour créer le monde.
+
+## ORIGINE
+
+Cipactli est documenté dans les textes cosmogoniques nahuatls de la période coloniale précoce — particulièrement dans la *Leyenda de los Soles* et le *Códice Chimalpopoca*, compilés au XVIe siècle d'après des traditions orales préhispaniques. La créature apparaît dans les fresques et les codex aztèques comme figure du premier registre de temps. Des sculptures de Cipactli ont été identifiées dans des contextes cérémoniels du Templo Mayor de Tenochtitlan. Les Olmèques utilisaient déjà des motifs de "monstre-caïman" dans leur iconographie — une tradition de plusieurs millénaires avant les Aztèques.
+
+## NATURE
+
+Cipactli est le monstre du chaos aquatique primordial — une entité qui n'est ni animal ni démon ni dieu mais le chaos non-ordonné lui-même sous une forme monstrueuse. Elle flotte sur les eaux primordiales avant que quoi que ce soit n'existe. Sa nature est d'être l'état précédant toute forme — insatiable, toujours affamée (sa bouche ne se ferme jamais), couverte de bouches sur toutes les articulations de son corps. Elle est à la fois la matière dont la Terre sera faite et l'obstacle que les dieux doivent vaincre pour la créer.
+
+## HABITAT
+
+Cipactli existe avant l'espace — elle flotte sur les eaux primordiales qui précèdent la création du monde. Après son démembrement, son corps *devient* la Terre. Les montagnes sont ses protubérances, les vallées ses creux, les rivières ses veines. La Terre sur laquelle les humains vivent est le corps mort de Cipactli — une réalité qui, dans la cosmologie nahuatl, explique pourquoi la Terre doit être nourrie de sang humain : la Terre est la créature déchiquetée qui demande perpétuellement à être apaisée.
+
+## DESCRIPTION
+
+Un monstre composite aux proportions extraordinaires — corps de caïman/crocodile mais déformé et hybridé. Des bouches béantes sur toutes les articulations (coudes, genoux, épaules). Des mâchoires de silex — des couteaux à obsidienne formant ses dents. Des griffes. Dans certaines représentations, des éléments multiples : une tête de caïman, des corps de poisson, des crocs de jaguar. Elle est couverte de protubérances et de motifs en spirale représentant des bouches dans l'iconographie aztèque. Sa taille est cosmique — assez grande pour flotter sous le ciel et devenir la Terre entière.
+
+## POUVOIRS
+
+Incarnation du chaos primordial — une force qui s'oppose à la création par sa seule existence. Elle dévore tout ce qui entre dans ses bouches multiples — Tezcatlipoca perd un pied dans ses mâchoires lors du combat cosmogonique. Sa faim est infinie et sa résistance à la mort totale — elle continue d'être "vivante" même après son démembrement, d'où la nécessité d'offrir du sang à la Terre. Elle est aussi puissante qu'une force naturelle — elle n'est pas vaincue mais transformée, convertie en autre chose.
+
+## FAIBLESSES
+
+Cipactli est attirée par un appât — lors de la création, Tezcatlipoca et Quetzalcóatl utilisent le pied de Tezcatlipoca comme appât pour l'attirer. Elle mord. Les deux dieux la saisissent alors et la démembrent — mais pas sans qu'elle en prenne un morceau. Sa faim même est sa vulnérabilité : ce qui la définit (manger) est ce qui permet aux dieux de la saisir. Elle ne peut être ni négociée ni repoussée — elle ne comprend que la force cosmique.
+
+## COMPORTEMENT
+
+Cipactli ne "se comporte" pas dans le sens habituel — elle est l'état avant la conscience et la volonté. Elle flotte, elle mange, ses bouches s'ouvrent et se ferment sur tout ce qui s'approche. Il n'y a ni intention ni animosité — simplement le chaos primaire de l'appétit non-orienté. C'est précisément cela qui la rend mythologiquement puissante : elle n'est pas le *mal* (qui implique une volonté), elle est *l'avant* — avant la distinction entre bien et mal, avant l'ordre qui rend la vie possible.
+
+## RÉCITS TRADITIONNELS
+
+La *Leyenda de los Soles* (version du XVIe siècle de la cosmogonie nahuatl) : avant la création du monde actuel, les dieux Tezcatlipoca et Quetzalcóatl regardent Cipactli flottant sur les eaux. Ils doivent créer la Terre. Ils utilisent le pied de Tezcatlipoca comme appât — Cipactli le mord et l'avale. Les deux dieux la saisissent et la déchirent en deux — sa partie supérieure devient le ciel, sa partie inférieure la Terre. Elle continue de gémir sous les humains. Pour la calmer, les dieux lui promettent d'être nourrie — de sang et de cœurs humains. Le sacrifice aztèque découle de cette promesse cosmogonique.
+
+## VARIANTES RÉGIONALES
+
+Le motif du "monstre-terre" créé depuis le démembrement d'un être chaotique primordial est pan-mésoaméricain. Chez les Mayas, des figures comparables de monstres caïmans apparaissent dans le *Popol Vuh* et dans l'iconographie. Les Olmèques (précurseurs de la culture mésoaméricaine) utilisaient déjà le motif du caïman surnaturel dans leur iconographie — des siècles avant les Aztèques. Chez d'autres peuples nahuatls du Mexique central, des variantes locales du mythe de la création par démembrement existent.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Cipactli est peu connue hors des études mésoaméricaines, malgré sa centralité dans la cosmologie aztèque. Elle apparaît dans des jeux vidéo (notamment en tant que monstre de boss dans des jeux d'inspiration précolombienne) et dans de l'art mexicain contemporain — mais souvent transformée en dragon ou en simple monstre de combat, ce qui perd la dimension cosmogonique. Le fait qu'elle soit *devenue* la Terre — qu'on vit sur son corps — est la partie la plus difficile à transmettre dans une culture qui ne partage pas ce cosmogonie.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de Cipactli apparaissent dans le *Codex Borgia*, le *Codex Borbonicus*, et d'autres codex aztèques — généralement comme glyfe du premier jour du calendrier rituel (*tonalpohualli*). Des sculptures en basalte et en pierre volcanique du Mexique central représentent le "monstre de la Terre" avec ses bouches multiples. Des bas-reliefs du Templo Mayor de Tenochtitlan (aujourd'hui au Musée National d'Anthropologie de Mexico) montrent des figures interprétées comme Cipactli ou des êtres comparables dans des contextes cérémoniels de sacrifice.
+
+## POUR ALLER PLUS LOIN
+
+Cipactli illustre une logique cosmogonique qui résout le problème de la matière : d'où vient la Terre ? De la transformation du chaos lui-même. Ce qui était le désordre devient, par une violence fondatrice, l'espace où l'ordre peut s'installer. Mais ce chaos n'est pas simplement détruit — il est toujours là, sous les pieds des vivants, dans la chair de la Terre, grondant et affamé. Le sacrifice humain aztèque n'est pas dans cette logique une cruauté arbitraire mais le paiement d'une dette cosmique : la Terre nourrit les humains parce qu'elle *est* un monstre mort qu'on doit apaiser en retour.

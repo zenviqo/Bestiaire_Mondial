@@ -1,0 +1,129 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Migou
+  Tradition : Tibetain Himalayen
+═══════════════════════════════════════════════
+
+
+# MIGOU
+
+## SIGNIFICATION DU NOM
+
+*Migou* (མི་རྒོད) en tibétain se compose de *mi* (humain, homme) et *rgod* (sauvage, farouche) — il est l'*homme sauvage*, l'humain qui a refusé la culture. Le terme sherpa *Yeh-teh* désigne un "animal des rochers" — une présence animale des altitudes, pas nécessairement humanoïde. L'anglais *Yeti* est une déformation du sherpa. *Abominable Homme des Neiges* vient d'une mauvaise traduction du terme tibétain *Metoh-Kangmi* (hommes-ours des neiges) publiée dans les journaux anglophones des années 1920.
+
+## ORIGINE
+
+Le Migou est attesté dans les traditions orales et écrites du Tibet, du Népal et du Bhoutan depuis des siècles. Les textes bouddhistes tibétains mentionnent des créatures humanoïdes des neiges dans plusieurs contextes — comme protecteurs de lieux sacrés, comme êtres à la lisière de l'humain et de l'animal. La fascination occidentale pour le Yeti explose dans les années 1950 avec les expéditions himalayennes, mais la créature préexiste largement à cette attention.
+
+## NATURE
+
+Le Migou occupe dans les traditions himalayennes une position ambiguë entre animal, humain et entité spirituelle. Il n'est pas simplement un grand singe — il est un être *mi-* (mi-homme, mi-bête), porteur d'une sagesse sauvage, gardien des espaces où les humains ordinaires ne peuvent pas aller. Dans le bouddhisme tibétain, certaines sources l'associent aux *nyen* (esprits des montagnes) ou le considèrent comme une manifestation de la résistance du monde naturel à la présence humaine.
+
+## HABITAT
+
+Le Migou habite les altitudes extrêmes de l'Himalaya — au-dessus de 4000 mètres, dans les zones de neige permanente et de glaciers, là où les humains ne peuvent subsister que temporairement. Il préfère les pentes septentrionales moins exposées au soleil, les ravins glacés, les zones de transition entre les forêts d'altitude et les neiges éternelles. Des régions spécifiques lui sont traditionnellement associées : le Khumbu (Népal), le Merak-Sakteng (Bhoutan), le plateau du Changtang.
+
+## DESCRIPTION
+
+Le Migou est humanoïde — bipède, plus grand qu'un homme, couvert d'une fourrure épaisse rouge-brun, gris ou noire selon les témoignages. Sa face est aplatie, ses pieds larges et tournés en dedans (d'où les traces inversées observées dans la neige). Ses épaules sont massives, son cou court. Sa démarche est érigée mais légèrement voûtée. Les descriptions convergent sur sa taille — entre 1,8 et 2,5 mètres debout.
+
+Le bouddhisme tibétain attribue à certains Migou une peau blanche et un statut plus clairement surnaturel.
+
+## POUVOIRS
+
+Force physique exceptionnelle — il peut arracher des arbres et soulever des rochers. Résistance au froid extrême que ne pourraient pas survivre les humains. Discrétion surnaturelle dans des espaces ouverts — les témoins parlent de sa capacité à disparaître dans des zones apparemment sans couverture. Dans les traditions bouddhistes, certains Migou peuvent se rendre invisibles et possèdent une forme d'intelligence spirituelle.
+
+## FAIBLESSES
+
+Le Migou évite les humains et ne les attaque généralement pas sauf provocation. Dans les récits traditionnels sherpas, le bruit et le feu suffisent à le faire fuir. Certaines sources mentionnent qu'il est sensible au regard direct — le croiser dans les yeux le met en fuite ou au contraire le rend dangereux selon les traditions.
+
+## COMPORTEMENT
+
+Le Migou est solitaire ou vit en petits groupes familiaux. Il cueille des plantes, chasse de petits animaux, se déplace sur de grandes distances. Dans les traditions sherpas, il peut pénétrer dans les villages isolés la nuit pour dérober de la nourriture. Il n'est pas agressif de nature mais imprévisible. La tradition orale sherpa le respecte autant qu'elle le craint — il appartient à ce monde de la haute montagne que les humains traversent mais ne contrôlent pas.
+
+## RÉCITS TRADITIONNELS
+
+Les monastères tibétains de la région du Khumbu conservent des reliques présentées comme appartenant au Migou — crânes, mains, scalps. Le monastère de Pangboche possède une "main de Yeti" examinée par plusieurs expéditions scientifiques au XXe siècle. Des lamas rapportent des rencontres avec des Migou dans leurs récits de retraite en haute altitude — généralement des expériences de présence silencieuse plutôt que d'affrontement.
+
+## VARIANTES RÉGIONALES
+
+Au Bhoutan, le *Migoi* est protégé par la loi — le gouvernement bhoutanais a déclaré une réserve naturelle dans la région de Sakteng partiellement motivée par la préservation de son habitat supposé. En Sibérie, des créatures similaires (*Almas*, *Chuchunaa*) appartiennent à des traditions distinctes mais comparables.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Occident a fait du Yeti un cryptide — un animal peut-être réel mais non catalogué, sujet d'expéditions scientifiques et de photographies floues. Cette lecture cryptozoologique efface la dimension spirituelle et culturelle centrale : dans les traditions himalayennes, le Migou n'est pas un animal inconnu en attente de découverte, c'est un être dont la non-capture fait partie de sa nature.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations visuelles du Migou dans l'art tibétain sont rares — il y a peu d'iconographie bouddhiste canonique le représentant. Les thangkas montrent parfois des êtres sauvages humanoïdes dans les scènes de montagne. Les masques rituels de certaines fêtes tibétaines incluent des figures d'hommes sauvages. L'iconographie contemporaine vient presque entièrement de sources occidentales.
+
+## POUR ALLER PLUS LOIN
+
+Le Migou/Yeti est une figure de la limite — la limite entre l'humain et l'animal, entre le monde cultivé et la wilderness, entre ce qu'on sait et ce qu'on ne sait pas. Sa persistance dans l'imaginaire mondial tient à ce qu'il cristallise une question que chaque culture doit affronter : qu'est-ce qu'un humain, et qu'est-ce qui reste quand on enlève la culture ?

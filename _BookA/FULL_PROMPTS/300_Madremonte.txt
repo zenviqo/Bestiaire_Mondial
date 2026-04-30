@@ -1,0 +1,205 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Madremonte
+  Tradition : Andes
+═══════════════════════════════════════════════
+
+
+# MADREMONTE
+
+## SIGNIFICATION DU NOM
+
+Le nom *Madremonte* est un composé espagnol transparent : *madre*, mère, et *monte*, terme qui dans l'espagnol rural des Andes ne désigne pas la montagne mais *la forêt vierge, la brousse impénétrable, la végétation sauvage non défrichée*. *Madre del monte* signifie ainsi *mère de la forêt sauvage* — non au sens de génitrice biologique, mais au sens de gardienne, de souveraine tutélaire, de propriétaire spirituelle des espaces végétaux non humanisés.
+
+Plusieurs variantes circulent. *Madreselva* — littéralement *mère-de-la-forêt-épaisse*, du latin *silva* — apparaît dans certaines régions caféières comme synonyme. *Marimonda*, attestée surtout dans les Llanos vénézuéliens, croise probablement le nom *María* avec *monda* (broussailles), bien que d'autres étymologies la rattachent à un terme zoologique désignant un singe atèle. *Madre de Monte* se rencontre comme forme pleine dans les récits oraux anciens.
+
+Le titre de *madre* place la créature dans une famille folklorique caractéristique du monde hispano-américain : à côté de *La Llorona* et de *La Sayona*, la Madremonte forme la troisième pointe d'un triangle de figures féminines tutélaires, chacune attachée à un domaine — l'eau morte, la maison conjugale, la forêt vierge.
+
+## ORIGINE
+
+La Madremonte naît du croisement de deux substrats. Le premier est *indigène* : les peuples andins préhispaniques — Muiscas du plateau de Bogotá, Quimbayas et Pijaos des cordillères centrales et occidentales, peuples des piémonts amazoniens et des plaines de l'Orénoque — connaissaient des entités tutélaires liées à la forêt, gardiennes des animaux sauvages, sanctionnatrices des chasseurs imprudents. Ces figures, souvent féminines, présidaient aux espaces non domestiqués et se manifestaient par des phénomènes climatiques violents lorsqu'on transgressait les règles de prélèvement.
+
+Le second substrat est *créole colonial*. À partir du XVIᵉ siècle, l'évangélisation espagnole superpose à ces figures indigènes la matrice mariale catholique du *titre maternel* — la Vierge comme mère universelle, mère des affligés, mère des champs et des récoltes. La rencontre des deux strates produit la Madremonte sous la forme que les récits ruraux ont conservée jusqu'à aujourd'hui : entité féminine majeure, mais ni déesse païenne ni Vierge chrétienne, *spectre tutélaire ambivalent* dont la fonction ne se confond ni avec le panthéon précolombien ni avec le calendrier liturgique.
+
+L'expansion de la frontière agricole au XIXᵉ siècle, avec la colonisation paysanne d'Antioquia (*colonización antioqueña*) et l'extension des plantations de café, ancre durablement la Madremonte dans la culture rurale andine. Elle devient figure des limites — entre forêt et champ, entre propriété et propriété, entre permis et interdit.
+
+## NATURE
+
+La Madremonte est un *esprit-protecteur* — qualification qui doit être lue précisément. Elle n'est pas une divinité avec son propre culte autonome ; elle ne reçoit ni temple ni sacrifice ordonné. Elle n'est pas non plus un simple fantôme humain revenu après la mort. Elle est une *entité tutélaire* — c'est-à-dire une présence qui veille sur un domaine, le sanctionne, et n'apparaît qu'en regard d'une transgression observée.
+
+Elle est *territoriale* : sa puissance s'exerce dans la forêt vierge et aux confins des terres cultivées, jamais à l'intérieur du village ou du foyer.
+
+Elle est *climatique* : son courroux se manifeste par des phénomènes atmosphériques — pluies torrentielles, crues subites, vents tournants, brouillards égarants. Elle ne combat pas ses victimes corps à corps ; elle dérègle l'environnement autour d'elles.
+
+Elle est enfin *ambivalente*. Pour le paysan honnête qui respecte les limites de ses terres, paie les redevances coutumières aux anciens propriétaires, et n'abuse pas de la forêt, la Madremonte est une protectrice silencieuse qui assure la fertilité des champs et la santé du bétail. Pour celui qui transgresse, elle devient une persécutrice implacable.
+
+## HABITAT
+
+Le domaine de la Madremonte est triple. *La forêt vierge* — *el monte* dans le langage paysan — constitue son territoire premier : forêts d'altitude des cordillères andines, forêts de brouillard, forêts humides des piémonts amazoniens et orientaux. Plus la forêt est ancienne, dense, peu pénétrée, plus la Madremonte y est dite présente.
+
+Les *cours d'eau* forment son second domaine. On la dit hanter les ruisseaux profonds, les rivières serpentant dans la jungle, les sources cachées sous les fougères. Lorsqu'elle déchaîne sa colère, ce sont précisément ces cours d'eau qui débordent — la pluie qu'elle invoque ne tombe pas seulement, elle gonfle les torrents et emporte ce qui se trouve sur leurs rives.
+
+La *zone caféière* — les flancs des cordillères centrale et occidentale entre 1000 et 2000 mètres d'altitude, plantés de caféiers à l'ombre des grands arbres — est devenue, depuis le XIXᵉ siècle, son habitat le plus densément attesté dans le folklore. Les histoires de Madremonte y sont récoltées en abondance, transmises de génération en génération de paysans cultivateurs.
+
+Aux confins de ces espaces, *les limites de propriété* — bornages de pierre, lignes de haie, fossés frontaliers — sont les lieux où elle se manifeste avec la plus grande intensité. Déplacer une borne, élargir frauduleusement son champ aux dépens du voisin, c'est appeler la Madremonte sur soi.
+
+## DESCRIPTION
+
+La Madremonte se présente sous la forme d'une *femme géante*, dont la stature dépasse de loin celle d'une femme ordinaire — certains récits la comparent à la hauteur des grands cèdres de la forêt. Son corps entier est *recouvert de matière végétale* : mousses épaisses agrippées à ses bras, lichens pendant comme des barbes, lierres et broméliacées tressés autour de sa taille, feuilles superposées formant ses vêtements, parfois branches et sarments enchevêtrés en sa chevelure.
+
+Son visage est dissimulé. Les conteurs s'accordent rarement sur ses traits exacts — non par incohérence, mais parce que la Madremonte est précisément celle dont *on ne voit pas le visage*. Un *voile vert*, fait de mousse fine ou de feuillage transparent, recouvre sa face. Certains récits affirment que ce voile cache un visage d'une beauté surnaturelle ; d'autres qu'il dissimule un visage hideux ou n'existant tout simplement pas. Lever ce voile est dit funeste.
+
+Ses yeux, lorsqu'ils sont décrits, brillent d'une lueur verte ou jaune, perçant la végétation qui la couvre. Sa voix est tantôt celle du vent dans les feuilles, tantôt un hurlement de tempête, tantôt un chant doux qui attire les voyageurs hors des sentiers.
+
+Ses pieds sont tournés en arrière selon certaines variantes — détail qui la rapproche d'autres entités forestières d'Amérique latine — afin que ses traces dans la boue trompent ceux qui voudraient la suivre. D'autres récits décrivent simplement ses pieds comme nus, larges, marqués profondément dans la terre humide.
+
+Une coiffe végétale couronne sa tête : feuillages dressés, parfois fleurs sauvages, parfois plumes mêlées aux mousses.
+
+## POUVOIRS
+
+La *maîtrise des tempêtes* constitue son attribut majeur. Lorsqu'un homme transgresse les lois du *monte*, la Madremonte invoque la pluie. Cette pluie n'est pas une averse ordinaire : elle dure des jours, gonfle les rivières, fait fondre les pentes en coulées de boue, emporte les bêtes et les récoltes. Les conteurs paysans attribuent à sa colère certaines des grandes inondations historiques de la zone caféière.
+
+Le *vent tournant* — *el ventarrón* — est sa seconde arme. Vent soudain qui tord les arbres, arrache les toits de palme et de zinc, et désoriente les voyageurs en pleine forêt.
+
+La *désorientation* est un pouvoir plus subtil. Le voyageur qui s'engage dans la forêt sans avoir respecté les rites de passage entend soudain sa voix, voit des sentiers se former qui n'existent pas, perd toute notion de direction. Il marche en cercle pendant des heures, parfois des jours, jusqu'à ce qu'il abandonne ou meure d'épuisement. Ce phénomène, distinct de la simple perte de chemin, est attribué directement à la Madremonte.
+
+L'*ouragan ciblé* frappe les terres de ceux qui ont déplacé une borne ou volé du bétail. Ce ne sont pas tous les champs qui sont touchés, mais précisément ceux du transgresseur.
+
+Le *dépérissement du bétail* affecte également ses victimes : vaches qui maigrissent sans raison, lait qui tourne, poules qui ne pondent plus. La Madremonte n'a pas besoin de paraître pour agir — sa présence se mesure aux malheurs concentrés.
+
+## FAIBLESSES
+
+Les paysans andins ont conservé un répertoire précis de protections contre la Madremonte. *Le tabac* en constitue la première. Mâcher du tabac, fumer un cigare puissant, ou brûler des feuilles de tabac aux limites du champ éloigne sa colère. La fumée du tabac est dite traverser les voiles végétaux qui la couvrent et lui rappeler que les humains ont leur place reconnue.
+
+*La prière* — généralement les prières mariales catholiques, mais aussi des formules rurales plus anciennes mêlant noms de saints et invocations directes à la *Madre Monte* elle-même — protège le voyageur. Réciter à voix haute en entrant dans la forêt, faire le signe de croix au passage des bornes, allumer une bougie à un autel rural : ces gestes minimaux rétablissent la paix.
+
+*L'accord rituel avec les anciens propriétaires terriens* est la protection la plus spécifique. Lorsqu'un paysan acquiert une terre, il est dit qu'il doit rendre visite aux anciens habitants — vivants ou symboliquement représentés par leurs descendants — et obtenir leur consentement. Sans cet accord, la Madremonte considérera l'occupation comme une transgression. Cette pratique reflète la conscience paysanne profonde que la légitimité juridique ne suffit pas : il faut aussi la légitimité coutumière, transmise d'occupant en occupant depuis des temps mémoriels.
+
+*La fidélité aux limites* est l'observance générale. Ne pas déplacer une borne, ne pas couper du bois au-delà de sa parcelle, ne pas chasser hors de son territoire — ces règles, lorsqu'elles sont respectées, mettent à l'abri.
+
+À cela s'ajoute la *fidélité conjugale* : la Madremonte, dans certaines variantes, punit également les époux infidèles qui s'égarent dans la forêt en compagnie de maîtresses, les égarant dans des sentiers sans retour.
+
+## COMPORTEMENT
+
+La Madremonte ne se laisse pas voir aisément. Elle se manifeste d'abord par *des signes* : changement brutal du temps, voix lointaine dans la forêt, sentiers qui semblent se déplacer, animaux qui s'agitent sans cause apparente. Ces signes sont des avertissements — le transgresseur a encore le temps de se retirer, de prier, de demander pardon.
+
+Si l'avertissement est ignoré, elle devient *active*. Elle apparaît aux confins de la forêt comme une silhouette immense, voile vert flottant. Sa simple présence suffit à figer le voyageur. Elle ne parle pas toujours ; lorsqu'elle parle, c'est pour énoncer la transgression — *tu as déplacé la borne de la rivière*, *tu as coupé le grand cèdre sans me demander*, *tu as conduit cette femme qui n'est pas la tienne sur ce sentier*.
+
+Puis vient le châtiment. Tempête, désorientation, inondation. La sévérité dépend de la gravité de la faute et de l'attitude du transgresseur. Celui qui se repent immédiatement, abandonne sa transgression, fait amende publique au village, peut espérer que la colère retombe. Celui qui persiste est emporté.
+
+Envers les paysans honnêtes, son comportement est tout autre. Elle veille silencieusement sur leurs récoltes, écarte les ravageurs, maintient l'eau aux sources. Elle n'apparaît pas — sa présence se mesure à *l'absence de malheurs*. Les anciens disent que les fermes prospères sont celles que la Madremonte regarde d'un œil clément.
+
+## RÉCITS TRADITIONNELS
+
+Plusieurs récits-types circulent dans les campagnes andines colombiennes et vénézuéliennes.
+
+Le premier raconte le *paysan qui déplaça la borne*. Un homme, voulant agrandir son champ aux dépens du voisin, déterre nuitamment la pierre frontière et la repose plus loin. Pendant trois jours, rien ne se passe. La quatrième nuit, une pluie sans précédent commence à tomber. Elle ne cesse pas. Le ruisseau qui borde le champ déborde, emporte la borne déplacée, puis emporte la nouvelle clôture, puis emporte les caféiers, puis la maison elle-même. L'homme, réfugié sur une crête, entend dans le vent une voix qui répète : *la borne, la borne, la borne*. Il meurt au matin, retrouvé noyé dans la boue avec la pierre frontière dans les bras.
+
+Le second récit raconte *l'époux infidèle*. Un homme conduit sa maîtresse par un sentier de la forêt caféière, persuadé que sa femme l'ignore. Le sentier, qu'il connaissait pourtant, change. Les arbres lui semblent inconnus. Il marche pendant des heures, puis des jours. La maîtresse disparaît à un moment qu'il ne se souvient plus. Lorsqu'on le retrouve, des semaines plus tard, il est égaré, hagard, incapable de parler. Il ne survivra pas longtemps. Les anciens du village hochent la tête : *la Madremonte l'a pris*.
+
+Le troisième récit raconte *le coupeur de bois respectueux*. Un paysan doit abattre un grand cèdre pour reconstruire sa maison. Avant de poser la hache, il s'agenouille au pied de l'arbre, fume un cigare, prononce une prière à la *Madre Monte*, et demande pardon de prendre cette vie végétale. Il abat l'arbre. La forêt reste silencieuse. La nuit, en rêve, il voit une femme voilée de vert qui lui adresse un signe — interprété par le rêveur comme un acquiescement. Le bois servira à sa maison sans malheur.
+
+## VARIANTES RÉGIONALES
+
+En *Antioquia* et dans la zone caféière du Caldas-Risaralda-Quindío, la Madremonte est figure presque universellement connue dans la culture rurale. Les récits y mettent l'accent sur la protection des bornes et des plantations. Elle est associée à des arbres spécifiques — grands cèdres, *guaduales* (bambouseraies) — où elle est dite résider.
+
+Dans le *Tolima* et le Huila, traditions andines centrales, elle est plus particulièrement liée aux cours d'eau cordillérains. Sa colère prend la forme préférentielle d'inondations subites des rivières dévalant des montagnes.
+
+Dans les *Llanos colombo-vénézuéliens* — vastes plaines de l'Orénoque — elle prend souvent le nom de *Marimonda* et son habitat se déplace vers les *bosques de galería* (forêts-galeries longeant les cours d'eau dans la savane). Sa fonction punitive y vise particulièrement les voleurs de bétail (*cuatreros*), figure centrale de l'économie llanera, et les éleveurs qui dépassent les limites coutumières des terres communales.
+
+Au *Venezuela*, dans les Andes mérideñes et trujillanes, des variantes proches du modèle colombien circulent, parfois fusionnées avec d'autres figures locales. La *Sayona*, distincte (épouse trahie revenant punir les hommes infidèles), peut localement échanger des traits avec la Madremonte sans se confondre avec elle.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs représentations contemporaines de la Madremonte — bandes dessinées colombiennes, films, séries, illustrations destinées à la jeunesse, productions touristiques — s'écartent du folklore traditionnel sur des points significatifs.
+
+L'idée que la Madremonte serait une simple *Mère Nature* à la manière du romantisme européen — figure douce et bienveillante incarnant l'harmonie écologique — méconnaît son ambivalence fondamentale. La tradition rurale ne la présente pas comme une mère universellement aimante mais comme une *gardienne sanctionnatrice*, dont la fonction principale est punitive autant que protectrice. La récupération écologiste contemporaine, qui en fait une icône de la défense de la nature, n'est pas fausse en soi — la créature s'oppose effectivement aux déforesteurs — mais elle aplatit la dimension de terreur et de châtiment qui constitue le cœur du récit folklorique.
+
+La confusion avec la *Patasola* est fréquente et erronée. La Patasola est une créature *prédatrice unijambiste* qui chasse activement les hommes seuls dans la forêt et les dévore ; elle est une figure de prédation, d'attraction sexuelle trompeuse, et de cannibalisme. La Madremonte, à l'inverse, ne dévore pas. Elle ne séduit pas non plus. Elle n'a pas de pied unique mais bien deux pieds (parfois inversés). Sa fonction est juridique-coutumière (sanctionner les transgressions des limites) et non prédatrice. Confondre les deux, c'est ne plus comprendre que le folklore andin distingue avec précision plusieurs registres de la peur forestière.
+
+La distinction avec *La Llorona* est également importante. La Llorona est l'esprit d'une mère ayant perdu ses enfants, errant le long des cours d'eau en pleurant ; figure de douleur maternelle privée et de hantise. La Madremonte n'a pas d'enfants pleurés ; sa maternité est tutélaire et symbolique, exercée sur la forêt.
+
+La *Sayona*, enfin, est l'épouse trahie revenant punir les hommes infidèles dans le cadre conjugal et villageois. La Madremonte agit dans le *monte* ; sa motivation principale est la protection des limites territoriales, l'infidélité conjugale n'étant qu'une des transgressions qu'elle sanctionne parmi d'autres. Sa zone d'attestation principale est colombienne et vénézuélienne ; en dehors de cette aire, des figures cousines existent (*Caipora* et *Curupira* du Brésil) mais ne se confondent pas avec elle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+La Madremonte n'a pas généré de tradition iconographique savante avant le XXᵉ siècle. Sa représentation appartient principalement à *l'art rural et populaire*. Plusieurs supports peuvent être identifiés.
+
+Les *gravures populaires* — feuilles imprimées vendues lors des fêtes paroissiales et des marchés ruraux, à partir du XIXᵉ siècle — la représentent occasionnellement, généralement en silhouette féminine couverte de feuillages, debout dans une forêt sombre, parfois aux côtés d'autres figures du folklore (la Llorona, le Sombrerón, le Mohán).
+
+Les *retablos* du Boyacá et d'autres régions andines — petits autels portatifs domestiques, héritiers d'une tradition coloniale, où des figures saintes catholiques cohabitent avec des entités du folklore syncrétique — peuvent inclure la Madremonte parmi les figures protectrices des récoltes et des forêts, juxtaposée à la Vierge et aux saints patrons agricoles. Cette inclusion atteste l'ambivalence religieuse de la figure : ni canoniquement chrétienne ni explicitement païenne, mais admise dans l'espace dévotionnel rural.
+
+L'*art rural colombien* du XXᵉ siècle — notamment la peinture naïve de Boyacá et d'Antioquia, les illustrations de revues populaires, les murales scolaires — a représenté la Madremonte de manière de plus en plus codifiée : femme géante voilée de vert, couronne végétale, environnement de forêt humide, atmosphère orageuse en arrière-plan. Cette codification est en partie une fixation tardive d'une figure qui, dans la tradition orale antérieure, était bien moins visuellement précise.
+
+## POUR ALLER PLUS LOIN
+
+La Madremonte appartient au folklore rural colombien et vénézuélien, principalement transmis par voie orale et collecté à partir de la fin du XIXᵉ siècle par les premiers ethnographes et folkloristes andins. Les compilations classiques de folklore colombien — recueillies notamment dans les départements caféiers et les Llanos — la mentionnent constamment parmi les figures majeures du *monte*.
+
+Elle entre dans le corpus comparatif des entités tutélaires forestières d'Amérique latine, aux côtés du Curupira et de la Caipora brésiliens, du Chullachaqui amazonien-quechua et du Sombrerón andin. Sa place dans la culture rurale contemporaine reste vivante : les paysans des zones caféières et des Llanos continuent, pour beaucoup, d'observer les pratiques de respect des limites et d'évocation rituelle de la Madremonte, particulièrement lorsque des phénomènes climatiques violents frappent une parcelle.

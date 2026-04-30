@@ -1,0 +1,129 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : La_Ciguapa
+  Tradition : Caraibes
+═══════════════════════════════════════════════
+
+
+# LA CIGUAPA
+
+## SIGNIFICATION DU NOM
+
+*Ciguapa* est un terme espagnol dominicain dont l'origine est débattue — certains chercheurs proposent une étymologie taïno (langue des peuples autochtones d'Hispaniola avant la colonisation), d'autres une adaptation de termes espagnols coloniaux. Le terme est spécifiquement dominicain — il ne s'est pas généralisé à d'autres variétés d'espagnol caribéen de la même manière. Son étymologie taïno probable suggère que la figure préexistait à la colonisation et a été maintenue avec adaptation dans le cadre syncrétique colonial.
+
+## ORIGINE
+
+La Ciguapa est une figure centrale du folklore dominicain — une des créatures les plus distinctives et les plus connues de la tradition orale de la République Dominicaine. Elle est documentée dans des collectes de contes et légendes dominicains depuis le XIXe siècle. L'origine de la figure est syncrétique — elle combine des éléments de la tradition taïno précolombienne d'Hispaniola (les peuples taïno avaient leur propre tradition d'esprits forestiers) avec des influences des traditions africaines importées pendant la colonisation esclavagiste et des traditions espagnoles coloniales.
+
+## NATURE
+
+La Ciguapa est une femme surnaturelle dont la caractéristique physique la plus distinctive est ses pieds inversés — ses pieds pointent vers l'arrière, de sorte que ses traces dans la boue ou la terre indiquent une direction opposée à celle dans laquelle elle marche réellement. Cette inversion physique est à la fois sa marque distinctive et son principal mécanisme de protection contre d'éventuels poursuivants — des traces qui indiquent la mauvaise direction la rendent pratiquement introuvable.
+
+## HABITAT
+
+La Ciguapa vit dans les montagnes et les forêts de l'intérieur de la République Dominicaine — particulièrement dans la Cordillère Centrale et les zones forestières isolées des Hautes-Terres. Elle est associée aux cours d'eau de montagne et aux zones de forêt primaire tropicale. Elle ne descend jamais dans les zones peuplées — son habitat est exclusivement les zones sauvages et isolées de l'île d'Hispaniola.
+
+## DESCRIPTION
+
+La Ciguapa est décrite comme une belle jeune femme à la peau sombre (dans des versions plus anciennes) ou de teinte bleue (dans des versions plus récentes et populaires). Ses cheveux sont longs et noirs, couvrant souvent une grande partie de son corps. Ses yeux sont décrits comme brillants et fascinants. Mais ses pieds sont inversés — ses talons là où les orteils devraient être, et ses orteils pointant vers l'arrière. Dans des versions plus récentes, elle est aussi décrite comme capable de ne laisser aucune trace.
+
+## POUVOIRS
+
+Pieds inversés créant des traces trompeuses — la caractéristique protectrice fondamentale qui la rend introuvable. Beauté séductrice qui attire les hommes dans les montagnes. Dans certaines versions, elle peut hypnotiser ou fasciner ceux qui la voient, les empêchant de penser clairement. Connaissance parfaite du terrain des montagnes dominicaines. Dans des versions plus développées, un regard direct dans ses yeux peut rendre un homme fou d'amour ou le perdre définitivement dans la forêt.
+
+## FAIBLESSES
+
+La Ciguapa ne peut être vue et éventuellement capturée qu'à des conditions très spécifiques selon la tradition dominicaine : une nuit de pleine lune, et seulement avec l'aide d'un chien noir pur (*perro negro* sans aucune marque d'une autre couleur). Ces conditions très précises rendent sa capture pratiquement impossible. Dans d'autres versions, sa capture n'est pas souhaitée — ceux qui la capturent ne peuvent généralement rien en faire.
+
+## COMPORTEMENT
+
+La Ciguapa n'attaque pas directement — elle séduit et égare. Elle attire des hommes dans les montagnes avec sa beauté, les menant plus profondément dans la forêt jusqu'à ce qu'ils soient complètement perdus. Des hommes qui ont passé une nuit à la poursuivre peuvent se retrouver au matin dans une zone qu'ils ne reconnaissent pas, épuisés et désorientés. Dans certaines versions, elle peut aussi voler de la nourriture dans des campements de chasseurs ou de bûcherons.
+
+## RÉCITS TRADITIONNELS
+
+Un récit dominicain classique : un chasseur dans la Cordillère Centrale voit au loin une belle femme aux longs cheveux noirs. Il la suit dans la forêt de montagne, fasciné. Elle marche toujours juste assez en avant pour qu'il la voie mais ne puisse pas la rejoindre. Il la suit pendant des heures. Au matin, il se retrouve dans une zone totalement inconnue, sans provisions, à plusieurs heures de marche de son village. Il retrouve son chemin épuisé et raconte que c'était la Ciguapa.
+
+Un récit de capture : un homme décide de capturer la Ciguapa. Il attend une nuit de pleine lune et amène son chien noir. Il trouve des traces fraîches — qui pointent dans une direction — et prend la direction opposée. Il trouve la Ciguapa, la capture. Mais elle reste muette, ne mange pas, et ne donne aucun signe de communication. Finalement, confus et frustré, il la relâche dans la forêt.
+
+## VARIANTES RÉGIONALES
+
+Des femmes séductrices aux pieds inversés ou avec d'autres caractéristiques physiques anormales existent dans de nombreuses traditions caribéennes et ibéro-américaines — la *Xtabay* maya (déjà dans ce bestiaire), la *Siguanaba* d'Amérique centrale (déjà dans ce bestiaire). La *La Diablesse* des Caraïbes anglophones (déjà dans ce bestiaire) partage la fonction séductrice. La spécificité de la Ciguapa est ses pieds inversés et son association précise avec les montagnes dominicaines — une figure territoriale liée à un paysage spécifique.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Ciguapa est la figure folklorique dominicaine la plus connue internationalement. Des auteurs dominicains et de la diaspora dominicaine incluent la Ciguapa dans leurs œuvres — Junot Díaz la mentionne dans ses écrits. Des artistes dominicains contemporains représentent la Ciguapa dans des peintures, des sculptures, et des arts numériques. Des festivals culturels dominicains dans la diaspora (New York, Miami) incluent des représentations de la Ciguapa. Des jeux de rôle et des œuvres de fantasy caribéenne utilisent la figure.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations dans des publications de contes et légendes dominicains depuis le XIXe siècle. Des illustrations dans des éditions dominicaines de livres pour enfants sur le folklore national. Des représentations dans des arts plastiques dominicains depuis les années 1960-1970 (mouvement artistique dominicain).
+
+## POUR ALLER PLUS LOIN
+
+La Ciguapa et ses pieds inversés illustrent une logique symbolique précise : une créature qui laisse des traces indiquant la direction opposée à celle dans laquelle elle marche est fondamentalement insaisissable par la méthode ordinaire de suivi de traces. Cette insaisissabilité n'est pas seulement physique — elle est épistémologique. Pour trouver la Ciguapa, il faut raisonner à contre-courant (suivre les traces dans la direction opposée), ce qui n'est pas une déduction naturelle. La Ciguapa encode ainsi une philosophie de l'enquête inversée — pour trouver ce qui s'enfuit en trompant les traces, il faut renverser sa méthode habituelle. Cette logique inversée est aussi une métaphore de la séduction — ce qui attire se trouve dans la direction que les apparences semblent nier.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Quinkin
+  Tradition : Aborigene Australien
+═══════════════════════════════════════════════
+
+
+# QUINKIN
+
+## SIGNIFICATION DU NOM
+
+*Quinkin* (parfois *Quinkans*) est le terme utilisé par plusieurs groupes de peuples du Queensland (nord-est de l'Australie) pour désigner des esprits vivant dans les fentes et les grottes des falaises de grès de la région de Laura (Cape York Peninsula). Le terme est parfois utilisé de façon générique pour tous les esprits locaux, parfois spécifiquement pour deux types distincts : les *Timana* (ou *Imjim*, esprits plutôt bienveillants ou neutres) et les *Imjim* (esprits plutôt malveillants). Les Quinkin sont immortalisés dans des milliers de peintures rupestres de la région de Laura — parmi les sites d'art rupestre les plus importants d'Australie.
+
+## ORIGINE
+
+Les Quinkin sont documentés dans les traditions orales des peuples du Cape York — des groupes parlant des langues pama-nyungan dont les Kuku Yalanji et d'autres nations du Queensland nord. Les peintures rupestres de Quinkan (Laura) représentent des Quinkin dans des compositions qui ont été créées sur des milliers d'années — les plus anciennes remontant à plus de 10 000 ans selon les datations archéologiques. Ces sites ont été inscrits sur les listes du patrimoine australien et international en raison de leur importance culturelle et artistique.
+
+## NATURE
+
+Les Quinkin sont des esprits qui habitent les espaces rocheux — les fentes, les surplombs, les grottes dans les falaises de grès de la Laura basin. Ils ne sont pas simplement représentés dans l'art rupestre — ils y vivent, selon les traditions locales. Les peintures rupestres ne sont pas des représentations de Quinkin mais des Quinkin eux-mêmes, piégés ou présents dans la roche. Cette conception rend les sites d'art rupestre des espaces de cohabitation active avec ces esprits.
+
+## HABITAT
+
+Les falaises de grès de la région de Laura (Queensland) — particulièrement les sites de Quinkan Reserves (Split Rock, Guguyalanji) — sont l'habitat principal des Quinkin. Ils vivent dans les fentes verticales des falaises, dans les surplombs rocheux, dans les zones d'ombre et d'humidité des grottes peu profondes. La topographie particulière de la Laura region — des massifs de grès érodés en formes bizarres — est perçue comme naturellement habitée par ces esprits.
+
+## DESCRIPTION
+
+Les représentations dans l'art rupestre montrent deux types de Quinkin aux formes très distinctes. Les *Timana* : figures allongées, minces, aux membres exagérément longs et flexibles, souvent représentées dans des postures dynamiques ou dansantes. Les *Imjim* : figures plus trapues avec des corps arrondis et des traits plus menaçants. Toutes les représentations Quinkin montrent des êtres à l'échelle et aux proportions qui n'appartiennent pas au règne animal ou humain ordinaire — ils sont clairement des êtres d'un autre ordre.
+
+## POUVOIRS
+
+Les Quinkin malveillants (*Imjim*) peuvent saisir et emporter des humains — particulièrement les enfants qui s'approchent trop des falaises. Ils se manifestent la nuit et dans les périodes de transition (crépuscule, aurore). Les Quinkin bienveillants peuvent protéger ou guider. Certains Quinkin peuvent traverser de grands espaces en un instant — apparaissant et disparaissant de façon surnaturelle. Leur présence dans les fentes rocheuses est permanente — ils n'ont pas besoin de se déplacer, c'est leur demeure éternelle.
+
+## FAIBLESSES
+
+Des rituels appropriés performés par les anciens et les *lawmen* (détenteurs de la loi traditionnelle) respectent la présence des Quinkin et maintiennent des relations harmonieuses avec eux. Les zones de leur habitat sont connues et délimitées — les peuples locaux savent quels endroits éviter ou nécessitent un comportement rituel particulier. Ne pas respecter ces zones — entrer sans permission, faire du bruit dans les zones sacrées — provoque la colère des Quinkin.
+
+## COMPORTEMENT
+
+Les Quinkin sont principalement territoriaux — ils gardent leurs fentes et grottes rocheuses. Dans les traditions locales, des enfants qui disparaissaient dans les zones rocheuses étaient considérés comme emportés par les Imjim. Les Timana, plus neutres, peuvent parfois interagir avec les humains de façon moins hostile. La présence des Quinkin est ressentie dans les sites rupestres — un sentiment de surveillance ou d'être observé dans ces zones est interprété comme leur présence active.
+
+## RÉCITS TRADITIONNELS
+
+Un récit du Cape York : des enfants jouant près des falaises de grès au coucher du soleil sont avertis par leurs parents de rentrer avant la nuit — les Imjim sortent des fentes quand le soleil se couche. Un enfant reste trop tard. Le lendemain matin, il est retrouvé à distance, incapable de se souvenir de la nuit passée, avec de légères marques sur les bras. Les anciens reconnaissent le signe — l'Imjim l'a emmené et ramené. Des cérémonies de nettoyage (*smoking ceremony*) sont accomplies pour dégager l'esprit de l'enfant.
+
+## VARIANTES RÉGIONALES
+
+Des esprits similaires habitant des formations rocheuses ou des grottes existent dans d'autres traditions aborigènes australiennes — les *Mimis* d'Arnhem Land (esprits très minces des rochers de grès), les *Wandjina* de Kimberley (esprits des rochers différents mais comparables dans leur rapport à l'art rupestre). Ces traditions d'esprits "dans la roche" semblent reliées à la présence d'art rupestre — les peintures sont des interfaces entre les humains et les esprits.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les Quinkin sont devenus connus au niveau national et international grâce à la série de livres pour enfants de Dick Roughsey et Percy Trezise (*The Quinkins*, 1978 et suivants) — des albums illustrés qui racontent les légendes Quinkin en s'appuyant sur l'art rupestre. Ces livres ont introduit les Quinkin dans la culture australienne mainstream. Les sites de Quinkan Reserves à Laura sont un site touristique et culturel majeur du Queensland avec des visites guidées menées par des gardiens aborigènes.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les peintures rupestres de la région de Laura constituent l'iconographie historique des Quinkin — art directement lié à la tradition plutôt que représentation externe de la tradition. Ces peintures, créées sur des milliers d'années par des artistes successifs, montrent les Quinkin dans des compositions complexes incluant des animaux, des humains, et des esprits. Les peintures les plus récentes intègrent des éléments post-contact (chevaux, fusils européens) aux côtés des figures de Quinkin traditionnelles.
+
+## POUR ALLER PLUS LOIN
+
+Les Quinkin illustrent la conception de l'art rupestre comme présence réelle plutôt que simple représentation. Dans la tradition du Cape York, ces peintures ne montrent pas des Quinkin — elles sont des Quinkin, fixés dans la roche par des gestes rituels ancestraux. Cette cosmologie de l'art comme demeure de l'esprit transforme chaque visite d'un site rupestre en visite chez quelqu'un. Les touristes qui voient "de l'art" et les gardiens traditionnels qui visitent "leurs parents" regardent les mêmes images avec des ontologies radicalement différentes.

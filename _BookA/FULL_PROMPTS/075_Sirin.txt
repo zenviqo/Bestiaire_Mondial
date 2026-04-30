@@ -1,0 +1,137 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Sirin
+  Tradition : Slave
+═══════════════════════════════════════════════
+
+
+# SIRIN
+
+## SIGNIFICATION DU NOM
+
+*Sirin* vient du grec *Seirên* (Sirène) via les textes byzantins et ecclésiastiques qui ont transmis la figure aux Slaves médiévaux. La Sirène grecque — oiseau à tête de femme qui tue par son chant — a été absorbée dans la culture slave et reconfigurée. La Sirin russe partage l'oiseau-femme et la voix extraordinaire mais sa nature est transformée par rapport à la Sirène antique.
+
+## ORIGINE
+
+La Sirin est attestée dans les textes ecclésiastiques russes et dans les arts décoratifs russes depuis le XIIe siècle. Elle est clairement d'origine byzantine — importée avec les textes grecs et les arts. Mais elle a été profondément reconfigurée dans la tradition slave : là où la Sirène grecque est purement mortelle et maléfique, la Sirin russe est ambivalente — son chant est paradisiaque et fatal à la fois, mais elle n'est pas intentionnellement tueuse.
+
+## NATURE
+
+La Sirin est un oiseau du paradis — elle vient des rives de l'Éden, chante les chants des anges. Mais son chant est trop beau pour les mortels — ceux qui l'entendent perdent conscience ou meurent de bonheur. Elle ne cherche pas à tuer — son chant cause la mort comme effet secondaire de sa beauté insupportable. Elle est la souffrance de la perfection inaccessible.
+
+## HABITAT
+
+L'île de Buyan, le paradis, l'Éden — des lieux aux confins du monde. Comme le Gamayun, elle n'existe pas dans le monde humain ordinaire. Elle y entre parfois, attirée par un lieu particulièrement beau ou par un appel, et son passage est mortel pour les humains qui l'entendent sans protection.
+
+## DESCRIPTION
+
+Corps d'oiseau — grand, plumes sombres ou multicolores selon les versions. Tête et poitrine de femme d'une beauté exceptionnelle. Sa bouche est toujours légèrement ouverte — elle chante toujours. Dans les représentations les plus anciennes : pas d'yeux visibles, ou yeux d'une luminosité excessive — sa vision est dirigée vers un autre monde. Dans les Lubok : souvent représentée avec une couronne.
+
+## POUVOIRS
+
+- Chant d'une beauté insurpassable — les mortels qui l'entendent tombent inconscients ou meurent de joie
+- Connexion au paradis — elle transporte des chants angéliques dans le monde
+- Certaines traditions : elle prédit les heureux événements (contraste avec le Gamayun qui prédit les catastrophes)
+- Son passage produit des effets physiques — paralysie, extase, mort
+
+## FAIBLESSES
+
+- Elle peut être protégée contre par le bruit intense — tambours, cloches — qui noie son chant
+- Ignorer son chant délibérément — mais cela demande une volonté surhumaine
+- Les prières et les formules religieuses la tiennent à distance
+
+## COMPORTEMENT
+
+La Sirin n'interagit pas avec les humains — elle chante, passe, et les effets suivent. Elle n'est pas consciente de causer la mort — ou elle s'en soucie peu. Sa fonction est d'exister dans sa beauté. Les humains qui meurent en l'entendant ne sont pas ses victimes au sens intentionnel — ils sont les victimes de leur propre incapacité à supporter la perfection.
+
+## RÉCITS TRADITIONNELS
+
+Lubok russe populaire (XVIIe-XVIIIe siècles) : une inscription standard accompagne les représentations de la Sirin — « Dans les mers indiennes et sur les terres d'Éden vit l'oiseau Sirin. Son chant est si doux que celui qui l'entend oublie tout dans ce monde ». Ce texte est quasi-standardisé à travers des dizaines de Lubok.
+
+Récit de conte russe : des marins entendent un chant depuis une île. Le capitaine les prévient — c'est la Sirin — et fait battre des tambours. Ceux qui écoutent malgré les tambours s'arrêtent et ne peuvent plus bouger. Les autres rament plus fort. L'île disparaît dans les brumes.
+
+## VARIANTES RÉGIONALES
+
+*Alkonost* russe : la troisième figure de la triade avec Gamayun et Sirin. L'Alkonost est l'oiseau de la joie et de l'oubli heureux — son rapport avec la Sirin est complémentaire. Dans la tradition populaire russe : Sirin = tristesse, Alkonost = joie, Gamayun = prophétie. *Fénix* dans certaines traditions slaves : parfois confondu avec la Sirin dans les zones de contact entre traditions différentes.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Sirin est devenue une icône de l'art symboliste russe — Viktor Vasnetsov et Ivan Bilibin ont tous deux représenté la Sirin avec Alkonost dans des compositions célèbres. Ces représentations ont fixé une esthétique art-nouveau pour la figure — colorée, ornée, mélancolique. La Sirin moderne est souvent sentimentalisée et dépouillée de sa dimension mortelle. La Sirin médiévale est plus sombre : sa beauté est littéralement fatale.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les Lubok russes constituent la principale iconographie populaire de la Sirin — souvent accompagnés de textes explicatifs. Les décorations sur bois et métal de l'art populaire russe incluent des figures de Sirin dans des contextes de protection et de bonne fortune. Les peintures de Vasnetsov (*Sirin et Alkonost*, 1896) et de Bilibin sont les œuvres les plus connues.
+
+## POUR ALLER PLUS LOIN
+
+- Viktor Vasnetsov, *Sirin et Alkonost* (1896) — peinture symboliste
+- Ivan Bilibin, illustrations de contes russes (début XXe siècle)
+- Boris Rybakov, *Yazychestvo drevnikh slavian* (1981)
+- Elizabeth Warner, *Russian Myths* (2002)

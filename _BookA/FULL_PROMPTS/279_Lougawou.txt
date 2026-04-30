@@ -1,0 +1,181 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Lougawou
+  Tradition : Afro Americain Syncretique
+═══════════════════════════════════════════════
+
+
+# LOUGAWOU
+
+## SIGNIFICATION DU NOM
+
+Le mot *lougawou* est la créolisation haïtienne du français *loup-garou*, lui-même formé d'un redoublement médiéval — *loup* augmenté du germanique *garou*, qui signifiait déjà *homme-loup*. Le français a transmis le terme aux populations transportées dans la Caraïbe, où il fut entendu, retenu, transformé phonétiquement, puis chargé d'un contenu radicalement différent.
+
+Le *lougawou* haïtien n'est presque jamais un homme-loup. Le loup, animal absent des forêts insulaires, n'a pas survécu dans l'imaginaire local — seul le mot a passé. Il s'est appliqué à une figure préexistante venue d'Afrique, le sorcier-mangeur d'enfants capable de quitter sa peau, qui a accueilli sous le nom français un contenu africain : la sorcière-vampire, le sorcier dévorateur, l'être de la nuit qui se déplace en boule de feu.
+
+Dans certaines régions on dit aussi *lougarou* ou simplement *loup-garou*, et la prononciation rurale tend vers *lougawou* avec un *w* prononcé proche de l'anglais. Le mot a une force d'accusation : appeler quelqu'un *lougawou* en public revient à le désigner comme sorcier criminel, et les conséquences peuvent être très graves dans les communautés rurales.
+
+## ORIGINE
+
+Le lougawou est issu de la rencontre, sur la terre haïtienne, de deux traditions distinctes. La première est l'ensemble des croyances ouest-africaines concernant les *aje*, *dòkò*, *bocor* et autres figures du sorcier-mangeur, capable de quitter son corps endormi pour partir sous forme animale, lumineuse, ou invisible, dévorer les âmes des enfants. La seconde est la croyance européenne au loup-garou, transformé périodiquement en bête, transmise par les colons français.
+
+De cette superposition est née une figure unique. Le lougawou n'est pas un homme contaminé par une malédiction lupine — il est un sorcier *volontaire*, qui a appris auprès d'un maître les pratiques permettant de sortir de sa peau et de voler la nuit pour se nourrir des vivants. La transformation est une technique apprise, non une infection.
+
+## NATURE
+
+Le lougawou est *un humain*. Le jour, il vit comme tout le monde, dans son village, dans sa case, à son travail. Il salue ses voisins, élève ses enfants, va au marché. Rien ne le distingue extérieurement. Cette dimension humaine ordinaire est essentielle à sa nature : il n'est pas une créature monstrueuse à part, mais un être social qui dissimule, derrière sa façade quotidienne, une activité criminelle nocturne.
+
+La nuit venue, le lougawou *quitte sa peau*. Il se dépouille de son enveloppe corporelle comme on retire un vêtement, la cache dans un endroit sûr — sous un pilon, dans un mortier, derrière une jarre — et part dans le ciel sous une autre forme : boule de feu, oiseau de nuit, vapeur lumineuse, ou simple invisible.
+
+Sa nature est donc *duale* : sorcier humain de jour, esprit prédateur de nuit. Cette dualité crée la peur fondamentale qu'il inspire — n'importe qui pourrait être un lougawou, et la communauté ne le sait pas.
+
+## HABITAT
+
+Le lougawou vit dans les villages ruraux d'Haïti, mais aussi dans les quartiers populaires des villes. Il s'installe préférentiellement dans les communautés où la solidarité familiale est faible ou tendue, où les vieilles femmes solitaires ne sont pas protégées par des fils nombreux, où les jaloux peuvent agir sans représailles immédiates. Beaucoup de récits le situent dans les zones de plantation, héritage des temps coloniaux.
+
+Sa zone de chasse est la *nuit du voisinage*. Le lougawou ne voyage pas loin. Il vole d'une case à l'autre, d'une cour à la suivante, à la recherche d'enfants laissés sans protection. Il préfère les nouveau-nés et les petits, dont l'âme est encore légère, facile à extraire et à boire.
+
+## DESCRIPTION
+
+Sous sa forme humaine, le lougawou est indiscernable. Mais certains signes peuvent trahir sa nature à qui sait regarder : un regard qui glisse, des yeux légèrement injectés au matin, une fatigue inexpliquée, une présence trop fréquente près des berceaux, un don étrange pour deviner les grossesses cachées.
+
+Sous sa forme nocturne, il apparaît comme une boule de feu volante. Cette boule, appelée parfois *boul difé*, traverse le ciel en silence ou avec un léger crépitement. Elle peut changer de taille, parfois grosse comme une orange, parfois grande comme une calebasse. Sa lumière n'est pas chaude ; elle ne brûle pas ce qu'elle effleure, elle pèse seulement comme une présence.
+
+D'autres descriptions le voient comme un oiseau de nuit aux yeux brillants, comme une vieille femme volant les jupes ouvertes, comme une silhouette transparente qui passe à travers les murs. Toutes ces formes sont également attestées et coexistent dans la tradition.
+
+## POUVOIRS
+
+La *séparation de la peau* est son pouvoir technique fondamental. Le lougawou récite des formules apprises de son maître, frotte certaines feuilles sur sa peau, et celle-ci se détache. Il sort par la bouche ou par le sommet du crâne et part voler. À l'aube il revient, retrouve sa peau cachée, et la remet — opération inverse également pratiquée par des formules.
+
+La *consommation de l'âme* constitue son crime principal. Le lougawou ne mange pas la chair des enfants, contrairement à ce que certaines descriptions suggèrent. Il aspire leur *gwo bonnanj* — la part vitale, l'âme principale — par les pores, par la respiration, à distance. L'enfant ne saigne pas, ne porte aucune blessure visible, mais s'affaiblit, blêmit, se dessèche, et meurt en quelques jours.
+
+L'*invisibilité partielle* lui permet d'entrer dans les cases sans être vu. Il passe à travers les chaumes, par les interstices des planches, par les fenêtres entrouvertes.
+
+L'*identification d'enfants vulnérables* est son don. Il sent les nouveau-nés non protégés, les enfants malades, les âmes faibles. La rumeur affirme qu'il sent aussi les femmes enceintes très tôt, dès les premières semaines, avant même que la mère ne se sache porteuse.
+
+## FAIBLESSES
+
+La peau cachée constitue la grande faiblesse du lougawou. Si on découvre où elle est cachée et qu'on la frotte de sel et de piment, le lougawou ne pourra plus la remettre. À l'aube il errera nu, brûlé par la lumière, et soit il mourra, soit il sera reconnu et lapidé par la communauté.
+
+Certains gestes domestiques tiennent les lougawou à distance. Une bible ouverte sous le berceau, surtout au psaume 91. Une croix de cendre dessinée sur le front de l'enfant. Des graines de moutarde répandues sur le seuil — le lougawou est obligé de les compter une à une, ce qui le retient jusqu'au jour. Un couteau planté lame ouverte sous le matelas.
+
+Les feuilles de *zorye* (oranger amer), les feuilles de *bwa pini*, certaines plantes du jardin protecteur du houngan, posées en bouquet à la porte, repoussent également le lougawou.
+
+Enfin, accuser nommément un sorcier suspect, devant témoins, est traditionnellement considéré comme une protection — le lougawou démasqué perd ses pouvoirs. Mais cette mesure est dangereuse : la fausse accusation peut causer la mort d'un innocent.
+
+## COMPORTEMENT
+
+Le lougawou agit de nuit, jamais avant que la dernière lampe de la maison cible ne soit éteinte. Il rôde, observe, attend que l'enfant soit seul ou que la mère se soit endormie profondément. Sa patience est grande — un lougawou peut visiter la même case plusieurs nuits sans frapper, attendant l'occasion parfaite.
+
+Il vit en *réseau silencieux* avec d'autres sorciers de sa sorte. Les lougawou se reconnaissent entre eux dans le village, partagent des informations sur les naissances, organisent parfois des rencontres dans des lieux écartés où ils pratiquent ensemble certaines techniques. Cette dimension sociale du lougawou — qui n'est pas un solitaire mais un membre d'une confrérie noire — est attestée dans nombre de récits.
+
+Il craint la lumière du jour. Si une visite nocturne est interrompue par le coq, le lougawou doit fuir précipitamment, parfois sans pouvoir rejoindre sa peau à temps.
+
+## RÉCITS TRADITIONNELS
+
+Une histoire célèbre, racontée dans plusieurs régions d'Haïti avec des variantes, décrit un mari qui découvrait sa femme absente du lit chaque nuit. Inquiet, il fait semblant de dormir, observe, et la voit se lever, frotter ses bras d'une feuille, et partir dans la nuit transformée en oiseau lumineux. Le lendemain elle revient à l'aube, toute pâle. Le mari, désespéré, consulte un houngan qui lui apprend la pratique du sel et du piment. La nuit suivante, après le départ de sa femme, il trouve la peau cachée derrière le mortier. Il la frotte. Au matin la femme rentre, tente de remettre sa peau, hurle, brûle, devient un cadavre desséché. Les voisins comprennent qu'elle était lougawou.
+
+Une autre histoire raconte la vigilance d'une grand-mère qui dormait avec son petit-fils nouveau-né. Trois nuits de suite elle vit une boule de feu rôder autour de la fenêtre. La quatrième nuit elle posa une bible ouverte sous le berceau et un couteau lame ouverte sur le seuil. La boule de feu s'approcha, recula brutalement, frappa le sol, et un cri humain retentit dans la cour. Au matin une voisine fut trouvée morte sur le chemin, la peau brûlée comme par une lame.
+
+Une troisième tradition rapporte des cas de lougawou capturés vivants, quand leur peau a été détruite avant qu'ils ne puissent la remettre. Ces sorciers nus, errants, suppliants au matin, étaient autrefois lapidés ou brûlés. Aujourd'hui, ils sont parfois confiés à un houngan qui peut tenter de leur retirer leur don, ou bien laissés mourir d'épuisement.
+
+## VARIANTES RÉGIONALES
+
+En République dominicaine, le terme se prononce *lugaru* et désigne une figure très proche, parfois plus proche du loup-garou européen — un homme qui se transforme physiquement en bête lors des nuits sans lune. Mais le contenu africain transparaît également : il y a des récits de *lugaru* qui mangent les âmes plutôt que la chair.
+
+En Guadeloupe et en Martinique, on trouve une figure appelée *volant* qui partage la plupart des traits du lougawou haïtien — sortie de peau, vol nocturne en boule de feu, consommation des nouveau-nés. Le mot *volant* souligne la capacité de vol, qui est centrale.
+
+En Trinité-et-Tobago, le *soucouyant* (qui possède sa propre entrée distincte dans le bestiaire) constitue une figure très proche, avec des techniques de défense identiques (sel, piment, graines à compter). Les anthropologues considèrent généralement ces figures comme variantes régionales d'une même tradition.
+
+À Cuba, dans certaines zones rurales de l'est, on trouve une figure appelée *bruja vampira* qui n'a pas reçu de mot créole spécifique mais qui répond aux mêmes traits.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le mot *loup-garou* dans la fiction populaire occidentale évoque presque exclusivement la transformation lunaire en bête lupine. Cette association ne vaut pas pour le lougawou haïtien, qui n'est pas un homme-loup au sens européen.
+
+Le lougawou ne se transforme pas physiquement en animal poilu. Il quitte sa peau et part sous forme volante immatérielle ou semi-matérielle. La forme animale, quand elle apparaît, est souvent celle d'un oiseau de nuit, jamais celle d'un loup.
+
+Il n'est pas mordu par un autre lougawou, pas contaminé par malédiction. Il a *appris* la pratique. C'est un sorcier criminel, non une victime d'une infection.
+
+Il ne souffre pas durant sa transformation. Il ne hurle pas à la lune. La pleine lune n'a pas de fonction particulière pour lui ; il sort toutes les nuits.
+
+Sa victime principale est l'enfant nouveau-né, non l'homme adulte courant en forêt.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les drapos Vodou — étendards de tissu rebrodé de paillettes utilisés dans les cérémonies — ne représentent que rarement le lougawou directement, car il s'agit d'une figure de mal social plutôt que d'un esprit invoquable. On trouve plus volontiers des représentations protectrices : Saint Michel terrassant le démon, qui est lu en filigrane comme la victoire sur le sorcier nocturne ; ou bien des compositions illustrant les pratiques défensives — bible, sel, piment, croix de cendre.
+
+Dans la peinture haïtienne populaire du vingtième siècle, le lougawou apparaît parfois comme boule de feu volante au-dessus des cases, ou comme silhouette féminine décharnée fuyant l'aube. Ces représentations puisent à la même tradition orale qui nourrit les récits.
+
+## POUR ALLER PLUS LOIN
+
+Le lougawou est l'une des figures les plus durables du folklore haïtien. Sa fonction sociale dépasse la peur du surnaturel : il sert à expliquer les morts subites de nourrissons, les maladies inexpliquées, les conflits de voisinage non résolus. Le sorcier accusé — souvent une vieille femme isolée, une voisine impopulaire, une rivale jalouse — devient le réceptacle des angoisses collectives.
+
+Dans les cérémonies Vodou, les pratiques anti-lougawou ne relèvent pas du Vodou rituel proprement dit, mais d'une magie domestique parallèle, transmise par les grand-mères et les houngans de quartier. Cette zone grise entre Vodou rituel et magie familiale est le terrain naturel du lougawou.

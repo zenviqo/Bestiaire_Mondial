@@ -1,0 +1,199 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Apu
+  Tradition : Inca
+═══════════════════════════════════════════════
+
+
+# APU
+
+## SIGNIFICATION DU NOM
+
+Le mot *apu* en quechua signifie litteralement *seigneur*, *maitre*, *grand personnage*. C'etait egalement un titre administratif et militaire de l'epoque inca, designant un haut fonctionnaire ou un chef de region. Le glissement entre le sens politique et le sens religieux est ici central : un *apu* est une *autorite*, qu'elle s'exerce sur des hommes ou sur un territoire spirituel.
+
+Applique aux montagnes, le terme designe une categorie d'etres tutelaires consideres comme seigneurs des sommets, exercant juridiction sur l'espace, le climat, la fertilite, le destin des communautes situees a leur pied. La hierarchie politique humaine et la hierarchie spirituelle des sommets se reflechissent l'une l'autre : les apus du paysage sont les seigneurs invisibles, comme les apus humains etaient les seigneurs visibles.
+
+Le terme est utilise pan-andinement avec des nuances regionales. Il recouvre largement le concept que d'autres traditions designent par *wamani* (Ayacucho, Huancavelica) ou *achachila* (aymara). Les distinctions techniques entre ces termes varient selon les ethnographies, mais l'idee centrale d'une presence-seigneur attachee a un sommet specifique reste partagee.
+
+## ORIGINE
+
+Les apus ne sont pas conçus comme issus d'une genealogie unique. Chaque grand sommet andin abrite ou *est* un apu, present depuis le commencement du monde, co-extensif a la geographie elle-meme.
+
+Certains recits locaux racontent neanmoins des episodes d'origine pour des apus particuliers. Le grand apu Salqantay, le grand apu Ausangate, le grand apu Pariacaca dans les traditions centrales — chacun a parfois sa biographie : un combat avec un autre apu pour la possession d'un territoire, une transformation depuis une forme humaine ancienne, un episode ou il a fixe la frontiere entre deux peuples.
+
+Une croyance largement partagee veut que les apus aient ete actifs et mobiles aux temps anciens. Ils marchaient, parlaient, se battaient les uns contre les autres pour les sources, les femmes, les terres. A un moment du temps cosmique, ils se sont *fixes* dans la position qu'ils occupent aujourd'hui — chaque montagne devenant ainsi le corps petrifie d'un combattant ou d'un voyageur de l'age ancien.
+
+## NATURE
+
+L'apu est un *etre-seigneur de territoire*. Son pouvoir n'est pas universel mais defini geographiquement. Chaque apu a sa juridiction propre : la montagne et les terres immediatement situees a son pied. Au-dela, son pouvoir cesse et celui de l'apu voisin commence.
+
+Il est *hierarchise*. Tous les apus ne se valent pas. Les grands sommets visibles sur des centaines de kilometres — Salqantay, Ausangate, Illimani, Sajama, Misti — sont des apus majeurs auxquels les apus mineurs des collines secondaires sont en quelque sorte subordonnes. Cette hierarchie spirituelle reflete la hierarchie geographique : plus la montagne est haute et visible, plus son apu est puissant.
+
+Il est *responsable du climat local*. Les pluies, les neiges, les orages, les vents qui affectent une vallee donnee dependent de l'humeur de l'apu qui domine cette vallee. Cette responsabilite climatique fait de lui un acteur immediat de la vie agricole et pastorale.
+
+Il est enfin *contractant rituel*. Sa relation avec les communautes humaines est conçue sur un mode de reciprocite. Il donne — eau, fertilite, protection — en echange de quoi il recoit — offrandes, paroles respectueuses, observance des protocoles. La rupture du contrat de part et d'autre entraine consequences.
+
+## HABITAT
+
+L'apu habite sa montagne, en surface et a l'interieur. La cime visible — neige eternelle, glaciers, parois rocheuses inaccessibles — est sa face publique. Mais l'essentiel de sa demeure est interieur : palais cristallins, salles ornees d'or, troupeaux invisibles paissant dans des paturages eclaires d'une lumiere propre.
+
+L'entree de cette demeure interieure se fait par des bouches specifiques : grottes connues, fissures sous des cascades, cavites peu profondes au flanc de la montagne. Ces lieux d'acces sont reconnus par les communautes locales et constituent les points devant lesquels se deposent les offrandes principales.
+
+Certains apus possedent egalement des *residences secondaires* — sources, lacs glaciaires d'altitude, cols rocheux remarquables — ou ils se manifestent occasionnellement et qui sont egalement traites avec respect rituel.
+
+Le territoire d'un grand apu inclut l'ensemble du bassin versant qu'il domine. Les eaux qui descendent de ses pentes lui appartiennent, et leur usage par les communautes est conçu comme un don gracieusement consenti, jamais comme un droit acquis.
+
+## DESCRIPTION
+
+L'apu se manifeste sous des formes variables selon les recits. Il prend rarement une apparence physique stable que tous pourraient observer simultanement : ses manifestations sont generalement personnelles, revelees a un individu dans un moment particulier.
+
+Lorsqu'il prend forme humaine — lors des rencontres directes avec des bergers, voyageurs, mineurs — il apparait souvent comme un homme noble, grand de stature, vetu d'un poncho riche aux couleurs vives. Certaines traditions privilegient une apparence syncretique mariant elements precolombiens et coloniaux : un seigneur a la fois inca et hispanique, monte parfois sur un cheval blanc, portant des attributs des deux epoques.
+
+Sous forme animale, il se manifeste preferentiellement comme grand condor planant longuement au-dessus de son territoire, comme taureau noir surgissant inopinement sur un col, comme aigle des paramos, parfois comme jaguar dans les versions des regions plus orientales en bordure d'Amazonie.
+
+Sa voix est une voix souterraine, un grondement sourd venu de l'interieur de la montagne, ou un sifflement profond porte par les vents d'altitude. Les bruits inexplicables des hauts plateaux — craquements glaciaires, eboulements lointains, hurlements du vent dans les cols — lui sont attribues.
+
+## POUVOIRS
+
+La *maitrise meteorologique locale* est son pouvoir le plus visible. Pluie, grele, gel, brouillard, eclaircies — tout cela depend de son humeur. Une secheresse prolongee dans une vallee est lue comme un mecontentement de l'apu dominant ; une saison particulierement clemente comme un signe de satisfaction.
+
+Le *controle des eaux* lui appartient. Sources, ruisseaux, lacs glaciaires sont sous sa juridiction directe. Il peut tarir une source pour punir, en faire jaillir une nouvelle pour benir, modifier le debit des canaux d'irrigation selon des criteres rituels.
+
+L'*influence sur la fertilite* couvre les champs cultives, les troupeaux domestiques, parfois la fecondite humaine elle-meme. Une recolte exceptionnelle, une multiplication remarquable des lamas, une naissance attendue de longue date sont attribuees a l'apu propice.
+
+La *protection territoriale* contre les dangers exterieurs — sortileges venus d'ailleurs, calamites errantes, ennemis humains — fait partie de son office tutelaire. Une vallee bien gardee par son apu est consideree comme intrinsequement plus sure que l'espace ouvert au-dela des bornes.
+
+L'*absorption des ames* est plus inquietante. Les voyageurs disparus en montagne, les morts non enterres correctement, les ames egarees sont consideres comme retenus a l'interieur de l'apu, dans ses chambres souterraines, ou ils servent ou attendent une liberation eventuelle.
+
+## FAIBLESSES
+
+L'apu n'a pas de faiblesse au sens d'un dispositif susceptible de l'eliminer. Sa relation avec les humains est entierement contractuelle.
+
+Il peut etre *negocie* par offrandes appropriees. Le rituel central est le *despacho* ou *pago a la tierra* — agencement minutieux d'elements (feuilles de coca, graisse de lama, vin, semences, mullu de coquillage spondyle, fragments de metaux, parfois un fœtus de lama seche) compose puis brule ou enterre devant l'entree de la montagne ou a un point reconnu de son territoire.
+
+Il peut etre *offense*. La profanation, l'omission rituelle, la parole irrespectueuse, la convoitise non avouee de ses biens (mineraux, eaux, betes sauvages) entrainent sa colere. La maladie, l'accident en montagne, l'echec inexplique, la perte de troupeau sont les formes ordinaires de sa retorsion.
+
+Il peut entrer en *conflit avec un autre apu* plus puissant. Les recits des combats nocturnes entre apus voisins — manifestes par des orages, des eclairs entre les sommets, des chutes de pierres — racontent ces rivalites. Les communautes des deux versants prennent traditionnellement parti pour leur apu et lui prodiguent offrandes pour qu'il l'emporte.
+
+## COMPORTEMENT
+
+L'apu manifeste un comportement *territorial*. Il ne quitte pas sa montagne sauf en de rares circonstances narratives. Il connait ses limites, ses bornes, ses voisins, ses fideles humains.
+
+Il est *attentif aux paroles*. Une parole prononcee a haute voix sur son territoire — promesse, vœu, blaspheme, vantardise — est entendue et retenue. Les voyageurs experimentes savent qu'il faut parler avec mesure dans les hauts cols, ne jamais nommer son nom a la legere, ne jamais se vanter, ne jamais maudire.
+
+Il est *attentif aux dons*. La feuille de coca laissee sur une apacheta — petit cairn de pierres aux passages d'altitude — est une offrande qu'il enregistre. Le voyageur qui passe sans rien laisser est note comme passant impoli et peut etre rappele a l'ordre par un incident sur la suite de sa route.
+
+Il est *capricieux mais juste*. Sa colere, lorsqu'elle s'abat, repond toujours selon les traditions a une infraction reelle, meme si l'auteur ne s'en souvient pas. Sa bienveillance recompense le respect prolonge sur plusieurs generations d'une communaute.
+
+## RECITS TRADITIONNELS
+
+Le grand apu Pariacaca, dans les traditions de Huarochiri preservees au manuscrit du dix-septieme siecle, est l'un des apus dont les recits sont le mieux conserves. Plusieurs episodes racontent ses combats contre l'apu Huallallo Carhuincho pour la possession du territoire. Pariacaca, naissant de cinq œufs, devient cinq freres puissants qui ensemble vainquent leur adversaire et fixent l'ordre territorial des hautes vallees.
+
+Un cycle largement repandu dans les regions cusqueniennes raconte un berger qui s'endort pres d'une grotte sur le flanc de l'apu tutelaire. Pendant son sommeil, il est conduit par un seigneur richement vetu dans un palais interieur ou des troupeaux innombrables paissent dans des paturages eclaires d'une lumiere propre. Le seigneur lui propose de rester. Le berger, averti par une voix interieure, refuse de manger : car ceux qui mangent dans le palais de l'apu n'en reviennent pas sous leur forme humaine. Lorsqu'il se reveille, des annees ont parfois passe au monde exterieur alors qu'il croyait n'avoir dormi qu'une nuit.
+
+Un autre cycle concerne les rivalites entre apus voisins. Les combats nocturnes des sommets — Salqantay contre Veronica, Ausangate contre ses voisins — sont attestes dans les traditions locales et continuent d'etre racontes dans les communautes contemporaines. Ces combats fondent parfois des rivalites territoriales reelles entre villages des deux versants.
+
+## VARIANTES REGIONALES
+
+Dans la region de Cusco et le Vilcanota, les grands apus sont nommement identifies et hierarchises. Salqantay, Ausangate, Vilcanota, Pachatusan figurent parmi les plus puissants. Chaque communaute reconnait son apu propre, parfois doublé d'un apu mineur secondaire pour les paturages d'altitude.
+
+Dans les regions de Junin et Ayacucho, le terme *wamani* est plus frequent que *apu*, avec des nuances locales que les ethnographes ont longuement debattues sans aboutir a une distinction definitive.
+
+Dans le monde aymara du lac Titicaca et de l'altiplano bolivien, le concept equivalent est *achachila*, mot qui signifie litteralement *grand-pere* ou *aieul*. Cette nuance souligne le rapport genealogique entre l'apu et les humains : la montagne n'est pas seulement seigneur, elle est aieule.
+
+Dans certaines regions du nord peruvien, des entites comparables sont nommees *jirca*, *aukillo*, *taita orko*, partageant les memes fonctions tutelaires sous d'autres designations linguistiques.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'industrie touristique contemporaine reduit frequemment les apus a une simple "deite des montagnes" interchangeable, generalement presentee comme objet d'un culte massivement pratique encore aujourd'hui par "les peuples andins". Cette image est partiellement vraie, partiellement deformante.
+
+L'apu n'est pas un dieu cosmique au sens occidental. Il est une entite *territorialement bornee*, attachee a un sommet specifique, reconnue par une communaute specifique. Un voyageur qui passe sans relation prealable n'est pas suppose lui rendre culte — au mieux il salue avec quelques feuilles de coca pour eviter les ennuis.
+
+Les pratiques touristiques de "ceremonies a l'apu" proposees aux visiteurs occidentaux a Cusco et autour du Machu Picchu sont generalement des adaptations folklorisees, parfois realisees par des praticiens authentiques, parfois mises en scene pour le marche touristique. La distinction entre les deux n'est pas toujours evidente.
+
+L'idee qu'il faudrait gravir un sommet andin pour "communiquer avec son apu" est un contresens. Les traditions consideraient au contraire la cime elle-meme comme inviolable. C'est en bas, aux apachetas des cols, aux entrees de grottes, aux sources et aux lacs glaciaires inferieurs, qu'on adressait les offrandes.
+
+L'identification rapide entre apu et "Pachamama" dans la litterature de vulgarisation est egalement problematique. Pachamama designe la terre nourriciere globale ; les apus designent les entites masculines specifiques des sommets. Les deux sont distincts dans les categorisations traditionnelles.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les representations directes des apus dans l'art prehispanique sont principalement indirectes : les sommets sont stylises sur les ceramiques, tissages, gravures lithiques, mais l'apu en tant que personnage est rarement figure isolement.
+
+Les manuscrits coloniaux du dix-septieme siecle, notamment Guaman Poma, representent des scenes de culte aux montagnes ou les apus apparaissent par leurs offrandes plutot que par leur figure propre.
+
+Les peintures cusquenas de la periode coloniale tardive figurent occasionnellement un seigneur des montagnes sous forme humaine, parfois a cheval, dans des compositions syncretiques mariant iconographie chretienne et substrat andin. Le saint Jacques des representations cusquenas hippiques, vainqueur des Maures, glisse parfois vers une figure d'apu monte, appropriation andine d'une iconographie iberique.
+
+Les apachetas et autels rituels d'altitude constituent en eux-memes une iconographie indirecte : par leur disposition, leur orientation vers le sommet tutelaire, leurs offrandes accumulees, ils donnent forme materielle a la presence invisible de l'apu.
+
+## POUR ALLER PLUS LOIN
+
+Le manuscrit de Huarochiri, redige en quechua au tout debut du dix-septieme siecle, demeure le document fondamental pour la comprehension narrative des grands apus du monde central peruvien. Les traites coloniaux d'extirpation des idolatries conservent par leurs descriptions hostiles la liste de centaines d'apus identifies au moment de la conquete.
+
+La litterature ethnographique des hautes terres centrales et meridionales du Perou et de Bolivie conserve d'abondantes attestations du culte aux apus, persistant malgre cinq siecles d'evangelisation. Les rituels de despacho, les invocations de bergers et de mineurs, les recits de rencontres en montagne forment un corpus oral remarquablement vivant.

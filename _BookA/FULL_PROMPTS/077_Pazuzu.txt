@@ -1,0 +1,133 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Pazuzu
+  Tradition : Mesopotamien
+═══════════════════════════════════════════════
+
+
+# PAZUZU
+
+## SIGNIFICATION DU NOM
+
+L'étymologie de *Pazuzu* reste débattue. Certaines lectures rapprochent le nom d'une racine évoquant la laideur ou la difformité. D'autres y voient un nom propre sans étymologie transparente — nom d'un être dont la puissance excède la capacité humaine à le définir par des mots ordinaires. Il est parfois désigné comme *šar Pazuzu*, roi Pazuzu, titre qui souligne son statut dominant parmi les entités de l'air.
+
+## ORIGINE
+
+Pazuzu émerge clairement dans les textes et les représentations à partir du premier millénaire avant notre ère, pendant la période assyrienne et néo-babylonienne. Il est le fils d'*Hanbi*, roi des démons souterrains — filiation qui ancre Pazuzu dans une généalogie démoniaque mais lui confère aussi une légitimité dynastique dans le monde des entités malfaisantes. Sa présence est attestée dans les textes d'exorcisme, les amulettes, les statuettes, et les têtes apotropaïques placées aux entrées des maisons.
+
+## NATURE
+
+Pazuzu est une contradiction vivante : il est un démon, porteur de vents mauvais, de sécheresse, de fièvre et de famine — et pourtant les Mésopotamiens le représentaient et l'invoquaient pour se *protéger* d'entités encore plus dangereuses, notamment la démone *Lamashtu*. Sa nature est celle d'un mal utilisé contre un mal plus grand. Il n'est pas bienveillant — il est simplement rival d'une menace pire, et sa présence fait fuir cette menace.
+
+## HABITAT
+
+Pazuzu règne sur les vents du sud-ouest, vents chauds qui apportent la sécheresse, les tempêtes de sable, les épidémies. Il peuple l'air invisible, circulant entre les régions désertiques et les zones habitées, porteur de maladies qui frappent sans prévenir. On le localise également à la frontière entre le monde des vivants et celui des morts — zone liminaire où sa puissance est maximale.
+
+## DESCRIPTION
+
+Pazuzu réunit des éléments de plusieurs animaux dans une composition destinée à inspirer une terreur immédiate. Son corps est humanoïde mais recouvert d'écailles. Sa tête est celle d'un chien ou d'un lion avec des traits expressifs — gueule ouverte, yeux proéminents, regard fixe. Il possède quatre ailes d'aigle dans le dos. Ses mains se terminent par des serres d'oiseau de proie. Ses jambes d'oiseau se terminent elles aussi par des serres. Sa queue est celle d'un scorpion, recourbée vers le haut.
+
+Son pénis est représenté avec une tête de serpent — détail récurrent dans l'iconographie qui renforce sa dimension sexuelle et dangereuse. Son visage porte une expression caractéristique : bouche ouverte en un sourire ou un cri, yeux exorbités, sourcils froncés — expression qui a traversé les millénaires jusqu'à influencer des représentations de démons bien plus tardives.
+
+## POUVOIRS
+
+Il génère et contrôle les vents mauvais du sud-ouest — vecteurs de maladies, de sécheresse et de tempête. Sa seule présence dans une région peut y apporter ces fléaux.
+
+Son pouvoir paradoxal est apotropaïque : il chasse *Lamashtu*, la démone qui menace les femmes enceintes et les nouveau-nés, car les deux entités sont rivales. Une amulette à l'image de Pazuzu protège donc la mère et l'enfant non par bienveillance de Pazuzu, mais parce que Lamashtu fuit sa présence.
+
+## FAIBLESSES
+
+Pazuzu n'est pas invincible dans les textes — il peut être conjuré et dirigé par les prêtres exorcistes *Ashipu* qui maîtrisent les formules adéquates. Son pouvoir est avant tout lié au domaine des vents et de l'air ; dans les profondeurs aquatiques du dieu *Enki*, sa puissance s'amenuise.
+
+## COMPORTEMENT
+
+Pazuzu ne poursuit pas les humains par vengeance ou par faim — il est une force atmosphérique autant qu'une entité personnelle. Son comportement est celui d'un phénomène naturel doté d'une volonté : il frappe sans prévenir, se retire sans explication, et sa présence se manifeste par des signes physiques (chaleur soudaine, vent brûlant, poussière, épidémie) avant de prendre une forme visible ou invoquée.
+
+## RÉCITS TRADITIONNELS
+
+Les textes rituels babyloniens décrivent Pazuzu comme l'adversaire naturel de Lamashtu. Quand une femme en couches est menacée, le prêtre place une statuette de Pazuzu au chevet du lit ou au seuil de la chambre. La présence de Pazuzu — être que Lamashtu reconnaît et craint — suffit à tenir la démone à distance.
+
+Un texte d'exorcisme le décrit comme *celui qui descend des montagnes comme une tempête et balaie les démons devant lui* — image qui souligne sa nature de force brute dirigeable plutôt que de partenaire bienveillant.
+
+## VARIANTES RÉGIONALES
+
+Les représentations de Pazuzu varient légèrement selon les régions et les époques. Certaines statuettes le montrent avec deux paires d'ailes, d'autres avec quatre. L'expression du visage varie de la grimace ouverte au faciès plus neutre. Des têtes de Pazuzu seules, sans corps, étaient placées aux fenêtres et aux portes — présence fragmentaire jugée suffisamment puissante pour remplir la fonction protectrice.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire contemporaine connaît Pazuzu principalement par le cinéma d'horreur occidental des années 1970, qui en a fait le démon possesseur par excellence. Cette représentation trahit la réalité mésopotamienne sur deux points essentiels : dans la tradition originale, Pazuzu n'est pas un être de possession, et il n'est pas simplement maléfique — il est un outil de protection contre des menaces pires. Le réduire à un monstre de film d'horreur efface sa complexité fondamentale.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des centaines de statuettes en bronze, en ivoire et en argile représentant Pazuzu ont été retrouvées à travers le Proche-Orient ancien. Plusieurs sont conservées au Louvre, au British Museum et à l'Oriental Institute de Chicago. Les têtes de Pazuzu perforées — destinées à être portées comme amulettes ou suspendues aux portes — constituent la catégorie la plus répandue.
+
+## POUR ALLER PLUS LOIN
+
+Pazuzu illustre parfaitement la logique mésopotamienne de protection par l'adversaire : on utilise un mal contre un mal plus grand. Cette logique imprègne tout le système rituel babylonien d'exorcisme. Les textes *Maqlu* et *Shurpu*, grands recueils d'incantations contre les forces maléfiques, fournissent le contexte intellectuel dans lequel Pazuzu prend tout son sens.

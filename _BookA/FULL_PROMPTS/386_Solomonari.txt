@@ -1,0 +1,210 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Solomonari
+  Tradition : Balkans
+═══════════════════════════════════════════════
+
+
+# SOLOMONARI
+
+## SIGNIFICATION DU NOM
+
+Le mot roumain *solomonar* dérive du nom propre *Solomon*, le roi biblique réputé pour sa sagesse et ses pouvoirs sur les esprits dans toute la tradition orientale médiévale. Cette filiation onomastique reflète une appropriation populaire et tardive : les sorciers carpatiques se sont vus, dans la conscience paysanne et probablement dans leur propre conscience, comme héritiers d'un savoir hermétique attribué symboliquement au sage roi des Écritures.
+
+L'apparenté hongrois *garabonciás*, qui désigne en Transylvanie un type de sorcier très voisin, dérive d'une racine méditerranéenne plus large (*negromante*, *necromanticus*) et témoigne d'une diffusion paneuropéenne du type. Le solomonar et le garabonciás sont fonctionnellement proches : les paysans roumains et hongrois de Transylvanie pouvaient consulter l'un comme l'autre selon les régions et les disponibilités.
+
+Le terme *hultan*, attesté dans certains terroirs valaques, désigne par métonymie un sorcier-chevaucheur, *celui qui monte dans les nuages comme un milan*.
+
+Note de classification : la créature ici décrite est strictement la *figure folklorique du sorcier-classe* des Carpates, telle qu'elle est attestée dans le bestiaire populaire — non un dieu, non un héros individuel, mais un *type d'être surnaturel* habitant le folklore roumain au même titre que les balauri qu'il chevauche.
+
+## ORIGINE
+
+Les solomonari ne naissent pas tels. Ils sont *fabriqués* par une institution surnaturelle nommée la *Școala Solomonarilor* (École des Solomonari), ou *Școala de Solomonărie*, dont l'emplacement varie selon les traditions. Cette école est invariablement décrite comme :
+- *invisible aux yeux ordinaires* — seuls peuvent la trouver ceux qui ont déjà été appelés par elle,
+- *située dans le sein d'une montagne* (selon certaines traditions sous le mont Retezat, sous les Apuseni, sous le mont Ceahlău),
+- *enseignée par un être ancien* dont l'identité varie : tantôt un solomonar plus âgé, tantôt un esprit primordial, tantôt — dans les versions christianisées — un démon que les apprentis défient.
+
+Les apprentis sont enlevés enfants — généralement entre sept et neuf ans — par un solomonar voyageant qui les choisit pour des signes physiques : septième fils, naissance avec coiffe (membrane amniotique), tache de naissance particulière, ou simple intuition du recruteur. Ils disparaissent du village. Sept ans plus tard (selon les traditions, parfois neuf, parfois vingt et un), un seul d'entre eux revient au monde des humains comme solomonar pleinement formé. Les autres sont morts durant l'apprentissage — l'école ne tolère pas l'incompétence.
+
+## NATURE
+
+Le solomonar est un *humain transformé*. Cette caractéristique le distingue des créatures purement surnaturelles du folklore (zanat, samodivi, balauri). Il a été homme, il l'est partiellement encore, mais l'apprentissage a opéré sur lui une mutation qui l'a placé sur le seuil entre humain et autre.
+
+Sa nature est *maîtrise*. Le solomonar maîtrise les éléments — le vent, les nuages, la pluie, la grêle — et les créatures qui les habitent — particulièrement les balauri, dragons des Carpates qu'il chevauche dans les cieux d'orage.
+
+Sa nature est *itinérante*. Le solomonar ne reste pas dans un village. Il erre à travers les montagnes, descend dans les villages aux moments opportuns, exige son tribut, repart. Cette itinérance le distingue radicalement des sorciers villageois sédentaires (*vrăjitor* roumain ordinaire).
+
+Sa nature est enfin *ambivalente*. Il n'est ni purement bienveillant ni purement maléfique. Il rend service quand il est rétribué, nuit quand il est offensé. La tradition paysanne le considère avec une crainte mêlée de respect — on ne lui refuse rien, mais on ne le retient pas longtemps.
+
+## HABITAT
+
+Les solomonari habitent les *hauteurs des Carpates*. Leur école elle-même est dans une montagne, et c'est dans les montagnes qu'ils retournent entre leurs interventions. Ils descendent dans les villages mais ne s'y attardent pas plus que nécessaire.
+
+Lorsqu'ils interviennent sur les cieux d'orage, leur habitat temporaire est *dans les nuages eux-mêmes* — sur le dos de leur balaur, au cœur des cumulonimbus, naviguant à travers les éclairs.
+
+Leurs lieux préférés à terre sont :
+- les *grottes profondes*, particulièrement celles des Apuseni,
+- les *vieux chênes solitaires* sur les crêtes,
+- les *cabanes abandonnées* en haute altitude,
+- les *clairières circulaires* en forêt profonde où ils se reposent entre deux voyages.
+
+## DESCRIPTION
+
+Le solomonar a une apparence reconnaissable mais ambiguë. Il se présente sous forme de *vieil homme barbu en haillons*, vêtu d'une tunique blanche grossière en chanvre, parfois d'un manteau de laine cru, avec une longue barbe blanche emmêlée et des cheveux longs qui tombent sur les épaules.
+
+Il porte sur la tête, parfois de manière voyante, parfois dissimulé, un *bonnet pointu* — détail constant à travers les traditions, qui le distingue des autres mendiants ou voyageurs.
+
+À sa ceinture pend une *hache de bois* (*toporaș*) qui n'est jamais utilisée pour couper, mais sert d'instrument de pouvoir.
+
+Il tient à la main un *grand livre* — le *Livre du Solomonar*, écrit dans une langue inconnue, contenant les formules, les chants et les rituels appris à l'École. Aucun non-initié ne peut le lire ou même le toucher.
+
+Sur son dos, parfois, une besace contient des fioles de potions, des herbes séchées, des morceaux de pierre étrange (météorites ?) qu'il utilise dans ses opérations.
+
+Une caractéristique fréquemment notée : ses *yeux* sont d'un bleu particulièrement intense, presque blancs, et soutenir son regard est difficile.
+
+## POUVOIRS
+
+Le *contrôle des balauri* constitue son pouvoir le plus spectaculaire. Le solomonar capture un balaur jeune par une cérémonie complexe (impliquant chants, jeûnes, formules tirées de son Livre). Il lui passe une *bride magique* (*frâul*) faite de fer forgé et de fil de chanvre béni. Une fois bridé, le balaur devient sa monture obéissante, et le solomonar le chevauche à travers les nuages d'orage.
+
+Le *commandement des éléments atmosphériques* lui permet de provoquer ou de détourner les orages, la grêle, la pluie, la sécheresse. C'est sa fonction sociale principale dans les villages : on le paie pour qu'il fasse pleuvoir sur les champs en sécheresse, ou pour qu'il détourne la grêle qui menace les vignes.
+
+La *lecture du Livre* lui ouvre l'accès à des formules secrètes que nul autre humain ne connaît. Le Livre lui-même est instrument plus que simple support : il agit par sa propre puissance lorsque les pages sont ouvertes au bon moment.
+
+L'*itinérance instantanée* lui permet de parcourir des distances considérables en peu de temps — non par téléportation, mais par une vitesse de marche surnaturelle ou par chevauchée sur le balaur.
+
+La *malédiction durable* est son arme contre ceux qui le trahissent ou refusent l'hospitalité. Un village qui éconduit un solomonar se voit frappé de grêle ou de sécheresse pendant des années.
+
+## FAIBLESSES
+
+Les solomonari ont peu de faiblesses connues. Ils sont eux-mêmes les figures les plus puissantes du bestiaire roumain en termes de maîtrise surnaturelle. Néanmoins :
+
+Le *refus complet de l'hospitalité* par toute une communauté solidaire peut épuiser un solomonar — mais cette solidarité est rarissime, car la peur du solomonar individuel l'emporte presque toujours sur la coordination villageoise.
+
+Le *Livre dérobé ou brûlé* l'affaiblit considérablement. Plusieurs récits mettent en scène un héros qui parvient à voler le Livre d'un solomonar endormi, le réduisant temporairement à un vieil homme ordinaire et sans pouvoir.
+
+Le *prêtre orthodoxe particulièrement saint* peut l'opposer durablement, mais les rapports entre solomonari et clergé orthodoxe sont ambigus — les premiers prétendent souvent une certaine piété, et les seconds tolèrent leur fonction sociale même tout en désapprouvant leur magie.
+
+L'*affrontement avec un autre solomonar* est l'une des rares occasions où l'un d'eux peut être vaincu. Les duels entre solomonari, dans les nuages, sont décrits dans le folklore comme des combats homériques produisant des orages exceptionnels.
+
+## COMPORTEMENT
+
+Le solomonar est *exigeant*. Il arrive au village, demande à manger, à boire, à dormir. Il refuse souvent l'argent en première instance — préférant être nourri, vêtu, hébergé. Si le village s'exécute, il rend service en retour. Si le village rechigne, il fait tomber la grêle sur les champs.
+
+Il est *taciturne*. Le solomonar parle peu. Quand il parle, ses paroles ont du poids — ce sont souvent des avertissements, des prophéties, des conditions à respecter pour obtenir son aide.
+
+Il est *solitaire*. Il voyage généralement seul. Lorsque deux solomonari se rencontrent par hasard sur un chemin, ils s'évitent ou s'affrontent. Aucune fraternité ouverte n'existe entre eux, malgré l'École commune qui les a formés.
+
+Il est *désintéressé matériellement*. Il accumule peu. Ce qu'il reçoit, il le redistribue, le perd, l'oublie. Cette indifférence aux biens lui donne paradoxalement un grand pouvoir social — il ne peut être acheté.
+
+## RÉCITS TRADITIONNELS
+
+Le récit-type de la *grêle détournée* abonde dans le folklore roumain. Un orage approche d'un village. Les paysans voient les nuages noirs s'amonceler. Au moment où la grêle commence à tomber, un solomonar apparaît au sommet de la colline, lève son bâton, prononce ses formules. Les nuages se déplacent latéralement, la grêle tombe sur la forêt voisine et non sur les champs cultivés. Le village rémunère le solomonar avec du pain, du vin, un agneau, parfois un jeune homme désigné pour devenir lui-même apprenti.
+
+Le récit du *village qui refusa* met en scène un village avare ou méfiant qui, voyant un solomonar approcher, ferme ses portes et refuse l'hospitalité. Le solomonar passe son chemin sans rien dire. Quelques semaines plus tard, une grêle exceptionnelle s'abat sur les champs précisément de ce village, ne touchant aucun des villages voisins. Les paysans comprennent trop tard, et le souvenir reste pour les générations suivantes.
+
+Le récit du *Livre volé* met en scène un jeune berger curieux qui voit un solomonar dormir sous un grand chêne. Le berger s'approche en silence, prend le Livre tombé à côté du dormeur, et l'emporte. À son réveil, le solomonar découvre la perte. Il devient un vieil homme ordinaire et sans pouvoir. Le berger, ne sachant pas lire le Livre, le cache sous la pierre du foyer chez lui. Mais le Livre, par sa propre puissance, attire les orages sur la maison du berger. Au bout de quelques mois d'orages calamiteux, le berger comprend qu'il doit rendre le Livre. Il revient à l'endroit où dormait le solomonar et y dépose le Livre. Le solomonar, retrouvé sa puissance, lui pardonne — mais le berger ne dort plus jamais en paix.
+
+Le récit de l'*apprenti choisi* rapporte la disparition d'un enfant de neuf ans dans un village des Apuseni. La famille pleure la perte sans nouvelle. Sept ans plus tard, un solomonar passe par le village. Il s'arrête devant la maison de la famille. C'est l'enfant — devenu solomonar pleinement formé. Il ne reconnaît plus ses parents, ou bien il les reconnaît mais sans aucun attachement. Il leur demande à boire, repart le soir, et n'est plus jamais revu.
+
+## VARIANTES RÉGIONALES
+
+En Transylvanie, le solomonar est particulièrement associé au mont Apuseni, où la tradition place souvent l'École. La figure se confond partiellement avec le hongrois *garabonciás*.
+
+En Moldavie, le solomonar est plus volontiers associé aux montagnes des Carpates orientales, et son lien avec les eaux (capacité de provoquer ou détourner les inondations) est plus marqué.
+
+En Valachie, sous le nom parfois de *hultan*, la figure conserve l'essentiel de ses traits.
+
+Dans le Maramureș, région nord de Roumanie, le solomonar acquiert quelques traits supplémentaires liés aux traditions chamaniques du fond carpatique septentrional — possible héritage des couches anciennes daces ou pré-daces du folklore régional.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le solomonar a inspiré quelques œuvres de fantasy roumaine moderne, mais reste relativement peu connu hors des frontières roumaines. Quelques précisions néanmoins :
+
+- Le solomonar n'est pas un magicien au sens occidental fantasy (style Gandalf ou Merlin). Il n'est pas conseiller des rois ni mentor des héros. Il est une figure rurale, errante, transactionnelle, qui rend service contre rétribution.
+
+- Il n'est pas non plus un sorcier maléfique au sens des contes occidentaux (style Baba Yaga). Sa fonction sociale est principalement utile à la communauté, malgré l'inquiétude qu'il inspire.
+
+- L'idée que le solomonar serait une créature non-humaine au sens d'un monstre relève d'une simplification. Il est *humain transformé* — distinction essentielle qui le place dans la catégorie des sorciers-classe (comme les chamans sibériens, les druides celtes, ou les zduhać serbes), et non dans celle des créatures surnaturelles natives.
+
+- L'association populaire moderne du solomonar avec un démon ou un agent du diable, sous l'influence des sermons chrétiens orthodoxes ultérieurs, méconnaît la complexité de la figure dans le folklore préchrétien sous-jacent. Le solomonar est antérieur au christianisme et y a mal trouvé sa place.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les *fresques de monastères* roumains incluent rarement la figure du solomonar directement — sa nature ambiguë par rapport au christianisme orthodoxe rendait sa représentation iconographique malaisée. Néanmoins, certaines scènes de Jugement dernier des monastères de Bucovine présentent des figures de sorciers et de magiciens identifiés par les commentateurs comme références aux solomonari.
+
+Les *gravures populaires* roumaines du dix-neuvième siècle illustrent occasionnellement les scènes de protection de récoltes par solomonar, dans le cadre des almanachs paysans.
+
+Les *broderies traditionnelles* du Maramureș et de l'Olténie comportent occasionnellement des motifs solaires ou orageux interprétés par les ethnographes comme évocations stylisées de la fonction du solomonar.
+
+## POUR ALLER PLUS LOIN
+
+Le solomonar est attesté dans les recueils de folklore roumain compilés à partir du dix-neuvième siècle. Les compilations folkloriques transylvaines, moldaves et valaques convergent sur l'essentiel des traits, malgré les nuances régionales. Le grand recueil de Tudor Pamfile (*Mitologie românească*, début du vingtième siècle) constitue l'une des sources de référence pour la figure.
+
+La typologie du solomonar se rattache au complexe paneurasien des *sorciers-classe* — figures de spécialistes surnaturels qui forment un groupe défini, formé par initiation, exerçant des pouvoirs météorologiques ou divinatoires au service ou au détriment des communautés humaines. On trouve des analogues fonctionnels chez les *zduhać* serbes, les *garabonciás* hongrois, les *taltos* hongrois plus largement, certains chamans des Balkans préhistoriques, les *molfari* houtsoules des Carpates ukrainiennes voisines. Cette parenté fonctionnelle suggère un fond chamanique ancien commun à tout l'arc carpato-balkanique, dont le solomonar roumain est l'une des survivances les plus complètes documentées par l'ethnographie moderne.

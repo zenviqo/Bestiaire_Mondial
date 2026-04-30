@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Rolling_Calf
+  Tradition : Afro Americain Syncretique
+═══════════════════════════════════════════════
+
+
+# ROLLING CALF
+
+## SIGNIFICATION DU NOM
+
+*Rolling Calf* en anglais jamaïcain signifie "veau roulant" ou "veau errant" — une désignation paradoxale puisque la créature n'est pas vraiment un veau (un jeune bovin) mais le spectre d'un humain transformé. L'élément "calf" (veau) réfère à sa forme animale bovine, et "rolling" désigne son mouvement caractéristique — une créature qui semble rouler ou traîner des chaînes en se déplaçant, ou dont les chaînes traînent et roulent sur le sol. Des versions du nom suggèrent aussi un être dont les yeux "roulent" — s'enflamment dans leurs orbites.
+
+## ORIGINE
+
+Le Rolling Calf est documenté dans la tradition orale jamaïcaine depuis le XVIIIe siècle au moins — un être spécifiquement jamaïcain qui reflète la synthèse de traditions africaines (transformation post-mortem des âmes, animaux surnaturels) et européennes (pactes avec le diable, punitions post-mortem des pécheurs) dans le contexte de l'esclavage et de la société coloniale jamaïcaine. Walter Jekyll (*Jamaican Song and Story*, 1907) est l'une des premières documentations écrites. La figure est liée à des métiers spécifiques — notamment les bouchers et les marchands qui trompaient leurs clients.
+
+## NATURE
+
+Le Rolling Calf est la transformation post-mortem d'une personne qui a vécu de manière particulièrement immorale — typiquement un boucher ou un marchand qui a trompé ses clients, volé des poids, vendu de la viande avariée, ou fait un pacte avec le diable pour la richesse. Après sa mort, son âme ne peut pas reposer — elle est transformée en cette créature pour expier ses péchés ou en raison d'un pacte non honoré. Sa nature est punitive et terrifiante — il erre dans les carrefours et les routes la nuit, attaquant les voyageurs imprudents.
+
+## HABITAT
+
+Le Rolling Calf hante les carrefours, les routes de campagne, et les zones entre les villages en Jamaïque — particulièrement des routes ombragées par de grands arbres. Les carrefours sont des lieux de pouvoir surnaturel dans les traditions africaines subsahariennes (où des esprits et des dieux résident aux intersections des chemins), et cette signification a été maintenue dans la tradition jamaïcaine. La nuit lui appartient entièrement — il disparaît à l'aube. Des zones associées au défunt de son vivant — sa boucherie, sa maison, ses routes de livraison — sont aussi ses territoires.
+
+## DESCRIPTION
+
+Le Rolling Calf est un grand bovin — un taureau ou un veau d'une taille surnaturelle — avec des yeux qui flamboient d'un rouge intense dans l'obscurité. Il porte des chaînes autour du cou ou des pattes — des chaînes de fer qui traînent sur le sol et font un bruit métallique caractéristique qu'on peut entendre à distance dans le silence de la nuit jamaïcaine. Son haleine est pestilentielle, son corps peut émettre une chaleur anormale. Parfois sa gueule crachote des flammes. Dans certaines descriptions, il est semi-transparent — clairement un spectre plutôt qu'un animal réel.
+
+## POUVOIRS
+
+Terreur physique — sa seule apparition provoque une terreur paralysante. Attaque physique — il peut charger et blesser des voyageurs avec ses cornes ou en les renversant. Les chaînes qu'il porte peuvent entortiller des victimes. Ses yeux flamboyants peuvent aveugler temporairement ou hypnotiser. Il peut courir plus vite qu'un cheval ordinaire. Dans des traditions particulières, il peut se transformer en d'autres formes animales — chien, cochon, autre grand animal — mais ses yeux rouges et ses chaînes restent toujours visibles.
+
+## FAIBLESSES
+
+La protection classique contre le Rolling Calf est le couteau de poche — ouvrir la lame d'un couteau et le planter dans le sol face à lui peut l'arrêter ou le dérouter. Jeter du sel peut le repousser. Des formules religieuses — prières chrétiennes, invocations de la Vierge ou de Dieu — le repoussent dans des versions syncrétiques. Des personnes qui courent et se mettent à l'abri avant l'aube sont hors d'atteinte. Des *obeahmen* (praticiens de l'obeah, système magique jamaïcain) peuvent neutraliser un Rolling Calf ou même le commander.
+
+## COMPORTEMENT
+
+Le Rolling Calf sort à la nuit tombée et cherche des voyageurs nocturnes — particulièrement des gens seuls sur des routes de campagne. Il peut être entendu avant d'être vu — le cliquetis de ses chaînes dans le silence. Ses yeux sont visibles à grande distance dans l'obscurité. Il charge sans préavis. Dans des récits où il retrouve des gens associés à ses péchés passés (d'anciens clients trompés, des proches), il peut être particulièrement agressif. Des personnes qui voyagent de nuit en Jamaïque traditionnelle évitent les carrefours et portent des couteaux.
+
+## RÉCITS TRADITIONNELS
+
+Un récit jamaïcain classique (collecté par Jekyll, 1907, et dans de nombreuses versions ultérieures) : un homme voyage la nuit sur une route de campagne. Il entend le cliquetis de chaînes et voit au loin deux lumières rouges approchant — les yeux du Rolling Calf. Il court mais le bruit des chaînes se rapproche. Désespéré, il sort son couteau de poche, l'ouvre, et le plante dans le sol devant lui en criant une prière. Le Rolling Calf s'arrête pile, rugit, et recule avant de disparaître. L'homme attend l'aube avant de reprendre sa route. Dans d'autres récits, le Rolling Calf est identifié comme le spectre d'un boucher décédé connu de la communauté.
+
+## VARIANTES RÉGIONALES
+
+Des spectres bovins existent dans d'autres traditions — la *Black Shuck* anglaise (chien fantôme) est un parallèle fonctionnel. Des fantômes d'animaux en chaînes dans des traditions africaines de l'Ouest. Le *Loup-garou créole* (déjà dans ce bestiaire pour 28_Afro_Americain_Syncretique) est un être de transformation comparable mais d'humain en loup. La spécificité du Rolling Calf est sa connexion explicite à un vice professionnel précis (tromperie des bouchers et marchands) et ses chaînes de fer comme signe distinctif.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Rolling Calf est une figure vivante dans l'imaginaire jamaïcain contemporain — des parents racontent encore des histoires de Rolling Calf aux enfants pour décourager les sorties nocturnes. Des productions musicales jamaïcaines (dans des genres comme le dancehall et le reggae) font référence au Rolling Calf. Des films d'horreur jamaïcains incluent le Rolling Calf. Des études de folklore caribéen (Olive Senior, Maureen Warner-Lewis) documentent la figure en détail.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des illustrations de presse jamaïcaine du début du XXe siècle représentent le Rolling Calf dans des contextes d'histoires d'horreur locales. Des peintures populaires jamaïcaines et des œuvres d'art de la tradition intuitive jamaïcaine (John Dunkley, Samuel Brown dans des contextes comparables) incluent des animaux surnaturels. Des publications illustrées de folklore jamaïcain depuis Jekyll (1907) représentent le Rolling Calf dans des styles graphiques variés.
+
+## POUR ALLER PLUS LOIN
+
+Le Rolling Calf est une creature particulièrement intéressante dans sa connexion à la tromperie commerciale — son origine dans le péché du boucher malhonnête encode une morale économique précise. La tromperie des poids, la vente de viande avariée, la fraude commerciale — ces actes précis ont une punition post-mortem codée dans la créature que le tricheur devient. C'est une régulation sociale par la terreur du surnaturel : si tu triches dans ton commerce, tu deviendras un Rolling Calf, condamné à errer en chaînes et à terroriser les carrefours jamaïcains. La créature est un policier de l'éthique commerciale dans une société où d'autres mécanismes de régulation (contrats, tribunaux accessibles) pouvaient faire défaut.

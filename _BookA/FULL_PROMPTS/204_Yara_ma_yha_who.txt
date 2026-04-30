@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Yara_ma_yha_who
+  Tradition : Aborigene Australien
+═══════════════════════════════════════════════
+
+
+# YARA-MA-YHA-WHO
+
+## SIGNIFICATION DU NOM
+
+*Yara-ma-yha-who* est une translittération anglophone d'un terme aborigène australien — l'étymologie exacte dans la langue originale est partiellement perdue mais le nom désigne spécifiquement cet être particulier plutôt qu'une catégorie générale. Le nom lui-même, par sa longueur et sa répétition de sons, est mémorable et distinctif — ce qui est peut-être intentionnel dans une tradition orale où les noms des êtres dangereux doivent être facilement retenus par les enfants.
+
+## ORIGINE
+
+Le Yara-ma-yha-who est documenté dans les traditions orales des peuples aborigènes du sud-est de l'Australie — principalement en Nouvelle-Galles du Sud et dans des régions de Victoria. Des collectes de folklore aborigène australien au XIXe et XXe siècles ont documenté la figure, notamment dans des travaux sur les traditions orales des peuples Kamilaroi, Wiradjuri, et d'autres nations du sud-est. La figure sert de récit d'avertissement particulièrement efficace pour les enfants — une structure narrative mémorable qui encode des règles de sécurité (ne pas s'endormir sous un arbre inconnu, rester avec les adultes) dans une histoire effrayante.
+
+## NATURE
+
+Le Yara-ma-yha-who est un prédateur peu ordinaire — il ne tue pas sa proie immédiatement mais l'incorpore progressivement à sa propre nature en la dévorant, régurgitant, et répétant ce cycle jusqu'à ce que la victime se transforme elle-même en Yara-ma-yha-who. C'est une créature de transformation progressive plutôt que de mort brutale — ce qui lui donne une dimension particulièrement inquiétante : la victime devient le prédateur. Sa nature n'est pas celle d'un esprit ou d'une entité cosmologique mais d'une créature physique, même si ses capacités dépassent celles des animaux connus.
+
+## HABITAT
+
+Le Yara-ma-yha-who habite les figuiers (*Ficus* sp.) — il se cache dans le feuillage des grands figuiers et attend que des victimes s'assoient à leur ombre ou s'endorment dessous. Des figuiers isolés dans des zones ouvertes, des figuiers particulièrement grands et touffus, et des figuiers proches des points d'eau sont ses habitats de prédilection. La nuit, il peut se déplacer entre les arbres mais le figuier est son ancrage — il y retourne après chaque attaque.
+
+## DESCRIPTION
+
+Le Yara-ma-yha-who est décrit comme un petit être rouge — de la couleur du sang, d'environ un mètre de hauteur, avec une tête disproportionnellement grande. Ses mains et ses pieds sont pourvus de ventouses (comme les ventouses d'une pieuvre ou d'une grenouille) qui lui permettent de s'accrocher à ses victimes et de sucer leur sang. Sa bouche est grande — plus grande qu'un humain ordinaire — lui permettant d'avaler une victime entière. Il n'a pas de dents — ce qui rend l'avalement une déglutition plutôt qu'une morsure. Sa peau rouge vif le distingue immédiatement de tout animal australien connu.
+
+## POUVOIRS
+
+Succion sanguine via les ventouses — il se jette sur sa victime et plaque ses mains et ses pieds ventousés contre la peau, drainant le sang. Avalement entier — après avoir affaibli la victime par la succion sanguine, il avale la victime entière (elle est encore vivante à l'intérieur). Régurgitation — il dort après avoir avalé, puis régurgite la victime vivante mais affaiblie. Répétition jusqu'à transformation — à chaque cycle de succion/avalement/régurgitation, la victime rétrécit légèrement et rougit. Après suffisamment de cycles, elle commence à ressembler au Yara-ma-yha-who lui-même et finit par se transformer en un nouvel être de cette espèce.
+
+## FAIBLESSES
+
+Des victimes qui restent immobiles et font semblant de dormir pendant la régurgitation peuvent éviter l'attention du Yara-ma-yha-who et s'échapper quand il s'endort. Les victimes qui résistent au cycle de transformation le plus longtemps possible — en maintenant leur conscience et leur identité humaine — peuvent survivre à plusieurs cycles sans transformation complète. Éviter de s'endormir sous un figuier est la précaution principale. Des récits suggèrent qu'un Yara-ma-yha-who repu dort profondément — créant une fenêtre d'évasion pour une victime régurgitée.
+
+## COMPORTEMENT
+
+Le Yara-ma-yha-who guette depuis les branches d'un figuier — ses ventouses lui permettent de rester accroché à la tête en bas ou sur le côté de l'arbre. Quand une victime s'assoit à l'ombre ou s'endort sous l'arbre, il se laisse tomber ou se jette sur elle. La succion sanguine affaiblit la victime. Il l'avale entière — une victime consciente vit dans son estomac pendant ce processus. Après son sommeil, il régurgite la victime. Si celle-ci est encore "reconnaissable" comme humaine, il répète le cycle. La transformation en Yara-ma-yha-who prend plusieurs cycles — certains récits mentionnent que des victimes humaines peuvent survivre à un ou deux cycles sans transformation complète si elles s'échappent assez vite.
+
+## RÉCITS TRADITIONNELS
+
+Un récit aborigène du sud-est de l'Australie : un garçon désobéit à ses parents et s'écarte du groupe pour se reposer à l'ombre d'un grand figuier. Il s'endort. Le Yara-ma-yha-who, rouge et petit, se laisse tomber de l'arbre sur lui. Ses ventouses drainent le sang du garçon qui s'affaiblit sans pouvoir bouger. Le Yara-ma-yha-who l'avale. Plus tard, il l'expulse vivant mais plus petit et légèrement rougeâtre. Les parents, qui cherchent leur fils, le trouvent — mais il est différent. Ils effectuent des rites de purification qui peuvent le ramener à son état humain si le processus est inversé assez rapidement. La famille n'accorde plus jamais à son fils la permission de s'asseoir seul sous un figuier.
+
+## VARIANTES RÉGIONALES
+
+Des vampires de petite taille qui avalent leurs victimes entières et les régurgitent existent dans d'autres traditions — des similarités superficielles avec des créatures d'Asie du Sud-Est et du Pacifique (dont certains spirits philippines et mélanésiens). La transformation de victime en prédateur par cycles progressifs est un motif narratif rare et particulièrement distinctif — peu de créatures du folklore mondial partagent exactement ce mécanisme. La spécificité des ventouses comme mécanisme de prédation est également rare dans le folklore mondial. La combinaison de toutes ces caractéristiques rend le Yara-ma-yha-who une des créatures les plus originales des traditions mondiales.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Yara-ma-yha-who est régulièrement mentionné dans des compilations de folklore australien et de créatures mythologiques mondiales. Des références dans des guides de cryptozoologie et des encyclopédies de créatures fantastiques ont diffusé la figure internationalement. Des productions culturelles australiennes contemporaines (livres pour enfants, films d'animation) ont représenté le Yara-ma-yha-who. Des programmes d'éducation culturelle aborigène incluent la figure dans des présentations des traditions orales du sud-est de l'Australie.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie du Yara-ma-yha-who dans l'art rupestre ou l'art sur écorce australien n'est pas clairement établie — sa documentation est principalement orale. Des illustrations dans des publications de folklore australien du XIXe et XXe siècles représentent la figure de façon variée, avec la couleur rouge et les ventouses comme caractéristiques constantes. Des artistes aborigènes contemporains représentent le Yara-ma-yha-who dans des styles d'art contemporain qui mêlent iconographie traditionnelle et techniques modernes.
+
+## POUR ALLER PLUS LOIN
+
+Le Yara-ma-yha-who illustre une des structures narratives les plus ingénieuses du folklore d'avertissement — la transformation progressive de victime en prédateur. Ce mécanisme encode plusieurs leçons simultanément : la dangerosité des espaces non supervisés, la résistance à la pression qui cherche à vous changer, et la récupérabilité de l'identité humaine si l'intervention arrive assez tôt. C'est un récit de sécurité (ne t'endors pas seul sous un arbre inconnu) doublé d'une leçon identitaire (maintiens ta nature humaine même sous pression) dans une histoire suffisamment mémorable pour traverser des générations de transmission orale.

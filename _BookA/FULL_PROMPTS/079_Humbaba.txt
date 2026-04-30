@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Humbaba
+  Tradition : Mesopotamien
+═══════════════════════════════════════════════
+
+
+# HUMBABA
+
+## SIGNIFICATION DU NOM
+
+*Humbaba* (sumérien *Huwawa*) est le gardien de la Forêt des Cèdres dans l'*Épopée de Gilgamesh* — le texte littéraire le plus ancien de l'humanité. Son nom sumérien *Huwawa* est d'étymologie incertaine mais possible lié à des racines désignant la terreur ou la puissance. La forme akkadienne *Humbaba* est celle qui a prévalu dans la tradition littéraire. Humbaba a été placé par le dieu Enlil pour garder les cèdres sacrés du Liban (*Uru* dans les textes) — une forêt considérée comme le domaine des dieux, interdite aux humains sans permission divine.
+
+## ORIGINE
+
+Humbaba est documenté dans deux corpus principaux : les textes sumériens (*Gilgamesh et Huwawa* — texte sumérien en deux versions, A et B, copié à l'ère d'Isin, c. 2000 AEC) et la version akkadienne canonique de l'*Épopée de Gilgamesh* (XIIe tablette, version ninivite de Sîn-leqi-unninni, c. XIIe siècle AEC). Des représentations iconographiques de "têtes de viscères" dans l'art mésopotamien (les *puhādum* — amulettes en forme de face faite d'intestins) sont interprétées comme des représentations de Humbaba. La créature est l'un des antagonistes les plus célèbres de la littérature mondiale.
+
+## NATURE
+
+Humbaba est un gardien divin — pas un monstre autonome maléfique mais une créature désignée et chargée par le dieu Enlil de protéger la Forêt des Cèdres. Sa nature est donc ambivalente dans la logique mésopotamienne : il est maléfique du point de vue de Gilgamesh et Enkidu (qui veulent sa mort), mais il est dans son droit divin (il protège ce qu'Enlil lui a confié). Sa mort par les deux héros est une transgression morale autant qu'un exploit — Enlil le pleure et maudit les meurtriers.
+
+## HABITAT
+
+Humbaba habite la Forêt des Cèdres — une forêt mythique de cèdres immenses localisée dans les textes dans une direction "lointaine vers l'est ou l'ouest" (probablement le Liban ou les montagnes Amanus en Syrie). Cette forêt est un espace sacré des dieux — les humains n'y entrent que rarement et avec permission. Humbaba y réside depuis sa naissance, y connaissant chaque arbre, chaque chemin, et peut détecter les intrus à grande distance.
+
+## DESCRIPTION
+
+Humbaba est décrit dans les textes comme d'une terreur irrésistible — sa voix est comme un déluge, sa bouche comme du feu, son souffle comme la mort. Son visage est la caractéristique la plus remarquable — décrit dans les textes akkadiens comme un visage "d'entrailles" (*kippatu*) et dans l'iconographie comme une face faite d'intestins entrelacés. Des amulettes mésopotamiennes en forme de cette face de viscères sont interprétées comme des représentations de Humbaba. Cette face d'entrailles lui donne sept "terreurs" (*melammu*) — des auras de terreur divine qui paralysent quiconque s'approche.
+
+## POUVOIRS
+
+Sept *melammu* (auras de terreur divine) qui paralysent les ennemis à distance — Gilgamesh et Enkidu ne peuvent approcher qu'en neutralisant ces auras une par une avec l'aide du dieu Shamash (le soleil). Voix de déluge — sa voix seule peut terrasser des ennemis. Souffle de mort — son haleine est létale. Connaissance parfaite de la Forêt des Cèdres — il la connaît en tout point et peut détecter des intrus immédiatement. Dans les textes sumériens, ses "sept terreurs" peuvent être données comme cadeaux à quelqu'un qu'il gracie.
+
+## FAIBLESSES
+
+Les vents du dieu Shamash (soleil) — dans l'*Épopée de Gilgamesh*, le dieu Shamash envoie 13 grands vents contre Humbaba qui neutralisent ses auras de terreur et l'immobilisent, permettant à Gilgamesh et Enkidu de s'approcher. La clémence de Humbaba lui-même — dans certaines versions, il propose de donner ses terreurs à Gilgamesh en échange de sa vie, mais Enkidu convainc Gilgamesh de le tuer malgré tout. Dans des versions sumériennes, Huwawa se soumet et demande grâce — ce qui le rend plus vulnérable.
+
+## COMPORTEMENT
+
+Humbaba surveille la Forêt des Cèdres avec une vigilance absolue — il entend les bruits d'arbres à grande distance et peut détecter les intrus dans une zone immense. Son comportement n'est pas de chasse active mais de protection territoriale — il attend que les intrus approchent suffisamment pour être détruits par ses auras. Dans les textes sumériens, il peut parler et négocier — quand Gilgamesh et Enkidu l'approchent, il leur parle avant de les attaquer, leur demandant pourquoi ils sont venus violer sa forêt.
+
+## RÉCITS TRADITIONNELS
+
+L'*Épopée de Gilgamesh* (tablettes III-V, version akkadienne) : Gilgamesh décide d'affronter Humbaba pour gagner une gloire immortelle. Enkidu, son compagnon, le prévient de la terreur du gardien. Avec la bénédiction du dieu Shamash, ils traversent sept montagnes pour atteindre la Forêt des Cèdres. Humbaba les affronte. Shamash envoie des vents violents qui immobilisent le gardien. Humbaba supplie Gilgamesh de lui accorder la vie — Enkidu convainc Gilgamesh de refuser. Ils décapitent Humbaba. Enlil, apprenant la mort de son gardien, est furieux et maudit les deux héros.
+
+## VARIANTES RÉGIONALES
+
+Humbaba s'inscrit dans une famille de gardiens monstrueux des lieux sacrés — des créatures placées par des dieux pour protéger des zones interdites aux humains. Des créatures comparables dans d'autres traditions : le Ladon grec (dragon qui garde les pommes des Hespérides), le Cerbère (chien des Enfers), Smaug de Tolkien (inspiré partiellement de traditions comparables). Dans la tradition mésopotamienne, des gardiens divins (*apkallu*, *lamassu*) protègent des palais et des temples — Humbaba est le gardien de la forêt sauvage, plus primitive et puissante.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Humbaba est connu des assyriologue et des étudiants de littérature mondiale comme l'un des premiers "monstres" littéraires de l'histoire. Des versions illustrées de l'*Épopée de Gilgamesh* représentent Humbaba dans différents styles artistiques. Des jeux vidéo (*Final Fantasy* notamment) ont inclus "Humbaba" ou "Ultros" comme boss inspirés de la figure. Des expositions dans des musées (British Museum, Pergamon Museum Berlin) présentent les tablettes de l'*Épopée de Gilgamesh* et les amulettes iconographiques de Humbaba.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des amulettes en bronze ou en argile (*puhādum*) représentant une face faite d'intestins entrelacés — interprétées comme des représentations du visage de Humbaba — datant du IIe-Ier millénaire AEC sont documentées dans des collections de musées (British Museum, Vorderasiatisches Museum Berlin). Une stèle du Louvre représentant Gilgamesh et Enkidu combattant Humbaba. Des sceaux cylindriques mésopotamiens représentant des combats de héros contre des créatures correspondent au cycle de Gilgamesh.
+
+## POUR ALLER PLUS LOIN
+
+Humbaba illustre la complexité morale de l'épopée de Gilgamesh — sa mort n'est pas présentée comme un triomphe simple mais comme une transgression aux conséquences. Enlil pleure son gardien et maudit Gilgamesh et Enkidu. Cette ambiguïté morale — le "monstre" qui est dans son droit, les "héros" qui transgressent — est remarquablement moderne pour un texte de 4000 ans. L'*Épopée de Gilgamesh* ne glorifie pas l'exploit sans en montrer les conséquences : la mort d'Enkidu (punition divine pour la transgression) suit directement le meurtre de Humbaba.

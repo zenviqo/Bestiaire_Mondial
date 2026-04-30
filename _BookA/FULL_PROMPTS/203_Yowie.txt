@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Yowie
+  Tradition : Aborigene Australien
+═══════════════════════════════════════════════
+
+
+# YOWIE
+
+## SIGNIFICATION DU NOM
+
+*Yowie* est une adaptation anglicisée des termes *Yawri* ou *Yourie* de langues du sud-est australien comme le wiradjuri et le yuwaalaraay. Ces termes désignent un grand être sauvage et redouté. Le terme *Yahoo* — utilisé par les premiers colons britanniques — semble lié à la même désignation locale adoptée phonétiquement. L'étymologie dans les langues sources n'est pas complètement établie mais pointe vers un être de grande taille et de nature effrayante.
+
+## ORIGINE
+
+Le Yowie est présent dans les traditions orales de nombreux peuples du sud-est de l'Australie avant la colonisation britannique. Les premiers colons européens signalent rapidement des récits locaux de grands humanoïdes sauvages dans les forêts de Nouvelle-Galles du Sud et du Queensland. Des descriptions sont publiées dans des journaux australiens dès 1820-1830. La créature — qu'on appelle alors "Yahoo" ou "Great Hairy Man" — fait l'objet de débats sérieux dans les premiers cercles naturalistes australiens.
+
+## NATURE
+
+Le Yowie est un humanoïde des forêts — plus grand qu'un homme, couvert de fourrure, mais clairement bipède et comportant des attributs humains (démarche, posture). Dans les traditions aborigènes, il n'est pas simplement un animal inconnu — il est un être du monde des esprits qui peut traverser la frontière entre ce monde et l'autre. Sa nature ambiguë entre l'animal, l'humain, et le surnaturel est caractéristique de nombreuses créatures du Dreaming.
+
+## HABITAT
+
+Le Yowie habite les forêts denses du Grand Dividing Range — la chaîne de montagnes qui longe la côte est de l'Australie depuis le Queensland jusqu'en Nouvelle-Galles du Sud. Il préfère les zones de forêt humide, les gorges et les vallées encaissées, les zones difficiles d'accès. Des régions spécifiques — Blue Mountains (NSW), Springbrook (Queensland) — sont particulièrement associées aux observations.
+
+## DESCRIPTION
+
+Le Yowie est humanoïde de grande taille — entre 1,80 m et 3 m selon les témoignages, avec des épaules larges et une musculature impressionnante. Son corps est entièrement couvert d'une fourrure brune, noire ou rouge-brun. Sa tête est conique ou aplatie, son nez plat et large. Ses pieds sont très grands — les empreintes de pieds sont souvent citées comme preuve de sa présence. Son odeur est forte et désagréable.
+
+## POUVOIRS
+
+Force physique considérable — témoins rapportant qu'il peut soulever des rochers ou déraciner des arbres. Discrétion dans la forêt malgré sa taille. Vitesse de déplacement surprenante dans les terrains difficiles. Dans les traditions aborigènes, capacité de se déplacer entre les dimensions du Dreaming et du monde ordinaire.
+
+## FAIBLESSES
+
+Le Yowie évite généralement les contacts directs avec les humains — les témoins rapportent qu'il s'enfuit à l'approche humaine aussi souvent qu'il impressionne ou intimide. Il peut être effrayé par le bruit.
+
+## COMPORTEMENT
+
+Le Yowie est observateur — de nombreux témoins rapportent l'impression d'être regardé dans la forêt avant de voir la créature. Il peut se montrer délibérément pour effrayer ou avertir les intrus dans son territoire. Il est fondamentalement territorial. Des récits parlent de créatures qui suivent des randonneurs pendant des kilomètres sans les attaquer — surveillance plutôt que prédation.
+
+## RÉCITS TRADITIONNELS
+
+Les archives coloniales australiennes contiennent des dizaines de rapports de rencontres avec des créatures correspondant au Yowie. En 1979, le naturaliste Rex Gilroy commence à systématiser les témoignages et les empreintes. Depuis, des associations de recherche sur le Yowie existent en Australie et documentent des centaines d'observations. La ville de Kilcoy (Queensland) a érigé une statue de Yowie et se présente comme capitale mondiale de la créature.
+
+## VARIANTES RÉGIONALES
+
+Les peuples du Queensland occidental décrivent un *Quinkin* légèrement différent — plus clairement lié aux esprits des parois rocheuses. Les traditions du Victoria ont leurs propres noms et caractéristiques. Ces variations reflètent les 500+ nations et langues différentes des peuples australiens.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Yowie est bien connu en Australie — une marque de chocolat populaire porte son nom (avec des figurines de créatures à l'intérieur). Sa place dans la culture populaire australienne est solide, même si la distinction entre figure folklorique sérieuse et mascotte commerciale est parfois brouillée.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les premières illustrations du Yowie viennent des journaux coloniaux du XIXe siècle — représentations schématiques basées sur des témoignages verbaux. L'absence d'iconographie aborigène canonique tient aux mêmes raisons que pour le Bunyip.
+
+## POUR ALLER PLUS LOIN
+
+Le Yowie, comme le Bigfoot américain ou le Yeti himalayan, soulève la question de ce que nous voulons trouver dans les forêts. Ces créatures — toujours signalées dans les zones les moins explorées, toujours juste hors du cadre de la caméra — projettent nos espoirs et nos peurs sur la wilderness. En Australie, ce grand être velu est aussi un lien entre les traditions aborigènes et la curiosité des colons descendants pour une terre qui reste largement inconnue.

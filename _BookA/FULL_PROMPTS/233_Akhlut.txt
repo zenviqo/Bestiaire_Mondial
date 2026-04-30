@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Akhlut
+  Tradition : Inuit Arctique Americain
+═══════════════════════════════════════════════
+
+
+# AKHLUT
+
+## SIGNIFICATION DU NOM
+
+*Akhlut* est un terme inupiaq dont l'étymologie directe désigne cet être hybride spécifique — la combinaison de l'orque (*aġviq*) et du loup (*amaruq*). Le terme peut aussi être traduit par "tueur dans les deux mondes" — l'orque étant le prédateur suprême de la mer, le loup celui des terres. L'Akhlut maîtrise les deux domaines. Cette désignation dit l'essentiel de la figure : un prédateur sans limites écologiques, également à l'aise dans l'eau et sur la terre arctique.
+
+## ORIGINE
+
+L'Akhlut appartient aux traditions orales des peuples inupiaques du nord de l'Alaska — côte arctique de la mer de Beaufort et du détroit de Bering. Il est documenté dans les collections de folklore inupiaque du XIXe-XXe siècle. La figure reflète la réalité écologique de cette zone — les orques (*épaulards*, *orcas*) sont effectivement des prédateurs réels qui chassent dans les eaux côtières et peuvent s'approcher dangerousement des berges de glace, et les loups arctiques sont aussi présents dans les toundras. L'Akhlut fusionne ces deux prédateurs réels en un être mythique.
+
+## NATURE
+
+L'Akhlut est un orque qui peut, en sortant de l'eau et en traversant les glaces, se transformer en loup pour chasser sur terre. Il peut aussi accomplir la transformation inverse — un loup qui entre dans l'eau et devient orque. Cette capacité de transformer entre les deux milieux (eau et terre) lui permet de chasser des proies qui se croiraient en sécurité dans un des deux domaines. Son intelligence est supérieure à celle des animaux ordinaires.
+
+## HABITAT
+
+L'Akhlut habite les zones où l'eau et la terre arctiques se rejoignent — les plages de glace et de rochers de la côte nord de l'Alaska, les berges des fjords, les zones de glace de mer fracturée. C'est là que la transformation est possible et que le danger est maximal. Les traces de loup sur la glace qui mènent directement à l'eau (sans trace de retour) sont le signe qu'un Akhlut a plongé après sa chasse terrestre.
+
+## DESCRIPTION
+
+Sous forme d'orque : un épaulard de grande taille, possiblement plus grand que les orques ordinaires, se déplaçant avec une intelligence anormale. Sous forme de loup : un loup de grande taille, pouvant avoir des rayures ou des marques qui rappellent les couleurs de l'orque. La transformation entre les deux formes se fait dans l'eau ou sur la glace — jamais observée directement mais déductible des traces. Ses empreintes de loup peuvent mener jusqu'au bord de l'eau et y disparaître.
+
+## POUVOIRS
+
+Transformation entre orque et loup. Chasse dans les deux milieux — aucune proie n'est en sécurité ni dans l'eau ni sur terre. Intelligence surnaturelle — il planifie ses chasses. Force physique colossale dans les deux formes. Dans certains récits, il peut survivre indéfiniment sans nourriture avant de frapper.
+
+## FAIBLESSES
+
+Aucune faiblesse claire documentée — l'Akhlut est un prédateur absolu dans sa tradition. La vigilance est la seule protection : ne jamais se trouver seul au bord de l'eau, ne jamais suivre des traces de loup jusqu'à la mer, ne jamais pêcher seul dans des zones connues pour des comportements d'orques anormaux.
+
+## COMPORTEMENT
+
+L'Akhlut chasse — ses motivations sont celles d'un prédateur suprême. Il ne cible pas les humains spécifiquement dans tous les récits, mais les attaques de chasseurs et de pêcheurs inupiaques lui sont attribuées. Dans certaines traditions, des offrandes aux orques sur la plage peuvent désamorcer leur hostilité — l'Akhlut peut être inclus dans ces relations diplomatiques avec les cétacés.
+
+## RÉCITS TRADITIONNELS
+
+Un récit inupiaque du nord de l'Alaska : un chasseur trouve sur la glace des traces de loup qui mènent directement à la mer et y disparaissent — aucune trace de retour, aucune trace de lutte. Il sait que c'est l'Akhlut. Quelques jours plus tard, un autre chasseur qui pêchait au bord d'une floe de glace disparaît. Son traîneau est retrouvé au bord de l'eau, ses chiens terrorisés — une marque d'orque dans la glace fracturée témoigne de l'attaque venue de dessous.
+
+## VARIANTES RÉGIONALES
+
+Des traditions comparables existent chez les Yupik de l'Alaska et dans d'autres groupes côtiers de l'Arctique. L'orque est généralement traité avec un respect et une méfiance spécifiques dans toutes les traditions côtières inuites et inupiaques — sa relation à la terra ferme (via l'Akhlut ou d'autres traditions) est une façon de gérer la puissance de cet animal perçu comme extraordinairement intelligent et organisé dans ses chasses.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'Akhlut est peu connu hors des cercles de folklore arctique et des communautés de passionnés de mythologie amérindienne. Il apparaît dans certains jeux de rôle et dans des compilations de créatures mythologiques mondiales. La relation réelle des Inupiaques aux orques — qui chassent les mêmes proies (phoques, morses) et donc les mêmes zones — donne à cette figure une réalité écologique qui manque à beaucoup de cryptides.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'art inupiaque traditionnel — ivoire de morse, os, bois flotté — représente les orques fréquemment. Des sculptures montrent des orques dans des postures suggestives de transformation ou d'hybridité. Des masques de chamans inupiaques peuvent représenter des formes hybrides animales incluant l'orque. L'iconographie spécifique de l'Akhlut comme loup-orque n'est pas standardisée dans les collections disponibles.
+
+## POUR ALLER PLUS LOIN
+
+L'Akhlut illustre une vision inupiaque de la nature comme espace d'interpénétration des milieux — la frontière entre mer et terre n'est pas fixe. Dans un environnement arctique où la glace peut être à la fois sol solide et plancher marin selon les saisons, où les animaux se déplacent entre les milieux, la frontière water/land est toujours négociable. L'Akhlut est la personnification de cette porosité : un être qui maîtrise les deux milieux est un être d'une puissance absolue dans un monde où la frontière entre les milieux est elle-même une question de vie ou de mort.

@@ -1,0 +1,205 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Sirena
+  Tradition : Philippines
+═══════════════════════════════════════════════
+
+
+# SIRENA
+
+## SIGNIFICATION DU NOM
+
+Le terme *sirena* est un emprunt direct au castillan *sirena*, lui-même issu du grec *seirên* à travers le latin *sirena*. La langue tagalog l'a adopté durant la colonisation espagnole pour désigner les esprits aquatiques féminins préexistants à la colonisation, qu'aucun mot tagalog unique ne désignait collectivement.
+
+Avant l'imposition de ce vocable, plusieurs termes locaux désignaient ces êtres : *Magindara* chez les Bicolanos, *Kataw* chez les Visayans (variante distincte), *Ugkoy* dans certains dialectes côtiers du sud. Ces termes pré-hispaniques recouvrent des nuances que le mot *sirena* a tendu à uniformiser.
+
+La distinction entre *sirena* (femme-poisson au sens figuratif européen, queue de poisson unique) et la sirène ailée gréco-latine (oiseau-femme) ne se pose pas dans le folklore philippin : la *sirena* y est dès l'origine la femme à queue de poisson, conformément à l'évolution médiévale castillane du terme.
+
+## ORIGINE
+
+La *sirena* philippine descend d'un double héritage. D'une part, le substrat pré-hispanique des esprits aquatiques féminins — gardiennes des rivières, des récifs, des sources — auxquels les peuples maritimes de l'archipel attribuaient depuis bien avant l'arrivée espagnole des pouvoirs de bénir et de tuer. D'autre part, la *sirena* castillane importée par les colons, héritière elle-même de la sirène méditerranéenne et chargée du folklore marin ibérique.
+
+Cette double parenté explique l'ambiguïté de la *sirena* philippine : tantôt protectrice maritime invoquée par les pêcheurs, tantôt prédatrice qui attire les nageurs vers la noyade.
+
+Les peuples Bicolanos rattachent la *sirena*, sous le nom de *Magindara*, à leur mythologie pré-hispanique du delta du fleuve Bicol et des côtes de la péninsule sud-est de Luzon. Les Visayans la rattachent aux récifs coralliens et aux passes étroites entre les îles. Les peuples Ilocanos l'associent aux rivières du nord, particulièrement celles qui descendent de la cordillère.
+
+## NATURE
+
+La *sirena* est un *être hybride femme-poisson*. Sa moitié supérieure est celle d'une femme jeune et belle ; sa moitié inférieure est une queue de poisson écaillée. Cette hybridité n'est pas vue, dans la tradition philippine, comme malédiction ou châtiment — elle est sa nature originelle.
+
+Elle est *aquatique* par essence. Elle peut sortir partiellement de l'eau — se hisser sur un rocher, exposer son torse au soleil — mais doit y retourner. Hors de l'eau prolongée, elle dépérit.
+
+Elle est *séductrice*. C'est sa fonction la plus connue. Elle attire les pêcheurs, les marins, les nageurs vers elle, et la nature de cette attraction varie selon les versions : amoureuse pour la prendre comme époux dans son royaume sous-marin, prédatrice pour les noyer, capricieuse pour s'amuser de leur folie passagère.
+
+Elle est *bilingue*. Elle parle la langue des humains aussi bien que celle des poissons et des courants. Cette bilingualité fait d'elle un médiateur potentiel — qui peut négocier avec elle peut négocier avec la mer.
+
+## HABITAT
+
+La *sirena* habite la mer ouverte, les récifs coralliens, les passes étroites entre les îles, et plus rarement les estuaires et les fleuves côtiers. Chaque *sirena* a son territoire — quelques milles de côte, un récif particulier, une lagune. Elle s'y installe, y règne.
+
+Certaines *sirena* habitent des palais sous-marins construits de coraux, de nacre, de perles. Les humains qui pénètrent dans ces palais y voient des splendeurs incomparables — colonnes de corail rose, sols pavés de nacre, plafonds couverts d'étoiles de mer mouvantes — mais peuvent rarement en sortir vivants.
+
+D'autres *sirena*, plus nomades, suivent les bancs de poissons, accompagnent les courants, voyagent entre les archipels. Ces *sirena* errantes apparaissent occasionnellement le long de côtes habituellement non hantées.
+
+Les rochers émergeant entre les récifs, particulièrement ceux exposés à la pleine lune, sont des lieux fréquents d'apparition. Une *sirena* assise sur un tel rocher au clair de lune, peignant ses longs cheveux, est l'image archétypale du folklore visuel.
+
+## DESCRIPTION
+
+La *sirena* philippine présente une moitié supérieure de jeune femme d'une beauté excessive : peau lisse et brillante, légèrement nacrée comme l'intérieur de certains coquillages ; longs cheveux d'un noir profond, parfois verts comme les algues, parfois argentés ; yeux grands et sombres, pupilles parfois dilatées en disque comme certains poissons abyssaux.
+
+Sa poitrine est nue, parfois ornée de coquillages, parfois de colliers de perles. Ses bras sont normalement humains, mais ses ongles peuvent être longs et pointus, plus proches de griffes que d'ongles ordinaires.
+
+Sa moitié inférieure est une queue de poisson écaillée. Les écailles, selon la région, peuvent être argentées comme celles d'un mulet, vertes irisées comme celles d'un dorado, bleues profondes comme celles d'un thon. Elles luisent sous la surface de l'eau d'une manière reconnaissable, alertant le pêcheur attentif.
+
+Sa caudale, large et puissante, lui permet une nage rapide, et son agitation à la surface produit un éclair caractéristique souvent confondu avec un poisson de grande taille.
+
+Certaines variantes — notamment la *Magindara* bicolane — sont décrites comme plus férocement carnivores, avec des dents pointues et un sourire prédateur.
+
+## POUVOIRS
+
+Le *chant ensorcelant* est l'attribut classique de la *sirena*. Sa voix porte sur l'eau de très loin et provoque chez les hommes qui l'entendent une attraction irrésistible — les pêcheurs détournent leur barque de leur route, les nageurs dévient vers les récifs dangereux, les marins sautent par-dessus bord. Tous ne meurent pas, mais aucun ne revient indifférent.
+
+Le *baiser fatal* est un motif récurrent. La *sirena* attire un homme dans l'eau, l'embrasse, et l'embrasement de cette étreinte est tel que la noyade qui suit n'est presque pas remarquée par la victime. Variante : la *sirena* le tire vers le fond, et son baiser est en réalité l'aspiration du dernier souffle.
+
+La *commande des courants* permet à la *sirena* de calmer la mer ou de la déchaîner localement. Un pêcheur ami d'une *sirena* peut bénéficier de mers paisibles pendant que ses voisins peinent dans la tempête. Un offenseur peut voir sa barque chavirer dans une vague soudaine surgie de nulle part.
+
+Le *don de poisson* est l'autre face. Les *sirena* favorables guident les bancs de poissons vers les filets de leurs protégés. Cette faveur, rare, fonde des prospérités locales que la tradition rapporte à un pacte secret.
+
+L'*invisibilité partielle* permet à la *sirena* de se confondre avec les vagues et les remous. Seul l'œil de celui qu'elle a choisi la perçoit clairement.
+
+## FAIBLESSES
+
+La *sirena* est étroitement liée à l'eau. Hors d'elle, elle s'affaiblit rapidement. Une *sirena* prise dans un filet et tirée à terre par un pêcheur audacieux peut être contrainte à parler, à donner des informations, à céder un objet précieux, en échange de sa libération. Mais ce marché est risqué : celui qui retient une *sirena* contre son gré attire la colère des courants.
+
+Le *sel* est paradoxalement employé contre elle. Bien qu'elle vive dans la mer salée, le sel concentré jeté sur sa peau ou sur sa queue lui cause une brûlure surnaturelle. Cette logique paradoxale — la *sirena* étant perçue comme distincte de l'eau salée bien que vivant dedans — est commune dans le folklore.
+
+Les *prières chrétiennes*, *médailles* et *invocation de saints maritimes* (saint Pierre, saint Nicolas, sainte Lucie) ont intégré la panoplie protectrice depuis la christianisation. Les pêcheurs philippins emportent souvent un chapelet bénit en mer.
+
+Les *plantes* spécifiques — certaines algues, certains lichens marins — sont parfois citées comme répulsifs. La connaissance de ces plantes appartient aux pêcheurs anciens et aux *manghihilot* spécialisés dans le rapport à la mer.
+
+## COMPORTEMENT
+
+La *sirena* observe les côtes humaines depuis sa partie aquatique. Elle voit passer les bateaux, écoute les chants des pêcheurs, identifie ceux qui la respectent et ceux qui la dédaignent.
+
+Elle se manifeste rarement de jour. Sa pleine activité est nocturne, particulièrement les nuits de pleine lune où la lumière la rend visible sur les rochers. Certaines *sirena* sont également associées à des moments précis — l'aube de certaines fêtes, les nuits où la marée monte le plus haut, les jours de tempête qui viennent de passer.
+
+Lorsqu'elle s'éprend d'un homme, son comportement bascule. Elle le visite, le sollicite, parfois harcèle. Elle peut le séduire jusqu'à ce qu'il abandonne sa famille pour la rejoindre dans les eaux. Cette élection est rarement réversible.
+
+Lorsqu'elle est offensée, son comportement bascule également mais en sens inverse. Elle déchaîne les courants contre l'offenseur, attire ses filets sur des récifs, fait s'étouffer ses captures, voire l'attire personnellement vers la noyade.
+
+Certaines *sirena*, particulièrement les *Magindara* bicolanes, sont décrites comme franchement prédatrices. Elles ne séduisent pas tant qu'elles chassent. Leur comportement collectif rappelle parfois celui de bancs de prédateurs marins.
+
+## RÉCITS TRADITIONNELS
+
+Le motif du *pêcheur amoureux* est universel dans l'archipel. Un jeune pêcheur découvre une *sirena* peignant ses cheveux sur un rocher au clair de lune. Il s'approche. Elle ne fuit pas. Ils se parlent. Une relation s'installe — visites nocturnes, dons de perles, prospérité étrange. Selon les versions, le pêcheur finit par disparaître en mer, ou abandonne sa fiancée humaine, ou voit la *sirena* arrachée à lui par un autre incident maritime, ou — plus rarement — réussit à la maintenir dans le monde humain au prix d'une métamorphose qui lui coûte sa nature aquatique.
+
+Le motif de la *capture* raconte un pêcheur qui trouve une *sirena* prise dans son filet. Il la libère. Elle lui révèle son identité. Elle lui promet un don pour le remercier. Selon les versions, le don bénit la famille du pêcheur durant des générations, ou se révèle ambigu et apporte la richesse à un coût terrible.
+
+Le motif de la *Magindara* bicolane est plus sombre. Les *Magindara* attaquent en bande les pêcheurs qui s'aventurent au large de la péninsule. Leurs chants attirent les barques sur les récifs. Les pêcheurs disparaissent corps et biens. Seul un survivant occasionnel rapporte au village ce qui s'est passé.
+
+Le motif du *naufrage évité* raconte une *sirena* protectrice qui, par reconnaissance pour un ancien geste de respect, prévient des marins de la tempête qui approche en se montrant à la proue de leur barque, leur ordonnant de rentrer immédiatement.
+
+## VARIANTES RÉGIONALES
+
+Chez les Bicolanos, la *Magindara* est la variante la plus distincte. Plus férocement carnivore que la *sirena* tagalog ordinaire, elle chasse en groupes coordonnés. Plusieurs récits anciens rattachent la *Magindara* à la mythologie pré-hispanique de la région, comme servante d'un seigneur primordial des eaux.
+
+Chez les Visayans, la *sirena* coexiste avec la *Kataw*, une variante distincte considérée comme supérieure dans la hiérarchie des esprits aquatiques (voir la fiche dédiée).
+
+Chez les Ilocanos du nord, la *Serena* est moins fréquente — leur folklore aquatique étant davantage tourné vers les rivières — mais existe le long de la côte de la mer de Chine méridionale.
+
+Dans les régions de Mindanao habitées par des peuples musulmans, des figures apparentées existent sous d'autres noms locaux et avec des traits parfois différents (queue plutôt de dauphin, peau bleutée).
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La *sirena* philippine est régulièrement confondue avec la sirène européenne médiatisée par le cinéma et les contes pour enfants. Plusieurs distinctions importantes :
+
+La *sirena* philippine est plus fréquemment dangereuse que sa cousine occidentale popularisée. La tradition pré-hispanique en faisait souvent une prédatrice ; seule la créolisation hispanique tardive l'a parfois adoucie.
+
+La *sirena* philippine n'est pas systématiquement amoureuse. Beaucoup de récits la montrent simplement séductrice par essence — sans intention amoureuse particulière, mais effet automatique de sa présence sur les hommes humains.
+
+Elle n'est pas réductible à un seul personnage type. Son folklore est régional et fragmenté. La *Magindara* bicolane, la *Kataw* visayane, la *Sirena* tagalog ordinaire ne sont pas une même créature.
+
+L'imagerie de la sirène-héroïne romantique propre à certains films d'animation occidentaux contemporains ne correspond pas à la tradition philippine. Aucune *sirena* dans les contes anciens ne renonce à sa nature pour épouser un homme — au contraire, c'est l'homme qui doit renoncer à sa nature humaine, généralement à son détriment.
+
+## ICONOGRAPHIE HISTORIQUE
+
+L'iconographie pré-hispanique de la *sirena* philippine est presque inexistante. Quelques motifs sur poteries de l'âge du fer maritime ont été interprétés comme représentations d'esprits aquatiques, sans certitude.
+
+À l'époque coloniale, la peinture religieuse philippine, sous influence du *retablo* hispanique, a occasionnellement représenté des *sirenas* dans les marges des compositions navales — souvent comme tentatrices à éviter, dans une logique morale chrétienne.
+
+Au XIXe siècle, l'art populaire philippin et l'illustration de jeunesse ont produit une iconographie abondante, généralement plus pittoresque que terrifiante.
+
+Le folklore visuel contemporain — bandes dessinées, illustrations, cinéma — a stéréotypé certains traits, mais les variantes régionales gardent leur diversité dans la tradition orale.
+
+## POUR ALLER PLUS LOIN
+
+La *sirena* est l'une des figures les plus actives du folklore maritime philippin, et constitue un cas exemplaire de syncrétisme hispano-philippin où la couche pré-hispanique et la couche castillane se sont enchevêtrées au point qu'il est souvent impossible de les démêler.
+
+Les enquêtes ethnographiques ont documenté la persistance vive de la croyance dans les communautés de pêcheurs jusque dans la période contemporaine. La pratique consistant à demander permission avant de mouiller dans un récif, à éviter de chanter certaines chansons en mer, à ne pas siffler la nuit sur l'eau, demeure attestée.

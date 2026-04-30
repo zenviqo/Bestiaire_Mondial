@@ -1,0 +1,187 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Centzon_Totochtin
+  Tradition : Azteque
+═══════════════════════════════════════════════
+
+
+# CENTZON TOTOCHTIN
+
+## SIGNIFICATION DU NOM
+
+Le nom *Centzon Totochtin* se compose de deux éléments nahuatls. *Centzontli* signifie littéralement *quatre-cents*, mais la langue nahuatl emploie ce nombre comme une valeur d'innombrabilité — l'équivalent oral de *une multitude*, *un essaim sans compte*. *Totochtin* est le pluriel de *tochtli*, le lapin. L'expression entière désigne donc *la multitude des lapins*, et plus exactement *la troupe innombrable des lapins-esprits qui président aux états de l'ivresse*.
+
+Le lapin, dans la cosmologie nahua, n'est pas un simple animal des champs. Il est le signe calendaire *tochtli*, l'un des vingt jours de la liste cyclique. Il appartient à la moitié orientale-méridionale du calendrier et entretient une relation systématique avec la fermentation, la lune, l'agave, et la perte de soi.
+
+## ORIGINE
+
+Les Centzon Totochtin appartiennent à une mythologie d'avant l'invention de l'ivresse — ou plus exactement *contemporaine* de cette invention. Le récit de leur surgissement est lié à celui de la déesse de l'agave, dont le nom évoque les *quatre-cents seins*, et qui aurait engendré la totalité de cette troupe innombrable d'enfants surnaturels lors d'une union mythique avec un partenaire associé au vent et à la connaissance des plantes.
+
+D'autres traditions, conservées dans les fragments rassemblés à l'époque coloniale, présentent les Centzon Totochtin non comme une descendance unique mais comme une *cohorte* — une bande qui vit ensemble, banquète ensemble, se saoule ensemble, et qui aurait toujours existé comme telle, fille collective de la plante d'agave personnifiée.
+
+Le récit de l'invention de la boisson fermentée tirée de l'agave (le *pulque*, en nahuatl *octli*) implique également cette troupe. C'est en goûtant la sève fermentée pour la première fois que les Centzon Totochtin auraient découvert leurs personnalités distinctes — chaque lapin manifestant un type spécifique d'ivresse, qui devient sa fonction permanente.
+
+## NATURE
+
+Les Centzon Totochtin sont des *esprits-lapins*. Leur nature combine trois plans :
+
+Animalement, ils sont la multiplication numérique du lapin sauvage des hauts plateaux, animal de fertilité prolifique, animal des champs nocturnes, animal qu'on chasse mais qui se reproduit sans cesse.
+
+Mythologiquement, ils sont la classe collective qui personnifie *toutes les variétés de l'état d'ivresse*. Chaque type d'ébriété — l'ivresse joyeuse, l'ivresse triste, l'ivresse violente, l'ivresse érotique, l'ivresse mystique, l'ivresse cataleptique, l'ivresse loquace, l'ivresse silencieuse — est associé à un lapin distinct dans la troupe.
+
+Calendriquement, ils sont liés au signe *tochtli* et aux jours qui le portent. Naître sous ce signe, ou commettre un acte sous ce signe, expose à leur influence — pour le meilleur (joie, reproduction, abondance) comme pour le pire (chute dans la boisson, perte de raison, mort par excès).
+
+## HABITAT
+
+Les Centzon Totochtin habitent les *sommets de l'agave*, les feuilles charnues de la plante mère où l'on prélève la sève fermentable. Ils vivent dans le tissu même de la plante, dans l'écoulement laiteux qui sort de son cœur creusé. Boire l'agave, c'est ingérer ces lapins ; c'est leur ouvrir une porte vers l'intérieur du buveur.
+
+Au-delà de la plante, on les associe à plusieurs lieux géographiques : certains sommets volcaniques de la vallée centrale, identifiés à des lapins individuels nommément ; des grottes où l'on dépose des offrandes ; les abords des champs cultivés à la nuit tombée, où l'on entend leurs sauts dans l'herbe ; et les *pulquerías* — espaces de consommation rituelle, à la fois tavernes et lieux quasi-sacrés où la troupe descend pour y siéger invisiblement parmi les buveurs.
+
+## DESCRIPTION
+
+Iconographiquement, les Centzon Totochtin se reconnaissent à plusieurs traits récurrents. Chacun porte le museau et les longues oreilles caractéristiques du lapin, mais sous une forme anthropomorphisée — ils se tiennent debout, ils ont des bras et des mains. Leur corps est généralement peint en bichromie, divisé verticalement en deux moitiés de couleurs contrastées, marque de leur appartenance à un domaine de double nature. Une bande noire couvre la partie inférieure du visage en *yacametztli*, ornement nasal en forme de croissant lunaire fait d'os ou de coquillage.
+
+Leur parure peut comporter un bouclier portant le motif lunaire, un petit pot de pulque que tient l'une des mains, et une parure de plumes courtes sur la tête. Sur le dos, chacun arbore parfois l'emblème spécifique de l'ivresse qu'il personnifie — image qui sert au scribe ancien à le distinguer des autres membres de la troupe.
+
+Quelques lapins individuels reçoivent un nom propre dans les traditions et émergent du collectif anonyme. Ces lapins-chefs portent souvent le nom du lieu géographique dont ils sont les patrons (un volcan, un village, une vallée). Ils gardent cependant leur appartenance fondamentale à la cohorte des Quatre-Cents.
+
+## POUVOIRS
+
+L'*infusion d'ivresse* constitue leur pouvoir cardinal. Quiconque boit le pulque ouvre en lui un espace où la troupe descend. Le buveur ne s'enivre pas seul ; il est *enivré par* le lapin qui choisit ce moment pour lui sauter dessus. Le type d'ivresse manifestée dépend du lapin qui descend.
+
+La *transmission héréditaire* opère sur ceux qui naissent sous le signe *tochtli*. L'enfant né ce jour-là porte une prédisposition vers la troupe ; il sera, sa vie durant, plus exposé à leur attraction.
+
+La *fertilité* leur est associée à travers le caractère prolifique du lapin. Les couples qui sollicitent une descendance peuvent invoquer la troupe ; mais cette invocation ouvre simultanément la porte aux autres aspects, plus dangereux.
+
+La *transformation comportementale* qu'ils provoquent peut aller jusqu'à la *manifestation animale* — certaines traditions rapportent que le buveur très avancé se met à parler et à se déplacer comme un lapin, sautillant, museau en l'air, oreilles dressées intérieurement. Cette régression progressive est le signe que le lapin a pris possession entière du corps.
+
+## FAIBLESSES
+
+Les Centzon Totochtin sont liés à leur substrat — la plante d'agave et son extrait fermenté. Sans pulque, sans cérémonie, sans buveur, ils restent en sommeil dans la plante. C'est l'acte de boire qui les active.
+
+Ils sont également contenus par les *règles de consommation cérémonielle*. La société nahua ancienne réservait l'ivresse à des moments précis : grandes fêtes, rituels agricoles, vieillesse, deuil. En dehors de ces cadres, l'ivresse était sévèrement punie — non pour des raisons morales abstraites, mais parce qu'on libérait alors les lapins hors de leur territoire légitime, ce qui provoquait dérèglement collectif.
+
+La quantité bue détermine quel lapin descend. Quatre-Cents-Cinquième Lapin (l'extrême limite) signifie l'ivresse mortelle, la *limite ultime de la troupe* — celui qui dépasse le compte tombe alors hors de la protection des autres lapins et risque la mort par excès.
+
+## COMPORTEMENT
+
+La troupe agit collectivement et individuellement à la fois. Collectivement, elle préside aux festivités où la boisson coule — toutes y assistent. Individuellement, chaque lapin choisit *son* buveur, *son* moment, *son* type d'ébriété à manifester.
+
+Leur attitude envers les humains n'est ni hostile ni bienveillante au sens moral. Ils sont *présents*. Ils répondent à l'invocation ; ils descendent là où on les appelle. Ce que le buveur en fait dépend du buveur lui-même. Un même pulque peut produire la joie chantante chez l'un et la chute violente chez l'autre, selon le lapin qui descend et selon la disposition du contenant humain.
+
+Entre eux, la troupe est décrite comme banquetante, ivre en permanence, jouant de la musique, dansant — image qu'on retrouve sur les pages des codex où plusieurs lapins anthropomorphes apparaissent ensemble, instruments à la main, autour d'un grand vase.
+
+## RÉCITS TRADITIONNELS
+
+Le récit central concernant les Centzon Totochtin est celui de la *découverte du pulque*. Une jeune femme — figure liée à l'agave dans certaines variantes — perce la plante et reçoit la sève blanche. La sève laissée à fermenter devient enivrante. Elle en fait goûter à la troupe des Quatre-Cents Lapins. Chacun, en buvant, se révèle alors dans sa fonction propre : l'un rit aux éclats, l'autre pleure, l'autre cherche la querelle, l'autre s'endort, l'autre chante, l'autre devient prophète, l'autre devient muet, l'autre devient amoureux. La troupe s'engendre comme troupe différenciée par cet acte fondateur de boisson.
+
+Un second récit raconte un *banquet des dieux* où la troupe est conviée. Les Quatre-Cents Lapins, ivres, se mettent à se moquer des grandes divinités. Une querelle s'ensuit ; certains lapins sont punis ; d'autres sont chassés au ciel et deviennent des étoiles ; d'autres encore restent sur terre et continuent leur métier d'enivrer les hommes. Cette aventure explique partiellement la dispersion géographique de la troupe — pourquoi certains lapins sont attachés à des montagnes précises, d'autres à des villages, d'autres au ciel.
+
+Un troisième récit, plus didactique, met en scène un homme prudent qui observe les Centzon Totochtin sans s'enivrer lui-même. Il les voit boire, danser, chuter. Quand vient son tour, il refuse. Les lapins le punissent en le rendant malade — non parce qu'il a mal agi, mais parce qu'il a *vu* sans payer le prix. L'enseignement traditionnel : on ne contemple pas la troupe impunément ; ou l'on participe, ou l'on s'éloigne.
+
+## VARIANTES RÉGIONALES
+
+Dans la vallée de Mexico, plusieurs lapins individuels reçoivent un culte localisé sous des noms propres distincts. L'un est associé au volcan Popocatépetl ; un autre à un village précis ; un autre encore aux champs d'agave d'une région particulière. Ces lapins-patrons gardent leur appartenance au collectif des Quatre-Cents tout en jouant un rôle protecteur ou prédateur sur leur territoire propre.
+
+Dans les régions méridionales de l'aire nahua, on retrouve la même classe collective sous des appellations équivalentes mais sans les noms propres individuels — la troupe y demeure plus anonyme, plus fondue dans son ensemble.
+
+Une variante calendaire associe à certains jours *tochtli* précis du cycle de vingt-six jours des dates spécifiques pendant lesquelles la troupe est *plus* active — ces jours étant alors considérés comme particulièrement à risque pour la consommation incontrôlée.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+L'imaginaire contemporain réduit fréquemment les Centzon Totochtin à un *folklore festif* sans dimension mythique sérieuse. Cette réduction efface plusieurs traits essentiels :
+
+- Les Centzon Totochtin ne sont pas des dieux *de la fête* au sens moderne. Ils sont les agents d'un *état modifié de conscience* socialement encadré, dont la libération hors de cet encadrement signifie désordre cosmique et social, pas simple amusement.
+
+- Le nombre quatre-cents n'est pas littéral mais idiomatique. La troupe est *innombrable* ; quatre-cents signifie *plus que quiconque ne peut compter*. Les listes de noms individuels qui apparaissent dans les commentaires modernes ne couvrent jamais la totalité réelle.
+
+- Les Centzon Totochtin ne sont pas associés au lapin de la lune (l'image du lapin visible à la surface lunaire), bien que les deux thèmes soient liés. Ce dernier appartient à un récit cosmologique distinct sur l'origine de la lune.
+
+- Ils ne sont pas confondables avec les *Ahuiateteo*, classe d'esprits mineurs souvent décrite comme dérivée — les Ahuiateteo sont un groupe restreint et identifié, les Centzon Totochtin sont une multitude.
+
+- Leur représentation comme simples mascottes joviales dans certaines productions touristiques ou commerciales actuelles trahit leur nature traditionnelle, dans laquelle l'ambivalence joie-mort-perte-de-soi est fondamentale.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les pages des codex précolombiens et coloniaux conservent plusieurs représentations identifiables des Centzon Totochtin :
+
+Le Codex Magliabechiano consacre plusieurs pages aux figures de pulque et aux lapins associés, avec des planches montrant la déesse-mère agave nourrissant ses enfants-lapins, et des banquets cérémoniels où la troupe est figurée autour d'un grand vase.
+
+Le Codex Borgia, dans ses sections traitant des destins liés au signe *tochtli*, montre des lapins anthropomorphes parés du croissant lunaire nasal et du bouclier lunaire, dans des postures cérémonielles complexes.
+
+Le Codex Florentin, compilé après la conquête, conserve dans ses textes nahuatls plusieurs descriptions de la troupe, des ivresses qu'elle produit, et des fêtes au cours desquelles le pulque était cérémoniellement consommé. Les illustrations qui accompagnent ces textes montrent des lapins assis sur des trônes, lançant des regards autoritaires vers leurs buveurs.
+
+Des sculptures de pierre représentant des lapins-esprits ont également été retrouvées dans la vallée de Mexico, parfois ornées de l'attribut nasal lunaire et du bouclier. Des vases de pulque cérémoniels portent des décorations en forme de lapins en relief, marquant leur destination rituelle.
+
+## POUR ALLER PLUS LOIN
+
+Les Centzon Totochtin appartiennent au cœur de la cosmologie nahua et apparaissent dans les principaux corpus traditionnels conservés depuis l'époque coloniale précoce — notamment les compilations en nahuatl rassemblées à partir d'informateurs aztèques au seizième siècle, ainsi que dans les codex pictographiques antérieurs à la conquête.
+
+L'étude moderne de cette classe d'esprits relève de l'ethnohistoire mésoaméricaine, qui s'efforce de reconstituer la cosmologie originelle à partir des fragments parvenus jusqu'à nous.

@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Leak
+  Tradition : Indonesie
+═══════════════════════════════════════════════
+
+
+# LEAK
+
+## SIGNIFICATION DU NOM
+
+*Leak* en balinais désigne le sorcier noir (ou la sorcière) qui pratique la magie noire (*ilmu hitam*) et peut se transformer en tête volante détachée du corps avec les organes internes pendants. Le terme désigne à la fois la personne en état normal et sa manifestation nocturne. La racine du mot est associée à la sorcellerie et à la transgression des limites naturelles — un Leak est quelqu'un qui a *traversé la barrière* entre l'humain et l'infra-humain.
+
+## ORIGINE
+
+Le Leak est profondément ancré dans les traditions hindoues-balinaises — Bali est l'île où le syncrétisme entre la religion hindoue importée d'Inde et les traditions animistes et ancestrales locales a créé une culture unique. Le Leak en est une figure centrale : il apparaît dans les rituels, les danses *Calonarang* et *Barong*, et les traditions orales des communautés balinaises depuis des siècles.
+
+## NATURE
+
+Le Leak est ambivalent dans les traditions balinaises — comme dans de nombreuses cultures, les pouvoirs magiques peuvent être utilisés pour le bien (guérison, protection) ou pour le mal (malédiction, prédation). Un Leak malveillant attaque les vivants, particulièrement les nouveau-nés et les femmes enceintes. Il peut aussi défendre des communautés contre des forces hostiles. La figure de *Rangda* — la sorcière reine des Leaks — incarne la puissance de ce type dans son aspect le plus dramatique.
+
+## HABITAT
+
+Le Leak vit dans les communautés balinaises le jour — c'est un membre ordinaire de la société. La nuit, il se rend dans les cimetières et les croisements pour pratiquer sa magie et prédater. Les forêts denses, les carrefours, et les zones entre deux villages sont ses espaces de prédilection nocturne.
+
+## DESCRIPTION
+
+Sous forme humaine : une personne ordinaire — souvent décrite comme ayant des yeux légèrement rouges la nuit. Sa transformation nocturne caractéristique : la tête se détache du corps (qui reste couché ou disparaît), et vole avec les organes internes (poumons, estomac, intestins) pendants sous elle, luminescents et pulsants. Cette tête volante peut changer de forme — chat, cochon, boule de feu. Sa bouche est grande ouverte avec une grande langue et de longs cheveux emmêlés.
+
+## POUVOIRS
+
+Vol sous forme de tête détachée. Transformation en animaux divers. Magie noire — envoi de maladies, de malchances. Accès aux cimetières et aux forces des morts. Si capturé, le corps sans tête peut être détruit — empêchant la réunification. Certains Leaks puissants ont appris leur magie directement de *Rangda*.
+
+## FAIBLESSES
+
+Le corps sans tête est vulnérable si découvert la nuit — si quelqu'un déplace ou détruit le corps, la tête ne peut plus se réunifier et le Leak mourra à l'aube. Des formules magiques balinaises (*mantra*) et des offrandes appropriées repoussent les Leaks. *Barong* — la créature lion bienveillante — est l'adversaire cosmique de Rangda et des Leaks, et sa présence les neutralise. Les prêtres hindous balinais (*pedanda*) ont des pouvoirs pour les contrecarrer.
+
+## COMPORTEMENT
+
+Le Leak cherche à absorber l'énergie vitale des vivants — particulièrement celle des êtres vulnérables (nouveau-nés, femmes enceintes). Il agit secrètement. Il peut aussi s'engager dans des duels magiques avec d'autres praticiens. L'équilibre cosmique balinais (*sekala-niskala*, visible-invisible) l'inclut comme force nécessaire — sans forces du désordre, l'ordre n'a pas de sens.
+
+## RÉCITS TRADITIONNELS
+
+La danse-drama *Calonarang* est le contexte rituel le plus important du Leak. Elle met en scène Rangda, reine des Leaks, et son combat avec Barong — un combat sans vainqueur définitif qui représente l'équilibre permanent entre chaos et ordre. Cette danse est encore régulièrement performée à Bali lors de cérémonies spécifiques, et les danseurs qui interprètent Rangda subissent des préparations rituelles spéciales — la puissance de la figure est prise au sérieux.
+
+## VARIANTES RÉGIONALES
+
+En Java, des figures similaires existent sous d'autres noms. En Malaisie et dans d'autres îles d'Indonésie, des créatures-têtes-volantes comparables (comme le *Penanggal* malais) existent avec des variations. Ces similitudes suggèrent une origine commune dans les traditions austronésiennes ou les contacts commerciaux et culturels entre îles.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Leak est bien connu en Indonésie et dans la diaspora balinaise. Des films d'horreur indonésiens depuis les années 1980 le représentent régulièrement. Les masques de Rangda — rouge et or, avec de grandes dents et des yeux exorbités — sont vendus partout à Bali comme objects décoratifs, parfois sans conscience de leur dimension rituelle originelle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Les représentations de Rangda et des Leaks abondent dans l'art balinais — peintures, sculptures, masques. La peinture traditionnelle balinaise (*wayang style*) représente des scènes du Calonarang. Les masques de théâtre rituels de Rangda sont parmi les objets rituels les plus puissants de la tradition balinaise — certains sont considérés comme *sakti* (chargés de puissance surnaturelle) et ne peuvent être regardés que dans des contextes appropriés.
+
+## POUR ALLER PLUS LOIN
+
+Le Leak balinais illustre la vision hindoue-balinaise de l'équilibre cosmique : les forces du mal ne doivent pas être éliminées mais maintenues en équilibre avec les forces du bien. Le duel sans fin entre Barong et Rangda/Leak n'a pas de vainqueur parce qu'il ne doit pas en avoir. Cette philosophie — l'ordre a besoin du chaos, la lumière a besoin de l'ombre — est fondamentalement différente des visions manichéennes du bien contre le mal absolu.

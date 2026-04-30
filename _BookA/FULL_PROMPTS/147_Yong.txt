@@ -1,0 +1,182 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Yong
+  Tradition : Coreen
+═══════════════════════════════════════════════
+
+
+# YONG
+
+## SIGNIFICATION DU NOM
+
+Le mot *yong* est la prononciation coréenne du caractère sino-coréen 龍, qui désigne dans toute l'aire culturelle d'Asie orientale la créature reptilienne céleste maîtresse des pluies. Mais la langue coréenne possède également un terme natif, antérieur à l'introduction des caractères chinois : *mireu* (미르), attesté dans les textes anciens du *Samguk Yusa* et conservé dans certains dialectes ruraux. Cette dualité linguistique — *yong* sino-coréen, *mireu* purement coréen — témoigne de l'ancienneté et de la profondeur de l'enracinement du dragon dans la culture coréenne.
+
+Le composé *Yongwang* (용왕, 龍王) signifie *roi-dragon* et désigne plus spécifiquement les souverains des quatre océans qui entourent la péninsule. Le titre *Yongsin* (용신, 龍神) le qualifie comme *esprit-dragon*, accentuant sa dimension chamanique.
+
+## ORIGINE
+
+Le yong appartient au plus ancien fonds mythique coréen. Les chroniques *Samguk Sagi* et *Samguk Yusa*, compilées au XIIe et XIIIe siècles à partir de traditions bien plus anciennes, le mentionnent dès les récits fondateurs des trois royaumes de Goguryeo, Baekje et Silla. Plusieurs souverains anciens — notamment le légendaire Hyeokgeose et Suro de Geumgwan Gaya — sont dits être nés d'une union avec un dragon ou descendre d'une lignée draconique.
+
+À la différence du dragon chinois, dont la naissance est cosmologiquement immédiate, le yong coréen possède une *biographie* : il commence son existence sous la forme inférieure de *imugi* (이무기), serpent aquatique imparfait, et doit attendre mille années avant de pouvoir s'élever au ciel. Cette progression du serpent vers le dragon constitue l'une des particularités les plus marquantes de la tradition coréenne.
+
+## NATURE
+
+Le yong est *créature liminaire* — il appartient simultanément à trois domaines : l'eau dont il est issu, le ciel où il monte, et la terre des hommes qu'il visite par le biais de la pluie. Cette triple appartenance le rend irréductible à une catégorie unique : il n'est ni purement bête, ni purement esprit, ni pleinement divinité. Les traditions chamaniques l'invoquent comme entité intermédiaire entre les humains et les puissances supérieures.
+
+Sa nature est *bienveillante envers les humains qui respectent l'ordre*. Contrairement au dragon européen, jamais le yong coréen n'est figure du mal. Il peut se montrer terrible, déchaîner tempêtes et inondations, mais cette colère répond toujours à une transgression — sécheresse résultant d'une rupture du pacte rituel, prince injuste, communauté ayant souillé les sources sacrées.
+
+Sa nature est enfin *patiente*. Le yong sait attendre. Mille ans d'imugi avant l'ascension. Des siècles immobile au fond d'un lac avant qu'une prière sincère ne le fasse remonter. Cette patience contraste avec l'impulsivité des autres créatures du bestiaire coréen.
+
+## HABITAT
+
+Le yong réside principalement dans les profondeurs des océans qui entourent la péninsule. La mer de l'Est (Donghae), la mer Jaune (Seohae), et la mer du Sud (Namhae) abritent chacune leur Yongwang, roi-dragon souverain d'un palais sous-marin construit en cristal et corail.
+
+Sur la terre ferme, on lui prête pour résidences les *yongso* (용소) — *mares-dragon* — bassins profonds nichés sous les cascades, dont les eaux ne s'épuisent jamais. Chaque province coréenne possède ses yongso traditionnels, lieux de prière pour la pluie en temps de sécheresse. Les puits anciens, surtout ceux d'origine royale, sont également considérés comme passages directs vers le palais sous-marin.
+
+Au ciel, le yong vole à travers les nuages. Les nuages d'orage, dits *yong-gureum* (용구름, *nuages-dragon*) sont sa monture visible. Les éclairs sont les éclats de ses écailles ; le tonnerre, son rugissement.
+
+## DESCRIPTION
+
+Le yong combine des éléments empruntés à neuf créatures, selon la tradition partagée avec la Chine mais réinterprétée en Corée. Il a la tête du chameau, les bois du cerf, les yeux du démon, le cou du serpent, le ventre du coquillage, les écailles de la carpe, les serres de l'aigle, les pattes du tigre, les oreilles du bœuf.
+
+Son corps est allongé, serpentin, sans ailes — il vole par la seule vertu de sa perle céleste. Ses écailles sont au nombre de quatre-vingt-une, en deux séries : trente-six écailles bénéfiques sur le devant, quarante-cinq écailles renversées en arrière. Tirer sur une écaille renversée provoque la colère mortelle du dragon.
+
+Ses griffes sont l'objet d'un détail iconographique précis dans la tradition coréenne : le yong porte généralement *quatre griffes* à chaque patte, contre cinq pour le dragon impérial chinois et trois pour le dragon japonais. Cette distinction n'est pas purement esthétique : elle marque le rang particulier du yong coréen dans la hiérarchie des dragons d'Asie orientale.
+
+Sa couleur principale, dans l'iconographie coréenne classique, est le bleu profond ou le vert-jade, parfois le doré pour les rois-dragons des palais sous-marins. Sous la mâchoire pend une perle lumineuse, *yeouiju* (여의주), qui contient sa puissance et lui permet de monter au ciel.
+
+## POUVOIRS
+
+La *maîtrise des pluies* est son pouvoir principal. Le yong commande aux nuages, libère ou retient les averses, gonfle les rivières en crue, calme les tempêtes. Toute la riziculture coréenne traditionnelle dépendait de sa bienveillance ; les rituels de prière pour la pluie (*giuje*) lui étaient adressés en priorité.
+
+La *transformation* lui permet d'apparaître sous forme humaine — généralement en homme âgé barbu vêtu de bleu, ou en jeune cavalier majestueux. De nombreux contes racontent des rencontres entre voyageurs et étrangers nobles révélés par la suite comme des yong déguisés.
+
+La *création de tempêtes maritimes* fait partie de sa souveraineté océanique. Le Yongwang de la mer de l'Est est notamment réputé soulever de gigantesques vagues lorsqu'il quitte ou regagne son palais.
+
+L'*octroi de fils royaux* relève d'un pouvoir plus subtil. Une mère stérile qui rêve d'un dragon entrant par sa fenêtre conçoit, selon la tradition (*taemong*, songe de gestation), un fils destiné à la grandeur. Plusieurs rois et grands lettrés de l'histoire coréenne ont leur naissance ainsi annoncée.
+
+La *longévité accordée* relève de sa perle. Quiconque obtiendrait la *yeouiju* du dragon verrait ses vœux exaucés et sa vie prolongée — mais aucune tradition coréenne ne raconte de réussite humaine en ce domaine.
+
+## FAIBLESSES
+
+Le yong est vulnérable à la *transgression du pacte rituel*. Si la communauté humaine néglige les rites annuels qui lui sont dus, il peut se retirer dans ses profondeurs, provoquant sécheresse et famine — mais cette retraite est aussi sa propre punition, car il dépérit sans les offrandes.
+
+La perte de la *yeouiju* est sa faiblesse majeure. Sans sa perle, le dragon ne peut plus voler, ni commander à la pluie. Quelques contes mentionnent des dragons rivaux qui se disputent la perle, le perdant retombant à l'état d'imugi.
+
+Le *fer froid* — comme dans bien des traditions d'Eurasie — peut le blesser, surtout sous sa forme transformée d'homme. Une lame trempée dans l'eau pure, brandie avec courage, peut briser son enchantement.
+
+L'*écaille renversée* (*yeokrin*, 역린) constitue le point névralgique sino-coréen classique : elle se trouve sous la gorge, à rebours des autres écailles. La toucher provoque une fureur destructrice ; mais elle est aussi le seul point où une lame peut véritablement pénétrer.
+
+## COMPORTEMENT
+
+Le yong agit par cycles. Il dort la majeure partie de l'année dans son palais ou dans son yongso terrestre. Au printemps, il s'éveille, monte au ciel, et préside les pluies de la saison de plantation. À l'été, il combat les sécheresses, ou bien punit par les typhons les communautés qui l'ont offensé. À l'automne, il redescend ; à l'hiver, il s'endort à nouveau.
+
+Lorsque deux yong se rencontrent dans le ciel, ils dansent en spirale autour d'une perle commune — image classique de la cosmologie coréenne, représentée d'innombrables fois dans la peinture de palais et la céramique. Ce face-à-face n'est jamais combat : c'est échange, équilibre, coopération.
+
+Avec les humains, le yong est généralement courtois. Il visite les ermites vertueux, dialogue avec les rois sages, accepte les offrandes des paysans. Mais il ne tolère pas l'orgueil. Quiconque prétend dompter un dragon, ou refuse les rites, le voit se transformer en force destructrice.
+
+## RÉCITS TRADITIONNELS
+
+Le récit le plus diffusé est celui du Yongwang de la mer de l'Est et du jeune lapin. Pour soigner sa fille malade, le roi-dragon doit obtenir un foie de lapin terrestre. Il envoie sa tortue messagère convaincre un lapin du rivage de venir au palais, en lui promettant honneurs et richesses. Le lapin se laisse convaincre, mais une fois sous la mer, comprend qu'il sera sacrifié. Par ruse, il prétend avoir laissé son foie sur terre. Ramené sur le rivage, il s'enfuit. Cette fable, transmise dans le pansori *Sugungga*, illustre à la fois la grandeur du Yongwang et la vulnérabilité de sa puissance face à la ruse mortelle.
+
+Un autre récit majeur concerne le roi Munmu de Silla, qui demanda à sa mort à être incinéré et ses cendres jetées dans la mer de l'Est, afin qu'il devienne yong et protège le royaume contre les pirates japonais. Le rocher submergé de Daewangam, près de Gyeongju, est, dit-on, le tombeau-passage où le roi-dragon Munmu monte la garde éternelle.
+
+Un troisième récit, transmis dans plusieurs régions, raconte le combat d'un yong et d'un imugi rivaux pour l'ascension céleste. Une jeune fille pieuse, témoin du combat, désigne par sa parole celui qu'elle estime digne. Le yong s'élève ; l'imugi est précipité dans un lac où il continue d'attendre.
+
+## VARIANTES RÉGIONALES
+
+À Jeju, le yong se confond parfois avec les *yongwang halmang* — grand-mère-dragon des récits insulaires, figure plus matriarcale liée aux plongeuses haenyeo. Le palais sous-marin y est plus proche, accessible aux femmes de la mer.
+
+Dans le nord, en Hamgyong, certains récits décrivent un yong à la queue fourchue qui hante les rivières profondes et exige le sacrifice annuel d'un coq blanc.
+
+Dans le sud, à Jeolla, la tradition des *yongso* est particulièrement développée : presque chaque village possède sa mare-dragon et ses récits propres d'apparition.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire contemporaine — k-dramas historiques, jeux vidéo coréens (notamment ceux exploitant le folklore médiéval), webtoons — a popularisé une figure du yong souvent simplifiée ou hybridée avec l'imaginaire occidental.
+
+- L'idée que le yong serait un *guerrier dragon* combattant aux côtés d'un héros humain relève davantage du tropisme japonais (kirin compagnon) que de la tradition coréenne authentique, où le yong est une force cosmique distante.
+- Les représentations modernes lui donnent fréquemment cinq griffes, par confusion avec le dragon impérial chinois. La tradition coréenne authentique en compte quatre.
+- Le yong des dramas est souvent montré en combat singulier contre des héros — situation rarissime dans le folklore réel, où le dragon n'est presque jamais adversaire mais médiateur ou protecteur.
+- L'association entre yong et lignée royale est authentique mais simplifiée : la tradition originale insiste sur le *taemong*, le rêve prophétique, et non sur une parenté biologique directe.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le yong abonde dans l'art coréen. Les peintures murales des tombes de Goguryeo (IVe-VIIe siècle) montrent les dragons des quatre directions, dont le *Cheongnyong* (dragon bleu) gardien de l'Est. La peinture de palais de la dynastie Joseon (XIVe-XIXe siècle) le représente sur les plafonds des salles du trône, dansant autour de la perle céleste.
+
+Les tuiles d'extrémité (*makesae*) des temples bouddhiques et des palais portent souvent un yong stylisé. Les robes royales (*gonryongpo*) brodaient le dragon à quatre griffes — distinction officielle avec la cour chinoise. La céramique céladon de Goryeo (Xe-XIVe siècle) et la porcelaine bleu-blanc de Joseon (XVe-XIXe siècle) décorent vases, jarres et bols de yong serpentins.
+
+Dans les peintures populaires *minhwa*, le yong apparaît souvent avec la perle et les nuages, dans un style plus naïf et coloré, pour porter chance à la maison.
+
+## POUR ALLER PLUS LOIN
+
+Les récits fondateurs apparaissent dans le *Samguk Sagi* (1145) et le *Samguk Yusa* (vers 1281), compilations historiques des trois royaumes anciens. Le pansori *Sugungga* (« Chant du palais sous-marin ») transmet en chant épique les démêlés du Yongwang et du lapin. Les traditions chamaniques des mu-dang préservent les invocations au Yongsin lors des rites de pluie et des cérémonies en bord de mer.
+
+L'iconographie est conservée dans les musées de Séoul, Gyeongju et Jeju, ainsi que dans les peintures murales encore visibles dans les palais de Gyeongbok et de Changdeok.

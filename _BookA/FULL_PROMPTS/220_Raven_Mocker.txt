@@ -1,0 +1,187 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Raven_Mocker
+  Tradition : Amerindien Nord
+═══════════════════════════════════════════════
+
+
+# RAVEN MOCKER
+
+## SIGNIFICATION DU NOM
+
+Le terme cherokee *Kâ'lanû Ahkyeli'skï* — où *kâ'lanû* désigne le *corbeau* et *ahkyeli'skï* signifie *celui qui imite, qui contrefait* — est traditionnellement rendu en anglais par *Raven Mocker*, *l'imitateur du corbeau*. Le nom décrit la créature par son cri caractéristique : lorsqu'il se déplace en plein vol vers la maison d'un mourant, il pousse un cri rauque et descendant qui imite parfaitement celui du corbeau ordinaire, mais avec une sonorité plus aiguë et plus inquiétante.
+
+Le nom est descriptif et fonctionnel. Il ne désigne pas une créature unique mais un *type* de sorcier maléfique — chaque Raven Mocker étant un être individuel, ancien sorcier humain corrompu, qui a accédé à cet état par un long apprentissage de pratiques interdites.
+
+## ORIGINE
+
+Le Raven Mocker n'est pas une créature primordiale ni un esprit de catégorie séparée. C'est un *humain qui s'est corrompu*. La tradition cherokee précise que toute personne — homme ou femme — peut devenir Raven Mocker en s'engageant dans certaines pratiques de sorcellerie noire qui prolongent la vie au prix de l'absorption de la vitalité d'autres êtres humains.
+
+Cette corruption est progressive. Elle commence par l'apprentissage de formules incantatoires interdites, transmises de Raven Mocker en Raven Mocker dans une lignée occulte. Elle se poursuit par l'usage croissant de ces formules pour soustraire la vie d'autrui. Elle s'achève par la transformation complète : le sorcier perd son apparence humaine ordinaire, acquiert le pouvoir de vol, et devient capable des actes spécifiques qui le définissent.
+
+Le Raven Mocker n'est donc pas né tel — il s'est *fait* tel. Cette dimension transformative en fait l'équivalent typologique cherokee de figures comme le *Skinwalker* navajo : sorcier humain ayant traversé une corruption irréversible.
+
+## NATURE
+
+Le Raven Mocker est *vampire* dans le sens technique : il prolonge sa propre vie en absorbant celle d'autrui. Mais à la différence du vampire européen qui boit le sang de ses victimes, il *dévore le cœur* — organe symboliquement central, siège de la vie selon la conception cherokee.
+
+Sa nature est *charognarde* sans être attirée par la chair morte ordinaire. Il vise spécifiquement les *mourants*, ceux dont la mort est imminente mais pas encore advenue. Ce timing précis — entre la maladie sérieuse et la mort effective — est sa fenêtre.
+
+Sa nature est *individuelle*. Chaque Raven Mocker agit pour son propre compte, prolonge sa propre vie. Il n'y a pas de communauté de Raven Mockers, pas de société, pas de hiérarchie — seulement une lignée occulte de transmission des techniques.
+
+Il est enfin *vieux*. Tous les récits insistent : le Raven Mocker est ancien, parfois plusieurs siècles d'âge, prolongé artificiellement par les vies absorbées.
+
+## HABITAT
+
+Le Raven Mocker n'a pas d'habitat fixe. Sous sa forme ordinaire — celle qu'il prend lorsqu'il ne chasse pas — il vit comme un humain ordinaire dans un village cherokee, parmi les autres. Personne ne le reconnaît. Il a une cabane, peut-être une famille, peut-être un statut. C'est précisément cette dissimulation parfaite qui rend la figure si redoutée.
+
+Lorsqu'il chasse — c'est-à-dire lorsqu'il a appris qu'un mourant approche de la fin dans un village voisin — il quitte sa forme humaine ordinaire et part en vol. Sa zone de chasse s'étend sur plusieurs vallées, partout où les vieillards et les malades meurent.
+
+## DESCRIPTION
+
+Le Raven Mocker a deux apparences distinctes, ce qui le rend difficile à reconnaître.
+
+Sous sa *forme ordinaire*, il est un vieil homme ou une vieille femme cherokee d'apparence parfaitement normale. Rien dans son aspect physique ne le distingue. Tout au plus les conteurs traditionnels notent-ils que ces individus paraissent plus *desséchés*, plus *parcheminés* que leurs congénères, comme si leur prolongation anormale de vie laissait cette marque subtile.
+
+Sous sa *forme de chasse*, il devient un être ailé volant. Son corps reste humanoïde mais s'allège ; il acquiert des ailes (parfois décrites comme membraneuses, parfois comme couvertes de plumes noires) ; il glisse dans le ciel nocturne avec un cri de corbeau. Sa silhouette en vol est précédée et suivie de *traînées d'étincelles* — détail constant des récits qui distinguent visuellement le Raven Mocker des oiseaux de nuit ordinaires.
+
+## POUVOIRS
+
+Le *vol* lui permet de couvrir les distances entre les villages très rapidement. Il arrive à la cabane du mourant en quelques minutes après avoir appris la nouvelle.
+
+L'*invisibilité partielle* lui permet d'entrer dans la cabane sans être perçu par la famille du mourant — sauf si un *homme-médecine* est présent, doté de pouvoirs spécifiques contre lui (voir Faiblesses).
+
+L'*extraction du cœur sans blessure visible* est son acte central. Il ouvre invisiblement la poitrine du mourant, retire le cœur, le dévore, et referme la poitrine sans laisser de marque. Le mourant meurt dans les minutes ou les heures qui suivent ; les proches ne soupçonnent rien d'anormal.
+
+La *prolongation de vie* qui en résulte se compte en années pour chaque cœur dévoré. Les jours que la victime aurait encore vécus sont ajoutés au compte du Raven Mocker. Ainsi il prolonge sa vie au-delà de toute longévité humaine ordinaire — certains Raven Mockers atteignent des âges de plusieurs siècles.
+
+L'*imitation des sons* — particulièrement du cri du corbeau — fait partie de sa nature transformée. Mais il peut aussi imiter d'autres sons familiers pour égarer les vivants qui chercheraient à le détecter.
+
+## FAIBLESSES
+
+La principale faiblesse du Raven Mocker est l'*homme-médecine cherokee dûment formé*. Certains guérisseurs spécialisés savent reconnaître la présence d'un Raven Mocker. Lorsqu'un mourant est veillé par un homme-médecine compétent, qui prononce les bonnes formules et brûle les bonnes herbes, le Raven Mocker ne peut entrer dans la cabane. S'il insiste, il peut être *vu* par l'homme-médecine, et là réside la vulnérabilité critique : un Raven Mocker vu et reconnu mourra dans les sept jours.
+
+Cette règle de la *sept-jours fatale* est constante dans la tradition cherokee. Une fois identifié, le Raven Mocker n'a plus d'échappatoire — son pouvoir s'effondre, et la mort qu'il a si longtemps reportée le rattrape brutalement.
+
+Les *formules incantatoires anti-Raven-Mocker* sont conservées dans le savoir des hommes-médecine traditionnels. Elles incluent des invocations à certains esprits gardiens et l'usage de plantes spécifiques (notamment certaines préparations à base d'écorce et de tabac).
+
+Le *feu sacré* maintenu près du mourant est dit *dissuader* le Raven Mocker, particulièrement s'il est entretenu avec des bois précis (cèdre, hickory).
+
+L'*assemblée nombreuse* autour du mourant le décourage : il préfère les cabanes où le malade est veillé par peu de gens. Cette règle fondait la pratique cherokee de veiller en grand nombre les agonisants.
+
+## COMPORTEMENT
+
+Le Raven Mocker mène une double vie. Le jour, il est ordinaire — vieil homme ou vieille femme du village, participant aux activités communes, peut-être même siégeant dans les conseils. Il dissimule. Il observe. Il écoute attentivement les nouvelles concernant les malades du voisinage.
+
+La nuit, lorsqu'il a appris qu'un mourant approche de la fin, il sort. Il prend sa forme de chasse. Il vole en imitant le cri du corbeau, parfois aussi celui d'autres oiseaux. Il arrive à la cabane. Il observe pour vérifier qu'aucun homme-médecine ne veille. Il entre invisiblement. Il extrait le cœur. Il dévore. Il repart.
+
+Sa stratégie d'évitement repose sur trois principes : *jamais le même village deux nuits de suite* (pour éviter d'être identifié), *jamais quand un homme-médecine veille* (pour éviter d'être vu), *toujours imiter d'autres bruits familiers* (pour brouiller les pistes).
+
+Il est *solitaire*. Il ne collabore pas avec d'autres Raven Mockers — au contraire, il les craint et les évite, car le territoire est limité et les occasions sont disputées.
+
+## RÉCITS TRADITIONNELS
+
+Plusieurs récits cherokee, collectés à la fin du XIXe siècle, documentent les rencontres et les défaites de Raven Mockers.
+
+Un récit célèbre raconte qu'un homme-médecine veillait un vieillard mourant dans une cabane des Smoky Mountains. La nuit était profonde. Soudain, l'homme-médecine entendit un cri de corbeau au-dehors, suivi d'un bruit de vent dans le toit. Il tendit l'oreille. Le bruit se rapprocha. L'homme-médecine prononça la formule appropriée. Devant ses yeux apparut une vieille femme qu'il reconnut — elle vivait dans un village voisin et avait dépassé l'âge ordinaire d'une bonne vingtaine d'années. Elle se figea. Elle tenta de protester, de fuir. L'homme-médecine la fixa du regard et prononça la confirmation de l'identification. Elle disparut. Le vieillard mourut paisiblement à l'aube. Sept jours plus tard exactement, la vieille femme du village voisin fut retrouvée morte dans sa cabane, sans cause apparente.
+
+Un autre récit raconte qu'un jeune homme-médecine encore inexpérimenté veillait son grand-père mourant. Il entendit les bruits caractéristiques mais ne savait pas les formules complètes. Il tenta seulement de les approximer. Le Raven Mocker entra quand même. Le grand-père mourut dans la nuit. Le jeune homme-médecine, sentant qu'une présence était passée, prit conseil auprès d'un aîné le lendemain. L'aîné lui apprit les formules complètes, mais il était trop tard. Le jeune homme apprit ainsi à ses dépens l'importance de la formation rigoureuse.
+
+Un troisième récit rapporte qu'un Raven Mocker fut une fois identifié alors qu'il avait dévoré le cœur d'un chef estimé. Sa cabane fut surveillée. Au septième jour, il fut retrouvé mort, son corps anormalement desséché — comme si toute la vie volée s'évaporait soudainement, le ramenant à l'âge réel qu'il aurait dû avoir.
+
+## VARIANTES RÉGIONALES
+
+Chez les Cherokee de l'Est (Smoky Mountains), la tradition du Raven Mocker reste vivante et précise. Les hommes-médecine actuels conservent la connaissance des formules de protection, et les récits de rencontres récentes continuent de circuler.
+
+Chez les Cherokee de l'Ouest (Oklahoma), la tradition s'est maintenue, parfois croisée avec d'autres traditions du sud-est avec lesquelles la déportation a mis en contact les Cherokee : ainsi le Raven Mocker est parfois confondu — à tort — avec le *Stikini* (sorcier-hibou des Seminole et Creek), qui est une figure proche mais distincte.
+
+Une variante mineure concerne le mode d'approche : certains récits décrivent le Raven Mocker comme volant à très basse altitude, parfois rampant même au sol près de la cabane, plutôt qu'arrivant en vol haut.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Raven Mocker est régulièrement assimilé, dans la culture populaire, au *vampire* européen — assimilation qui manque l'essentiel. Le vampire européen boit le sang ; le Raven Mocker dévore le cœur. Le vampire européen est mort-vivant ; le Raven Mocker est vivant, simplement prolongé. Le vampire européen craint l'ail, la croix, le soleil ; le Raven Mocker craint l'homme-médecine cherokee et ses formules spécifiques.
+
+Il ne doit pas non plus être confondu avec le *Stikini* (sorcier-hibou des Seminole et Creek), qui est une figure distincte du sud-est : le Stikini se transforme entièrement en hibou et vomit ses organes internes avant la chasse, ce que le Raven Mocker ne fait pas.
+
+L'idée que le Raven Mocker serait un *fantôme* ou un *esprit des morts* est erronée. C'est un humain corrompu vivant, identifiable, ayant un nom et une cabane dans un village. Sa défaite consiste précisément en sa mort réelle, longtemps reportée.
+
+Les représentations modernes qui en font une figure générique de « sorcier indien » manquent la spécificité cherokee : la transformation par apprentissage occulte, la cible précise (mourants), l'organe précis (cœur), la durée précise de fatalité après identification (sept jours), et l'institution rituelle qui le combat (l'homme-médecine veillant les mourants).
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le Raven Mocker n'est pas représenté directement dans l'art cherokee préservé — la tradition d'évitement de la nomination directe (parler du Raven Mocker peut l'attirer) s'oppose à sa figuration explicite.
+
+Quelques motifs des poteries cherokee précolombiennes (culture Mississippienne tardive du sud-est) montrent un grand corbeau aux ailes déployées, parfois encerclé d'étincelles ou de motifs de feu, qui a été interprété par certains chercheurs comme une représentation indirecte du Raven Mocker.
+
+La toponymie traditionnelle conserve quelques *raven mocker rocks* dans les Smoky Mountains — lieux où des Raven Mockers identifiés ont été retrouvés morts au septième jour. Ces sites font partie d'une iconographie paysagère de la mémoire des défaites du sorcier-vampire.
+
+## POUR ALLER PLUS LOIN
+
+Les principales sources sur le Raven Mocker proviennent des collectes ethnographiques cherokee menées à la fin du XIXe siècle, notamment auprès des hommes-médecine traditionnels qui détenaient les formules de protection. Les récits de rencontres ont été documentés en plusieurs versions concordantes. La tradition reste active dans les communautés cherokee contemporaines, où les pratiques de veille des mourants conservent des éléments hérités de la défense contre le Raven Mocker.

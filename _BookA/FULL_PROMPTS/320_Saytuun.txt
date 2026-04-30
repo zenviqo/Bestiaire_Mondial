@@ -1,0 +1,129 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Saytuun
+  Tradition : Corne Afrique
+═══════════════════════════════════════════════
+
+
+# SAYTUUN
+
+## SIGNIFICATION DU NOM
+
+*Saytuun* est un terme somali désignant une classe d'esprits maléfiques — le terme est probablement une adaptation somalienne de l'arabe *Shaytān* (Satan, démon) qui a été localisé et appliqué aux esprits malveillants préislamiques de la tradition somalienne. L'adoption du terme arabe pour désigner des entités préislamiques est caractéristique de la syncrèse islamo-animiste des cultures somalienne et afar. Dans la pratique orale, *Saytuun* et *Shaydaan* sont souvent utilisés de manière interchangeable pour désigner des entités maléfiques.
+
+## ORIGINE
+
+Les Saytuun s'inscrivent dans un système complexe d'entités surnaturelles de la tradition somalienne qui préexistait à l'islamisation (début 1er millénaire CE) et s'est maintenu en syncrèse avec les concepts islamiques de djinns et de démons. I.M. Lewis, dont les travaux anthropologiques sur les Somalis (1950-2000) constituent la référence académique principale, documente un spectre complet d'entités surnaturelles somaliens, dont les Saytuun occupent la zone la plus clairement maléfique. Des traditions orales pastorales somaliens préservent des récits de Saytuun transmis entre générations de bergers et d'agriculteurs.
+
+## NATURE
+
+Les Saytuun sont des esprits fondamentalement maléfiques — ils ne peuvent pas être négociés comme les Zar ou les Sar (esprits qui peuvent être apaisés et coexister avec leurs hôtes). Ils habitent des arbres spécifiques, des carrefours, des sites d'eau, et des zones désertiques, et attaquent les humains qui empiètent sur leurs territoires. Leur mode d'action principal est la possession ou la maladie — un humain qui entre dans le territoire d'un Saytuun peut être "frappé" et tomber malade ou se comporter de manière anormale.
+
+## HABITAT
+
+Les Saytuun habitent des arbres spécifiques — particulièrement des grands arbres anciens dans des zones semi-arides (*akasia* géantes, grands figuiers sauvages, *celaak* — arbres considérés comme supernaturellement chargés). Des carrefours de routes pastorales dans le bush somalien sont aussi leurs habitats. Des sources d'eau permanentes dans des zones arides peuvent être gardées par des Saytuun. Des zones rocheuses et des gorges isolées.
+
+## DESCRIPTION
+
+Les Saytuun ne sont généralement pas visibles sous une forme physique ordinaire — ils sont des présences invisibles qui se manifestent par leurs effets (maladie soudaine, comportement anormal, accidents) plutôt que par des apparitions visuelles. Dans certains contextes de possession, un Saytuun peut se manifester à travers la personne possédée — le possédé peut adopter une posture, une voix, et un comportement différents de sa personnalité ordinaire. Dans des récits oraux, des Saytuun peuvent parfois être vus par des personnes dotées de vision surnaturelle — ils prennent alors des formes variées (animales ou partiellement humaines).
+
+## POUVOIRS
+
+Possession — ils peuvent s'emparer de l'esprit d'un humain qui a transgressé leur territoire ou leur tabou. Induction de maladies — particulièrement des maladies mentales (comportement erratique, délires, agitation) et des maladies physiques soudaines et inexpliquées. Attaque de bétail — des morts soudaines inexpliquées dans les troupeaux peuvent leur être attribuées. Protection de leur territoire par la terreur — les zones connues pour abriter des Saytuun sont évitées.
+
+## FAIBLESSES
+
+Des *wadaado* (religieux islamiques somaliens — specialists du rituel islamique) peuvent effectuer des cérémonies d'exorcisme (*ruqya*) pour chasser un Saytuun d'un possédé. Des récitations coraniques — la syncrèse islamo-animiste somalienne utilise des formules islamiques contre des entités préislamiques. Des *xeer* (règles coutumières somaliens) gouvernent le comportement aux abords des sites connus pour abriter des Saytuun — les respecter empêche les attaques. Des spécialistes rituels (*wadaado*, *duqa*) peuvent negocier avec certains Saytuun.
+
+## COMPORTEMENT
+
+Les Saytuun réagissent aux transgressions — une personne qui coupe un arbre habité par un Saytuun sans rituels propitiatoires, qui urine près de leur site, qui perturbe leur environnement, est susceptible d'être attaquée. Ce comportement réactif aux transgressions humaines est caractéristique — les Saytuun ne sont pas des prédateurs actifs mais des entités territoriales qui punissent les intrus. Dans des contextes pastoraux somaliens, la connaissance des sites à Saytuun est une compétence de survie pratique.
+
+## RÉCITS TRADITIONNELS
+
+Un récit pastoral somali (collecté dans la région de Somaliland) : un berger étend ses troupeaux dans une zone que les aînés lui ont dit d'éviter — sous un grand acacia considéré comme la demeure d'un Saytuun. Il n'y prête pas attention. La nuit suivante, il tombe dans un état de fièvre et de délire. Son comportement est étrange — il parle d'une voix différente et dit des choses qu'il ne dirait jamais ordinairement. Un *wadaad* (religieux) est consulté — il détermine qu'un Saytuun est entré dans le berger. Une cérémonie est organisée : récitations coraniques, encens, sacrifices. Le berger revient à lui après une nuit de rituel et promet de ne plus approcher le grand acacia.
+
+Un autre récit : deux voyageurs font halte à un carrefour la nuit. L'un d'eux voit une forme sombre assise à l'écart — il réalise trop tard que c'est un Saytuun. Il est paralysé de peur. Son compagnon plus expérimenté récite des formules protectrices et les deux repartent rapidement. Le lendemain matin, ils apprennent que ce carrefour est connu pour ses Saytuun.
+
+## VARIANTES RÉGIONALES
+
+Le système des esprits somaliens est complexe — les Saytuun s'inscrivent dans un spectre avec des Sar (esprits plus neutres ou bénins) et des Zar (esprits de possession traités par des rituels spécifiques, documentés en Éthiopie — déjà dans ce bestiaire). Des entités maléfiques dans des traditions afar (voisins des Somaliens) ont des caractéristiques similaires. Des djinns maléfiques dans des traditions arabisées de la Corne de l'Afrique. La spécificité des Saytuun somaliens est leur association avec des sites physiques précis du bush somalien — des arbres, des carrefours, des sources.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les traditions de Saytuun sont documentées dans des publications anthropologiques sur la Somalie — I.M. Lewis est la référence principale. Des études sur la médecine traditionnelle somalienne incluent des analyses de la possession par les Saytuun et des pratiques thérapeutiques associées. Des communautés de la diaspora somalienne (en Europe, en Amérique du Nord) maintiennent des connaissances sur les Saytuun dans des contextes de syncrèse islamique-traditionnelle.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des ex-votos et des amulettes de protection somaliens (*hirzi* — petits étuis contenant des versets coraniques) utilisés contre les Saytuun. Des représentations dans des manuscrits islamiques somaliens illustrant des entités démoniaques. Des artefacts rituels utilisés par les *wadaado* dans des cérémonies de protection ou d'exorcisme contre les Saytuun.
+
+## POUR ALLER PLUS LOIN
+
+Les Saytuun illustrent le processus d'hybridation entre une tradition animiste locale et une tradition religieuse mondiale (l'islam) — le même phénomène qu'on observe dans des traditions de djinns à travers le monde islamique. Des esprits préislamiques territoriaux somaliens qui habitaient des arbres et des carrefours ont été renommés avec la terminologie islamique (*Shaytān* → Saytuun) sans perdre leurs caractéristiques originales. Cette hybridation est pragmatique : elle permet aux praticiens rituels d'utiliser à la fois les outils islamiques (récitations coraniques, *ruqya*) et les outils animistes traditionnels contre les mêmes entités. Le résultat est un système rituel plus riche que chacune de ses composantes, adapté à une culture qui est sincèrement islamique tout en maintenant un rapport au monde naturel et surnaturel hérité d'une tradition préislamique.

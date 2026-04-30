@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Quinametzin
+  Tradition : Azteque
+═══════════════════════════════════════════════
+
+
+# QUINAMETZIN
+
+## SIGNIFICATION DU NOM
+
+*Quinametzin* est le pluriel nahuatl de *quinametl* — un terme désignant les géants dans la cosmologie aztèque. L'étymologie exacte du terme est discutée dans la nahuatlologie, mais le mot est clairement établi comme désignant des êtres de stature colossale dans les textes nahuatls précoloniaux et coloniaux. Dans les récits cosmologiques aztèques, les Quinametzin sont les créatures qui peuplaient la Terre pendant le Troisième Soleil (*Tonatiuh*) — l'ère cosmique précédant la nôtre.
+
+## ORIGINE
+
+Les Quinametzin apparaissent dans la cosmologie des Cinq Soleils aztèque — le système cosmologique qui divise le temps en cinq grandes ères cosmiques successives, chacune se terminant par une catastrophe. La *Leyenda de los Soles* (texte nahuatl post-conquête compilé vers 1558 d'après traditions orales préhispaniques), le Codex Vaticanus A, et d'autres sources coloniales préservent le récit de ces géants. Sahagún dans sa *Historia General* (années 1570) mentionne les Quinametzin dans ses descriptions de la cosmologie aztèque recueillie auprès de ses informateurs indigènes.
+
+## NATURE
+
+Les Quinametzin sont les habitants gigantesques du Troisième Soleil (*Teyolloqualo Tonatiuh* — le Soleil des Ténèbres, selon certaines traditions ; d'autres sources placent les géants au Troisième Soleil de Pluie de Feu). Leur nature est celle de créatures primordiales de l'ère antérieure — ni entièrement divines ni ordinairement humaines. Ils existaient dans des conditions cosmiques différentes des conditions actuelles et leur taille colossale reflétait les proportions différentes de leur époque. La catastrophe cosmique (pluie de feu ou eau selon les versions) qui termina leur ère les détruisit entièrement — ou presque.
+
+## HABITAT
+
+Les Quinametzin habitaient la Terre de leur ère cosmique — la même terre géographique que les Aztèques mais dans une configuration cosmique différente. Après leur destruction, certains récits aztèques et coloniaux suggèrent que leurs ossements persistaient dans le sol mexicain — des découvertes d'os de grandes dimensions (vraisemblablement des ossements de mammouths ou de mastodontes) étaient interprétées comme les restes des Quinametzin. Des zones spécifiques du Mexique central, particulièrement la région de Tlaxcala et des Hautes-Terres, étaient associées aux récits de Quinametzin.
+
+## DESCRIPTION
+
+Les Quinametzin sont décrits comme des êtres de stature colossale — suffisamment grands pour que des humains ordinaires leur arrivent aux genoux ou à la hanche. Leur taille est telle qu'ils peuvent "jouer à la balle" avec des rochers et déplacer des monolithes que les humains ne peuvent pas bouger. Physiquement, ils ressemblent à des humains mais en démesurément amplifiés — des bras comme des troncs d'arbres, des pieds laissant des empreintes dans la roche. Certains récits leur attribuent des capacités physiques proportionnellement augmentées : ils peuvent démolir des collines et édifier des pyramides en peu de temps.
+
+## POUVOIRS
+
+Force colossale — ils pouvaient déplacer des masses que les humains ne peuvent pas bouger. Dans certaines traditions coloniales, les grandes constructions mégalithiques préaztèques (comme les pyramides de Teotihuacan) étaient attribuées aux Quinametzin comme seuls êtres capables de les édifier. Construction mégalithique. Résistance aux forces ordinaires — seule une catastrophe cosmique (pluie de feu, déluge) peut les détruire collectivement.
+
+## FAIBLESSES
+
+La catastrophe cosmique de la fin de leur Soleil — la pluie de feu (*tletl*, dans la version du Troisième Soleil comme destruction par le feu) les a détruits comme collectivité. Dans quelques récits, des Quinametzin individuels pouvaient être confrontés par des héros ou des guerriers extraordinaires, mais c'est rare dans la tradition principale.
+
+## COMPORTEMENT
+
+Dans la tradition aztèque, les Quinametzin sont principalement définis par leur existence à une époque révolue plutôt que par un comportement contemporain — ils n'interagissent pas avec les humains du temps présent. Cependant, dans des traditions de contact colonial, des récits mexicains post-conquête incluent des rencontres avec des survivants de géants — des "derniers Quinametzin" cachés dans des zones reculées. Ces récits de contact sont moins fiables mythologiquement mais témoignent de la vitalité de la figure dans l'imaginaire mésoaméricain.
+
+## RÉCITS TRADITIONNELS
+
+Tiré de la *Leyenda de los Soles* et des sources coloniales : au temps du Troisième Soleil, la Terre était peuplée par une race de géants — les Quinametzin. Ils vivaient dans les grandes plaines et les montagnes, édifiant des structures immenses. La fin de leur ère cosmique survint avec une catastrophe — selon les versions, une pluie de feu (tezonpoctli) ou d'autres cataclysmes. Tous les Quinametzin furent détruits, laissant seulement leurs ossements dans la terre. Les Aztèques, découvrant parfois de grands os dans le sol (de mammouths ou de mastodontes), les identifiaient comme les restes des Quinametzin. Dans des textes coloniaux, des conquistadors et des chroniqueurs mentionnent que les Mexicas leur montraient des ossements de grande taille qu'ils désignaient comme "os de Quinametzin".
+
+## VARIANTES RÉGIONALES
+
+Des géants appartenant à des ères cosmiques antérieures existent dans de nombreuses traditions mésoaméricaines — des géants dans des traditions mayas, mixtèques, et zapotèques. Dans des traditions nord-américaines, des géants qui précèdent l'humanité actuelle sont aussi documentés. La spécificité des Quinametzin aztèques est leur intégration précise dans le système des Cinq Soleils — ils sont les habitants de l'ère troisième, ni premiers ni actuels. Les ossements de mégafaune paléontologique retrouvés au Mexique ont fourni une base matérielle pour les récits de Quinametzin.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les Quinametzin sont documentés dans des études de la cosmologie aztèque et mésoaméricaine. Des archéologues du Mexique colonial et des humanistes du XVIe siècle (Sahagún, Motolinía, Torquemada) documentent les récits de Quinametzin et leurs relations avec des découvertes paléontologiques. Des publications académiques de mésoaméricanistes contemporains (David Carrasco, Alfredo López Austin) traitent des Quinametzin dans le contexte de la cosmologie aztèque. Des artistes mexicains contemporains représentent les Quinametzin dans des œuvres de muralisme et d'illustration.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de géants dans des codices aztèques — le Codex Vaticanus A et le Codex Chimalpopoca incluent des scènes cosmologiques qui peuvent représenter les Quinametzin ou leur destruction. Des fresques de sites archéologiques de la région de Tlaxcala incluent des figures de grande stature qui pourraient être des Quinametzin. Des sculptures monumentales aztèques présentent parfois des proportions qui rappellent les êtres de la cosmologie primordiale.
+
+## POUR ALLER PLUS LOIN
+
+Les Quinametzin illustrent la manière dont les cultures élaborent des explications pour les découvertes paléontologiques. Des ossements de mammouths et de mastodontes étaient fréquemment découverts au Mexique central lors de travaux agricoles ou de constructions. Sans cadre scientifique permettant d'identifier ces os comme appartenant à des animaux préhistoriques, la cosmologie aztèque proposait une explication cohérente : ces os sont ceux de la race gigantesque qui précédait l'humanité actuelle. Cette explication est rationnelle dans son cadre de référence — si des géants ont existé dans une ère cosmique précédente, il est logique que leurs ossements persistent dans le sol. Le Mexique colonial des XVIe et XVIIe siècles a ainsi vu une rencontre fascinante entre la paléontologie naissante européenne et la cosmologie aztèque : les chroniqueurs espagnols documentaient les mêmes ossements avec deux cadres interprétatifs différents (paléontologie vs. Quinametzin) sans pouvoir résoudre la contradiction.

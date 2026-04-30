@@ -1,0 +1,197 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Tabaran
+  Tradition : Papouasie Melanesie
+═══════════════════════════════════════════════
+
+
+# TABARAN
+
+## SIGNIFICATION DU NOM
+
+Le mot *tabaran*, dans la langue *kuanua* parlée par les Tolai de la péninsule de la Gazelle au nord-est de la Nouvelle-Bretagne, désigne une catégorie particulière d'esprits malveillants distincte des ancêtres bienveillants et des esprits domestiques. La racine renvoie à la notion de *ce qui rôde, ce qui marche dans la forêt sans appartenir aux vivants*. Le terme s'oppose à *kaia* — esprit de lieu plus neutre — et à *tubuan*, esprit-masque cérémoniel manifesté lors des sociétés secrètes.
+
+Le mot *tabaran* a essaimé hors de l'aire tolai pour devenir, dans le néo-mélanésien (pidgin de Papouasie-Nouvelle-Guinée), le terme générique *tambaran* qui désigne tout esprit, toute représentation rituelle d'esprit, et même les maisons cérémonielles où sont conservés les objets sacrés (« haus tambaran »). Mais cette extension ultérieure ne doit pas masquer la spécificité de l'usage tolai d'origine, où *Tabaran* nomme une figure précise, redoutée, et à laquelle on n'attribue jamais le rôle de gardien du clan.
+
+## ORIGINE
+
+Les Tabaran ne sont pas des esprits primordiaux. Les traditions tolai les rattachent presque toujours à une mort humaine particulière — soit la mort d'un être qui n'a pas reçu les rites funéraires complets, soit la mort d'un individu connu de son vivant pour sa malveillance, sa sorcellerie, ou son anthropophagie réelle ou supposée.
+
+Dans la cosmologie tolai, le défunt ordinaire passe par des étapes ritualisées qui transforment progressivement le mort en *vurkurai*, ancêtre intégré au monde invisible des bienveillants. Lorsque ce passage est rompu — corps abandonné, mort violente non vengée, négligence des cérémonies — l'âme s'arrête en chemin et devient *Tabaran*. Elle reste accrochée aux lieux où elle a vécu ou souffert, mais sans plus appartenir à aucune lignée capable de la nourrir par les offrandes.
+
+D'autres traditions ajoutent une seconde voie d'origine : certains *Tabaran* seraient d'anciens chasseurs de tête, sorciers ou cannibales rituels dont la nature carnivore aurait survécu à leur enveloppe humaine. La mémoire du goût de chair humaine ne les a jamais quittés, et leur condition d'esprit affamé prolonge cette mémoire en quête perpétuelle.
+
+## NATURE
+
+Le Tabaran est un *esprit affamé*. Sa caractéristique première n'est pas la malveillance abstraite mais une faim concrète, orientée vers la chair vivante. Les récits tolai insistent sur cette dimension alimentaire : le Tabaran ne tourmente pas par jeu, il rôde pour se nourrir.
+
+Il est aussi un *esprit de lisière*. Il n'habite ni le village ni la forêt profonde, mais les zones intermédiaires : sentiers d'accès aux jardins, abords de cimetières, croisées de pistes, plages d'arrivée des canoës après la nuit tombée. Cette préférence pour les seuils prolonge sa nature liminaire de mort qui n'a jamais achevé son passage.
+
+Sa troisième dimension est sa *capacité à se dissimuler*. Le Tabaran prend des formes empruntées — silhouette d'un parent connu, voix familière appelant dans l'obscurité — pour attirer ses victimes. Cette capacité de mime distingue le Tabaran du fantôme purement visuel, qui se contente de hanter sans tromper.
+
+## HABITAT
+
+Les Tabaran fréquentent un certain nombre de lieux que les communautés tolai apprenaient à reconnaître et à éviter de nuit :
+
+Les abords des anciens lieux de cérémonies funéraires sont leurs résidences les plus stables. Là où les corps furent exposés, là où les ossements furent rassemblés, là où le sang des cochons sacrificiels coula, l'odeur de mort attire et fixe les Tabaran.
+
+Les sentiers de jardin parcourus à l'aube ou au crépuscule constituent leurs zones de chasse. Les femmes qui partaient seules cueillir le taro ou récolter les ignames savaient qu'on n'emprunte pas ces sentiers à la mauvaise heure.
+
+Les vieux figuiers étrangleurs et les arbres-banians aux racines aériennes massives passent pour héberger des Tabaran à demeure. Le creux formé par les racines fournit un refuge naturel dans lequel l'esprit se retire entre deux apparitions.
+
+Les plages de débarquement, lorsqu'elles ont vu un mort accidentel — noyade, foudre, attaque — gardent longtemps un Tabaran fixé. Les pêcheurs nocturnes s'y méfient et préfèrent retarder leur retour plutôt que toucher terre dans une zone signalée.
+
+## DESCRIPTION
+
+Le Tabaran n'a pas de forme stable. Ses apparitions varient selon les récits, mais plusieurs traits récurrents permettent de le reconnaître malgré ses changements.
+
+Lorsqu'il se montre dans sa forme spectrale propre, il apparaît comme une silhouette humaine décharnée, la peau tendue sur les os, le ventre creux, les yeux profondément enfoncés. La bouche est démesurément large, les dents proéminentes, parfois décrites comme noircies par le bétel ou par la consommation de chair crue. Les ongles sont longs, recourbés, durcis comme des griffes. Les cheveux sont emmêlés, parfois ornés de feuilles ou de coquillages funéraires accrochés.
+
+Dans sa forme empruntée, le Tabaran imite l'apparence d'un proche du vivant qu'il veut atteindre. Mais cette imitation n'est jamais parfaite : les traditions disent que les pieds du Tabaran sont retournés (orteils en arrière), que sa voix résonne légèrement en décalage avec ses lèvres, ou que son ombre ne porte pas dans la direction attendue. Celui qui prête attention aux détails peut détecter la supercherie ; celui qui se fie à la première impression est perdu.
+
+Une odeur particulière accompagne souvent sa présence — odeur âcre de vieille fumée mêlée à celle de viande gâtée. Cette signature olfactive serait perceptible avant même la vue, et donne aux personnes attentives une chance de fuir.
+
+## POUVOIRS
+
+Le pouvoir principal du Tabaran est *l'imitation*. Il sait reproduire la voix, la silhouette, parfois les gestes des proches de sa victime. Il appelle par leur prénom les pêcheurs en mer, les femmes en bordure de jardin, les enfants attardés sur les sentiers. Cette imitation l'amène à portée de main de sa cible.
+
+Il dispose aussi d'une *force surhumaine* lorsqu'il a saisi quelqu'un. Les récits tolai rapportent des hommes adultes incapables de se libérer de l'étreinte d'un Tabaran de stature pourtant frêle.
+
+Sa *résistance partielle aux armes ordinaires* est admise. Une lame le traverse sans dommage durable. Seuls certains traitements rituels — feuilles de gingembre sauvage frottées sur la lame, charmes prononcés par un *tena buai* (homme de connaissance), invocation des ancêtres bienveillants du lignage — confèrent aux objets le pouvoir de l'atteindre réellement.
+
+Il peut *transmettre la maladie* par contact prolongé. Les survivants d'une rencontre avec un Tabaran tombent souvent malades dans les jours suivants — fièvre soudaine, faiblesse, perte d'appétit. Un guérisseur compétent peut traiter ces affections en exorcisant l'attache laissée par l'esprit.
+
+## FAIBLESSES
+
+Plusieurs limites sont reconnues aux Tabaran. Leur connaissance permettait aux Tolai de coexister avec ces esprits redoutés sans que la communauté soit anéantie.
+
+La *lumière du feu vif* les repousse. Une torche tenue haut, un foyer entretenu près d'un campement nocturne, une lampe à coque de noix de coco brûlante — tous ces feux maintiennent les Tabaran à distance. Le feu domestique du village les maintient dehors ; c'est aux marges de cette lumière qu'ils rôdent.
+
+Les *charmes du tena buai* — homme de savoir qui maîtrise le *buai*, ensemble des pratiques magiques tolai — peuvent fixer un Tabaran dans un objet, le chasser d'un lieu, ou le contraindre à révéler son identité humaine d'origine.
+
+Les *coquilles d'ormeau et certaines feuilles odorantes*, suspendues aux entrées des maisons et aux abords des jardins, signalent un territoire protégé que les Tabaran évitent.
+
+Le *sang de cochon sacrificiel* offert lors d'une cérémonie de pacification peut, dans certains cas, apaiser un Tabaran particulièrement actif et l'inciter à se retirer dans un lieu plus reculé. Cette offrande ne le détruit pas ; elle négocie une trêve.
+
+Enfin, les *rites funéraires complets accomplis tardivement* peuvent, parfois, retransformer un Tabaran en ancêtre intégré, lorsqu'on identifie quelle âme inachevée se cache derrière la créature errante. Cette réintégration est rare mais constitue le seul remède définitif.
+
+## COMPORTEMENT
+
+Le Tabaran chasse principalement la nuit. Il quitte son lieu de résidence au crépuscule, parcourt les sentiers fréquentés, s'embusque près des points d'eau et des sentiers de jardin, et regagne son refuge avant l'aube. Cette régularité nocturne rend ses zones d'activité prévisibles aux yeux des communautés vigilantes.
+
+Lorsqu'il a repéré une cible isolée, il ne se précipite pas. Il appelle d'abord — voix imitée d'un proche, plainte feinte de blessé sur le sentier, pleurs d'enfant simulés. Si la cible répond, le Tabaran l'attire toujours plus loin de la lumière du village. C'est seulement à distance suffisante que la créature laisse tomber son masque et attaque.
+
+Les Tabaran solitaires sont les plus communs, mais certaines traditions évoquent des *bandes* de plusieurs Tabaran agissant ensemble — souvenir possible des cannibales rituels qui chassaient en groupe de leur vivant. Ces bandes attaquent des voyageurs entiers, ne laissant parfois qu'un survivant pour rapporter le récit.
+
+Le Tabaran ne tourmente jamais sans raison ses anciens lignages. Au contraire : il évite généralement la maison où il a vécu vivant, comme si une honte résiduelle le tenait à l'écart de ses parents. C'est sur les inconnus, les voyageurs d'autres villages, les femmes mariées venues d'ailleurs, qu'il préfère s'abattre.
+
+## RÉCITS TRADITIONNELS
+
+Les traditions tolai ont conservé plusieurs récits typés concernant les Tabaran, transmis de bouche à oreille lors des veillées nocturnes.
+
+Le récit du frère retrouvé raconte qu'un homme rentrant tard de son jardin entend la voix de son frère cadet, parti pêcher la veille et non encore revenu, l'appeler depuis le bord du chemin. Il s'approche. Le frère est là, accroupi dans l'obscurité, qui demande de l'aide. L'homme s'avance, mais remarque que les pieds de la silhouette pointent vers l'arrière. Il reconnaît le Tabaran, recule, et fuit en hurlant le nom de ses ancêtres protecteurs. Au matin, on retrouve le corps du véritable frère noyé sur la plage — son âme inachevée s'était transformée durant la nuit.
+
+Le récit de la jeune épouse raconte qu'une femme nouvellement mariée, venue dans le village de son mari, va chercher de l'eau seule au crépuscule. Une voix de femme l'appelle de l'autre côté d'un fourré — voix qu'elle prend pour celle d'une cousine du village. Elle s'éloigne. On ne la retrouve jamais. Les anciens identifient le Tabaran responsable comme étant l'esprit d'une co-épouse jalouse morte sans descendance dans la génération précédente.
+
+Le récit du *tena buai* victorieux raconte qu'un homme de savoir, alerté par les attaques répétées d'un Tabaran sur les jardins d'une famille, prépare un piège. Il fixe sur un poteau l'image en bois d'un porc, frotte le bois de feuilles odorantes, prononce les charmes appropriés, et attend la nuit. Le Tabaran vient, cru tomber sur une offrande, et reste fixé au poteau. Au matin, le *tena buai* identifie l'âme inachevée derrière l'esprit, accomplit les rites funéraires manquants, et libère la créature de sa condition. La famille retrouve la paix.
+
+## VARIANTES RÉGIONALES
+
+Les Tabaran tolai trouvent des correspondants étroits chez plusieurs peuples voisins de la zone Bismarck — Duke of York, Baining des montagnes, Tolai de l'intérieur — sous des noms souvent apparentés. Les traits cardinaux se retrouvent partout : esprit affamé issu de mort inachevée, capacité d'imitation, hantise des seuils.
+
+Chez les Baining, on insiste davantage sur la dimension forestière et sur la solitude absolue de ces esprits, qui ne forment jamais de bandes. Les Baining redoutent les Tabaran de la forêt profonde, là où les Tolai côtiers redoutent surtout les Tabaran des sentiers de jardin.
+
+Dans les îles voisines (Lavongai/New Hanover, Nouvelle-Irlande), des esprits de fonction comparable existent sous d'autres dénominations. Les caractéristiques alimentaires et imitatives se retrouvent avec des coloratures locales — accent mis tantôt sur les pieds inversés, tantôt sur l'odeur, tantôt sur les ongles griffus.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Plusieurs confusions doivent être évitées concernant les Tabaran.
+
+Le mot *tambaran* en pidgin néo-mélanésien désigne aujourd'hui *tout esprit*, et par extension les maisons cérémonielles d'esprits (« haus tambaran ») répandues à travers la Papouasie-Nouvelle-Guinée. Cet usage généralisé masque le sens originel tolai où *Tabaran* nomme une catégorie spécifique d'esprits malveillants. Tous les *tambaran* du pidgin moderne ne sont pas des Tabaran tolai.
+
+Les Tabaran ne sont ni des dieux, ni des héros culturels, ni des ancêtres fondateurs. Toute représentation cinématographique ou romanesque qui les présenterait comme une figure mythologique majeure dotée d'attributs cosmiques trahit la tradition. Le Tabaran est un esprit local, individuel, ancré dans une mort précise et dans un lieu précis.
+
+L'imaginaire occidental du « zombie cannibale » ne s'applique pas ici. Le Tabaran n'est pas un mort réanimé physiquement ; c'est une âme inachevée qui se manifeste sous formes diverses. Son corps n'existe pas comme objet matériel persistant.
+
+L'imaginaire du « démon » abstrait ne convient pas davantage. Le Tabaran reste lié à une biographie humaine antérieure ; il est un défunt particulier, identifiable, et susceptible d'être réintégré aux ancêtres si l'on retrouve son origine.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Contrairement aux *tubuan* et *dukduk* tolai — esprits cérémoniels représentés par des masques élaborés portés lors des sociétés secrètes —, les Tabaran ne font pas l'objet de représentations rituelles. On ne sculpte pas leur image, on ne fabrique pas leur masque. Cette absence est cohérente avec leur statut : ils n'appartiennent à aucun cadre cérémoniel, et représenter leur visage reviendrait à les inviter.
+
+Quelques *figures de défense* ont cependant été collectées dans les villages tolai aux XIXe et XXe siècles : petits objets sculptés grossièrement, parfois en bois sombre, fixés aux poteaux d'entrée des maisons ou aux sentiers de jardin. Ces objets ne représentent pas les Tabaran eux-mêmes mais les *gardiens* opposés à eux — silhouettes humaines stylisées à postures défensives, parfois associées à des coquillages d'ormeau ou à des feuilles séchées.
+
+Les pierres dressées et certains arbres remarquables fonctionnaient également comme bornes signalant la présence connue d'un Tabaran. Le voyageur instruit savait reconnaître ces signes et adaptait son trajet.
+
+## POUR ALLER PLUS LOIN
+
+La figure du Tabaran a été abondamment décrite dans les ethnographies de la péninsule de la Gazelle constituées à partir du XIXe siècle, lorsque missionnaires, administrateurs coloniaux et observateurs participants commencèrent à recueillir systématiquement les croyances tolai. L'aire d'extension du terme et de la conception associée couvre l'ensemble du pays tolai, débordant sur Duke of York et touchant les groupes voisins.
+
+La diffusion ultérieure du mot dans le pidgin néo-mélanésien témoigne de la force avec laquelle cette catégorie d'esprits a marqué l'imaginaire de la Nouvelle-Bretagne et au-delà. Aujourd'hui encore, dans les villages tolai contemporains, la mémoire des Tabaran reste vivace, intégrée à la coexistence ordinaire avec les morts inachevés.

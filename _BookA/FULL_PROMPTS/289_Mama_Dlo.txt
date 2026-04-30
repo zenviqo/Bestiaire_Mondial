@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Mama_Dlo
+  Tradition : Caraibes
+═══════════════════════════════════════════════
+
+
+# MAMA DLO
+
+## SIGNIFICATION DU NOM
+
+*Mama Dlo* est une contraction créole de "Mama de l'Eau" — "Mère des Eaux" en créole à base française de Trinidad. *Dlo* est la forme créole de "de l'eau" — une contraction phonétique caractéristique du créole trinidadien. Ce titre maternel exprime à la fois son pouvoir sur les eaux et une relation ambivalente avec les humains — une mère peut nourrir ou punir. La variante *Mama Glo* est orthographiquement différente mais phonétiquement identique. Parfois aussi appelée *Maman de l'Eau* dans les Antilles francophones.
+
+## ORIGINE
+
+Mama Dlo est documentée dans les traditions orales créoles de Trinidad, de Tobago, et des Antilles anglophones et francophones voisines. Des folkloristes caribéens du XXe siècle — notamment Maureen Warner-Lewis et des chercheurs de l'Université des Indes Occidentales (UWI) — ont collecté des récits sur Mama Dlo. La figure est un produit du syncrétisme afro-caribéen — des croyances africaines sur les esprits des eaux (notamment les *Mami Wata* d'Afrique de l'Ouest, les esprits aquatiques du Congo) ont fusionné avec des traditions amérindiennes locales et des influences européennes de sirènes.
+
+## NATURE
+
+Mama Dlo est une entité mi-femme mi-anaconda — une dame-serpent des rivières et des eaux douces. Sa nature est celle d'une gardienne territoriale des cours d'eau — elle protège les rivières, les lacs, et les zones marécageuses de son territoire et punit ceux qui les polluent, les surexploitent, ou leur manquent de respect. Elle est la compagne de Papa Bois dans la cosmologie créole trinidadienne — lui règne sur la forêt, elle sur les eaux. Ensemble, ils sont les deux grandes puissances protectrices de l'environnement naturel antillais.
+
+## HABITAT
+
+Mama Dlo habite les rivières, les lacs, et les zones marécageuses de Trinidad et des îles voisines — particulièrement les cours d'eau entourés de forêt dense où les eaux sont profondes et sombres. Des rivières spécifiques à Trinidad (notamment dans le nord de l'île, dans les forêts du Northern Range) sont associées à sa présence. Elle peut aussi se manifester dans des zones côtières calmes et dans des embouchures de rivières. Elle est plus active à certaines heures — l'aube et le crépuscule sont ses moments de transition préférés.
+
+## DESCRIPTION
+
+Mama Dlo a le corps supérieur d'une femme d'une beauté extraordinaire — cheveux noirs longs et luisants, peau lisse, traits parfaits. Son corps inférieur est celui d'un anaconda géant — des écailles brillantes et iridescentes, une queue puissante qui peut enrouler et briser. Elle est parfois enroulée dans les racines d'un grand arbre au bord d'une rivière. La transition entre le corps humain et le corps de serpent peut être cachée sous l'eau ou dans les herbes de rive. Sa voix est d'une beauté irrésistible — elle peut chanter pour attirer des victimes.
+
+## POUVOIRS
+
+Contrôle des cours d'eau — elle peut provoquer des crues, des tourbillons, et des courants dangereux. Attraction des hommes — sa beauté et sa voix sont irrésistibles pour les hommes non prévenus qui s'approchent des rivières. Des hommes attirés par Mama Dlo peuvent disparaître dans les eaux et ne jamais revenir. Elle peut aussi se transformer — prendre la forme d'une femme entière pour approcher des humains à terre. Dans certaines versions, elle récompense les pêcheurs et les navigateurs respectueux par des eaux calmes et du poisson abondant.
+
+## FAIBLESSES
+
+Si un homme rencontre Mama Dlo, il doit enlever sa chaussure gauche, la retourner à l'envers, et la remettre — puis marcher à reculons jusqu'à être hors de portée. Cette action rituelle rompt son emprise. Des prières et des formules créoles mêlant éléments catholiques et africains peuvent la calmer. Respecter les rivières — ne pas y jeter de déchets, ne pas les polluer, ne pas pêcher excessivement — garantit une relation pacifique avec elle. Des offrandes déposées au bord de l'eau (fleurs, fruits, rhum) constituent un hommage qu'elle apprécie.
+
+## COMPORTEMENT
+
+Mama Dlo est protectrice de son domaine aquatique — elle punit ceux qui polluent les rivières ou qui traitent les eaux avec irrespect. Des pollueurs, des pêcheurs excessifs, et des personnes qui violent les espaces aquatiques sacrés de son territoire sont ses cibles préférées. Pour les pêcheurs et les riverains respectueux, elle est une présence protectrice — elle garde les eaux saines et abondantes. Sa relation avec Papa Bois est celle de deux forces complémentaires et alliées dans la protection de l'environnement naturel antillais.
+
+## RÉCITS TRADITIONNELS
+
+Un récit trinidadien du district de Maraval : un homme pêche dans une rivière depuis l'aube quand il aperçoit une femme extraordinairement belle se peignant les cheveux à la rive opposée. Il traverse la rivière à la nage vers elle — mais l'eau devient soudainement profonde et les courants l'entraînent. Il pense à la formule, retire sa chaussure gauche, la retourne, la remet, et nage à reculons vers la rive. Il s'en sort in extremis, rentrant au village complètement trempé. Il ne retourne plus jamais à cette rivière sans faire les offrandes appropriées d'abord.
+
+## VARIANTES RÉGIONALES
+
+La *Lasirèn* haïtienne (sirène du vodou haïtien) est une figure comparable dans la tradition haïtienne — un esprit des eaux féminin, séduisant, lié à la musique et à la richesse. Les *Mami Wata* d'Afrique de l'Ouest (esprits des eaux mi-femmes mi-poissons ou mi-serpents) constituent l'héritage africain de Mama Dlo. Des sirènes européennes (*Mélusine*, *Nixe* nordique) partagent certains éléments. La spécificité créole de Mama Dlo est son ancrage dans la forêt tropicale caribéenne et son rôle de compagne de Papa Bois dans un système cosmologique caribéen cohérent.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Mama Dlo est une figure très vivante dans la culture populaire de Trinidad et des Antilles anglophones et francophones. Des artistes caribéens contemporains représentent fréquemment Mama Dlo dans des peintures, sculptures, et œuvres d'art. Des projets de conservation des rivières à Trinidad utilisent Mama Dlo dans des campagnes de sensibilisation — son autorité morale sur les rivières sert d'argument de conservation. Des autrices caribéennes (notamment de la diaspora antillaise britannique) incluent Mama Dlo dans des récits de fiction contemporaine.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de sirènes et de femmes-serpents dans les arts populaires caribéens — peintures naïves haïtiennes (école de Jacmel notamment), sculptures en bois, peintures murales — constituent le contexte iconographique de Mama Dlo. Des drapo vodou haïtiens représentant Lasirèn (figure comparable) montrent des femmes-serpents/poissons ornées de sequins. Des masques de Carnaval de Trinidad peuvent inclure des représentations de Mama Dlo. Des installations artistiques contemporaines dans le Trinidadian art space représentent régulièrement la figure.
+
+## POUR ALLER PLUS LOIN
+
+Mama Dlo illustre comment le syncrétisme caribéen produit des gardiennes de l'environnement naturel — des êtres qui personnifient les rivières et en garantissent la santé. À une époque où les rivières de Trinidad et d'autres îles caribéennes font face à des pressions écologiques réelles (pollution, surexploitation), la figure de Mama Dlo comme punisseuse de ceux qui polluent les eaux est une ressource culturelle pour la conservation. Elle est la raison surnaturelle de respecter les rivières — et cette raison surnaturelle peut être plus efficace pour certaines communautés que des règlements environnementaux abstraits.

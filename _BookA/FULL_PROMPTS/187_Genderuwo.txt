@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Genderuwo
+  Tradition : Indonesie
+═══════════════════════════════════════════════
+
+
+# GENDERUWO
+
+## SIGNIFICATION DU NOM
+
+*Genderuwo* (ou *Gandaruwo*) est un terme javanais d'étymologie complexe — probablement dérivé du sanskrit *Gandharva* (esprits musiciens célestes dans la mythologie hindoue) transformé et populariséé dans la tradition javanaise préislamique. La réinterprétation est totale : le Gandharva sanskrit est un être céleste bienveillant associé à la musique ; le Genderuwo javanais est un géant poilu des bois et des maisons, lubrique et malfaisant. Cette inversion est caractéristique de la façon dont les traditions locales absorbent les influences extérieures.
+
+## ORIGINE
+
+Le Genderuwo appartient au folklore pré-islamique de Java — il est attesté dans les traditions javanaises avant l'islamisation progressive de l'île (XIIIe-XVIe siècles). Il fait partie d'un panthéon d'esprits (*lelembut*, *dhemit*, *jim*) qui habitent le monde invisible coexistant avec le monde humain. La cosmologie javanaise kejawen (tradition syncrétique mêlant hindouisme, bouddhisme, et animisme pré-hindou) l'inclut dans un système complexe de relations entre humains et esprits.
+
+## NATURE
+
+Le Genderuwo est un esprit masculin puissant — grand, fort, couvert de poils noirs. Sa nature distinctive est sa libido surnaturelle : il est particulièrement attiré par les femmes humaines, qu'il peut séduire, tromper, ou attaquer. Il peut se transformer en l'image du mari ou du partenaire d'une femme pour la rejoindre la nuit. Dans la tradition javanaise, des enfants anormalement poilus ou d'un comportement étrange peuvent être suspectés d'être la progéniture d'un Genderuwo.
+
+## HABITAT
+
+Le Genderuwo habite les vieilles maisons (particulièrement celles abandonnées ou construites sur des lieux anciens), les arbres immenses, les forêts de Java, les ruines de temples hindous (*candi*). Il est particulièrement présent dans les zones où le passé préislamique est encore palpable — vieilles pierres, vieux arbres, vieux puits. Dans les zones rurales de Java, les maisons réputées hantées le sont souvent par un Genderuwo.
+
+## DESCRIPTION
+
+Géant — deux à trois fois la taille d'un humain. Corps entièrement couvert de poils noirs épais. Visage humanoïde mais grossier, expression lubrique. Dans certaines descriptions, peau rouge brique, yeux brillants. Il sent fortement — une odeur de soufre et d'animaux sauvages signale sa présence. Il peut se contracter pour tenir dans des espaces réduits — passer sous une porte, se cacher dans un placard.
+
+## POUVOIRS
+
+Transformation — il peut prendre l'apparence de n'importe quel humain, en particulier le partenaire d'une femme. Force surnaturelle. Capacité de perturber les maisons et les familles — faire bouger des objets, provoquer des bruits, créer une atmosphère d'oppression. Dans certains récits, il peut rendre une femme enceinte sans qu'elle le sache, ou substituer un enfant humain par sa progéniture.
+
+## FAIBLESSES
+
+Les pratiques islamiques — récitation de versets coraniques, prière — le repoussent (syncrétisme de la tradition populaire javanaise avec l'islam). Les rituels kejawen — encens, offrandes, formules (*mantra*) — peuvent le pacifier ou le chasser. La lumière le dérange. Un *dukun* (guérisseur traditionnel javanais) peut l'exorciser si la relation devient trop envahissante.
+
+## COMPORTEMENT
+
+Le Genderuwo cible principalement les femmes seules — dans les maisons dont les maris sont absents, dans les forêts. Son comportement oscillle entre la séduction (se faire passer pour un partenaire) et l'agression directe. Il peut aussi simplement habiter une maison et la perturber sans attaquer physiquement — bruits, déplacements d'objets, mauvaises odeurs, atmosphère d'oppression. Sa présence prolongée dans une maison cause une détérioration du bien-être de la famille.
+
+## RÉCITS TRADITIONNELS
+
+Un récit javanais : un mari parti travailler en ville, sa femme restée au village reçoit pendant plusieurs nuits la visite de ce qu'elle croit être son mari. Elle devient enceinte. Quand le mari revient, il nie les visites. Un *dukun* diagnostique un Genderuwo qui s'est fait passer pour le mari. Des rituels sont effectués pour chasser l'esprit. L'enfant qui naît est couvert de poils noirs et devra subir des rituels spéciaux.
+
+## VARIANTES RÉGIONALES
+
+En pays soundanais (Java occidental), le Genderuwo a des caractéristiques légèrement différentes. À Bali, des figures comparables de géants-esprits existent dans le contexte du théâtre d'ombre (*wayang*) et des rituels bali-hindous. Dans d'autres îles indonésiennes, des esprits géants poilus des forêts existent sous différents noms — la figure est pan-indonésienne mais avec des spécificités régionales marquées.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Genderuwo est l'une des créatures les plus présentes dans l'industrie du cinéma d'horreur indonésien — qui est l'une des plus prolifiques d'Asie. Des dizaines de films indonésiens depuis les années 1970 mettent en scène le Genderuwo, avec une iconographie standardisée de géant poilu noir. Cette popularité cinématographique a renforcé la figure dans la culture populaire indonésienne contemporaine tout en en standardisant l'apparence.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Il n'existe pas d'iconographie préislamique formelle du Genderuwo — mais des reliefs des temples hindous de Java (Borobudur, Prambanan, IXe siècle) représentent des êtres démesurés et hirsutes dans des contextes rituels qui peuvent être mis en relation avec les figures d'esprits géants. L'iconographie principale vient du théâtre wayang et du cinéma d'horreur des XXe-XXIe siècles.
+
+## POUR ALLER PLUS LOIN
+
+Le Genderuwo illustre les tensions dans la cosmologie javanaise entre l'islam officiel et les pratiques pré-islamiques toujours vivantes (*kejawen*). La figure est clairement pré-islamique dans son contenu — mais ses remédiations font appel à la fois aux pratiques islamiques (versets coraniques) et aux pratiques kejawen (rituels, *dukun*). Cette double réponse reflète le syncrétisme profond de la société javanaise contemporaine, à l'intersection de plusieurs traditions spirituelles.

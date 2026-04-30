@@ -1,0 +1,129 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Babi_Ngepet
+  Tradition : Indonesie
+═══════════════════════════════════════════════
+
+
+# BABI NGEPET
+
+## SIGNIFICATION DU NOM
+
+*Babi Ngepet* est composé de *babi* (cochon, porc — en javanais et indonésien) et *ngepet* — un terme javanais spécifique à cette pratique magique qui n'a pas d'équivalent direct en dehors de ce contexte. *Ngepet* désigne l'acte de se transformer ou de se comporter comme ce sanglier démoniaque dans le cadre d'un pacte de magie noire. Le nom encode donc à la fois l'animal (porc/sanglier) et la pratique rituelle magique spécifique.
+
+## ORIGINE
+
+Le Babi Ngepet s'inscrit dans la tradition javanaise du *pesugihan* — un ensemble de pratiques de magie noire orientées vers l'obtention de richesse par des moyens surnaturels et illicites. Le *pesugihan* existe dans plusieurs variantes, dont le *pesugihan babi ngepet* est l'une des plus populairement connues à Java. Clifford Geertz dans *The Religion of Java* (1960) documente la structure des croyances javanaises qui contextualisent ces pratiques. Des récits de *babi ngepet* sont documentés depuis au moins le XIXe siècle dans la tradition orale javanaise.
+
+## NATURE
+
+Le Babi Ngepet est la manifestation animale d'un pacte de magie noire — un humain qui souhaite acquérir de la richesse rapidement conclut un pacte avec des forces démoniaques (*jin* ou *setan* dans la terminologie syncrétique javanaise). En échange, cet humain doit périodiquement se transformer en sanglier et partir dans les villages voisins collecter de l'argent et des objets de valeur. Pendant sa transformation, un partenaire reste à la maison avec une bougie allumée et doit maintenir la bougie allumée à tout prix — si la bougie s'éteint, le sanglier ne peut pas reprendre sa forme humaine et peut être capturé ou tué.
+
+## HABITAT
+
+Le Babi Ngepet rôde dans les villages et les quartiers résidentiels de Java pendant la nuit — il entre dans les maisons, passe sous les lits, touche les objets de valeur et les effets personnels. Le contact du sanglier avec des objets de valeur transfère supernaturellement de l'argent au foyer du sorcier. Il se déplace rapidement et silencieusement, invisible aux yeux ordinaires mais visible à ceux qui ont une sensibilité surnaturelle ou à ceux qui l'attendent.
+
+## DESCRIPTION
+
+Le Babi Ngepet ressemble à un cochon ou un sanglier de taille ordinaire ou légèrement supérieure à la normale — son apparence extérieure ne le distingue pas immédiatement d'un vrai cochon. Certaines traditions ajoutent que des yeux légèrement trop brillants, un comportement trop dirigé (se déplaçant vers des objets de valeur spécifiques), ou une résistance surnaturelle aux tentatives de le chasser révèlent sa nature. Dans certaines descriptions, une aura ou une légère luminescence indique son caractère surnaturel.
+
+## POUVOIRS
+
+Collecte surnaturelle de richesse — tout argent ou objet de valeur qu'il touche de son groin est transféré supernaturellement au foyer de son humain. Mobilité rapide et silencieuse. Accès aux maisons fermées. Protection surnaturelle contre les chiens et les autres animaux. Dans certaines versions, il est invisible aux humains ordinaires — seuls des individus spirituellement sensibles peuvent le voir.
+
+## FAIBLESSES
+
+La bougie — si quelqu'un réussit à éteindre la bougie que le partenaire maintient allumée à la maison, le Babi Ngepet est piégé dans sa forme de sanglier et peut être capturé ou tué. Cette faiblesse est connue dans la tradition populaire — des villageois qui suspectent un *pesugihan babi ngepet* actif dans leur voisinage peuvent chercher la maison où une bougie brûle pendant la nuit et tenter de l'éteindre. Des formules islamiques et des prières. La lumière du jour.
+
+## COMPORTEMENT
+
+Le Babi Ngepet n'est pas un prédateur — il ne cherche pas à blesser les humains mais à collecter de la richesse pour son maître. Il se déplace discrètement dans les maisons des voisins, touchant des portefeuilles, des bijoux, des coffres d'argent. Son comportement est celui d'un cambrioleur surnaturel plutôt que d'un monstre. Dans des récits, des villageois qui ont découvert un Babi Ngepet actif dans leur quartier décrivent des disparitions mystérieuses d'argent et des objets qui bougent de place pendant la nuit.
+
+## RÉCITS TRADITIONNELS
+
+Un récit javanais classique : dans un village, des habitants remarquent que depuis qu'une nouvelle famille s'est installée et est devenue rapidement riche, des petites sommes d'argent disparaissent régulièrement des maisons voisines. Un *dukun* (devin guérisseur javanais) est consulté — il détermine qu'un *pesugihan babi ngepet* est en cours. Il conseille aux villageois de surveiller les maisons et d'éteindre les bougies allumées la nuit. Une nuit, des villageois trouvent une bougie dans la maison des nouveaux riches et l'éteignent. Bientôt, un cochon est capturé dans la rue, incapable de reprendre forme humaine. La famille perd toute sa richesse illicitement acquise.
+
+Un autre récit : un homme conclut un *pesugihan babi ngepet* et demande à sa femme de garder la bougie allumée pendant ses sorties nocturnes. La femme, effrayée, fait une erreur un soir — la bougie s'éteint dans un courant d'air. Son mari est capturé par des villageois et tué en tant que sanglier. Sa femme perd tout.
+
+## VARIANTES RÉGIONALES
+
+Des pactes avec des forces démoniaques pour la richesse existent dans de nombreuses traditions — des pactes faustiens dans des traditions européennes, des pactes avec des djinns pour la richesse dans des traditions islamiques. Dans d'autres régions d'Indonésie (Sumatra, Bali), des pratiques comparables de *pesugihan* existent avec des animaux ou des entités différents. La spécificité du Babi Ngepet javanais est le mécanisme précis de la transformation en cochon/sanglier et la vulnérabilité de la bougie — un détail unique qui rend la créature à la fois puissante et exposée à la contre-mesure populaire.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Le Babi Ngepet est l'une des légendes urbaines les plus actives en Indonésie contemporaine — des récits de *babi ngepet* capturés ou tués circulent régulièrement dans des médias locaux et des réseaux sociaux indonésiens. Des incidents de confusion entre de vrais cochons errants et des *babi ngepet* présumés ont été documentés dans des villages javanais et dans des banlieues de Jakarta. Des journaux indonésiens rapportent régulièrement des cas de lynchage de cochons errants soupçonnés d'être des Babi Ngepet — un phénomène qui a des conséquences pratiques réelles (protection des animaux d'élevage et questions de superstition dans une société moderne).
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des représentations de cochons et de sangliers dans des sculptures et des reliefs de temples hindous-bouddhistes de Java (IXe-XVe siècle). Des représentations dans des art populaires javanais *wayang* (théâtre d'ombres) qui incluent des personnages de magie noire. Des illustrations dans des publications de folklore indonésien du XXe siècle.
+
+## POUR ALLER PLUS LOIN
+
+Le Babi Ngepet illustre une économie morale du mérite et de la richesse — dans la conception javanaise du *kejawen*, la richesse authentique est acquise par le travail, le mérite karmique, et la bonne conduite spirituelle. Une richesse acquise trop rapidement ou de manière disproportionnée est moralement suspecte — elle doit venir de quelque part. Le *pesugihan babi ngepet* propose une explication : cette richesse vient du vol surnaturel opéré par le sanglier aux dépens des voisins. Ce mécanisme d'explication de l'inégalité économique est révélateur — plutôt que de penser la richesse en termes d'exploitation économique ou de chance, la tradition javanaise la pense en termes de pacte démoniaque et de vol occulte. La persistance du Babi Ngepet dans l'imaginaire indonésien contemporain, y compris dans des zones urbaines, montre que cette logique morale de méfiance envers la richesse rapide reste culturellement active.

@@ -1,0 +1,211 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Krokottas
+  Tradition : Corne Afrique
+═══════════════════════════════════════════════
+
+
+# KROKOTTAS
+
+## SIGNIFICATION DU NOM
+
+Le nom *Krokottas*, tel qu'il fut consigné par les ethnographes méditerranéens antiques, ne possède pas d'étymologie grecque ou latine claire. Les transcripteurs anciens le présentent explicitement comme un *terme étranger*, recueilli auprès des informateurs venus du royaume axoumite et des régions voisines du Nil supérieur. Sa racine la plus probable se rattache aux langues éthiosémitiques, où plusieurs termes désignant la hyène et ses formes monstrueuses partagent une consonance proche.
+
+La tradition gé'ez emploie pour désigner la hyène ordinaire un terme distinct, mais la *forme monstrueuse* — celle qui imite la voix humaine, celle qui chasse l'homme — reçoit dans l'usage oral des hauts plateaux des qualificatifs spécifiques que les compilateurs antiques semblent avoir agrégés sous le nom unique de *Krokottas*. Le terme désigne ainsi moins un animal naturel qu'une *catégorie folklorique* : la hyène devenue plus que hyène, l'animal qui a franchi le seuil entre bête et créature parlante.
+
+Les variantes orthographiques attestées dans le corpus latin — *Crocotta*, *Corocotta*, plus tard *Crocuta* — témoignent de la difficulté qu'éprouvaient les scribes méditerranéens à fixer un nom dont la prononciation originelle leur était étrangère. La forme *Leucrocotta*, qui apparaît plus tardivement, désigne en revanche une créature distincte (voir VARIANTES RÉGIONALES).
+
+## ORIGINE
+
+La Krokottas appartient au folklore des peuples qui habitaient et habitent encore les hauts plateaux éthiopiens, les marges du Nil bleu, les régions situées entre le royaume axoumite et les confins méroïtiques. Sa première attestation écrite remonte aux récits ethnographiques que des voyageurs et compilateurs méditerranéens recueillirent auprès d'informateurs venus de ces contrées, durant les siècles où le royaume axoumite entretenait des relations commerciales et diplomatiques avec les puissances du bassin méditerranéen.
+
+Ces informateurs — caravaniers, marchands d'ivoire, ambassadeurs — rapportèrent l'existence d'une créature hybride hantant les savanes au-delà du désert nubien, là où la sauvagerie animale prend des formes que la zoologie ordinaire ne parvient pas à classer. Les compilateurs méditerranéens consignèrent ces récits avec un mélange de fascination et de scepticisme, mais sans les inventer : la créature préexistait à leur transcription, attestée dans la tradition orale des peuples de la Corne avant tout texte conservé.
+
+Le folklore éthiopien postérieur, transmis par les manuscrits gé'ez monastiques et les traditions orales amhariques et tigrayéennes, conserve plusieurs créatures hyéniformes monstrueuses qui prolongent et démultiplient la figure de la Krokottas — preuve que la tradition n'était pas une fabrication étrangère, mais bien un fonds folklorique local qui s'est transmis par d'autres canaux que l'écriture méditerranéenne.
+
+## NATURE
+
+La Krokottas est une *créature hybride*. Sa nature combine sans les confondre les caractères de plusieurs prédateurs : la hyène pour la mâchoire, le loup pour la silhouette, le chien pour la docilité apparente qui masque la ruse profonde. Cette hybridité n'est pas un mélange désordonné mais une *synthèse fonctionnelle* — chaque trait sert la mission essentielle de la créature : tromper, capturer, broyer.
+
+Elle n'est ni divinité, ni esprit ancestral, ni génie protecteur. Elle relève de la catégorie des *bêtes folkloriques* — créatures du monde animal augmentées d'une intelligence et d'un pouvoir surnaturels qui les placent au-dessus des prédateurs ordinaires. Sa parenté la plus directe, dans le folklore est-africain, se fait avec les diverses hyènes anthropophages que les traditions nilotiques et éthiosémitiques reconnaissent comme distinctes des hyènes communes.
+
+Certaines variantes lui prêtent l'*immortalité*, ou plus exactement une longévité indéfinie qui dépasse celle de tout animal terrestre. Cette qualité explique, dans les récits, que la même Krokottas puisse être rencontrée par plusieurs générations successives de voyageurs — la créature désignée comme tueuse d'un caravanier d'autrefois étant identifiée à celle qui menace encore les voyageurs présents.
+
+## HABITAT
+
+La Krokottas habite les *hauts plateaux éthiopiens*, particulièrement les zones de transition entre savane arborée et steppe rocheuse, là où les escarpements basaltiques offrent des cavernes et des surplombs propices à l'embuscade. On la signale également dans les vallées du Nil supérieur, depuis les marges de l'ancienne Méroé jusqu'aux confins méridionaux du royaume axoumite.
+
+Elle préfère les zones *intermédiaires* — ni le désert pur, ni la forêt dense, mais ces espaces ouverts parsemés d'acacias, de termitières et d'affleurements rocheux où sa silhouette peut se confondre avec les ombres du soir. Les pistes caravanières qui traversent ces régions traversent par nécessité son territoire, ce qui explique la place centrale qu'elle occupe dans les récits des voyageurs.
+
+La nuit constitue son domaine privilégié, mais contrairement à la hyène ordinaire, la Krokottas chasse également au crépuscule et à l'aube, profitant des heures où la lumière incertaine masque ses contours et amplifie l'effet de ses imitations vocales.
+
+## DESCRIPTION
+
+La Krokottas a la taille d'un grand chien ou d'un loup adulte, parfois davantage. Son corps, ramassé et puissant, présente la caractéristique de l'arrière-train abaissé propre à la hyène — les pattes postérieures plus courtes que les antérieures, conférant à sa marche une oscillation particulière, à la fois lourde et silencieuse.
+
+Son pelage est tacheté ou strié selon les versions, mêlant des tons de fauve sombre, de gris-brun et de noir. Certaines descriptions ajoutent une crête de poils raides courant sur la nuque et le dos, qui se hérisse lorsque la créature s'apprête à attaquer.
+
+La tête est massive, plus large que celle d'un loup, plus allongée que celle d'une hyène commune. Les yeux sont décrits comme *fixes* — la Krokottas regarde sa proie sans cligner, et ce regard fait partie des terreurs que les récits lui attribuent. Certaines traditions affirment qu'elle ne possède pas de gencives véritables, sa mâchoire étant au contraire armée d'*une rangée continue d'os* — une lame osseuse unique qui remplace la dentition séparée et qui broie les os les plus résistants comme une meule.
+
+Les oreilles sont rondes, mobiles, attentives au moindre son. La queue est courte, touffue, portée basse.
+
+## POUVOIRS
+
+L'*imitation de la voix humaine* constitue son pouvoir le plus redouté. La Krokottas écoute les voyageurs durant la journée, retient leurs noms, leurs intonations, leurs appels. La nuit venue, elle se dissimule à proximité de leur campement et imite la voix d'un compagnon, d'un parent, d'un être aimé. Le voyageur qui sort du cercle de feu pour répondre à cet appel familier est happé par la créature qui l'attendait dans l'ombre.
+
+Cette imitation ne se limite pas aux voix humaines : la Krokottas peut également imiter les pleurs d'enfant, les bêlements des chèvres égarées, les chants des oiseaux dont les villageois recherchent la chair. Sa polyphonie en fait l'un des plus dangereux *trompeurs* du bestiaire est-africain.
+
+Les *mâchoires brise-os* représentent son second pouvoir majeur. Une fois la proie saisie, aucune partie du squelette ne lui résiste. Elle broie crâne, fémurs, vertèbres avec la même aisance, ne laissant après son passage que des fragments. Cette capacité explique, dans les récits, que les corps des victimes ne soient jamais retrouvés : la Krokottas consomme jusqu'à l'os.
+
+Une *vision nocturne* exceptionnelle complète l'arsenal. Elle voit dans l'obscurité comme en plein jour, distingue les silhouettes humaines à grande distance, identifie ses proies par leur démarche avant même de les approcher.
+
+Certaines variantes lui prêtent enfin la capacité de *changer de couleur d'yeux* selon l'approche — l'œil fixe que voient les voyageurs piégés est, dit-on, d'une autre teinte que l'œil ordinaire de la créature à distance.
+
+## FAIBLESSES
+
+Le *feu* la repousse. Aucun récit ne montre une Krokottas franchissant un cercle de braises actives. Les caravaniers savaient depuis l'Antiquité que le feu de campement entretenu jusqu'à l'aube constituait la première protection contre la créature trompeuse.
+
+Le *silence collectif* est sa seconde faiblesse. Lorsque les voyageurs se sont accordés à l'avance sur des signaux convenus — un mot rare, un sifflement codé — l'imitation vocale échoue. La Krokottas connaît les voix qu'elle a entendues durant la journée, mais elle ne peut deviner les codes établis hors de sa portée.
+
+Le *fer*, et plus particulièrement les pointes de lance et les flèches à pointe métallique, peut la blesser. La créature n'est pas invulnérable comme une divinité ; sa supériorité tient à la ruse et à la puissance, non à une carapace surnaturelle. Un coup bien porté dans la gorge ou entre les côtes la met à mort.
+
+Enfin, certaines traditions affirment qu'elle ne peut imiter qu'*une seule voix à la fois*. Confrontée à un groupe qui l'appelle simultanément depuis plusieurs directions, elle hésite, se trouble, abandonne le piège.
+
+## COMPORTEMENT
+
+La Krokottas est un *chasseur trompeur* avant d'être un prédateur de force. Son mode opératoire dominant n'est pas l'attaque frontale mais le *piège vocal*. Elle observe les caravanes durant la journée à distance prudente, mémorise les voix, identifie les proies isolables — un berger qui s'éloigne, un voyageur malade qui dort à l'écart, un enfant que ses parents ont laissé seul.
+
+Sa stratégie suit un schéma récurrent dans les récits : observation patiente, sélection d'une cible, attente de la nuit ou du crépuscule, déploiement de l'imitation vocale, embuscade au point où la victime, attirée hors du groupe, devient atteignable.
+
+Elle ne chasse jamais en bande nombreuse. Les récits la montrent solitaire ou tout au plus en couple. Cette solitude renforce son caractère sinistre : la Krokottas est une présence isolée, persistante, qui revient hanter les mêmes pistes pendant des années.
+
+Hors des phases de chasse, son comportement reste mystérieux. Les traditions mentionnent qu'elle peut se montrer indifférente aux hommes qu'elle ne juge pas vulnérables, les laissant passer sans intervenir. Ce n'est pas une bête de fureur mais une bête de calcul — sa violence est sélective, méthodique, presque économe.
+
+## RÉCITS TRADITIONNELS
+
+Les traditions des peuples de la Corne ont conservé plusieurs récits typiques concernant la Krokottas, transmis oralement et partiellement consignés par les ethnographes méditerranéens antiques.
+
+Un premier schéma récurrent met en scène un *caravanier qui entend son nom* dans la nuit, prononcé par une voix qu'il identifie comme celle de son frère, parti depuis longtemps en commerce vers le Nil. L'homme sort du cercle des bêtes attachées et du feu de garde, croit reconnaître la silhouette qui l'attend à la lisière du campement. Il s'approche. La voix s'éloigne, l'attire plus loin. Lorsqu'il atteint l'ombre où l'appel semblait venir, la Krokottas surgit. Au matin, ses compagnons ne retrouvent que des fragments d'os et de cuir.
+
+Un second schéma met en scène un *enfant attiré par la voix de sa mère*. L'enfant gardait les chèvres au crépuscule, à l'écart du village. Une voix maternelle l'appelle pour le repas du soir. L'enfant suit la voix, qui le mène loin du sentier. Le berger plus âgé qui surveillait depuis le surplomb voit la silhouette tachetée de la créature s'élancer. Dans certaines versions, le berger réussit à projeter une pierre brûlante du foyer qu'il portait dans une corne ; la Krokottas s'enfuit ; l'enfant est sauvé et raconte le piège vocal au village qui désormais se méfie.
+
+Un troisième récit, plus rare, met en scène un *moine ascète* des hauts plateaux éthiopiens qui vit seul dans une grotte. La Krokottas l'a repéré et l'appelle chaque nuit avec la voix de sa mère défunte. Le moine, instruit dans les écritures et averti par les anciens, ne sort jamais. Il chante des psaumes pour couvrir l'appel. Au bout de quarante nuits, la Krokottas abandonne et disparaît. Ce récit, intégré au folklore monastique, illustre la fonction protectrice de la prière contre les ruses des bêtes spirituelles.
+
+Un quatrième schéma concerne les *récits de chasse* où un groupe coordonné d'hommes parvient à abattre une Krokottas. Ces récits insistent toujours sur la nécessité du nombre, du silence, et de l'usage simultané de plusieurs lances — la créature étant suffisamment puissante pour qu'aucun chasseur seul ne puisse en venir à bout.
+
+## VARIANTES RÉGIONALES
+
+Le corpus folklorique distingue clairement deux figures qu'il importe de ne pas confondre.
+
+La *Krokottas* axoumite et est-africaine, telle qu'elle est décrite ici, est une hyène-loup-chien hybride, chasseur trompeur par imitation vocale, attestée dans la tradition orale de la Corne et transmise par les ethnographes méditerranéens antiques. Elle reste relativement plausible — exagération folklorique d'animaux réels (hyène tachetée, loup d'Abyssinie) augmentés d'un pouvoir vocal surnaturel.
+
+Le *Leucrocotta* (parfois *Leucrocuta*) des bestiaires médiévaux européens postérieurs est une créature distincte. Issue d'une dérivation tardive et d'un brouillage de sources, elle apparaît dans les manuscrits enluminés latins et vernaculaires du Moyen Âge sous une forme nettement plus chimérique : corps d'âne, poitrine de lion, sabots fendus, gueule fendue jusqu'aux oreilles, dents osseuses unifiées. Le Leucrocotta médiéval procède de la Krokottas axoumite par accumulation de traits étrangers, transmissions textuelles dégradées et fascination occidentale pour le monstrueux exotique. Il ne représente plus la créature folklorique de la Corne mais une recomposition européenne savante.
+
+Cette distinction est essentielle. La Krokottas appartient au fonds folklorique authentique des peuples de la Corne ; le Leucrocotta appartient à l'imaginaire médiéval européen et à ses bestiaires ornementaux.
+
+D'autres variantes régionales existent à l'intérieur même de l'aire africaine. Dans les traditions amhariques modernes, des hyènes anthropophages aux pouvoirs vocaux occupent une place voisine, parfois confondues, parfois distinguées. Dans les traditions somaliennes et oromo, plusieurs créatures hyéniformes remplissent une fonction analogue — chasseurs trompeurs des pistes nocturnes — sans porter le nom de Krokottas mais en partageant la silhouette folklorique fondamentale.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La culture populaire contemporaine — jeux de rôle, jeux vidéo, romans de fantasy, séries fantastiques — a parfois repris le nom de *Crocotta* ou *Crocuta* en l'attachant à des créatures qui s'éloignent considérablement du folklore originel.
+
+L'usage moderne fréquent de *Crocuta* comme nom scientifique de la hyène tachetée (espèce *Crocuta crocuta*) est une *dérivation savante* postérieure : les naturalistes modernes ont emprunté le terme antique pour désigner l'animal réel qu'ils supposaient avoir inspiré la créature folklorique. Cet usage taxonomique n'efface pas la créature folklorique mais la double : il existe désormais un *Crocuta* zoologique et une *Krokottas* folklorique, et la confusion entre les deux trahit la spécificité de la seconde.
+
+L'imaginaire contemporain prête souvent à la créature des traits qui n'appartiennent pas à la tradition. Citons sans détour :
+
+- L'idée d'une créature *exclusivement maléfique* ou *démoniaque*. Le folklore originel ne l'inscrit pas dans une cosmologie morale dualiste. La Krokottas est dangereuse, pas démoniaque ; elle chasse l'homme parce qu'elle se nourrit, comme la hyène chasse l'antilope.
+
+- L'idée d'une créature *invulnérable* aux armes ordinaires. Les récits authentiques admettent qu'un coup de lance bien placé la tue. Sa supériorité tient à la ruse, non à une armure surnaturelle.
+
+- L'extension du pouvoir d'imitation à des *capacités linguistiques complètes* — la Krokottas qui converse, négocie, ment dans la durée. La tradition lui prête seulement la capacité d'*appeler* avec une voix volée. Au-delà de ces appels brefs, l'imitation s'effondre.
+
+- L'amalgame avec le *Leucrocotta* médiéval, dont la silhouette chimérique de cheval à tête de lion ne correspond en rien à la créature folklorique originelle.
+
+- L'attribution de pouvoirs *psychiques* ou *télépathiques* qui n'apparaissent dans aucun récit traditionnel. La Krokottas n'entre pas dans l'esprit de ses victimes ; elle imite seulement leurs proches.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Le patrimoine matériel relatif à la Krokottas est dispersé entre la Corne d'Afrique et l'Europe médiévale, avec des modes de représentation très différents.
+
+Du côté axoumite et est-africain, plusieurs *sceaux et amulettes* en stéatite ou en métal portent des silhouettes hyéniformes stylisées, parfois associées à des inscriptions gé'ez de protection. Ces objets, retrouvés dans les contextes funéraires et domestiques de la zone éthiopienne ancienne, témoignent d'un *imaginaire défensif* lié aux prédateurs nocturnes et plus particulièrement à leurs formes monstrueuses.
+
+Les *stèles axoumites* monumentales ne représentent pas explicitement la créature, mais leurs faces secondaires portent parfois des frises d'animaux où une silhouette tachetée à dos voûté apparaît, identifiable à la hyène et possiblement à sa variante folklorique.
+
+Les manuscrits gé'ez médiévaux et post-médiévaux, principalement religieux, comportent dans leurs marges et dans certains traités hagiographiques des miniatures de bêtes sauvages tentatrices. La hyène monstrueuse y apparaît comme figure de la *tentation des ascètes*, prolongement chrétien de la créature folklorique antérieure.
+
+Du côté européen, les *bestiaires médiévaux latins et vernaculaires* contiennent de nombreuses miniatures de la *Crocotta* et du *Leucrocotta*. Les premières représentent généralement une créature à mi-chemin entre le chien et le loup, parfois tachetée, ouvrant une gueule armée d'une lame osseuse continue. Les secondes représentent la chimère médiévale dérivée — créature à corps d'âne, tête de lion, pieds fendus. Ces représentations européennes constituent une *réception lointaine* du folklore est-africain originel, déformée par la chaîne des transmissions.
+
+## POUR ALLER PLUS LOIN
+
+La Krokottas est l'une des rares figures folkloriques de la Corne d'Afrique à avoir été transmise au monde méditerranéen antique avec suffisamment de détail pour que sa silhouette nous soit parvenue. Sa documentation repose sur trois strates : la tradition orale est-africaine (toujours vivante sous des noms vernaculaires divers), les compilations ethnographiques antiques (qui en ont fixé le nom et les traits principaux), et les bestiaires médiévaux européens (qui en ont conservé une variante dégradée et chimérique sous le nom de Leucrocotta).
+
+L'étude de la créature relève à la fois de l'éthnologie est-africaine, de l'histoire des transmissions interculturelles entre la Corne et le bassin méditerranéen antique, et de l'histoire des bestiaires médiévaux occidentaux. Elle illustre comment une figure folklorique authentique peut survivre à travers des canaux scripturaires étrangers tout en se transformant — la Krokottas axoumite restant fidèle à elle-même dans la tradition orale d'origine, tandis que le Leucrocotta latin s'éloigne progressivement vers la pure chimère.
+
+Les hyènes anthropophages des traditions amhariques, oromo, somaliennes et tigrayéennes contemporaines prolongent à leur manière la figure originelle, témoignant de la persistance du fonds folklorique au-delà des fixations textuelles.

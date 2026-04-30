@@ -1,0 +1,191 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Sayona
+  Tradition : Amerindien Centre Sud
+═══════════════════════════════════════════════
+
+
+# LA SAYONA
+
+## SIGNIFICATION DU NOM
+
+Le mot *sayona* dérive du substantif espagnol *saya*, qui désigne une jupe longue ou une robe ample portée jadis par les femmes des campagnes vénézuéliennes. Le suffixe augmentatif *-ona* en fait *celle qui porte la grande saya*, *la femme à la longue robe*. Ce nom descriptif reflète l'apparition primordiale du spectre : avant que son visage ne se révèle, c'est la silhouette d'une femme en robe blanche ou écrue, vue de dos sur un chemin de campagne, qui annonce sa présence.
+
+Certains conteurs llaneros associent secondairement le terme à *sayón*, mot espagnol ancien désignant un bourreau ou un homme en cape funèbre, suggérant la fonction punitive de la créature. La forme féminine *sayona* prendrait alors valeur de *bourrelle nocturne*, *exécutrice itinérante des fautes conjugales*. Cette double étymologie populaire — vêtement et fonction — converge dans une même image : une femme drapée qui marche dans la nuit avec un dessein de châtiment.
+
+## ORIGINE
+
+La légende fondatrice, transmise de génération en génération dans les Llanos vénézuéliens, raconte l'histoire d'une jeune femme d'une grande beauté, vivant dans une *hacienda* éloignée avec son mari et leur enfant nouveau-né. Mariée jeune, fidèle, dévouée, elle ignorait que son époux entretenait une liaison adultère — selon la version la plus répandue, avec sa propre mère.
+
+Une nuit, troublée par des paroles malveillantes ou par un songe envoyé par un esprit jaloux, la jeune femme se rendit auprès de la rivière où baignait son époux. Le voyant accompagné, elle perdit la raison. Selon les variantes du récit, elle rentra à la maison et incendia la demeure avec son enfant à l'intérieur, ou tua sa mère à coups de machette, ou les deux. Avant de mourir à son tour — par les flammes, par sa propre main, ou de la main des villageois — elle prononça une malédiction : tant qu'il y aurait des hommes infidèles, elle reviendrait les châtier sur les chemins de la nuit.
+
+Cette imprécation prononcée à l'instant de la mort viola l'ordre du repos des âmes. La Sayona n'entra ni au royaume des bienheureux ni à celui des damnés ordinaires : elle demeura sur les routes de campagne, condamnée à errer jusqu'à la fin des temps en quête des hommes qui répètent la faute originelle.
+
+## NATURE
+
+La Sayona est un *spectre conditionnel*. Contrairement aux fantômes qui hantent un lieu en raison d'un attachement passé, elle hante un *type d'homme* — l'infidèle, le coureur, l'époux qui revient tard d'un rendez-vous illicite. Sa présence sur les chemins n'est pas géographique mais morale : elle apparaît là où une faute conjugale vient d'être commise ou s'apprête à l'être.
+
+Elle est par ailleurs *liminaire*. Sa nature ne relève ni du démon proprement dit ni de l'âme purgative ordinaire. Les théologiens populaires des Llanos la classent parmi les *almas en pena*, ces âmes punies à errer pour expier une faute, mais avec une fonction supplémentaire : non seulement elle expie, mais elle exécute. Elle est punie *en punissant*.
+
+Sa nature est enfin *duelle*. Elle est belle et squelettique, séductrice et terrifiante, vivante d'apparence et morte par essence. Cette dualité ne se résout jamais en une synthèse : elle alterne, vue de dos puis vue de face, jusqu'à ce que la victime comprenne ce qu'elle a devant elle.
+
+## HABITAT
+
+La Sayona hante les *caminos reales* et les sentiers ruraux des Llanos vénézuéliens — ces vastes plaines herbeuses qui s'étendent du piémont andin jusqu'à l'Orénoque. Elle apparaît surtout aux abords des villages isolés, sur les pistes qui relient les *haciendas* aux bourgs marchands, et le long des rivières où les hommes vont laver leurs chevaux à la tombée du jour.
+
+Les *vere d'eau* — ces points d'eau que les troupeaux fréquentent — figurent parmi ses lieux de prédilection. C'est là qu'elle se montrerait à se laver les cheveux ou à rincer une étoffe blanche, donnant l'apparence d'une femme du voisinage venue à ses tâches du soir. Les *palmares*, ces bouquets de palmiers *moriche* qui ponctuent la plaine, et les ponts de bois enjambant les ruisseaux sont d'autres endroits où la rencontre est rapportée.
+
+Elle marche à l'heure des chiens errants, entre le crépuscule et minuit, parfois jusqu'aux premières heures du matin. La pleine lune favorise ses apparitions, mais elle se manifeste également par les nuits d'orage où le bruit du tonnerre couvre ses pas.
+
+## DESCRIPTION
+
+Vue de dos, La Sayona est une jeune femme d'une beauté remarquable. Ses cheveux noirs et longs descendent jusqu'à la ceinture. Sa robe blanche, d'une coupe ancienne — corsage ajusté, jupe ample tombant jusqu'aux chevilles — flotte légèrement à la marche. Sa silhouette est élancée, sa démarche gracieuse. L'homme qui la suit du regard ou qui la rattrape ne voit d'abord qu'une promeneuse solitaire dont il s'étonne, puis qu'il convoite.
+
+Lorsqu'elle se retourne, le contraste est foudroyant. Le visage qu'elle révèle n'est plus humain : selon les versions, il s'agit d'un *crâne décharné* aux orbites vides, d'un *visage squelettique* à la peau parcheminée tendue sur l'os, ou d'un *masque pourrissant* où dansent encore quelques restes de chair. Ses dents, longues et jaunies, dépassent de lèvres absentes. Ses yeux, lorsqu'elle en a, brûlent d'un éclat rouge ou phosphorescent. Sa langue, dans certaines variantes, est démesurée et noire.
+
+Le contraste vestimentaire renforce l'horreur : la robe reste blanche et propre, presque lumineuse, quand le visage qu'elle encadre est celui de la mort. Ses mains, parfois cachées dans les plis de la jupe, sont des mains osseuses aux ongles allongés, capables de griffer.
+
+## POUVOIRS
+
+L'*illusion de beauté* constitue son arme première. Tant que la victime n'a pas vu son visage, La Sayona se présente comme une femme désirable au point que l'homme infidèle, pourtant prévenu par les récits, oublie ce qu'il sait et la suit.
+
+La *poursuite inlassable* est son attribut le plus redouté dans les Llanos. Quand l'homme prend la fuite après avoir vu son visage, La Sayona court derrière lui sur des kilomètres, à pied parmi les hautes herbes, sans jamais ralentir, sans s'essouffler. Les cavaliers les plus rapides racontent l'avoir vue les suivre au galop d'un cheval lancé à fond, ou apparaître devant eux à un croisement qu'ils croyaient avoir laissé loin derrière.
+
+La *malédiction conjugale* prolonge la rencontre au-delà de la nuit. Les hommes qui ont vu La Sayona et lui ont échappé portent ensuite, selon la croyance, une marque invisible : leurs liaisons illicites tournent à l'aigre, leurs maîtresses meurent ou les trahissent, leurs épouses tombent malades. Le châtiment continue jusqu'au repentir public.
+
+Le *cri terrifiant* qu'elle pousse parfois — long hurlement aigu confondu d'abord avec celui d'un grand chat des plaines ou d'un *araguato* hurleur — paralyse celui qui l'entend et le retient sur place le temps qu'elle l'atteigne.
+
+## FAIBLESSES
+
+Trois protections traditionnelles sont reconnues dans les campagnes vénézuéliennes.
+
+La *prière* prononcée à voix haute, en particulier l'invocation à la Vierge ou la prière du *Padre Nuestro*, fait reculer La Sayona. La voix de la dévotion couvre la séduction du spectre et brise l'illusion de beauté. Les vieilles femmes des Llanos enseignent aux jeunes hommes de partir en voyage nocturne avec une prière sur les lèvres.
+
+Le *signe de croix*, tracé en direction du spectre ou sur soi-même, a pour effet de l'arrêter momentanément. Certains récits ajoutent qu'un crucifix porté contre la peau, sous la chemise, empêche La Sayona de poser la main sur celui qui le porte.
+
+La *fidélité conjugale* constitue la prophylaxie la plus radicale. Les hommes qui n'ont jamais trompé leur femme ne sont pas vus par La Sayona : elle passe à côté d'eux sans les remarquer. Cette croyance fait de la rencontre elle-même un aveu — celui qui croise La Sayona sait, et le village sait après lui, qu'il a quelque chose à se reprocher.
+
+D'autres protections secondaires sont attestées : un brin de *romarin* glissé dans la poche, une pincée de sel jeté derrière soi à un croisement, le port d'un scapulaire bénit. L'aube, enfin, met fin à toute apparition : aux premiers chants du coq, La Sayona disparaît jusqu'à la nuit suivante.
+
+## COMPORTEMENT
+
+La Sayona ne se précipite jamais. Elle apparaît à distance, marchant lentement devant l'homme ou paraissant assise au bord du chemin, puis elle se laisse rattraper. Sa première parole, quand elle parle, est douce — elle demande de l'aide, ou s'enquiert d'un proche, ou prie qu'on l'accompagne jusqu'à la prochaine maison. Elle joue avec exactitude le rôle d'une jeune femme en détresse que la galanterie commande de secourir.
+
+Une fois le contact établi, elle marche aux côtés de sa victime ou la précède, le visage toujours détourné. Plus la conversation avance, plus l'homme s'enhardit. C'est l'instant qu'elle attend pour se retourner. La révélation est calculée : ni trop tôt, ni trop tard, mais à la seconde où l'infidèle a déjà mentalement franchi le seuil de la trahison.
+
+Si la victime fuit, La Sayona poursuit. Si la victime tombe à genoux et prie, elle s'éloigne. Si la victime ne fait rien — paralysée par l'horreur — elle se contente de la regarder longuement, fixe, jusqu'à ce que la nuit s'achève. Au matin, on retrouve l'homme inconscient sur le chemin, parfois muet à jamais, parfois marqué de griffures parallèles sur la joue ou sur la poitrine.
+
+## RÉCITS TRADITIONNELS
+
+Le récit le plus diffusé dans les Llanos est celui du *jeune llanero qui rentrait d'une fête*. Un cavalier, après une nuit passée auprès d'une autre femme que la sienne, prend le chemin du retour à l'aube ténébreuse. Il aperçoit devant lui, marchant seule, une silhouette de femme en blanc. Il presse le pas de son cheval, l'appelle, propose de la mener jusqu'au village. Elle se laisse rejoindre. Quand il lui tend la main pour la hisser en croupe, elle lève la tête — et son crâne nu sourit au cavalier. Le cheval s'emballe. L'homme parcourt cinq lieues sans oser regarder en arrière, mais entend pendant tout le trajet le pas léger qui le suit. À l'entrée du village, La Sayona disparaît au premier coq. Le cavalier, retrouvé évanoui, ne parle plus pendant trois jours et confesse au quatrième sa faute.
+
+Un second récit, attesté à Apure, raconte la mésaventure d'un *propriétaire d'hacienda* infidèle. Croisant La Sayona au bord d'un *vere*, il refuse de croire à la légende et tente de la séduire. Le spectre se laisse approcher, l'embrasse — et la peau du visage tombe sous les lèvres de l'homme. Le propriétaire perd la raison sur place. Les esclaves le retrouvent à l'aube, agenouillé dans la boue, parlant à une femme invisible.
+
+Une troisième tradition rapporte l'épisode de *la mère qui voit La Sayona à la place d'une autre*. Une femme jalouse, soupçonnant son mari, prie longuement la Vierge pour qu'une preuve lui soit donnée. La nuit suivante, sur le chemin du retour, son mari rencontre La Sayona, échappe de peu, et avoue tout au village dès le lendemain. La Sayona, dans cette variante, est invoquée non plus comme menace mais comme révélation — l'instrument d'une vérité que la nuit dévoile.
+
+## VARIANTES RÉGIONALES
+
+Dans les *Llanos centraux* (Guárico, Cojedes), La Sayona est avant tout une silhouette des chemins entre haciendas. Sa robe est blanche, ses cheveux longs, son visage celui d'un crâne sec. Le récit fondateur — incendie de la maison maternelle, malédiction prononcée — y est le plus complet.
+
+Dans l'*Apure et le Barinas*, le long de l'Apure et de ses affluents, elle hante davantage les *vere* et les rives. Son apparition s'accompagne parfois d'un parfum de fleurs blanches — *jasmin* ou *azucena* — qui précède la silhouette et alerte les vieux cavaliers expérimentés. Sa course est ici plus longue et plus terrifiante : on la dit capable de suivre un cheval pendant une nuit entière sans faiblir.
+
+À la *frontière colombienne*, dans les Llanos d'Arauca et de Casanare, La Sayona se mêle à des figures voisines mais distinctes — notamment La Patasola et La Madremonte. Certains récits frontaliers la fusionnent avec La Sayonera, variante locale au nom légèrement modifié. Elle conserve son visage de crâne et son rôle de châtieuse des infidèles, mais peut prendre dans ces récits l'aspect d'une cavalière sans tête plutôt que d'une marcheuse.
+
+Dans les *Andes vénézuéliennes* (Mérida, Trujillo, Táchira), où le terrain montagneux remplace la plaine, La Sayona apparaît sur les sentiers de moyenne altitude et près des moulins abandonnés. Sa silhouette devient plus austère, sa robe parfois noire plutôt que blanche, son rôle plus eschatologique : on dit qu'elle annonce la mort prochaine de l'infidèle et non plus seulement son châtiment.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+La Sayona est régulièrement confondue, dans les présentations modernes du folklore latino-américain, avec d'autres spectres féminins du continent. Ces confusions trahissent la spécificité vénézuélienne du personnage et doivent être levées.
+
+La Sayona n'est *pas* La Llorona mexicaine. La Llorona pleure ses enfants noyés, qu'elle a tués elle-même par désespoir conjugal, et appelle dans la nuit *« Ay, mis hijos »*. Sa fonction est celle d'une mère endeuillée qui hante les rivières en quête des âmes d'enfants. La Sayona, à l'inverse, n'a pas perdu son enfant par accident ni par désespoir : elle l'a sciemment supprimé en même temps que la maison, et son objet n'est pas l'enfant disparu mais le mari coupable. Elle ne pleure pas, elle traque.
+
+La Sayona n'est *pas* La Diablesse caribéenne. La Diablesse, attestée à Trinidad, en Martinique et dans les autres Antilles, est une démone aux pieds difformes — un pied de vache et un pied humain — dissimulés sous une robe longue. Elle séduit les hommes pour les conduire à un précipice où ils se brisent. La Sayona n'a pas de pied de bête, ne conduit pas vers un précipice, et son apparence dissimulée n'est pas un pied animal mais un visage de mort. La Diablesse procède par chute physique, La Sayona par épouvante morale.
+
+La Sayona n'est *pas* La Patasola colombienne. La Patasola est une femme à une seule jambe, vivant dans la forêt, qui dévore les bûcherons et les chasseurs égarés. Elle relève des esprits sylvestres anthropophages et non des spectres conjugaux. La Sayona possède ses deux jambes, hante les chemins ouverts plutôt que la jungle, et ne mange pas ses victimes — elle les épouvante, les marque, les ramène à leur faute.
+
+L'*industrie cinématographique* et les *jeux d'horreur* contemporains ont parfois dépeint La Sayona comme une créature sanglante, dévoreuse, ou démone à part entière. Aucune de ces représentations ne correspond à la tradition orale vénézuélienne, qui préserve son ambiguïté de spectre vengeur conditionnel — terrifiant mais théologiquement situé entre l'âme en peine et l'instrument de justice populaire.
+
+## ICONOGRAPHIE HISTORIQUE
+
+La Sayona a fait l'objet, dès le XIXe siècle, de nombreuses représentations dans l'art populaire vénézuélien. Les *estampes llaneras* — gravures bon marché diffusées par les colporteurs — la montraient typiquement de profil, robe blanche, cheveux flottants, dans le geste de se retourner. Le visage à demi-révélé combinait la chair et l'os dans un même tracé, suggérant la transition sans la trancher.
+
+Les *retablos* coloniaux et postcoloniaux, ces petits panneaux peints accrochés en ex-voto dans les chapelles rurales, conservent quelques scènes où un cavalier en prière reçoit la grâce d'échapper à un spectre féminin sur un chemin de Llanos. L'identification à La Sayona y est explicite ou implicite selon les pièces.
+
+L'*art populaire vénézuélien du XXe siècle*, notamment dans la peinture naïve de Petare et dans la sculpture en bois polychrome de l'État de Lara, a multiplié les représentations de La Sayona. Les artisans la sculptent généralement à mi-corps, le visage dédoublé : un côté beauté, un côté crâne, le partage vertical exprimant son ambivalence ontologique.
+
+Les *bandes dessinées populaires* vénézuéliennes des années 1950-1970, ainsi que les feuilletons radiophoniques diffusés dans les Llanos à la même époque, ont fixé une iconographie standardisée — robe blanche, cheveux noirs, crâne révélé sous la lune — qui demeure aujourd'hui la référence visuelle dominante.
+
+## POUR ALLER PLUS LOIN
+
+La Sayona appartient au cœur du *folklore llanero*, ensemble de traditions orales partagées entre le Venezuela et la frange orientale de la Colombie, transmis principalement par les *coplas* et les chants accompagnés de la harpe et du *cuatro*. Plusieurs ballades populaires lui sont consacrées et restent chantées dans les fêtes de Saint-Jean ou de la Vierge de la Chinita.
+
+Elle figure parmi les *Cinco Espantos* — les Cinq Épouvantes — souvent énumérés ensemble dans les récits llaneros aux côtés d'El Silbón, La Llorona vénézuélienne (proche mais distincte de l'homonyme mexicaine), El Familiar et La Bola de Fuego. Cet ensemble forme la mythologie nocturne de la plaine, transmise oralement aux veillées et lors des longues chevauchées entre haciendas.
+
+La figure a fait l'objet de nombreuses transcriptions dans la littérature folklorique vénézuélienne du XXe siècle, et reste un sujet vivant dans les écoles rurales où les enfants l'apprennent comme partie du patrimoine immatériel national.

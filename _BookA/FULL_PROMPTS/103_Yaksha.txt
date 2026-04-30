@@ -1,0 +1,127 @@
+
+You are creating a two-page spread for a premium illustrated bestiary book in French ("Bestiaire Mondial — Atlas encyclopédique des créatures mythologiques de l'humanité"). The visual style is consistent across all 407 entries.
+
+**OUTPUT FORMAT — TWO PAGES SIDE BY SIDE (double-page spread)**
+
+Render exactly two facing pages, both visible in the same image. Identical aged parchment background, ornamental borders with corner motifs, vintage manuscript aesthetic, sepia tones, ink-line illustrations.
+
+═══════════════════════════════════════════════
+PAGE 1 (left page) — IDENTITY & PORTRAIT
+═══════════════════════════════════════════════
+
+Top-right corner: "Page 1/2" in small elegant text.
+
+Top-left zone:
+- The creature name in massive gothic blackletter font (German fraktur style), dark navy or deep red ink
+- Just below in smaller italic with red ink: the invented Latin name (e.g. "Nereis Cantatris", "Draco Magnus Ignis", "Homo Lupus Ferox")
+- Small horizontal ornamental flourish
+
+Below the name, a column of body text (4-6 lines):
+- Brief introductory paragraph describing the creature's essence — what it represents, its symbolism, its place in human imagination
+
+Below intro, three small framed boxes stacked vertically with decorative borders:
+- TYPE (with small symbolic icon) — 1-2 line description (e.g., "Aquatique / Surnaturelle", "Draconique / Quadrupède ailé", "Métamorphe / Maudit")
+- HABITAT (with small icon, often a mountain or tree) — 2-3 lines describing where the creature dwells
+- CAPACITÉ CLÉ (with small icon related to its main power) — 2-3 lines describing its signature power
+
+Right side of page 1: a large detailed full-color illustration of the creature in its natural habitat, painted in the style of vintage natural history plates with watercolor and ink — the creature should be the visual centerpiece, dramatically posed, atmospheric background.
+
+Bottom-left: a framed box titled "CARACTÉRISTIQUES PRINCIPALES" with 4 short bullet points listing the creature's distinctive traits.
+
+Bottom-center: an italic ornamented quotation, French, 2-3 lines, evocative or mystical, related to the creature.
+
+Bottom-right corner: a small wax-seal-style emblem or roundel related to the creature.
+
+Bottom border: ornamental flourish or runic-decorative band.
+
+═══════════════════════════════════════════════
+PAGE 2 (right page) — ANATOMY & LORE
+═══════════════════════════════════════════════
+
+Top-center: the creature name again in smaller gothic blackletter, with the Latin name below in red italic, between two small ornamental flourishes.
+
+Top-right corner: "Page 2/2".
+
+Top half: "ANATOMIE SQUELETTIQUE" — a detailed black-and-white scientific anatomical skeleton drawing of the creature, vintage natural-history-plate style, with elegant thin arrows pointing to specific bones/anatomical zones, each labeled in French in small handwritten-style font (e.g., "Crâne", "Cage thoracique", "Colonne vertébrale", "Membres", "Queue") with 1-2 line annotations explaining each feature.
+
+Top-right small box: "DIMENSIONS MOYENNES" — silhouette comparison showing the creature next to a small human figure for scale, with text giving the average dimensions (height/length/wingspan/weight) in metric.
+
+Middle: three side-by-side framed boxes, each with a small thematic illustration above the text:
+- RÉGIME ALIMENTAIRE (carnivore/omnivore/etc., what it eats, with a small mini-illustration of prey or food)
+- COMPORTEMENT (solitary/territorial/social, attitudes toward humans, with a small mini-illustration showing typical behavior)
+- FAIBLESSES (vulnerabilities, things that harm or repel it, with a small mini-illustration of weapon/protection/element)
+
+Bottom: a wide horizontal panel titled "NOTES DES ANCIENS" with a small ornamental compass rose icon — 3-5 lines summarizing the most ancient traditions, the cultural geography of the creature's belief, and the deepest mythological roots. To the right of this panel, a small atmospheric ink-wash landscape illustration suggesting the creature's world (a ship at sea, a haunted village, a misty mountain, etc., depending on the creature).
+
+═══════════════════════════════════════════════
+GLOBAL CONSTRAINTS
+═══════════════════════════════════════════════
+
+- LANGUAGE: All text in **French**, except the Latin invented name on page 1.
+- TYPOGRAPHY: Title in gothic blackletter (Cloister Black / Fraktur). Body in elegant serif (looks like Garamond or similar). Section headers in small caps with serif. Annotations in handwritten-style italic. Quotes in elegant italic.
+- COLORS: Aged parchment beige/cream background. Black ink for text and illustrations. Touches of dark red and dark navy for titles, Latin names, and small accents. Sepia and ochre wash for the main color illustration. Pure black ink for the skeleton.
+- BORDERS: Both pages have decorative thin ornamental borders with corner flourishes (compass roses, runic motifs, fleur-de-lys, knotwork, depending on the creature's tradition).
+- AESTHETIC: Vintage 17th-19th century naturalist manuscript meets medieval bestiary meets pirate-era atlas. NO modern fonts. NO 3D rendering. NO photorealism. Hand-drawn ink and watercolor feel.
+- NO modern logos, no QR codes, no modern symbols, no readable random Latin (only the invented Latin name should be readable Latin).
+
+Now generate the spread for the following creature:
+
+═══════════════════════════════════════════════
+  CRÉATURE : Yaksha
+  Tradition : Indien
+═══════════════════════════════════════════════
+
+
+# YAKSHA
+
+## SIGNIFICATION DU NOM
+
+*Yaksha* (यक्ष) est un terme sanskrit d'étymologie incertaine — des propositions incluent une dérivation de *yaj* (honorer, sacrifier) ou de *yaksha* comme terme emprunté à des traditions pré-indo-européennes. Au féminin, *Yakshi* ou *Yakshini* désigne la version féminine. Dans les textes védiques anciens, le terme apparaît dans un contexte mystérieux (*Yaksha* dans les Upanishads est une désignation d'un être divin non identifié). Dans les traditions épiques et puranique, *Yaksha* désigne une classe d'êtres surnaturels associés aux forêts, aux eaux, et aux trésors.
+
+## ORIGINE
+
+Les Yaksha sont documentés depuis les textes védiques anciens — le Rigveda mentionne des êtres comparables. Dans les Upanishads, le terme *Yaksha* apparaît dans une parabole mystérieuse où un Yaksha mystérieux (souvent interprété comme Brahman ou l'Atman) teste les dieux. Dans les épopées (Mahabharata, Ramayana) et les Puranas, les Yaksha forment une classe bien définie d'êtres surnaturels. L'iconographie des Yaksha est attestée depuis le IIIe siècle AEC — des sculptures de Yaksha et Yakshi de la période maurya et shunga sont parmi les plus anciennes sculptures indiennes.
+
+## NATURE
+
+Les Yaksha sont des êtres ambivalents — ni entièrement divins ni entièrement démoniaques. Leur nature est celle de gardiens de trésors et de ressources naturelles — ils protègent les métaux précieux dans les montagnes, les forêts, et les lieux d'eau. Kubera, le dieu de la richesse dans la cosmologie hindoue et bouddhiste, est le roi des Yaksha. Ils peuvent être bienveillants envers ceux qui les respectent et malveillants envers ceux qui violent leurs territoires ou leurs trésors. Dans le bouddhisme, certains Yaksha sont des gardiens du Dharma.
+
+## HABITAT
+
+Les Yaksha habitent des forêts denses, des montagnes riches en minerais, des cours d'eau, et des endroits où des trésors naturels sont cachés. Ils habitent aussi des carrefours et des portes — dans l'art indien, des figures de Yaksha gardent les entrées des temples et des stupa bouddhiques. Des arbres spécifiques — particulièrement des arbres anciens et grands comme les figuiers sacrés (*peepal*) — sont des résidences de Yaksha. La cité mythologique d'Alaka (dans l'Himalaya) est la capitale des Yaksha sous Kubera.
+
+## DESCRIPTION
+
+Les Yaksha sont représentés dans l'art indien avec une puissance physique évidente — des corps charnus, musclés, souvent exubérants. Les Yakshi (féminines) sont parmi les premières représentations féminines monumentales de l'art indien — des figures à la beauté généreuse, associées à la fertilité et aux arbres (certaines Yakshi sont représentées s'appuyant contre un arbre ou le touchant du pied pour le faire fleurir). Les Yaksha mâles sont souvent représentés comme des gardiens imposants aux entrées de temples. Dans des contextes plus anciens, ils peuvent avoir des traits féroces.
+
+## POUVOIRS
+
+Gardiannat de trésors — ils protègent les richesses minérales et forestières. Pouvoir de bénir ou de maudire — un Yaksha satisfait peut accorder richesse et prospérité, un Yaksha offensé peut causer maladie et ruine. Métamorphose — ils peuvent prendre des formes humaines ou animales. Dans le Mahabharata, le Yaksha du lac mythique pose des énigmes aux Pandavas — pouvoir de tester la sagesse humaine. Association avec la pluie et la fertilité végétale.
+
+## FAIBLESSES
+
+Le respect des tabous spécifiques à chaque Yaksha (ne pas abattre un arbre particulier, ne pas voler un métal dans une montagne gardée). Des offrandes rituelles — de la nourriture, des fleurs, des parfums — maintiennent une relation favorable. Dans des traditions bouddhiques, la pratique du Dharma peut convertir un Yaksha hostile en gardien bienveillant. Des formules rituelles brahmaniques peuvent contraindre des Yaksha.
+
+## COMPORTEMENT
+
+Les Yaksha dans les textes épiques et puranique se comportent avec une dignité de seigneurs de la nature — ils posent des conditions à leurs interactions avec les humains et réagissent aux violations de leurs domaines. Le Yaksha du lac dans le Mahabharata (*Yaksha Prashna* — les questions du Yaksha) est un épisode célèbre où le Yaksha tue les frères Pandava qui tentent de boire son eau sans répondre à ses questions, et ressuscite Yudhishthira quand celui-ci répond correctement. Ce comportement — tester la sagesse avant d'accorder des bénéfices — est caractéristique.
+
+## RÉCITS TRADITIONNELS
+
+L'épisode du *Yaksha Prashna* (Mahabharata, *Aranya Parva*) : les cinq frères Pandava arrivent à un lac dont les eaux leur sont interdites par un Yaksha. Quand les quatre premiers frères tentent de boire sans répondre aux questions du Yaksha, ils tombent morts. Yudhishthira, le frère aîné, accepte de répondre aux questions — une série de questions philosophiques et éthiques profondes sur le dharma, la vertu, et la nature de la réalité. Ses réponses satisfont le Yaksha qui se révèle être le dieu Yama (le dieu de la mort, père de Yudhishthira) et ressuscite ses frères. Kubera, le roi des Yaksha, est mentionné dans de nombreux textes hindous comme le seigneur des richesses.
+
+## VARIANTES RÉGIONALES
+
+Des esprits gardiens de trésors et de forêts existent dans de nombreuses traditions — des génies des forêts et des minéraux dans des traditions indo-européennes variées. Dans le bouddhisme du Sud-Est asiatique, des Yaksha (thaïlandais *Yak*, khmers *Yeak*) sont des figures monumentales gardant les temples — les figures géantes des temples bouddhistes thaïlandais et cambodgiens sont des Yaksha. Dans le jaïnisme, les Yaksha sont les gardiens des dieux (*tirthankaras*). Dans la tradition bouddhiste tibétaine, les *Gnod-sbyin* sont des adaptations tibétaines des Yaksha.
+
+## DISTINCTION AVEC L'IMAGINAIRE MODERNE
+
+Les sculptures de Yaksha et Yakshi sont parmi les plus importantes de l'art indien classique — des pièces conservées au Musée National de New Delhi, au Mathura Museum, et dans des collections internationales. Des publications d'histoire de l'art indien incluent des analyses extensives des Yaksha. Des artistes indiens contemporains représentent des Yaksha et Yakshi dans des styles mêlant tradition et modernité. Des jeux de rôle et des jeux vidéo avec des thèmes indiens incluent les Yaksha comme créatures ou personnages.
+
+## ICONOGRAPHIE HISTORIQUE
+
+Des sculptures de Yaksha de la période Maurya (IIIe siècle AEC — notamment la célèbre *Parkham Yaksha* et les Yaksha de Patna) sont parmi les premières grandes sculptures indiennes. Des reliefs de Bharhut et Sanchi (IIe-Ier siècle AEC) représentent des Yakshi s'appuyant contre des arbres en fleur — des images iconiques de l'art bouddhique indien. Des sculptures de Mathura (Ier-IVe siècle CE) représentent des Yaksha dans des contextes bouddhiques et brahmaniques. Des figures de Yaksha en bois et en pierre aux entrées de temples hindous et bouddhistes à travers l'Inde.
+
+## POUR ALLER PLUS LOIN
+
+Les Yaksha illustrent la position intermédiaire des êtres de la nature dans la cosmologie indienne — ni dieux ni démons mais quelque chose entre les deux, liés à des zones précises de l'environnement naturel. Cette catégorie de "gardiens de lieux" est présente dans presque toutes les cultures humaines — des leprechauns irlandais aux kami japonais en passant par les génies arabes. Dans la tradition indienne, les Yaksha sont particulièrement intéressants parce qu'ils ont survécu dans les trois grandes traditions religieuses de l'Inde — hindouisme, bouddhisme, et jaïnisme — avec des rôles adaptés dans chacune, montrant leur ancrage profond dans la culture populaire indienne préexistant à ces traditions.
